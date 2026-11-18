@@ -1,0 +1,2278 @@
+{
+  "part1": [
+    {
+      "id": "p1-01",
+      "title": "Study / work",
+      "questions": [
+        {
+          "id": "p1-01-1",
+          "question": "Do you work or study?",
+          "answer": "I'm currently preparing for IELTS and applying for overseas PhD programmes. My academic background is in soil science, so most of my recent work has involved research and academic writing.",
+          "question_source": "原文件仅给主题与回答；此问句为训练整理。"
+        },
+        {
+          "id": "p1-01-2",
+          "question": "What do you enjoy about research?",
+          "answer": "I enjoy research because I like breaking complicated problems into smaller questions and finding evidence step by step.",
+          "question_source": "原文件仅给主题与回答；此问句为训练整理。"
+        }
+      ]
+    },
+    {
+      "id": "p1-02",
+      "title": "Hometown",
+      "questions": [
+        {
+          "id": "p1-02-1",
+          "question": "Where is your hometown?",
+          "answer": "I'm from Chengdu, a large city in southwest China. I especially like its food culture and relatively relaxed lifestyle.",
+          "question_source": "原文件仅给主题与回答；此问句为训练整理。"
+        },
+        {
+          "id": "p1-02-2",
+          "question": "What do you miss about your hometown when you travel?",
+          "answer": "One thing I miss when I travel is the local Sichuan food.",
+          "question_source": "原文件仅给主题与回答；此问句为训练整理。"
+        }
+      ]
+    },
+    {
+      "id": "p1-03",
+      "title": "Accommodation",
+      "questions": [
+        {
+          "id": "p1-03-1",
+          "question": "What kind of accommodation do you prefer?",
+          "answer": "I currently prefer a quiet place with good natural light because I often need to study or prepare applications.",
+          "question_source": "原文件仅给主题与回答；此问句为训练整理。"
+        },
+        {
+          "id": "p1-03-2",
+          "question": "What is your favourite part of your room?",
+          "answer": "My favourite part of my room is my desk area because I can study, read and organize my work there.",
+          "question_source": "原文件仅给主题与回答；此问句为训练整理。"
+        }
+      ]
+    },
+    {
+      "id": "p1-04",
+      "title": "Area where you live",
+      "questions": [
+        {
+          "id": "p1-04-1",
+          "question": "What do you like about the area where you live?",
+          "answer": "I like the area because it has convenient public transport and many places to eat and shop. I also appreciate having quiet cafés nearby.",
+          "question_source": "原文件仅给主题与回答；此问句为训练整理。"
+        },
+        {
+          "id": "p1-04-2",
+          "question": "Has your local area changed?",
+          "answer": "The area has become more convenient in recent years, especially with better transport and more services.",
+          "question_source": "原文件仅给主题与回答；此问句为训练整理。"
+        }
+      ]
+    },
+    {
+      "id": "p1-05",
+      "title": "Talents",
+      "questions": [
+        {
+          "id": "p1-05-1",
+          "question": "Do you have a skill or talent you are developing?",
+          "answer": "I'd say photography is a skill I'm gradually developing. I received a Fuji X-S20 as a graduation gift and have been learning how to use it.",
+          "question_source": "原文件仅给主题与回答；此问句为训练整理。"
+        },
+        {
+          "id": "p1-05-2",
+          "question": "How do you feel about improving this skill?",
+          "answer": "I'm still a beginner, but I enjoy improving step by step.",
+          "question_source": "原文件仅给主题与回答；此问句为训练整理。"
+        }
+      ]
+    },
+    {
+      "id": "p1-06",
+      "title": "Flowers",
+      "questions": [
+        {
+          "id": "p1-06-1",
+          "question": "Do you like flowers?",
+          "answer": "I like flowers, especially when they are used to make a place feel more lively. I don't buy them very often, but I enjoy seeing them in cafés or parks.",
+          "question_source": "原文件仅给主题与回答；此问句为训练整理。"
+        }
+      ]
+    },
+    {
+      "id": "p1-07",
+      "title": "Computers",
+      "questions": [
+        {
+          "id": "p1-07-1",
+          "question": "How often do you use a computer?",
+          "answer": "I use a computer every day for research, writing and IELTS preparation. I rely on it much more than I did when I was younger.",
+          "question_source": "原文件仅给主题与回答；此问句为训练整理。"
+        }
+      ]
+    },
+    {
+      "id": "p1-08",
+      "title": "Saying thank you",
+      "questions": [
+        {
+          "id": "p1-08-1",
+          "question": "Is saying thank you important to you?",
+          "answer": "Yes, I think saying thank you is important because it shows that you notice other people's effort. I usually say it directly, and sometimes I send a short message afterwards.",
+          "question_source": "原文件仅给主题与回答；此问句为训练整理。"
+        }
+      ]
+    },
+    {
+      "id": "p1-09",
+      "title": "Plans",
+      "questions": [
+        {
+          "id": "p1-09-1",
+          "question": "Do you usually make plans?",
+          "answer": "Yes, I make plans, especially for study and applications. I usually write down the key tasks and then adjust the plan if something unexpected happens.",
+          "question_source": "原文件仅给主题与回答；此问句为训练整理。"
+        }
+      ]
+    },
+    {
+      "id": "p1-10",
+      "title": "Shopping",
+      "questions": [
+        {
+          "id": "p1-10-1",
+          "question": "How do you decide what to buy?",
+          "answer": "I usually make a list before grocery shopping, but for things like cameras or lenses, I do much more research first. I compare prices and reviews before buying.",
+          "question_source": "原文件仅给主题与回答；此问句为训练整理。"
+        }
+      ]
+    },
+    {
+      "id": "p1-11",
+      "title": "Patience",
+      "questions": [
+        {
+          "id": "p1-11-1",
+          "question": "Are you a patient person?",
+          "answer": "I think I'm more patient than I used to be. Research taught me that complicated problems often take time, so I have become better at dealing with slow progress.",
+          "question_source": "原文件仅给主题与回答；此问句为训练整理。"
+        }
+      ]
+    },
+    {
+      "id": "p1-12",
+      "title": "Taking photos",
+      "questions": [
+        {
+          "id": "p1-12-1",
+          "question": "Do you enjoy taking photos?",
+          "answer": "Yes, I really like taking photos because they help me record my life. I especially enjoy taking photos when I travel with friends.",
+          "question_source": "原文件仅给主题与回答；此问句为训练整理。"
+        }
+      ]
+    },
+    {
+      "id": "p1-13",
+      "title": "Machines",
+      "questions": [
+        {
+          "id": "p1-13-1",
+          "question": "What kind of machine interests you?",
+          "answer": "I'm interested in cameras, although I initially found them quite difficult to use. I started with auto mode and gradually learned about aperture, shutter speed and lenses.",
+          "question_source": "原文件仅给主题与回答；此问句为训练整理。"
+        }
+      ]
+    },
+    {
+      "id": "p1-14",
+      "title": "Science",
+      "questions": [
+        {
+          "id": "p1-14-1",
+          "question": "Is science important to you?",
+          "answer": "Yes, science is important to me because my academic background is in soil science. I like it because it helps us understand complicated natural processes with evidence.",
+          "question_source": "原文件仅给主题与回答；此问句为训练整理。"
+        }
+      ]
+    },
+    {
+      "id": "p1-15",
+      "title": "Achievements",
+      "questions": [
+        {
+          "id": "p1-15-1",
+          "question": "What achievement are you proud of?",
+          "answer": "One achievement I'm proud of is completing my master's research after a difficult period. I experienced several failures, but eventually produced a convincing set of results.",
+          "question_source": "原文件仅给主题与回答；此问句为训练整理。"
+        }
+      ]
+    },
+    {
+      "id": "p1-16",
+      "title": "Books",
+      "questions": [
+        {
+          "id": "p1-16-1",
+          "question": "What kind of books do you like?",
+          "answer": "I enjoy books that make me think about myself and the future. One memorable book for me is Demian because it explores personal growth and uncertainty.",
+          "question_source": "原文件仅给主题与回答；此问句为训练整理。"
+        }
+      ]
+    },
+    {
+      "id": "p1-17",
+      "title": "Phone",
+      "questions": [
+        {
+          "id": "p1-17-1",
+          "question": "How do you use your phone?",
+          "answer": "I use my phone every day, but I'm trying not to let it control my attention. Recently, I mainly use it for emails, communication and checking important information.",
+          "question_source": "原文件仅给主题与回答；此问句为训练整理。"
+        }
+      ]
+    },
+    {
+      "id": "p1-18",
+      "title": "Buildings",
+      "questions": [
+        {
+          "id": "p1-18-1",
+          "question": "What kind of buildings do you like?",
+          "answer": "I like buildings that combine practical functions with a comfortable atmosphere. My university's new library is a good example because it is both modern and useful for studying.",
+          "question_source": "原文件仅给主题与回答；此问句为训练整理。"
+        }
+      ]
+    }
+  ],
+  "part2": [
+    {
+      "id": "p2-01",
+      "title": "Describe an interesting conversation you had with a very old person",
+      "answer": "I'd like to describe a conversation I had with my grandfather when I was a child. It happened around Chinese New Year, when people in my hometown usually set off fireworks and firecrackers. I was actually quite scared of them because they were extremely loud, so I didn't want to join in. My grandfather noticed this and told me the traditional story of Nian, a fierce monster that was said to appear every winter and threaten villagers. According to the story, people eventually discovered that Nian was afraid of loud noises and fire, so they used firecrackers to drive it away. That's why setting off firecrackers became a traditional part of Chinese New Year celebrations. I found the story fascinating because it turned something I was afraid of into something meaningful. After that conversation, I became much less nervous about firecrackers and even joined my family in the celebrations. Looking back, it was a simple conversation, but it helped me understand a traditional custom through a story told by someone I trusted.",
+      "keywords": [
+        "爷爷",
+        "春节",
+        "年兽故事"
+      ],
+      "group_id": "story-a",
+      "cue_points": [
+        "Who the older person was",
+        "When and where you talked",
+        "What you talked about",
+        "Why you found the conversation interesting"
+      ],
+      "cue_source": "题目标题来自上传HTML；提示点为训练补充，未取得原始预测PDF题卡。",
+      "focus": "围绕“一次对话”叙述，不整篇介绍爷爷。",
+      "reuse": "可沿用母素材中的人物、地点和已提供事件；只选择本题需要的部分。",
+      "adaptation": "开头直接回应题目；主体围绕提示点选择细节；结尾说明本题所问感受或意义。",
+      "source_type": "uploaded",
+      "reference": "I'd like to describe a conversation I had with my grandfather when I was a child. It happened around Chinese New Year, when people in my hometown usually set off fireworks and firecrackers. I was actually quite scared of them because they were extremely loud, so I didn't want to join in. My grandfather noticed this and told me the traditional story of Nian, a fierce monster that was said to appear every winter and threaten villagers. According to the story, people eventually discovered that Nian was afraid of loud noises and fire, so they used firecrackers to drive it away. That's why setting off firecrackers became a traditional part of Chinese New Year celebrations. I found the story fascinating because it turned something I was afraid of into something meaningful. After that conversation, I became much less nervous about firecrackers and even joined my family in the celebrations. Looking back, it was a simple conversation, but it helped me understand a traditional custom through a story told by someone I trusted.",
+      "review_note": ""
+    },
+    {
+      "id": "p2-02",
+      "title": "Describe an interesting old person you have met",
+      "answer": "I'd like to describe my grandfather, who is an interesting older person in my life. When I was young, he was one of the people I felt closest to, and I remember that he was good at explaining traditional things through stories. One example was the story of Nian, which he told me around Chinese New Year when I was afraid of firecrackers. Instead of simply telling me not to be scared, he explained where the custom came from and why people used fireworks to drive the monster away. What I liked most was the way he made a traditional story feel vivid and relevant to a child. He was also quite patient and never forced me to do things before I understood them. That experience made me see that older people can pass on much more than factual knowledge. They can also preserve stories, customs and values. Whenever I think about Chinese New Year now, I still associate the tradition with that conversation with my grandfather, so he remains a particularly memorable older person to me.",
+      "keywords": [
+        "爷爷",
+        "传统故事"
+      ],
+      "group_id": "story-a",
+      "cue_points": [
+        "Who this person is",
+        "How you know this person",
+        "What makes this person interesting",
+        "How you feel about this person"
+      ],
+      "cue_source": "题目标题来自上传HTML；提示点为训练补充，未取得原始预测PDF题卡。",
+      "focus": "重点是人物特点，用年兽故事作证据。",
+      "reuse": "可沿用母素材中的人物、地点和已提供事件；只选择本题需要的部分。",
+      "adaptation": "开头直接回应题目；主体围绕提示点选择细节；结尾说明本题所问感受或意义。",
+      "source_type": "uploaded",
+      "reference": "I'd like to describe my grandfather, who is an interesting older person in my life. When I was young, he was one of the people I felt closest to, and I remember that he was good at explaining traditional things through stories. One example was the story of Nian, which he told me around Chinese New Year when I was afraid of firecrackers. Instead of simply telling me not to be scared, he explained where the custom came from and why people used fireworks to drive the monster away. What I liked most was the way he made a traditional story feel vivid and relevant to a child. He was also quite patient and never forced me to do things before I understood them. That experience made me see that older people can pass on much more than factual knowledge. They can also preserve stories, customs and values. Whenever I think about Chinese New Year now, I still associate the tradition with that conversation with my grandfather, so he remains a particularly memorable older person to me.",
+      "review_note": ""
+    },
+    {
+      "id": "p2-03",
+      "title": "Describe an impressive course (English lesson) you had and enjoyed",
+      "answer": "I'd like to talk about a short English lesson I found online. I came across it while scrolling through short videos, and surprisingly, it was only about ten minutes long. The lesson focused on a problem that I have personally experienced as a non-native English speaker: translating everything into Chinese in my head before speaking English. The teacher explained that this makes communication slower and can easily lead to unnatural expressions. What impressed me was that the lesson gave several practical ways to change the habit. For example, I could connect objects around me directly with English words, carry vocabulary cards, and practise shadowing instead of translating sentence by sentence. The teacher also emphasized patience, because changing a language habit takes time. I found the lesson useful because it didn't just give me vocabulary; it changed the way I think about speaking English. Since then, I've tried to respond more directly in English during my IELTS practice. It was short, but it had a surprisingly lasting influence on my learning habits.",
+      "keywords": [
+        "10分钟英语课",
+        "翻译习惯",
+        "shadowing"
+      ],
+      "group_id": "story-b",
+      "cue_points": [
+        "When and where you found the lesson",
+        "What the lesson taught",
+        "What you did during or after it",
+        "Why you found it useful and enjoyable"
+      ],
+      "cue_source": "题目标题来自上传HTML；提示点为训练补充，未取得原始预测PDF题卡。",
+      "focus": "说清课程教了什么和学习习惯怎样改变。",
+      "reuse": "可沿用母素材中的人物、地点和已提供事件；只选择本题需要的部分。",
+      "adaptation": "开头直接回应题目；主体围绕提示点选择细节；结尾说明本题所问感受或意义。",
+      "source_type": "uploaded",
+      "reference": "I'd like to talk about a short English lesson I found online. I came across it while scrolling through short videos, and surprisingly, it was only about ten minutes long. The lesson focused on a problem that I have personally experienced as a non-native English speaker: translating everything into Chinese in my head before speaking English. The teacher explained that this makes communication slower and can easily lead to unnatural expressions. What impressed me was that the lesson gave several practical ways to change the habit. For example, I could connect objects around me directly with English words, carry vocabulary cards, and practise shadowing instead of translating sentence by sentence. The teacher also emphasized patience, because changing a language habit takes time. I found the lesson useful because it didn't just give me vocabulary; it changed the way I think about speaking English. Since then, I've tried to respond more directly in English during my IELTS practice. It was short, but it had a surprisingly lasting influence on my learning habits.",
+      "review_note": ""
+    },
+    {
+      "id": "p2-04",
+      "title": "Describe a quiet place you like to go to",
+      "answer": "I'd like to describe a quiet café near West Lake in Hangzhou. It is on the second floor of a small building and has large windows overlooking the surroundings. I first went there when I needed somewhere peaceful to work, because I was quite busy with my master's research at the time. What I liked immediately was that it wasn't crowded or noisy. I could sit by the window, have a cup of coffee and concentrate on my work without being disturbed. Sometimes I also bring my camera and take a few photos when I need a break. The atmosphere is especially pleasant on a weekday afternoon, when the sunlight comes through the windows and the area around West Lake feels much calmer. I think I like this place because I normally spend a lot of time dealing with research and applications, so I really value somewhere that allows me to slow down. It has become one of my favourite places to recharge and focus.",
+      "keywords": [
+        "杭州西湖",
+        "安静咖啡馆"
+      ],
+      "group_id": "story-l",
+      "cue_points": [
+        "Where the place is",
+        "When you go there",
+        "What you do there",
+        "Why you like its quiet atmosphere"
+      ],
+      "cue_source": "题目标题来自上传HTML；提示点为训练补充，未取得原始预测PDF题卡。",
+      "focus": "描写地点与安静原因，不只讲研究压力。",
+      "reuse": "可沿用母素材中的人物、地点和已提供事件；只选择本题需要的部分。",
+      "adaptation": "开头直接回应题目；主体围绕提示点选择细节；结尾说明本题所问感受或意义。",
+      "source_type": "uploaded",
+      "reference": "I'd like to describe a quiet café near West Lake in Hangzhou. It is on the second floor of a small building and has large windows overlooking the surroundings. I first went there when I needed somewhere peaceful to work, because I was quite busy with my master's research at the time. What I liked immediately was that it wasn't crowded or noisy. I could sit by the window, have a cup of coffee and concentrate on my work without being disturbed. Sometimes I also bring my camera and take a few photos when I need a break. The atmosphere is especially pleasant on a weekday afternoon, when the sunlight comes through the windows and the area around West Lake feels much calmer. I think I like this place because I normally spend a lot of time dealing with research and applications, so I really value somewhere that allows me to slow down. It has become one of my favourite places to recharge and focus.",
+      "review_note": ""
+    },
+    {
+      "id": "p2-05",
+      "title": "Describe a beautiful place you have been to / a natural landscape you like",
+      "answer": "I'd like to describe a beautiful natural landscape I saw during my graduation trip to Yunnan. My close friend Ning and I climbed Yulong Snow Mountain in September after I finished my master's degree. When we reached an altitude of around 4,600 metres, I saw a snow-covered peak against an incredibly blue sky with moving white clouds. It was actually much more beautiful than the pictures I had seen in advertisements. I come from Chengdu, where the sky is often cloudy, so seeing such clear blue skies made the experience even more exciting for me. I remember that the clouds were moving surprisingly fast. At first, they partly covered the mountain, and then they suddenly moved away and revealed the entire peak. It felt almost like a natural performance. We took lots of photos, although none of them could fully capture what we saw with our own eyes. Looking back, that moment represents more than just a beautiful view. It was also a rewarding ending to my master's life and a memorable trip with a close friend.",
+      "keywords": [
+        "玉龙雪山",
+        "4600 m",
+        "蓝天白云"
+      ],
+      "group_id": "story-c",
+      "cue_points": [
+        "Where the landscape is",
+        "When and with whom you saw it",
+        "What you could see",
+        "Why it was memorable"
+      ],
+      "cue_source": "题目标题来自上传HTML；提示点为训练补充，未取得原始预测PDF题卡。",
+      "focus": "突出自然景色，不只说旅行安排。",
+      "reuse": "可沿用母素材中的人物、地点和已提供事件；只选择本题需要的部分。",
+      "adaptation": "开头直接回应题目；主体围绕提示点选择细节；结尾说明本题所问感受或意义。",
+      "source_type": "uploaded",
+      "reference": "I'd like to describe a beautiful natural landscape I saw during my graduation trip to Yunnan. My close friend Ning and I climbed Yulong Snow Mountain in September after I finished my master's degree. When we reached an altitude of around 4,600 metres, I saw a snow-covered peak against an incredibly blue sky with moving white clouds. It was actually much more beautiful than the pictures I had seen in advertisements. I come from Chengdu, where the sky is often cloudy, so seeing such clear blue skies made the experience even more exciting for me. I remember that the clouds were moving surprisingly fast. At first, they partly covered the mountain, and then they suddenly moved away and revealed the entire peak. It felt almost like a natural performance. We took lots of photos, although none of them could fully capture what we saw with our own eyes. Looking back, that moment represents more than just a beautiful view. It was also a rewarding ending to my master's life and a memorable trip with a close friend.",
+      "review_note": ""
+    },
+    {
+      "id": "p2-06",
+      "title": "Describe an intelligent person you know",
+      "answer": "I'd like to describe my master's supervisor, Professor Luo, whom I consider a very intelligent person. What impressed me most was not simply his knowledge, but the way he approached complicated research problems. He could usually break a complicated question into smaller, manageable steps and guide students to think about the logic rather than just giving them an answer. Interestingly, his appearance was quite casual, which was very different from his serious attitude towards research. I remember that during my first postgraduate interview, he was wearing a slightly cartoonish T-shirt, and later I even saw him wear a wrinkled T-shirt or put it on inside out. But when it came to research, he was extremely rigorous and demanding. I learned a lot from that contrast. He made me realize that being a good researcher isn't about looking formal; it is about being curious, logical and persistent. His attitude also influenced my decision to consider pursuing a PhD, because he made research feel challenging but meaningful.",
+      "keywords": [
+        "罗老师",
+        "科研逻辑",
+        "反差"
+      ],
+      "group_id": "story-d",
+      "cue_points": [
+        "Who the person is",
+        "How you know this person",
+        "What shows their intelligence",
+        "What you have learned from them"
+      ],
+      "cue_source": "题目标题来自上传HTML；提示点为训练补充，未取得原始预测PDF题卡。",
+      "focus": "用研究思维说明聪明，不把学历当唯一证据。",
+      "reuse": "可沿用母素材中的人物、地点和已提供事件；只选择本题需要的部分。",
+      "adaptation": "开头直接回应题目；主体围绕提示点选择细节；结尾说明本题所问感受或意义。",
+      "source_type": "uploaded",
+      "reference": "I'd like to describe my master's supervisor, Professor Luo, whom I consider a very intelligent person. What impressed me most was not simply his knowledge, but the way he approached complicated research problems. He could usually break a complicated question into smaller, manageable steps and guide students to think about the logic rather than just giving them an answer. Interestingly, his appearance was quite casual, which was very different from his serious attitude towards research. I remember that during my first postgraduate interview, he was wearing a slightly cartoonish T-shirt, and later I even saw him wear a wrinkled T-shirt or put it on inside out. But when it came to research, he was extremely rigorous and demanding. I learned a lot from that contrast. He made me realize that being a good researcher isn't about looking formal; it is about being curious, logical and persistent. His attitude also influenced my decision to consider pursuing a PhD, because he made research feel challenging but meaningful.",
+      "review_note": ""
+    },
+    {
+      "id": "p2-07",
+      "title": "Describe a time you used your cell phone/smartphone to do something important",
+      "answer": "I'd like to talk about a time when I used my smartphone for something genuinely important. Recently, I've been preparing applications for PhD programmes overseas, so I regularly use my phone to check emails from potential supervisors. It may sound like a small thing, but during the application period, I often keep my phone nearby because I'm waiting for replies that could affect my future plans. Whenever I hear a notification, I sometimes immediately check whether it is a professor responding to my email. I've received several positive replies from universities in the UK, and many supervisors have shown interest in my research background. The main issue they usually mention is funding, because international PhD tuition fees can be very high. So I need to monitor these conversations carefully and respond quickly when necessary. My phone is therefore not just a source of entertainment at the moment. It has become an important tool for managing a major decision about my academic future.",
+      "keywords": [
+        "手机",
+        "海外导师邮件",
+        "PhD申请"
+      ],
+      "group_id": "story-f",
+      "cue_points": [
+        "When you used the phone",
+        "What important task you needed to do",
+        "How the phone helped you",
+        "Why this mattered to you"
+      ],
+      "cue_source": "题目标题来自上传HTML；提示点为训练补充，未取得原始预测PDF题卡。",
+      "focus": "聚焦一次重要用途；不要泛谈手机优点。",
+      "reuse": "可沿用母素材中的人物、地点和已提供事件；只选择本题需要的部分。",
+      "adaptation": "开头直接回应题目；主体围绕提示点选择细节；结尾说明本题所问感受或意义。",
+      "source_type": "uploaded",
+      "reference": "I'd like to talk about a time when I used my smartphone for something genuinely important. Recently, I've been preparing applications for PhD programmes overseas, so I regularly use my phone to check emails from potential supervisors. It may sound like a small thing, but during the application period, I often keep my phone nearby because I'm waiting for replies that could affect my future plans. Whenever I hear a notification, I sometimes immediately check whether it is a professor responding to my email. I've received several positive replies from universities in the UK, and many supervisors have shown interest in my research background. The main issue they usually mention is funding, because international PhD tuition fees can be very high. So I need to monitor these conversations carefully and respond quickly when necessary. My phone is therefore not just a source of entertainment at the moment. It has become an important tool for managing a major decision about my academic future.",
+      "review_note": ""
+    },
+    {
+      "id": "p2-08",
+      "title": "Describe a place where you saw animals",
+      "answer": "I'd like to describe an animal experience during my graduation trip to Yunnan. One of our stops was a local zoo, which had a wider range of animals than many zoos I had visited in other cities. The most memorable part was a peacock flight show. It was the first time I'd seen this kind of performance, and there were more than thirty peacocks in the area. The funny thing was that I'm actually quite afraid of birds. I initially went because I thought it would be interesting, but when so many peacocks suddenly appeared, I became a little nervous. Some of them even came close to the audience, which made me feel even more uncomfortable. I also noticed that some parents encouraged their children to enter the performance area to take photos with the peacocks. Although I understood that they wanted their children to have fun, I felt there could be safety risks because animals can behave unpredictably. The experience was memorable because it was both exciting and slightly frightening, and it also made me think about the importance of respecting boundaries between people and animals.",
+      "keywords": [
+        "云南动物园",
+        "孔雀",
+        "安全边界"
+      ],
+      "group_id": "story-h",
+      "cue_points": [
+        "Where the place was",
+        "When you visited it",
+        "What animals you saw",
+        "How you felt about the experience"
+      ],
+      "cue_source": "题目标题来自上传HTML；提示点为训练补充，未取得原始预测PDF题卡。",
+      "focus": "先介绍地点和动物，再说感受。",
+      "reuse": "可沿用母素材中的人物、地点和已提供事件；只选择本题需要的部分。",
+      "adaptation": "开头直接回应题目；主体围绕提示点选择细节；结尾说明本题所问感受或意义。",
+      "source_type": "uploaded",
+      "reference": "I'd like to describe an animal experience during my graduation trip to Yunnan. One of our stops was a local zoo, which had a wider range of animals than many zoos I had visited in other cities. The most memorable part was a peacock flight show. It was the first time I'd seen this kind of performance, and there were more than thirty peacocks in the area. The funny thing was that I'm actually quite afraid of birds. I initially went because I thought it would be interesting, but when so many peacocks suddenly appeared, I became a little nervous. Some of them even came close to the audience, which made me feel even more uncomfortable. I also noticed that some parents encouraged their children to enter the performance area to take photos with the peacocks. Although I understood that they wanted their children to have fun, I felt there could be safety risks because animals can behave unpredictably. The experience was memorable because it was both exciting and slightly frightening, and it also made me think about the importance of respecting boundaries between people and animals.",
+      "review_note": ""
+    },
+    {
+      "id": "p2-09",
+      "title": "Describe a time when you and some other people made a plan to do an activity",
+      "answer": "I'd like to describe a plan I made with my close friend Ning during our graduation trip to Yunnan. We had talked about visiting Yulong Snow Mountain for quite a long time, but we never had enough time before graduation. After I finished my master's degree, we finally decided to make it part of our graduation trip. We planned the trip quite carefully because we knew the altitude would be high. We prepared food, drinks, warm clothes and other essentials, and we also checked the route in advance. During the climb, we became extremely tired and even considered giving up because of the altitude and physical pressure. However, when we finally reached around 4,600 metres, the view completely changed our minds. We saw snow-covered mountains under a clear blue sky and took lots of photos together. After coming down, we were exhausted but very excited, and we even talked about doing another mountain trip in the future. So the plan was difficult, but completing it made the whole graduation trip much more meaningful.",
+      "keywords": [
+        "Ning",
+        "玉龙雪山",
+        "毕业旅行"
+      ],
+      "group_id": "story-c",
+      "cue_points": [
+        "Who you made the plan with",
+        "What activity you planned",
+        "How you prepared",
+        "How the activity turned out"
+      ],
+      "cue_source": "题目标题来自上传HTML；提示点为训练补充，未取得原始预测PDF题卡。",
+      "focus": "突出共同计划、分工和准备。",
+      "reuse": "可沿用母素材中的人物、地点和已提供事件；只选择本题需要的部分。",
+      "adaptation": "开头直接回应题目；主体围绕提示点选择细节；结尾说明本题所问感受或意义。",
+      "source_type": "uploaded",
+      "reference": "I'd like to describe a plan I made with my close friend Ning during our graduation trip to Yunnan. We had talked about visiting Yulong Snow Mountain for quite a long time, but we never had enough time before graduation. After I finished my master's degree, we finally decided to make it part of our graduation trip. We planned the trip quite carefully because we knew the altitude would be high. We prepared food, drinks, warm clothes and other essentials, and we also checked the route in advance. During the climb, we became extremely tired and even considered giving up because of the altitude and physical pressure. However, when we finally reached around 4,600 metres, the view completely changed our minds. We saw snow-covered mountains under a clear blue sky and took lots of photos together. After coming down, we were exhausted but very excited, and we even talked about doing another mountain trip in the future. So the plan was difficult, but completing it made the whole graduation trip much more meaningful.",
+      "review_note": ""
+    },
+    {
+      "id": "p2-10",
+      "title": "Describe a difficult decision that you made and had a good result",
+      "answer": "I'd like to describe a difficult decision I made about whether to pursue a PhD or find a job after graduation. For more than two years, I struggled with this choice because both options seemed reasonable. My supervisor encouraged me to continue in research because he believed I was good at breaking complicated problems into logical steps. On the other hand, my parents, especially my father, preferred me to find a stable job after graduation because they were concerned about financial security. The turning point came when I received very positive feedback from a university I really admired. A professor showed interest in my research and encouraged me to explore further opportunities. That gave me much more confidence in my ability as a researcher. I eventually decided to prepare for overseas PhD applications and IELTS. It wasn't an easy decision, but looking back, the process made me more resilient and independent. More importantly, it helped me understand what kind of work I genuinely want to do in the long term.",
+      "keywords": [
+        "PhD vs job",
+        "导师鼓励",
+        "父母"
+      ],
+      "group_id": "story-f",
+      "cue_points": [
+        "What decision you faced",
+        "Why it was difficult",
+        "How you reached your decision",
+        "What positive result followed"
+      ],
+      "cue_source": "题目标题来自上传HTML；提示点为训练补充，未取得原始预测PDF题卡。",
+      "focus": "解释选择的困难及真实正面结果；收到兴趣回复不等于录取。",
+      "reuse": "可沿用母素材中的人物、地点和已提供事件；只选择本题需要的部分。",
+      "adaptation": "开头直接回应题目；主体围绕提示点选择细节；结尾说明本题所问感受或意义。",
+      "source_type": "uploaded",
+      "reference": "I'd like to describe a difficult decision I made about whether to pursue a PhD or find a job after graduation. For more than two years, I struggled with this choice because both options seemed reasonable. My supervisor encouraged me to continue in research because he believed I was good at breaking complicated problems into logical steps. On the other hand, my parents, especially my father, preferred me to find a stable job after graduation because they were concerned about financial security. The turning point came when I received very positive feedback from a university I really admired. A professor showed interest in my research and encouraged me to explore further opportunities. That gave me much more confidence in my ability as a researcher. I eventually decided to prepare for overseas PhD applications and IELTS. It wasn't an easy decision, but looking back, the process made me more resilient and independent. More importantly, it helped me understand what kind of work I genuinely want to do in the long term.",
+      "review_note": ""
+    },
+    {
+      "id": "p2-11",
+      "title": "Describe a well-known person in your country",
+      "answer": "I'd like to talk about Sun Yanzi, one of my favourite singers in China. I especially like her lyrical style because her songs are emotionally rich and often make me feel understood. Last year, I was lucky enough to attend one of her concerts with a friend. It was particularly special because she had been away from the music scene for many years, so hearing her voice live felt almost like reconnecting with a familiar part of my memories. My friend and I didn't just sit quietly and listen; we sang along with almost every song, which made us feel extremely relaxed. One song I particularly like is The Moment. It isn't necessarily her most famous song, but its message has stayed with me. It reflects on moments of uncertainty and vulnerability after success, which reminded me of my own uncertainty about the future. The song gave me a sense of hope that things can gradually work out. That's why she isn't just a singer I enjoy listening to; her music has also accompanied me during stressful periods of my life.",
+      "keywords": [
+        "孙燕子",
+        "演唱会",
+        "The Moment"
+      ],
+      "group_id": "story-i",
+      "cue_points": [
+        "Who the person is",
+        "What they are known for in your country",
+        "How you learned about them",
+        "Why you find them memorable"
+      ],
+      "cue_source": "题目标题来自上传HTML；提示点为训练补充，未取得原始预测PDF题卡。",
+      "focus": "“在本国知名”不等于“本国国籍”；核对原题要求。",
+      "reuse": "可沿用母素材中的人物、地点和已提供事件；只选择本题需要的部分。",
+      "adaptation": "开头直接回应题目；主体围绕提示点选择细节；结尾说明本题所问感受或意义。",
+      "source_type": "uploaded",
+      "reference": "I'd like to talk about Sun Yanzi, one of my favourite singers in China. I especially like her lyrical style because her songs are emotionally rich and often make me feel understood. Last year, I was lucky enough to attend one of her concerts with a friend. Hearing her voice live felt almost like reconnecting with a familiar part of my memories. My friend and I didn't just sit quietly and listen; we sang along with almost every song, which made us feel extremely relaxed. One song I particularly like is The Moment. It isn't necessarily her most famous song, but its message has stayed with me. It reflects on moments of uncertainty and vulnerability after success, which reminded me of my own uncertainty about the future. The song gave me a sense of hope that things can gradually work out. That's why she isn't just a singer I enjoy listening to; her music has also accompanied me during stressful periods of my life.",
+      "review_note": "原文件中“歌手离开乐坛多年”的说法未独立核实；训练参考删去该判断，保留你提供的演唱会与听歌体验。"
+    },
+    {
+      "id": "p2-12",
+      "title": "Describe an object that you think is beautiful",
+      "answer": "I'd like to describe a beautiful object that is very meaningful to me: my Fuji X-S20 camera. I received it as a graduation gift, so it has a strong personal connection with the end of my master's degree. I really like its compact design and the way it helps me record places and people that matter to me. At first, however, I knew very little about photography and mainly used auto mode. As I used it more, I started learning about aperture, shutter speed, colour settings and lenses. I even bought a telephoto lens through Xianyu, a Chinese second-hand platform, because the official price was too high for me. What makes the camera beautiful to me isn't just its appearance. It has gradually become a way of preserving my memories. For example, I used it to photograph Yulong Snow Mountain during my graduation trip. Whenever I look through those pictures, I can instantly remember the people and experiences behind them. So for me, it is both a beautiful object and a record of an important stage of my life.",
+      "keywords": [
+        "Fuji X-S20",
+        "毕业礼物"
+      ],
+      "group_id": "story-g",
+      "cue_points": [
+        "What the object is",
+        "How you got it",
+        "What it looks like or does",
+        "Why you consider it beautiful"
+      ],
+      "cue_source": "题目标题来自上传HTML；提示点为训练补充，未取得原始预测PDF题卡。",
+      "focus": "解释美感与个人意义，不只介绍参数。",
+      "reuse": "可沿用母素材中的人物、地点和已提供事件；只选择本题需要的部分。",
+      "adaptation": "开头直接回应题目；主体围绕提示点选择细节；结尾说明本题所问感受或意义。",
+      "source_type": "uploaded",
+      "reference": "I'd like to describe a beautiful object that is very meaningful to me: my Fuji X-S20 camera. I received it as a graduation gift, so it has a strong personal connection with the end of my master's degree. I really like its compact design and the way it helps me record places and people that matter to me. At first, however, I knew very little about photography and mainly used auto mode. As I used it more, I started learning about aperture, shutter speed, colour settings and lenses. I even bought a telephoto lens through Xianyu, a Chinese second-hand platform, because the official price was too high for me. What makes the camera beautiful to me isn't just its appearance. It has gradually become a way of preserving my memories. For example, I used it to photograph Yulong Snow Mountain during my graduation trip. Whenever I look through those pictures, I can instantly remember the people and experiences behind them. So for me, it is both a beautiful object and a record of an important stage of my life.",
+      "review_note": ""
+    },
+    {
+      "id": "p2-13",
+      "title": "Describe a person you disliked at first but ended up being friends with",
+      "answer": "I'd like to describe a girl who transferred to my middle school and later became one of my close friends. At first, I didn't really like her. She quickly became close to one of my best friends, and I felt a little as if my friendship was being taken away. We also seemed completely different, and I didn't think we had much in common. I even thought some of her enthusiastic behaviour was a little fake. Later, we became deskmates, and I gradually realized that I had misunderstood her. She was genuinely friendly and outgoing. She would share snacks with me and talk about interesting things. As we spent more time together, we discovered that we actually shared quite a few interests and similar views about life. What really turned us into close friends was the way we supported each other. When I was preparing for a postgraduate interview and feeling extremely anxious, she encouraged me through many long phone calls and shared useful application information with me. Eventually, we both got into the universities we wanted. The experience taught me that first impressions can be misleading and that genuine friendship can last through different stages of life.",
+      "keywords": [
+        "初中转校生",
+        "第一印象",
+        "互相支持"
+      ],
+      "group_id": "story-j",
+      "cue_points": [
+        "Who the person is",
+        "Why you initially disliked them",
+        "How your relationship changed",
+        "Why you became friends"
+      ],
+      "cue_source": "题目标题来自上传HTML；提示点为训练补充，未取得原始预测PDF题卡。",
+      "focus": "明确先不喜欢、后转变的时间线。",
+      "reuse": "可沿用母素材中的人物、地点和已提供事件；只选择本题需要的部分。",
+      "adaptation": "开头直接回应题目；主体围绕提示点选择细节；结尾说明本题所问感受或意义。",
+      "source_type": "uploaded",
+      "reference": "I'd like to describe a girl who transferred to my middle school and later became one of my close friends. At first, I didn't really like her. She quickly became close to one of my best friends, and I felt a little as if my friendship was being taken away. We also seemed completely different, and I didn't think we had much in common. I even thought some of her enthusiastic behaviour was a little fake. Later, we became deskmates, and I gradually realized that I had misunderstood her. She was genuinely friendly and outgoing. She would share snacks with me and talk about interesting things. As we spent more time together, we discovered that we actually shared quite a few interests and similar views about life. What really turned us into close friends was the way we supported each other. When I was preparing for a postgraduate interview and feeling extremely anxious, she encouraged me through many long phone calls and shared useful application information with me. Eventually, we both got into the universities we wanted. The experience taught me that first impressions can be misleading and that genuine friendship can last through different stages of life.",
+      "review_note": ""
+    },
+    {
+      "id": "p2-14",
+      "title": "Describe an occasion when someone gave you positive advice or suggestions",
+      "answer": "I'd like to describe an occasion when someone gave me some very positive advice. It was during the most difficult period of my master's research. I had experienced several unsuccessful experiments and felt overwhelmed because my results weren't developing as I had expected. I called my mother because I was frustrated and needed someone to talk to. Surprisingly, she didn't ask me to finish faster or worry about the result. Instead, she told me that I should focus on the research itself and on solving the problems step by step. She reminded me that doing research was not only about getting a degree; the problem-solving process was also valuable. Although she didn't understand the technical details of my project, her advice helped me calm down. I stopped thinking so much about when I would graduate and started concentrating on what I could actually improve. I eventually graduated three months later than I had originally expected, but I never regretted the extra time. Her advice helped me become more resilient and independent, and I still remember it when I face uncertainty.",
+      "keywords": [
+        "妈妈",
+        "科研压力",
+        "建议"
+      ],
+      "group_id": "story-e",
+      "cue_points": [
+        "Who gave you advice",
+        "What difficulty you faced",
+        "What advice they gave",
+        "How the advice helped you"
+      ],
+      "cue_source": "题目标题来自上传HTML；提示点为训练补充，未取得原始预测PDF题卡。",
+      "focus": "说清建议原意与自己的行动变化。",
+      "reuse": "可沿用母素材中的人物、地点和已提供事件；只选择本题需要的部分。",
+      "adaptation": "开头直接回应题目；主体围绕提示点选择细节；结尾说明本题所问感受或意义。",
+      "source_type": "uploaded",
+      "reference": "I'd like to describe an occasion when someone gave me some very positive advice. It was during the most difficult period of my master's research. I had experienced several unsuccessful experiments and felt overwhelmed because my results weren't developing as I had expected. I called my mother because I was frustrated and needed someone to talk to. Surprisingly, she didn't ask me to finish faster or worry about the result. Instead, she told me that I should focus on the research itself and on solving the problems step by step. She reminded me that doing research was not only about getting a degree; the problem-solving process was also valuable. Although she didn't understand the technical details of my project, her advice helped me calm down. I stopped thinking so much about when I would graduate and started concentrating on what I could actually improve. I eventually graduated three months later than I had originally expected, but I never regretted the extra time. Her advice helped me become more resilient and independent, and I still remember it when I face uncertainty.",
+      "review_note": ""
+    },
+    {
+      "id": "p2-15",
+      "title": "Describe a disagreement you had with someone",
+      "answer": "I'd like to describe a disagreement I had with my parents about whether I should pursue a PhD or find a job after graduation. My father, in particular, preferred me to find a stable job because he thought financial security and a predictable career were important. I understood his point, but I personally wanted to continue doing research because I enjoy exploring new ideas and working on meaningful problems. At first, especially when I was under a lot of pressure, I didn't really want to explain myself, so we had some tension. Later, we had a much deeper conversation and gradually understood each other's concerns. My parents realized that research wasn't simply an abstract interest for me; it was something I genuinely wanted to pursue. I also understood that their concern came from wanting to protect me from financial uncertainty. Eventually, they decided to support my choice, even though studying abroad might put some financial pressure on the family. I really appreciated that. It showed me that people can disagree about a decision while still respecting and supporting each other.",
+      "keywords": [
+        "父母",
+        "PhD vs job",
+        "分歧"
+      ],
+      "group_id": "story-f",
+      "cue_points": [
+        "Who you disagreed with",
+        "What the disagreement concerned",
+        "How you discussed it",
+        "How the situation ended"
+      ],
+      "cue_source": "题目标题来自上传HTML；提示点为训练补充，未取得原始预测PDF题卡。",
+      "focus": "解释双方担忧，不能把分歧写成单方错误。",
+      "reuse": "可沿用母素材中的人物、地点和已提供事件；只选择本题需要的部分。",
+      "adaptation": "开头直接回应题目；主体围绕提示点选择细节；结尾说明本题所问感受或意义。",
+      "source_type": "uploaded",
+      "reference": "I'd like to describe a disagreement I had with my parents about whether I should pursue a PhD or find a job after graduation. My father, in particular, preferred me to find a stable job because he thought financial security and a predictable career were important. I understood his point, but I personally wanted to continue doing research because I enjoy exploring new ideas and working on meaningful problems. At first, especially when I was under a lot of pressure, I didn't really want to explain myself, so we had some tension. Later, we had a much deeper conversation and gradually understood each other's concerns. My parents realized that research wasn't simply an abstract interest for me; it was something I genuinely wanted to pursue. I also understood that their concern came from wanting to protect me from financial uncertainty. Eventually, they decided to support my choice, even though studying abroad might put some financial pressure on the family. I really appreciated that. It showed me that people can disagree about a decision while still respecting and supporting each other.",
+      "review_note": ""
+    },
+    {
+      "id": "p2-16",
+      "title": "Describe an occasion that you lost something",
+      "answer": "I'd like to describe a time when I lost something important. I was about fifteen, and it was my first time travelling alone. On the way back from Beijing, I accidentally left my backpack at a railway station. Unfortunately, it contained my phone, cash and other important things. I didn't realize it until I had already boarded the train, so I immediately felt panicked because I had no easy way to contact my family. Luckily, I came across a kind woman who noticed that I was struggling. She helped me contact my family and even lent me some cash so that I could manage the journey. She stayed with me for much of the trip and made sure I got into the right vehicle after I got off the train. The backpack was never recovered, but I still remember her kindness. The experience taught me to be much more careful when travelling alone. It also made me realize that a small act of kindness from a stranger can make an enormous difference when someone is vulnerable.",
+      "keywords": [
+        "北京丢包",
+        "陌生人帮助"
+      ],
+      "group_id": "story-k",
+      "cue_points": [
+        "What you lost",
+        "When and where it happened",
+        "What you did afterwards",
+        "What you learned from it"
+      ],
+      "cue_source": "题目标题来自上传HTML；提示点为训练补充，未取得原始预测PDF题卡。",
+      "focus": "忠实保留包未找回的结局，不编造找回情节。",
+      "reuse": "可沿用母素材中的人物、地点和已提供事件；只选择本题需要的部分。",
+      "adaptation": "开头直接回应题目；主体围绕提示点选择细节；结尾说明本题所问感受或意义。",
+      "source_type": "uploaded",
+      "reference": "I'd like to describe a time when I lost something important. I was about fifteen, and it was my first time travelling alone. On the way back from Beijing, I accidentally left my backpack at a railway station. Unfortunately, it contained my phone, cash and other important things. I didn't realize it until I had already boarded the train, so I immediately felt panicked because I had no easy way to contact my family. Luckily, I came across a kind woman who noticed that I was struggling. She helped me contact my family and even lent me some cash so that I could manage the journey. She stayed with me for much of the trip and made sure I got into the right vehicle after I got off the train. The backpack was never recovered, but I still remember her kindness. The experience taught me to be much more careful when travelling alone. It also made me realize that a small act of kindness from a stranger can make an enormous difference when someone is vulnerable.",
+      "review_note": ""
+    },
+    {
+      "id": "p2-17",
+      "title": "Describe a person who you think wears unusual clothes",
+      "answer": "I'd like to describe my master's supervisor, Professor Luo, who has a rather unusual way of dressing. Before meeting him, I had imagined that a university professor would normally wear formal clothes, especially when meeting students. However, when I first met him during my postgraduate interview, he was wearing a slightly cartoonish T-shirt. Later, I noticed that he often wore casual and sometimes rather wrinkled T-shirts even at meetings where other teachers were dressed more formally. On a few occasions, we even noticed that he had accidentally put his T-shirt on inside out. What made this memorable was the contrast between his appearance and his personality as a researcher. In daily life, he seemed very relaxed and unconcerned about clothing, but when it came to research, he was extremely rigorous and demanding. I sometimes felt that he simply preferred to spend his time and energy on research rather than on his appearance. So his clothes were unusual mainly because they were so different from what I expected a professor to wear.",
+      "keywords": [
+        "罗老师",
+        "T恤",
+        "科研反差"
+      ],
+      "group_id": "story-d",
+      "cue_points": [
+        "Who the person is",
+        "How you know them",
+        "What is unusual about their clothes",
+        "How you feel about their style"
+      ],
+      "cue_source": "题目标题来自上传HTML；提示点为训练补充，未取得原始预测PDF题卡。",
+      "focus": "描述服装与印象反差，不只赞扬研究能力。",
+      "reuse": "可沿用母素材中的人物、地点和已提供事件；只选择本题需要的部分。",
+      "adaptation": "开头直接回应题目；主体围绕提示点选择细节；结尾说明本题所问感受或意义。",
+      "source_type": "uploaded",
+      "reference": "I'd like to describe my master's supervisor, Professor Luo, who has a rather unusual way of dressing. Before meeting him, I had imagined that a university professor would normally wear formal clothes, especially when meeting students. However, when I first met him during my postgraduate interview, he was wearing a slightly cartoonish T-shirt. Later, I noticed that he often wore casual and sometimes rather wrinkled T-shirts even at meetings where other teachers were dressed more formally. On a few occasions, we even noticed that he had accidentally put his T-shirt on inside out. What made this memorable was the contrast between his appearance and his personality as a researcher. In daily life, he seemed very relaxed and unconcerned about clothing, but when it came to research, he was extremely rigorous and demanding. I sometimes felt that he simply preferred to spend his time and energy on research rather than on his appearance. So his clothes were unusual mainly because they were so different from what I expected a professor to wear.",
+      "review_note": ""
+    },
+    {
+      "id": "p2-18",
+      "title": "Describe a time you saw children behaving badly in public",
+      "answer": "I'd like to describe something I saw at a peacock show in a zoo in Yunnan. There were many parents with children in the audience, and some of them encouraged their children to enter the performance area to take photos with the peacocks. I could understand that they wanted their children to have a memorable experience, but I felt that some of the behaviour was inappropriate. The peacocks were not simply decorative objects; they were animals and could behave unpredictably, especially if they felt threatened or were surrounded by people. I was actually quite nervous myself because I'm afraid of birds, and some of the peacocks came surprisingly close to the audience. So seeing children enter the area made me think about public behaviour and safety. I believe parents should teach children to respect boundaries in places involving animals. It is possible to enjoy an activity and take good photos without putting yourself or the animals in an unnecessarily risky situation. The experience stayed with me because it made me think about how good intentions can sometimes lead to unsafe behaviour.",
+      "keywords": [
+        "孔雀表演",
+        "儿童",
+        "公共行为"
+      ],
+      "group_id": "story-h",
+      "cue_points": [
+        "Where and when it happened",
+        "What the children did",
+        "How adults responded",
+        "Why the behaviour concerned you"
+      ],
+      "cue_source": "题目标题来自上传HTML；提示点为训练补充，未取得原始预测PDF题卡。",
+      "focus": "描述亲眼看到的行为，不扩大成所有家长与孩子。",
+      "reuse": "可沿用母素材中的人物、地点和已提供事件；只选择本题需要的部分。",
+      "adaptation": "开头直接回应题目；主体围绕提示点选择细节；结尾说明本题所问感受或意义。",
+      "source_type": "uploaded",
+      "reference": "I'd like to describe something I saw at a peacock show in a zoo in Yunnan. There were many parents with children in the audience, and some of them encouraged their children to enter the performance area to take photos with the peacocks. I could understand that they wanted their children to have a memorable experience, but I felt that some of the behaviour was inappropriate. The peacocks were not simply decorative objects; they were animals and could behave unpredictably, especially if they felt threatened or were surrounded by people. I was actually quite nervous myself because I'm afraid of birds, and some of the peacocks came surprisingly close to the audience. So seeing children enter the area made me think about public behaviour and safety. I believe parents should teach children to respect boundaries in places involving animals. It is possible to enjoy an activity and take good photos without putting yourself or the animals in an unnecessarily risky situation. The experience stayed with me because it made me think about how good intentions can sometimes lead to unsafe behaviour.",
+      "review_note": ""
+    },
+    {
+      "id": "p2-19",
+      "title": "Describe a time when you saw something beautiful in the sky",
+      "answer": "I'd like to describe a beautiful view of the sky that I saw on Yulong Snow Mountain in Yunnan. It was during my graduation trip with my close friend Ning. When we reached around 4,600 metres, the snow-covered peaks were surrounded by a remarkably clear blue sky and bright white clouds. The view was even more beautiful than the pictures I had seen in advertisements. I grew up in Chengdu, where the sky is often cloudy, so seeing such a clear blue sky made me especially excited. What I remember most vividly is that the clouds were moving very quickly. At one moment, they covered part of the mountain, and then they suddenly moved away and revealed the entire peak. It felt surprisingly dynamic, almost like the landscape was changing in front of us. We took lots of photos, although I later realized that none of them really captured the feeling of seeing it in person. That moment remains one of my favourite memories from my graduation trip.",
+      "keywords": [
+        "玉龙雪山",
+        "天空",
+        "云层"
+      ],
+      "group_id": "story-c",
+      "cue_points": [
+        "Where and when you saw it",
+        "What appeared in the sky",
+        "Who you were with",
+        "Why you found it beautiful"
+      ],
+      "cue_source": "题目标题来自上传HTML；提示点为训练补充，未取得原始预测PDF题卡。",
+      "focus": "聚焦天空中的云层、蓝天和变化，不只写山。",
+      "reuse": "可沿用母素材中的人物、地点和已提供事件；只选择本题需要的部分。",
+      "adaptation": "开头直接回应题目；主体围绕提示点选择细节；结尾说明本题所问感受或意义。",
+      "source_type": "uploaded",
+      "reference": "I'd like to describe a beautiful view of the sky that I saw on Yulong Snow Mountain in Yunnan. It was during my graduation trip with my close friend Ning. When we reached around 4,600 metres, the snow-covered peaks were surrounded by a remarkably clear blue sky and bright white clouds. The view was even more beautiful than the pictures I had seen in advertisements. I grew up in Chengdu, where the sky is often cloudy, so seeing such a clear blue sky made me especially excited. What I remember most vividly is that the clouds were moving very quickly. At one moment, they covered part of the mountain, and then they suddenly moved away and revealed the entire peak. It felt surprisingly dynamic, almost like the landscape was changing in front of us. We took lots of photos, although I later realized that none of them really captured the feeling of seeing it in person. That moment remains one of my favourite memories from my graduation trip.",
+      "review_note": ""
+    },
+    {
+      "id": "p2-20",
+      "title": "Describe an important invention in your country",
+      "answer": "I'd like to talk about artificial intelligence as an important technological development in China and in modern society more generally. In my own life, tools such as ChatGPT have become particularly useful for learning and research. I started using AI more seriously when I was preparing for IELTS and applying for PhD programmes. It can provide instant feedback, help me organize complicated information and give me different ways of expressing an idea. For example, I can use it to practise English, brainstorm research questions or prepare for interviews. Of course, I don't think AI should replace human judgement. It can sometimes make mistakes, and people still need to check important information themselves. But as a tool, it makes access to information and personalized learning much easier. That's why I think AI is an important technological development: it doesn't just save time; it is also changing the way people learn and work.",
+      "keywords": [
+        "AI",
+        "ChatGPT"
+      ],
+      "group_id": "story-b",
+      "cue_points": [
+        "What invention or development you would choose",
+        "How it relates to the country specified in the actual question",
+        "What it is used for",
+        "Why it is important"
+      ],
+      "cue_source": "题目标题来自上传HTML；提示点为训练补充，未取得原始预测PDF题卡。",
+      "focus": "若原题要求本国发明，AI/ChatGPT不能直接证明符合地域条件，需先核题。",
+      "reuse": "可沿用母素材中的人物、地点和已提供事件；只选择本题需要的部分。",
+      "adaptation": "开头直接回应题目；主体围绕提示点选择细节；结尾说明本题所问感受或意义。",
+      "source_type": "uploaded",
+      "reference": "I'd like to talk about artificial intelligence as an important technological development in China and in modern society more generally. In my own life, tools such as ChatGPT have become particularly useful for learning and research. I started using AI more seriously when I was preparing for IELTS and applying for PhD programmes. It can provide instant feedback, help me organize complicated information and give me different ways of expressing an idea. For example, I can use it to practise English, brainstorm research questions or prepare for interviews. Of course, I don't think AI should replace human judgement. It can sometimes make mistakes, and people still need to check important information themselves. But as a tool, it makes access to information and personalized learning much easier. That's why I think AI is an important technological development: it doesn't just save time; it is also changing the way people learn and work.",
+      "review_note": "待核题：原文件只提供标题，未提供原始题卡。AI是广泛技术领域，ChatGPT也不能作为“中国发明”的证据。若实际题目要求在本国发明的事物，需要经核实的新对象；目前保留原文以供核查，不标为已适配。"
+    },
+    {
+      "id": "p2-21",
+      "title": "Describe a time when you were praised for something you did",
+      "answer": "I'd like to talk about a time when I was praised for my research. During my master's degree, I worked on a challenging project and experienced several failures at the beginning. I became discouraged at times, but I gradually solved the problems and eventually produced a complete and convincing set of results. When I presented my work to several experts, I received very positive feedback. One expert even told me that my findings were valuable and helped fill a small gap in the field. I was deeply encouraged by that comment because I had spent a long time doubting whether my work was good enough. Hearing that from someone with expertise in the field gave me much more confidence in my research ability. It also influenced my future plans. Before that, I was uncertain about whether I should continue in research, but the encouragement I received made me believe that I could develop further as a researcher. That's one of the reasons I am now preparing to apply for PhD programmes overseas.",
+      "keywords": [
+        "科研成果",
+        "专家肯定"
+      ],
+      "group_id": "story-e",
+      "cue_points": [
+        "What you did",
+        "Who praised you",
+        "What they said",
+        "How their praise affected you"
+      ],
+      "cue_source": "题目标题来自上传HTML；提示点为训练补充，未取得原始预测PDF题卡。",
+      "focus": "交代谁表扬了什么及其影响，不升级为获得奖项。",
+      "reuse": "可沿用母素材中的人物、地点和已提供事件；只选择本题需要的部分。",
+      "adaptation": "开头直接回应题目；主体围绕提示点选择细节；结尾说明本题所问感受或意义。",
+      "source_type": "uploaded",
+      "reference": "I'd like to talk about a time when I was praised for my research. During my master's degree, I worked on a challenging project and experienced several failures at the beginning. I became discouraged at times, but I gradually solved the problems and eventually produced a complete and convincing set of results. When I presented my work to several experts, I received very positive feedback. One expert even told me that my findings were valuable and helped fill a small gap in the field. I was deeply encouraged by that comment because I had spent a long time doubting whether my work was good enough. Hearing that from someone with expertise in the field gave me much more confidence in my research ability. It also influenced my future plans. Before that, I was uncertain about whether I should continue in research, but the encouragement I received made me believe that I could develop further as a researcher. That's one of the reasons I am now preparing to apply for PhD programmes overseas.",
+      "review_note": ""
+    },
+    {
+      "id": "p2-22",
+      "title": "Describe an important event you celebrated",
+      "answer": "I'd like to describe an important event I celebrated: my master's graduation. It was especially meaningful because the process had been much harder and longer than I expected. My research involved repeated experiments and several periods of uncertainty, and eventually I graduated about three months later than I had originally planned. When I finally completed my degree, I celebrated with my close friend Ning during a trip to Yunnan. We climbed Yulong Snow Mountain, took lots of photos and enjoyed the scenery. For me, the celebration wasn't only about receiving a degree. It represented the end of a difficult period and the completion of something I had worked on for a long time. I felt relieved, proud and also a little emotional. Looking back, I think the most meaningful part was realizing that I had become more resilient and independent through the process. That's why my graduation wasn't just a formal academic milestone; it was also a personal turning point before I started preparing for the next stage of my life.",
+      "keywords": [
+        "硕士毕业",
+        "云南"
+      ],
+      "group_id": "story-c",
+      "cue_points": [
+        "What the event was",
+        "When you celebrated it",
+        "Who joined you and what you did",
+        "Why it was important"
+      ],
+      "cue_source": "题目标题来自上传HTML；提示点为训练补充，未取得原始预测PDF题卡。",
+      "focus": "围绕毕业庆祝展开，不只讲雪山风景。",
+      "reuse": "可沿用母素材中的人物、地点和已提供事件；只选择本题需要的部分。",
+      "adaptation": "开头直接回应题目；主体围绕提示点选择细节；结尾说明本题所问感受或意义。",
+      "source_type": "uploaded",
+      "reference": "I'd like to describe an important event I celebrated: my master's graduation. It was especially meaningful because the process had been much harder and longer than I expected. My research involved repeated experiments and several periods of uncertainty, and eventually I graduated about three months later than I had originally planned. When I finally completed my degree, I celebrated with my close friend Ning during a trip to Yunnan. We climbed Yulong Snow Mountain, took lots of photos and enjoyed the scenery. For me, the celebration wasn't only about receiving a degree. It represented the end of a difficult period and the completion of something I had worked on for a long time. I felt relieved, proud and also a little emotional. Looking back, I think the most meaningful part was realizing that I had become more resilient and independent through the process. That's why my graduation wasn't just a formal academic milestone; it was also a personal turning point before I started preparing for the next stage of my life.",
+      "review_note": ""
+    },
+    {
+      "id": "p2-23",
+      "title": "Describe a website that sells second-hand items",
+      "answer": "I'd like to talk about Xianyu, a popular second-hand website and app in China. I used it when I wanted to buy a telephoto lens for my Fuji X-S20. As I became more interested in photography, I realized that the lens could make a big difference. I found a model that was recommended by many photography posts, but the official price was around 4,000 to 5,000 yuan, which was too expensive for me. So I searched for the same lens on Xianyu and found a seller offering it for around 3,000 yuan. That meant I could save roughly 1,000 to 2,000 yuan. I was a little worried about being scammed, so I asked the seller to send me a video of the lens and carefully confirmed the delivery details before paying. After about a week, I received it and found only minor cosmetic wear. It worked perfectly. Overall, it was a very positive shopping experience. I think second-hand platforms are useful because they make products more affordable and help items circulate instead of being left unused.",
+      "keywords": [
+        "咸鱼",
+        "二手镜头",
+        "Fuji"
+      ],
+      "group_id": "story-g",
+      "cue_points": [
+        "What the website is",
+        "What people can buy there",
+        "How you used it",
+        "What you think of the experience"
+      ],
+      "cue_source": "题目标题来自上传HTML；提示点为训练补充，未取得原始预测PDF题卡。",
+      "focus": "比较二手价格、验证过程和风险，不把省钱等同于绝对可靠。",
+      "reuse": "可沿用母素材中的人物、地点和已提供事件；只选择本题需要的部分。",
+      "adaptation": "开头直接回应题目；主体围绕提示点选择细节；结尾说明本题所问感受或意义。",
+      "source_type": "uploaded",
+      "reference": "I'd like to talk about Xianyu, a popular second-hand website and app in China. I used it when I wanted to buy a telephoto lens for my Fuji X-S20. As I became more interested in photography, I realized that the lens could make a big difference. I found a model that was recommended by many photography posts, but the official price was around 4,000 to 5,000 yuan, which was too expensive for me. So I searched for the same lens on Xianyu and found a seller offering it for around 3,000 yuan. That meant I could save roughly 1,000 to 2,000 yuan. I was a little worried about being scammed, so I asked the seller to send me a video of the lens and carefully confirmed the delivery details before paying. After about a week, I received it and found only minor cosmetic wear. It worked perfectly. Overall, it was a very positive shopping experience. I think second-hand platforms are useful because they make products more affordable and help items circulate instead of being left unused.",
+      "review_note": ""
+    },
+    {
+      "id": "p2-24",
+      "title": "Describe a competition you would like to participate in",
+      "answer": "I'd like to talk about a photography competition I'd like to participate in. Since I received my Fuji X-S20 as a graduation gift, I've gradually become more interested in photography. At first, I knew very little about camera settings and mainly used auto mode, but I slowly started learning about aperture, shutter speed, colour settings and lenses. I'd like to take part in a photography competition because it would give me a concrete reason to improve my skills. I wouldn't necessarily expect to win. What interests me more is seeing how other people approach the same subject and learning from their work. I would probably choose a competition focused on travel or natural landscapes because I enjoy photographing places such as Yulong Snow Mountain. It would also be a good way to challenge myself to move beyond simply taking photos for my own memories. Even if I didn't receive a prize, I think the experience would make me more confident and help me develop a more personal photographic style.",
+      "keywords": [
+        "摄影比赛",
+        "Fuji X-S20"
+      ],
+      "group_id": "story-g",
+      "cue_points": [
+        "What competition it is",
+        "What skills it involves",
+        "How you would prepare",
+        "Why you would like to enter"
+      ],
+      "cue_source": "题目标题来自上传HTML；提示点为训练补充，未取得原始预测PDF题卡。",
+      "focus": "使用would等设想表达，不写成已经参赛。",
+      "reuse": "可沿用母素材中的人物、地点和已提供事件；只选择本题需要的部分。",
+      "adaptation": "开头直接回应题目；主体围绕提示点选择细节；结尾说明本题所问感受或意义。",
+      "source_type": "uploaded",
+      "reference": "I'd like to talk about a photography competition I'd like to participate in. Since I received my Fuji X-S20 as a graduation gift, I've gradually become more interested in photography. At first, I knew very little about camera settings and mainly used auto mode, but I slowly started learning about aperture, shutter speed, colour settings and lenses. I'd like to take part in a photography competition because it would give me a concrete reason to improve my skills. I wouldn't necessarily expect to win. What interests me more is seeing how other people approach the same subject and learning from their work. I would probably choose a competition focused on travel or natural landscapes because I enjoy photographing places such as Yulong Snow Mountain. It would also be a good way to challenge myself to move beyond simply taking photos for my own memories. Even if I didn't receive a prize, I think the experience would make me more confident and help me develop a more personal photographic style.",
+      "review_note": ""
+    },
+    {
+      "id": "p2-25",
+      "title": "Describe a singer whose music you like",
+      "answer": "I'd like to describe Sun Yanzi, one of my favourite singers. I particularly like her lyrical music because it is emotionally rich and often makes me feel understood. Last year, I attended one of her concerts with a close friend, which was especially memorable because she had been away from the music scene for many years. When I heard her voice live, it felt almost exactly like the voice I remembered from her old songs. My friend and I were extremely excited, and we sang along throughout the concert instead of just sitting quietly. It was a great way to relax, especially because I was under a lot of pressure at the time. One song I especially like is The Moment. Although it isn't necessarily her most famous song, I find its message very meaningful. It reflects on uncertainty and vulnerability after success, which connected with my own feelings about the future. Her music gives me a sense of hope and reminds me that uncertainty doesn't mean that things will go badly.",
+      "keywords": [
+        "孙燕子",
+        "抒情音乐",
+        "演唱会"
+      ],
+      "group_id": "story-i",
+      "cue_points": [
+        "Who the singer is",
+        "How you became interested in their music",
+        "What music or performance you enjoy",
+        "Why their music matters to you"
+      ],
+      "cue_source": "题目标题来自上传HTML；提示点为训练补充，未取得原始预测PDF题卡。",
+      "focus": "谈音乐如何影响自己，避免未经核实的歌手经历。",
+      "reuse": "可沿用母素材中的人物、地点和已提供事件；只选择本题需要的部分。",
+      "adaptation": "开头直接回应题目；主体围绕提示点选择细节；结尾说明本题所问感受或意义。",
+      "source_type": "uploaded",
+      "reference": "I'd like to describe Sun Yanzi, one of my favourite singers. I particularly like her lyrical music because it is emotionally rich and often makes me feel understood. Last year, I attended one of her concerts with a close friend, and the performance was especially memorable. When I heard her voice live, it felt almost exactly like the voice I remembered from her old songs. My friend and I were extremely excited, and we sang along throughout the concert instead of just sitting quietly. It was a great way to relax, especially because I was under a lot of pressure at the time. One song I especially like is The Moment. Although it isn't necessarily her most famous song, I find its message very meaningful. It reflects on uncertainty and vulnerability after success, which connected with my own feelings about the future. Her music gives me a sense of hope and reminds me that uncertainty doesn't mean that things will go badly.",
+      "review_note": "原文件中“歌手离开乐坛多年”的说法未独立核实；训练参考删去该判断，保留你提供的演唱会与听歌体验。"
+    },
+    {
+      "id": "p2-26",
+      "title": "Describe a place in your country or part of your country that you would like to recommend to visitors/travelers",
+      "answer": "I'd like to recommend Yulong Snow Mountain in Yunnan to visitors. I went there with my close friend Ning during our graduation trip in September, after I finished my master's degree. It was our first time seeing a snow-covered mountain in real life, so we were extremely excited. We eventually reached around 4,600 metres, and the scenery was breathtaking. The snow-covered peaks stood against a clear blue sky, and the clouds moved quickly across the mountains. I come from Chengdu, where the sky is often cloudy, so the clear weather made the landscape feel even more impressive. Besides the scenery, the trip was meaningful because it came at the end of a difficult period of my life. We took lots of photos and shared the experience together. I would recommend it to visitors who enjoy nature and outdoor activities, although I would also remind them to prepare properly for the altitude and weather. For me, it is a place where natural beauty and personal memories are closely connected.",
+      "keywords": [
+        "玉龙雪山",
+        "旅行推荐"
+      ],
+      "group_id": "story-c",
+      "cue_points": [
+        "Where the place is",
+        "What visitors can do there",
+        "What your own visit was like",
+        "Why you would recommend it"
+      ],
+      "cue_source": "题目标题来自上传HTML；提示点为训练补充，未取得原始预测PDF题卡。",
+      "focus": "给出适合何种游客的推荐理由；不要承诺所有人都适合高海拔。",
+      "reuse": "可沿用母素材中的人物、地点和已提供事件；只选择本题需要的部分。",
+      "adaptation": "开头直接回应题目；主体围绕提示点选择细节；结尾说明本题所问感受或意义。",
+      "source_type": "uploaded",
+      "reference": "I'd like to recommend Yulong Snow Mountain in Yunnan to visitors. I went there with my close friend Ning during our graduation trip in September, after I finished my master's degree. It was our first time seeing a snow-covered mountain in real life, so we were extremely excited. We eventually reached around 4,600 metres, and the scenery was breathtaking. The snow-covered peaks stood against a clear blue sky, and the clouds moved quickly across the mountains. I come from Chengdu, where the sky is often cloudy, so the clear weather made the landscape feel even more impressive. Besides the scenery, the trip was meaningful because it came at the end of a difficult period of my life. We took lots of photos and shared the experience together. I would recommend it to visitors who enjoy nature and outdoor activities, although I would also remind them to prepare properly for the altitude and weather. For me, it is a place where natural beauty and personal memories are closely connected.",
+      "review_note": ""
+    },
+    {
+      "id": "p2-27",
+      "title": "Describe an interesting neighbor",
+      "answer": "I'd like to describe an interesting neighbour I know. One of my neighbours is an older person who has lived in the area for many years. What makes him interesting is that he knows a lot about local changes and traditional customs. Whenever we happen to meet, he often tells me stories about how the neighbourhood looked when he was younger. I find these conversations interesting because they are very different from what I can learn from the Internet. He also has a very practical attitude towards life and often gives simple advice rather than making complicated arguments. I don't see him every day, but our conversations are always memorable. I think people who have lived in one place for a long time can provide a different perspective on a community because they have actually experienced its changes. Talking to him has also made me more interested in the stories behind familiar places. So although we aren't close friends, I enjoy having occasional conversations with him.",
+      "keywords": [
+        "邻居",
+        "地方故事"
+      ],
+      "group_id": "story-m",
+      "cue_points": [
+        "Who the neighbour is",
+        "How you know them",
+        "What you talk about",
+        "Why you find them interesting"
+      ],
+      "cue_source": "题目标题来自上传HTML；提示点为训练补充，未取得原始预测PDF题卡。",
+      "focus": "邻居与爷爷不是同一人，不混用身份。",
+      "reuse": "可沿用母素材中的人物、地点和已提供事件；只选择本题需要的部分。",
+      "adaptation": "开头直接回应题目；主体围绕提示点选择细节；结尾说明本题所问感受或意义。",
+      "source_type": "uploaded",
+      "reference": "I'd like to describe an interesting neighbour I know. One of my neighbours is an older person who has lived in the area for many years. What makes him interesting is that he knows a lot about local changes and traditional customs. Whenever we happen to meet, he often tells me stories about how the neighbourhood looked when he was younger. I find these conversations interesting because they are very different from what I can learn from the Internet. He also has a very practical attitude towards life and often gives simple advice rather than making complicated arguments. I don't see him every day, but our conversations are always memorable. I think people who have lived in one place for a long time can provide a different perspective on a community because they have actually experienced its changes. Talking to him has also made me more interested in the stories behind familiar places. So although we aren't close friends, I enjoy having occasional conversations with him.",
+      "review_note": ""
+    },
+    {
+      "id": "p2-28",
+      "title": "Describe a time when your best friend persuaded you to do something",
+      "answer": "I'd like to describe a time when my best friend Ning persuaded me to do something. It was our decision to climb Yulong Snow Mountain during our graduation trip. I had always wanted to see a snow-covered mountain, but I was also worried about the physical challenge and the high altitude. Ning encouraged me to give it a try because we had talked about doing the trip for several years and finally had the time after graduation. We prepared carefully with food, drinks and warm clothes, so I gradually felt more confident. During the climb, however, we became exhausted and even wanted to give up. Ning kept encouraging me and reminded me that we were already close to the most beautiful part of the route. When we finally reached around 4,600 metres, the view was so breathtaking that I immediately understood why she had persuaded me. Looking back, I'm glad I listened to her because the experience became one of the most memorable parts of my graduation trip.",
+      "keywords": [
+        "Ning",
+        "登雪山",
+        "鼓励"
+      ],
+      "group_id": "story-c",
+      "cue_points": [
+        "Who persuaded you",
+        "What they encouraged you to do",
+        "Why you were hesitant",
+        "How the experience turned out"
+      ],
+      "cue_source": "题目标题来自上传HTML；提示点为训练补充，未取得原始预测PDF题卡。",
+      "focus": "突出好友如何劝说及自己的态度变化。",
+      "reuse": "可沿用母素材中的人物、地点和已提供事件；只选择本题需要的部分。",
+      "adaptation": "开头直接回应题目；主体围绕提示点选择细节；结尾说明本题所问感受或意义。",
+      "source_type": "uploaded",
+      "reference": "I'd like to describe a time when my best friend Ning persuaded me to do something. It was our decision to climb Yulong Snow Mountain during our graduation trip. I had always wanted to see a snow-covered mountain, but I was also worried about the physical challenge and the high altitude. Ning encouraged me to give it a try because we had talked about doing the trip for several years and finally had the time after graduation. We prepared carefully with food, drinks and warm clothes, so I gradually felt more confident. During the climb, however, we became exhausted and even wanted to give up. Ning kept encouraging me and reminded me that we were already close to the most beautiful part of the route. When we finally reached around 4,600 metres, the view was so breathtaking that I immediately understood why she had persuaded me. Looking back, I'm glad I listened to her because the experience became one of the most memorable parts of my graduation trip.",
+      "review_note": ""
+    },
+    {
+      "id": "p2-29",
+      "title": "Describe the greatest invention that has changed the world in a positive way",
+      "answer": "I'd say the Internet is one of the greatest inventions that has changed the world in a positive way. It has made information much easier to access and has connected people across geographical boundaries. In my own life, I rely on it for research, learning English and communicating with people overseas. For example, when I was preparing my master's research, I could search for academic papers and learn about methods from researchers around the world. More recently, I've used email and online platforms to contact potential PhD supervisors in the UK. The Internet has also made learning more flexible. I can watch a short English lesson, practise with AI tools or look up a photography tutorial whenever I have time. Of course, the Internet also has disadvantages, such as distraction and information overload. But overall, I think its positive impact is enormous because it has lowered the barriers to information, communication and education. It has become so integrated into modern life that it is difficult to imagine studying or working without it.",
+      "keywords": [
+        "Internet",
+        "信息",
+        "教育",
+        "科研"
+      ],
+      "group_id": "story-b",
+      "cue_points": [
+        "What the invention is",
+        "How it is used",
+        "How it has affected your life",
+        "Why you think its impact is positive"
+      ],
+      "cue_source": "题目标题来自上传HTML；提示点为训练补充，未取得原始预测PDF题卡。",
+      "focus": "讨论正面影响，同时简要承认局限。",
+      "reuse": "可沿用母素材中的人物、地点和已提供事件；只选择本题需要的部分。",
+      "adaptation": "开头直接回应题目；主体围绕提示点选择细节；结尾说明本题所问感受或意义。",
+      "source_type": "uploaded",
+      "reference": "I'd say the Internet is one of the greatest inventions that has changed the world in a positive way. It has made information much easier to access and has connected people across geographical boundaries. In my own life, I rely on it for research, learning English and communicating with people overseas. For example, when I was preparing my master's research, I could search for academic papers and learn about methods from researchers around the world. More recently, I've used email and online platforms to contact potential PhD supervisors in the UK. The Internet has also made learning more flexible. I can watch a short English lesson, practise with AI tools or look up a photography tutorial whenever I have time. Of course, the Internet also has disadvantages, such as distraction and information overload. But overall, I think its positive impact is enormous because it has lowered the barriers to information, communication and education. It has become so integrated into modern life that it is difficult to imagine studying or working without it.",
+      "review_note": ""
+    },
+    {
+      "id": "new-j-1",
+      "title": "Describe a person who encouraged you during a difficult time",
+      "answer": "",
+      "reference": "I'd like to describe a close friend who encouraged me while I was preparing for a postgraduate interview. At first, I didn't really like her. She quickly became close to one of my best friends, and I felt a little as if my friendship was being taken away. We also seemed completely different, and I didn't think we had much in common. I even thought some of her enthusiastic behaviour was a little fake. Later, we became deskmates, and I gradually realized that I had misunderstood her. She was genuinely friendly and outgoing. She would share snacks with me and talk about interesting things. As we spent more time together, we discovered that we actually shared quite a few interests and similar views about life. What really turned us into close friends was the way we supported each other. When I was preparing for a postgraduate interview and feeling extremely anxious, she encouraged me through many long phone calls and shared useful application information with me. Eventually, we both got into the universities we wanted. The experience taught me that first impressions can be misleading and that genuine friendship can last through different stages of life.",
+      "keywords": [
+        "初中转校生",
+        "第一印象",
+        "互相支持"
+      ],
+      "group_id": "story-j",
+      "cue_points": [
+        "Who or where the subject was",
+        "What happened or what you usually do",
+        "Which details support this particular topic",
+        "Why the experience or place matters to you"
+      ],
+      "cue_source": "新增迁移训练题与提示点，非考试回忆或原始预测题；参考回答仅改编已提供素材。",
+      "focus": "支持与鼓励，聚焦备考时期，而不是最初的误解。",
+      "reuse": "仅复用本组已提供的事件和人物，不添加新经历。",
+      "adaptation": "支持与鼓励，聚焦备考时期，而不是最初的误解。",
+      "source_type": "generated",
+      "review_note": ""
+    },
+    {
+      "id": "new-j-2",
+      "title": "Describe a time when your opinion of someone changed",
+      "answer": "",
+      "reference": "I'd like to describe a time when my opinion of a schoolmate changed. At first, I didn't really like her. She quickly became close to one of my best friends, and I felt a little as if my friendship was being taken away. We also seemed completely different, and I didn't think we had much in common. I even thought some of her enthusiastic behaviour was a little fake. Later, we became deskmates, and I gradually realized that I had misunderstood her. She was genuinely friendly and outgoing. She would share snacks with me and talk about interesting things. As we spent more time together, we discovered that we actually shared quite a few interests and similar views about life. What really turned us into close friends was the way we supported each other. When I was preparing for a postgraduate interview and feeling extremely anxious, she encouraged me through many long phone calls and shared useful application information with me. Eventually, we both got into the universities we wanted. The experience taught me that first impressions can be misleading and that genuine friendship can last through different stages of life.",
+      "keywords": [
+        "初中转校生",
+        "第一印象",
+        "互相支持"
+      ],
+      "group_id": "story-j",
+      "cue_points": [
+        "Who or where the subject was",
+        "What happened or what you usually do",
+        "Which details support this particular topic",
+        "Why the experience or place matters to you"
+      ],
+      "cue_source": "新增迁移训练题与提示点，非考试回忆或原始预测题；参考回答仅改编已提供素材。",
+      "focus": "以观点转变为主线，说明什么证据改变了判断。",
+      "reuse": "仅复用本组已提供的事件和人物，不添加新经历。",
+      "adaptation": "以观点转变为主线，说明什么证据改变了判断。",
+      "source_type": "generated",
+      "review_note": ""
+    },
+    {
+      "id": "new-k-1",
+      "title": "Describe a time when a stranger helped you",
+      "answer": "",
+      "reference": "I'd like to describe a time when a stranger helped me during a difficult journey. I was about fifteen, and it was my first time travelling alone. On the way back from Beijing, I accidentally left my backpack at a railway station. Unfortunately, it contained my phone, cash and other important things. I didn't realize it until I had already boarded the train, so I immediately felt panicked because I had no easy way to contact my family. Luckily, I came across a kind woman who noticed that I was struggling. She helped me contact my family and even lent me some cash so that I could manage the journey. She stayed with me for much of the trip and made sure I got into the right vehicle after I got off the train. The backpack was never recovered, but I still remember her kindness. The experience taught me to be much more careful when travelling alone. It also made me realize that a small act of kindness from a stranger can make an enormous difference when someone is vulnerable.",
+      "keywords": [
+        "北京丢包",
+        "陌生人帮助"
+      ],
+      "group_id": "story-k",
+      "cue_points": [
+        "Who or where the subject was",
+        "What happened or what you usually do",
+        "Which details support this particular topic",
+        "Why the experience or place matters to you"
+      ],
+      "cue_source": "新增迁移训练题与提示点，非考试回忆或原始预测题；参考回答仅改编已提供素材。",
+      "focus": "以陌生人的行动与影响为主，不改写丢包结局。",
+      "reuse": "仅复用本组已提供的事件和人物，不添加新经历。",
+      "adaptation": "以陌生人的行动与影响为主，不改写丢包结局。",
+      "source_type": "generated",
+      "review_note": ""
+    },
+    {
+      "id": "new-k-2",
+      "title": "Describe an unexpected problem during a journey",
+      "answer": "",
+      "reference": "I'd like to describe an unexpected problem I faced while travelling alone. I was about fifteen, and it was my first time travelling alone. On the way back from Beijing, I accidentally left my backpack at a railway station. Unfortunately, it contained my phone, cash and other important things. I didn't realize it until I had already boarded the train, so I immediately felt panicked because I had no easy way to contact my family. Luckily, I came across a kind woman who noticed that I was struggling. She helped me contact my family and even lent me some cash so that I could manage the journey. She stayed with me for much of the trip and made sure I got into the right vehicle after I got off the train. The backpack was never recovered, but I still remember her kindness. The experience taught me to be much more careful when travelling alone. It also made me realize that a small act of kindness from a stranger can make an enormous difference when someone is vulnerable.",
+      "keywords": [
+        "北京丢包",
+        "陌生人帮助"
+      ],
+      "group_id": "story-k",
+      "cue_points": [
+        "Who or where the subject was",
+        "What happened or what you usually do",
+        "Which details support this particular topic",
+        "Why the experience or place matters to you"
+      ],
+      "cue_source": "新增迁移训练题与提示点，非考试回忆或原始预测题；参考回答仅改编已提供素材。",
+      "focus": "聚焦意外、应对与教训，不把它写成成功找回物品。",
+      "reuse": "仅复用本组已提供的事件和人物，不添加新经历。",
+      "adaptation": "聚焦意外、应对与教训，不把它写成成功找回物品。",
+      "source_type": "generated",
+      "review_note": ""
+    },
+    {
+      "id": "new-l-1",
+      "title": "Describe a place where you can concentrate",
+      "answer": "",
+      "reference": "I'd like to describe a place where I can concentrate: a quiet café near West Lake in Hangzhou. It is on the second floor of a small building and has large windows overlooking the surroundings. I first went there when I needed somewhere peaceful to work, because I was quite busy with my master's research at the time. What I liked immediately was that it wasn't crowded or noisy. I could sit by the window, have a cup of coffee and concentrate on my work without being disturbed. Sometimes I also bring my camera and take a few photos when I need a break. The atmosphere is especially pleasant on a weekday afternoon, when the sunlight comes through the windows and the area around West Lake feels much calmer. I think I like this place because I normally spend a lot of time dealing with research and applications, so I really value somewhere that allows me to slow down. It has become one of my favourite places to recharge and focus.",
+      "keywords": [
+        "杭州西湖",
+        "安静咖啡馆"
+      ],
+      "group_id": "story-l",
+      "cue_points": [
+        "Who or where the subject was",
+        "What happened or what you usually do",
+        "Which details support this particular topic",
+        "Why the experience or place matters to you"
+      ],
+      "cue_source": "新增迁移训练题与提示点，非考试回忆或原始预测题；参考回答仅改编已提供素材。",
+      "focus": "解释怎样支持专注，而不是只列举环境。",
+      "reuse": "仅复用本组已提供的事件和人物，不添加新经历。",
+      "adaptation": "解释怎样支持专注，而不是只列举环境。",
+      "source_type": "generated",
+      "review_note": ""
+    },
+    {
+      "id": "new-l-2",
+      "title": "Describe a place you visit to relax",
+      "answer": "",
+      "reference": "I'd like to describe a place I visit to relax: a quiet café near West Lake in Hangzhou. It is on the second floor of a small building and has large windows overlooking the surroundings. I first went there when I needed somewhere peaceful to work, because I was quite busy with my master's research at the time. What I liked immediately was that it wasn't crowded or noisy. I could sit by the window, have a cup of coffee and concentrate on my work without being disturbed. Sometimes I also bring my camera and take a few photos when I need a break. The atmosphere is especially pleasant on a weekday afternoon, when the sunlight comes through the windows and the area around West Lake feels much calmer. I think I like this place because I normally spend a lot of time dealing with research and applications, so I really value somewhere that allows me to slow down. It has become one of my favourite places to recharge and focus.",
+      "keywords": [
+        "杭州西湖",
+        "安静咖啡馆"
+      ],
+      "group_id": "story-l",
+      "cue_points": [
+        "Who or where the subject was",
+        "What happened or what you usually do",
+        "Which details support this particular topic",
+        "Why the experience or place matters to you"
+      ],
+      "cue_source": "新增迁移训练题与提示点，非考试回忆或原始预测题；参考回答仅改编已提供素材。",
+      "focus": "把重点放在减压与恢复精力。",
+      "reuse": "仅复用本组已提供的事件和人物，不添加新经历。",
+      "adaptation": "把重点放在减压与恢复精力。",
+      "source_type": "generated",
+      "review_note": ""
+    },
+    {
+      "id": "new-m-1",
+      "title": "Describe someone who knows a lot about your local area",
+      "answer": "",
+      "reference": "I'd like to describe a neighbour who knows a great deal about my local area. One of my neighbours is an older person who has lived in the area for many years. What makes him interesting is that he knows a lot about local changes and traditional customs. Whenever we happen to meet, he often tells me stories about how the neighbourhood looked when he was younger. I find these conversations interesting because they are very different from what I can learn from the Internet. He also has a very practical attitude towards life and often gives simple advice rather than making complicated arguments. I don't see him every day, but our conversations are always memorable. I think people who have lived in one place for a long time can provide a different perspective on a community because they have actually experienced its changes. Talking to him has also made me more interested in the stories behind familiar places. So although we aren't close friends, I enjoy having occasional conversations with him.",
+      "keywords": [
+        "邻居",
+        "地方故事"
+      ],
+      "group_id": "story-m",
+      "cue_points": [
+        "Who or where the subject was",
+        "What happened or what you usually do",
+        "Which details support this particular topic",
+        "Why the experience or place matters to you"
+      ],
+      "cue_source": "新增迁移训练题与提示点，非考试回忆或原始预测题；参考回答仅改编已提供素材。",
+      "focus": "重点是对地方的了解，不把邻居替换为爷爷。",
+      "reuse": "仅复用本组已提供的事件和人物，不添加新经历。",
+      "adaptation": "重点是对地方的了解，不把邻居替换为爷爷。",
+      "source_type": "generated",
+      "review_note": ""
+    },
+    {
+      "id": "new-m-2",
+      "title": "Describe a conversation that helped you learn about a place",
+      "answer": "",
+      "reference": "I'd like to talk about the conversations I have with a neighbour about our local area. One of my neighbours is an older person who has lived in the area for many years. What makes him interesting is that he knows a lot about local changes and traditional customs. Whenever we happen to meet, he often tells me stories about how the neighbourhood looked when he was younger. I find these conversations interesting because they are very different from what I can learn from the Internet. He also has a very practical attitude towards life and often gives simple advice rather than making complicated arguments. I don't see him every day, but our conversations are always memorable. I think people who have lived in one place for a long time can provide a different perspective on a community because they have actually experienced its changes. Talking to him has also made me more interested in the stories behind familiar places. So although we aren't close friends, I enjoy having occasional conversations with him.",
+      "keywords": [
+        "邻居",
+        "地方故事"
+      ],
+      "group_id": "story-m",
+      "cue_points": [
+        "Who or where the subject was",
+        "What happened or what you usually do",
+        "Which details support this particular topic",
+        "Why the experience or place matters to you"
+      ],
+      "cue_source": "新增迁移训练题与提示点，非考试回忆或原始预测题；参考回答仅改编已提供素材。",
+      "focus": "原材料没有具体某一次对话日期，不补造时间和新故事。",
+      "reuse": "仅复用本组已提供的事件和人物，不添加新经历。",
+      "adaptation": "原材料没有具体某一次对话日期，不补造时间和新故事。",
+      "source_type": "generated",
+      "review_note": ""
+    }
+  ],
+  "part3": [
+    {
+      "id": "p3-01",
+      "title": "Old people, conversations and generations",
+      "questions": [
+        {
+          "id": "p3-01-1",
+          "question": "How can young people learn from old people?",
+          "answer": "Older people have accumulated practical experience that younger people simply don't have. They can share stories about how they dealt with uncertainty, relationships and difficult decisions. At the same time, young people should not accept every traditional idea uncritically; they can compare that experience with current knowledge.",
+          "outline": {
+            "point": "Older people have accumulated practical experience that younger people simply don't have.",
+            "development": "They can share stories about how they dealt with uncertainty, relationships and difficult decisions. At the same time, young people should not accept every traditional idea uncritically; they can compare that experience with current knowledge."
+          }
+        },
+        {
+          "id": "p3-01-2",
+          "question": "Why do some people prefer talking to older people?",
+          "answer": "Older people often have more life experience and can offer a different perspective. I also think conversations with them can feel less competitive because they are not necessarily trying to impress you. For example, my grandfather taught me a traditional Chinese story, and that conversation stayed with me for years.",
+          "outline": {
+            "point": "Older people often have more life experience and can offer a different perspective.",
+            "development": "I also think conversations with them can feel less competitive because they are not necessarily trying to impress you. For example, my grandfather taught me a traditional Chinese story, and that conversation stayed with me for years."
+          }
+        },
+        {
+          "id": "p3-01-3",
+          "question": "Do you think older people and young people can share the same interests?",
+          "answer": "Definitely. Age doesn't determine every interest. People of different generations can enjoy photography, travel, music or even technology together. The important thing is whether they have something meaningful to talk about.",
+          "outline": {
+            "point": "Definitely.",
+            "development": "Age doesn't determine every interest. People of different generations can enjoy photography, travel, music or even technology together. The important thing is whether they have something meaningful to talk about."
+          }
+        },
+        {
+          "id": "p3-01-4",
+          "question": "Why should young people respect older people?",
+          "answer": "Respect is important because older people have contributed to their families and communities and have valuable experience. However, I think respect should be mutual rather than based simply on age.",
+          "outline": {
+            "point": "Respect is important because older people have contributed to their families and communities and have valuable experience.",
+            "development": "However, I think respect should be mutual rather than based simply on age."
+          }
+        }
+      ]
+    },
+    {
+      "id": "p3-02",
+      "title": "English learning and teachers",
+      "questions": [
+        {
+          "id": "p3-02-1",
+          "question": "What makes a good language teacher?",
+          "answer": "A good language teacher needs both knowledge and patience. They should explain difficult points clearly, but they should also understand that students make mistakes when they are learning. I particularly value teachers who give practical feedback rather than simply correcting every error.",
+          "outline": {
+            "point": "A good language teacher needs both knowledge and patience.",
+            "development": "They should explain difficult points clearly, but they should also understand that students make mistakes when they are learning. I particularly value teachers who give practical feedback rather than simply correcting every error."
+          }
+        },
+        {
+          "id": "p3-02-2",
+          "question": "How can people improve their English speaking?",
+          "answer": "They need regular exposure and active practice. For example, they can use shadowing, speak about familiar topics and try to think directly in English instead of translating everything from their native language. The key is consistency rather than studying intensively for only a few days.",
+          "outline": {
+            "point": "They need regular exposure and active practice.",
+            "development": "For example, they can use shadowing, speak about familiar topics and try to think directly in English instead of translating everything from their native language. The key is consistency rather than studying intensively for only a few days."
+          }
+        },
+        {
+          "id": "p3-02-3",
+          "question": "Is AI useful for language learning?",
+          "answer": "Yes, it can provide instant feedback and make practice more accessible. For example, I use AI tools to improve my English expressions and practise IELTS questions. However, teachers still matter because emotional support and human interaction cannot be fully replaced by AI.",
+          "outline": {
+            "point": "Yes, it can provide instant feedback and make practice more accessible.",
+            "development": "For example, I use AI tools to improve my English expressions and practise IELTS questions. However, teachers still matter because emotional support and human interaction cannot be fully replaced by AI."
+          }
+        },
+        {
+          "id": "p3-02-4",
+          "question": "Can technology replace language teachers?",
+          "answer": "I don't think so. Technology can provide information and personalized exercises, but teachers can understand a student's emotions, motivation and long-term progress. I see AI as a useful complement rather than a replacement.",
+          "outline": {
+            "point": "I don't think so.",
+            "development": "Technology can provide information and personalized exercises, but teachers can understand a student's emotions, motivation and long-term progress. I see AI as a useful complement rather than a replacement."
+          }
+        }
+      ]
+    },
+    {
+      "id": "p3-03",
+      "title": "Places, nature and beautiful views",
+      "questions": [
+        {
+          "id": "p3-03-1",
+          "question": "Why do people like beautiful natural places?",
+          "answer": "Natural places give people a break from highly artificial and stressful environments. They can also create a sense of scale and calm that is difficult to get from everyday city life. For me, seeing Yulong Snow Mountain after a stressful master's period was particularly refreshing.",
+          "outline": {
+            "point": "Natural places give people a break from highly artificial and stressful environments.",
+            "development": "They can also create a sense of scale and calm that is difficult to get from everyday city life. For me, seeing Yulong Snow Mountain after a stressful master's period was particularly refreshing."
+          }
+        },
+        {
+          "id": "p3-03-2",
+          "question": "Why do people take photos of beautiful scenery?",
+          "answer": "Photos allow people to preserve a moment and share it with others. I also think people take photos because beautiful scenery is temporary. For example, the clouds around the snow mountain were moving quickly, so I wanted to capture the moment before the view changed.",
+          "outline": {
+            "point": "Photos allow people to preserve a moment and share it with others.",
+            "development": "I also think people take photos because beautiful scenery is temporary. For example, the clouds around the snow mountain were moving quickly, so I wanted to capture the moment before the view changed."
+          }
+        },
+        {
+          "id": "p3-03-3",
+          "question": "Should people protect natural places?",
+          "answer": "Definitely. Natural places are valuable for both biodiversity and people's well-being. Tourism can bring economic benefits, but if visitors ignore rules, they can damage the environment. So tourism should be managed rather than simply expanded.",
+          "outline": {
+            "point": "Definitely.",
+            "development": "Natural places are valuable for both biodiversity and people's well-being. Tourism can bring economic benefits, but if visitors ignore rules, they can damage the environment. So tourism should be managed rather than simply expanded."
+          }
+        },
+        {
+          "id": "p3-03-4",
+          "question": "Is it better to visit natural places alone or with others?",
+          "answer": "It depends on the purpose. I prefer travelling with a close friend when I want to share an experience, but I also like visiting quiet places alone when I need time to think.",
+          "outline": {
+            "point": "It depends on the purpose.",
+            "development": "I prefer travelling with a close friend when I want to share an experience, but I also like visiting quiet places alone when I need time to think."
+          }
+        }
+      ]
+    },
+    {
+      "id": "p3-04",
+      "title": "Children and public behaviour",
+      "questions": [
+        {
+          "id": "p3-04-1",
+          "question": "Why do some children behave badly in public?",
+          "answer": "Sometimes they simply haven't learned the appropriate boundaries yet. Parents may also be too busy or too permissive. I think children need clear rules, but they also need adults to explain why a behaviour is inappropriate.",
+          "outline": {
+            "point": "Sometimes they simply haven't learned the appropriate boundaries yet.",
+            "development": "Parents may also be too busy or too permissive. I think children need clear rules, but they also need adults to explain why a behaviour is inappropriate."
+          }
+        },
+        {
+          "id": "p3-04-2",
+          "question": "How should parents teach children good behaviour?",
+          "answer": "They should model the behaviour themselves and explain the consequences rather than only punishing children. For example, in places involving animals, parents should teach children not to enter restricted areas simply for a photo.",
+          "outline": {
+            "point": "They should model the behaviour themselves and explain the consequences rather than only punishing children.",
+            "development": "For example, in places involving animals, parents should teach children not to enter restricted areas simply for a photo."
+          }
+        },
+        {
+          "id": "p3-04-3",
+          "question": "Should schools teach practical behaviour as well as academic knowledge?",
+          "answer": "Yes, but I think academic learning should remain a priority. Practical skills such as safety, communication and basic responsibility are also important, especially because young people need to function independently in society.",
+          "outline": {
+            "point": "Yes, but I think academic learning should remain a priority.",
+            "development": "Practical skills such as safety, communication and basic responsibility are also important, especially because young people need to function independently in society."
+          }
+        }
+      ]
+    },
+    {
+      "id": "p3-05",
+      "title": "Phones, social media and AI",
+      "questions": [
+        {
+          "id": "p3-05-1",
+          "question": "Why do people spend so much time on social media?",
+          "answer": "One main reason is instant entertainment. After a long day, short videos require very little effort. AI-driven algorithms can also keep recommending content that matches people's interests, so people may intend to check their phones for a few minutes but end up spending hours.",
+          "outline": {
+            "point": "One main reason is instant entertainment.",
+            "development": "After a long day, short videos require very little effort. AI-driven algorithms can also keep recommending content that matches people's interests, so people may intend to check their phones for a few minutes but end up spending hours."
+          }
+        },
+        {
+          "id": "p3-05-2",
+          "question": "How can people avoid wasting time on their phones?",
+          "answer": "I think setting clear limits is useful, but the bigger issue is developing awareness. Turning off unnecessary notifications and keeping the phone away during focused work can help. Personally, I try not to use short-video apps when I need to concentrate.",
+          "outline": {
+            "point": "I think setting clear limits is useful, but the bigger issue is developing awareness.",
+            "development": "Turning off unnecessary notifications and keeping the phone away during focused work can help. Personally, I try not to use short-video apps when I need to concentrate."
+          }
+        },
+        {
+          "id": "p3-05-3",
+          "question": "Can smartphones be useful for important tasks?",
+          "answer": "Absolutely. I recently used my phone to monitor emails from potential PhD supervisors overseas. Some messages could affect my future academic plans, so in that situation checking my phone was useful rather than simply distracting.",
+          "outline": {
+            "point": "Absolutely.",
+            "development": "I recently used my phone to monitor emails from potential PhD supervisors overseas. Some messages could affect my future academic plans, so in that situation checking my phone was useful rather than simply distracting."
+          }
+        },
+        {
+          "id": "p3-05-4",
+          "question": "Will AI reduce educational inequality?",
+          "answer": "It has the potential to because students can get information and personalized feedback more easily. However, access to technology is still uneven, and some students may not have reliable Internet or may not know how to use AI effectively. So AI alone cannot remove the education gap.",
+          "outline": {
+            "point": "It has the potential to because students can get information and personalized feedback more easily.",
+            "development": "However, access to technology is still uneven, and some students may not have reliable Internet or may not know how to use AI effectively. So AI alone cannot remove the education gap."
+          }
+        }
+      ]
+    },
+    {
+      "id": "p3-06",
+      "title": "Decisions, advice and disagreements",
+      "questions": [
+        {
+          "id": "p3-06-1",
+          "question": "Why are some decisions difficult to make?",
+          "answer": "Important decisions often involve uncertainty and competing priorities. For example, choosing between a stable job and a PhD meant balancing financial security with my interest in research. There wasn't a completely risk-free option.",
+          "outline": {
+            "point": "Important decisions often involve uncertainty and competing priorities.",
+            "development": "For example, choosing between a stable job and a PhD meant balancing financial security with my interest in research. There wasn't a completely risk-free option."
+          }
+        },
+        {
+          "id": "p3-06-2",
+          "question": "Do people need advice when making major decisions?",
+          "answer": "Advice can be useful, especially when it comes from someone who understands your situation. However, people ultimately have to live with their own decisions, so advice should support judgement rather than replace it.",
+          "outline": {
+            "point": "Advice can be useful, especially when it comes from someone who understands your situation.",
+            "development": "However, people ultimately have to live with their own decisions, so advice should support judgement rather than replace it."
+          }
+        },
+        {
+          "id": "p3-06-3",
+          "question": "Why do family members sometimes disagree?",
+          "answer": "They often have different priorities because they come from different generations. My parents valued stability and financial security, while I placed more importance on research and long-term personal fulfilment. Understanding the reason behind the disagreement made it easier to communicate.",
+          "outline": {
+            "point": "They often have different priorities because they come from different generations.",
+            "development": "My parents valued stability and financial security, while I placed more importance on research and long-term personal fulfilment. Understanding the reason behind the disagreement made it easier to communicate."
+          }
+        },
+        {
+          "id": "p3-06-4",
+          "question": "How can people solve disagreements?",
+          "answer": "The most useful approach is to discuss the underlying concern rather than trying to prove who is right. A calm conversation can reveal that two people may have different priorities but still care about the same outcome.",
+          "outline": {
+            "point": "The most useful approach is to discuss the underlying concern rather than trying to prove who is right.",
+            "development": "A calm conversation can reveal that two people may have different priorities but still care about the same outcome."
+          }
+        }
+      ]
+    },
+    {
+      "id": "p3-07",
+      "title": "Clothes and first impressions",
+      "questions": [
+        {
+          "id": "p3-07-1",
+          "question": "Why do some people care a lot about clothes?",
+          "answer": "Clothes can communicate personality and are often part of a person's first impression. Some people also see fashion as a form of self-expression. However, I don't think appearance necessarily reflects someone's abilities or personality.",
+          "outline": {
+            "point": "Clothes can communicate personality and are often part of a person's first impression.",
+            "development": "Some people also see fashion as a form of self-expression. However, I don't think appearance necessarily reflects someone's abilities or personality."
+          }
+        },
+        {
+          "id": "p3-07-2",
+          "question": "Can clothes influence people's opinions?",
+          "answer": "Definitely, especially when people meet for the first time. I once expected my supervisor to dress formally, but he often wore casual T-shirts. Later I realized that his casual appearance had little to do with how rigorous he was as a researcher.",
+          "outline": {
+            "point": "Definitely, especially when people meet for the first time.",
+            "development": "I once expected my supervisor to dress formally, but he often wore casual T-shirts. Later I realized that his casual appearance had little to do with how rigorous he was as a researcher."
+          }
+        },
+        {
+          "id": "p3-07-3",
+          "question": "Should people wear formal clothes at work?",
+          "answer": "It depends on the workplace. Formal clothes can be appropriate for interviews or important meetings, but in many research environments, comfort and practicality may matter more. The important thing is to respect the context.",
+          "outline": {
+            "point": "It depends on the workplace.",
+            "development": "Formal clothes can be appropriate for interviews or important meetings, but in many research environments, comfort and practicality may matter more. The important thing is to respect the context."
+          }
+        },
+        {
+          "id": "p3-07-4",
+          "question": "Why do people follow fashion trends?",
+          "answer": "Trends make it easier for people to know what is considered stylish, and social media spreads them very quickly. Some people also follow trends because they want to feel part of a group.",
+          "outline": {
+            "point": "Trends make it easier for people to know what is considered stylish, and social media spreads them very quickly.",
+            "development": "Some people also follow trends because they want to feel part of a group."
+          }
+        }
+      ]
+    },
+    {
+      "id": "p3-08",
+      "title": "Second-hand shopping and consumption",
+      "questions": [
+        {
+          "id": "p3-08-1",
+          "question": "Why do people buy second-hand items?",
+          "answer": "The main reason is usually price. Good-quality second-hand products can be much cheaper than new ones. Another reason is sustainability because reusing products extends their life and reduces unnecessary waste.",
+          "outline": {
+            "point": "The main reason is usually price.",
+            "development": "Good-quality second-hand products can be much cheaper than new ones. Another reason is sustainability because reusing products extends their life and reduces unnecessary waste."
+          }
+        },
+        {
+          "id": "p3-08-2",
+          "question": "Is buying second-hand risky?",
+          "answer": "It can be. Buyers may not know the exact condition of an item, and online transactions can involve scams. When I bought a camera lens on Xianyu, I asked the seller for a video and carefully checked the details before paying.",
+          "outline": {
+            "point": "It can be.",
+            "development": "Buyers may not know the exact condition of an item, and online transactions can involve scams. When I bought a camera lens on Xianyu, I asked the seller for a video and carefully checked the details before paying."
+          }
+        },
+        {
+          "id": "p3-08-3",
+          "question": "How can second-hand websites improve their services?",
+          "answer": "They could provide stronger identity verification, clearer product-condition standards and better buyer protection. These measures would make people more willing to buy expensive second-hand products.",
+          "outline": {
+            "point": "They could provide stronger identity verification, clearer product-condition standards and better buyer protection.",
+            "development": "These measures would make people more willing to buy expensive second-hand products."
+          }
+        }
+      ]
+    },
+    {
+      "id": "p3-09",
+      "title": "Music, singers and competitions",
+      "questions": [
+        {
+          "id": "p3-09-1",
+          "question": "Why do people like music?",
+          "answer": "Music can regulate emotions and create a sense of connection. People can listen to it when they want to relax, concentrate or remember a particular period of their lives. For me, Sun Yanzi's music was especially comforting when I felt uncertain about the future.",
+          "outline": {
+            "point": "Music can regulate emotions and create a sense of connection.",
+            "development": "People can listen to it when they want to relax, concentrate or remember a particular period of their lives. For me, Sun Yanzi's music was especially comforting when I felt uncertain about the future."
+          }
+        },
+        {
+          "id": "p3-09-2",
+          "question": "Why do people like live concerts?",
+          "answer": "A live concert provides a shared experience that recordings cannot fully reproduce. Singing with friends and thousands of other people creates a strong emotional atmosphere.",
+          "outline": {
+            "point": "A live concert provides a shared experience that recordings cannot fully reproduce.",
+            "development": "Singing with friends and thousands of other people creates a strong emotional atmosphere."
+          }
+        },
+        {
+          "id": "p3-09-3",
+          "question": "Are competitions useful for learning skills?",
+          "answer": "Yes, if the focus is not only on winning. A competition gives people a concrete goal and encourages them to compare their work with others. For example, I'd like to enter a photography competition to improve my skills rather than simply to win a prize.",
+          "outline": {
+            "point": "Yes, if the focus is not only on winning.",
+            "development": "A competition gives people a concrete goal and encourages them to compare their work with others. For example, I'd like to enter a photography competition to improve my skills rather than simply to win a prize."
+          }
+        },
+        {
+          "id": "p3-09-4",
+          "question": "Should children be encouraged to enter competitions?",
+          "answer": "They can be, but adults should avoid putting too much pressure on results. Competitions are useful when they encourage practice, confidence and learning rather than making children feel that their worth depends on winning.",
+          "outline": {
+            "point": "They can be, but adults should avoid putting too much pressure on results.",
+            "development": "Competitions are useful when they encourage practice, confidence and learning rather than making children feel that their worth depends on winning."
+          }
+        }
+      ]
+    },
+    {
+      "id": "p3-10",
+      "title": "Events and celebration",
+      "questions": [
+        {
+          "id": "p3-10-1",
+          "question": "Why do people celebrate important events?",
+          "answer": "Celebrations mark transitions and give people a chance to share important moments with others. My master's graduation was meaningful because it marked the end of a difficult period and the beginning of a new stage.",
+          "outline": {
+            "point": "Celebrations mark transitions and give people a chance to share important moments with others.",
+            "development": "My master's graduation was meaningful because it marked the end of a difficult period and the beginning of a new stage."
+          }
+        },
+        {
+          "id": "p3-10-2",
+          "question": "Are traditional celebrations still important?",
+          "answer": "Yes, because they connect people with cultural traditions and family memories. For example, the story of Nian helped me understand why firecrackers are associated with Chinese New Year.",
+          "outline": {
+            "point": "Yes, because they connect people with cultural traditions and family memories.",
+            "development": "For example, the story of Nian helped me understand why firecrackers are associated with Chinese New Year."
+          }
+        },
+        {
+          "id": "p3-10-3",
+          "question": "How have celebrations changed?",
+          "answer": "They have become more personalized and sometimes more influenced by social media. People may share photos and videos online, but I think the core purpose remains the same: spending meaningful time with other people.",
+          "outline": {
+            "point": "They have become more personalized and sometimes more influenced by social media.",
+            "development": "People may share photos and videos online, but I think the core purpose remains the same: spending meaningful time with other people."
+          }
+        }
+      ]
+    }
+  ],
+  "groups": [
+    {
+      "id": "story-a",
+      "letter": "A",
+      "title": "爷爷与春节故事",
+      "source_ids": [
+        "p2-01",
+        "p2-02"
+      ],
+      "chain": [
+        "小时候害怕鞭炮",
+        "爷爷讲年兽故事",
+        "理解习俗的来源",
+        "从害怕转为参与",
+        "体会故事与代际传承"
+      ],
+      "anchors": [
+        "grandfather",
+        "Chinese New Year",
+        "Nian",
+        "firecrackers"
+      ],
+      "part3_topics": [
+        "Old people, conversations and generations",
+        "Events and celebration"
+      ],
+      "phrases": [
+        {
+          "id": "1",
+          "en": "setting off firecrackers",
+          "cn": "燃放鞭炮",
+          "source": "That's why setting off firecrackers became a traditional part of Chinese New Year celebrations."
+        },
+        {
+          "id": "2",
+          "en": "drive it away",
+          "cn": "把它赶走",
+          "source": "According to the story, people eventually discovered that Nian was afraid of loud noises and fire, so they used firecrackers to drive it away."
+        },
+        {
+          "id": "3",
+          "en": "pass on",
+          "cn": "传承",
+          "source": "That experience made me see that older people can pass on much more than factual knowledge."
+        },
+        {
+          "id": "4",
+          "en": "Looking back",
+          "cn": "回顾过去",
+          "source": "Looking back, it was a simple conversation, but it helped me understand a traditional custom through a story told by someone I trusted."
+        }
+      ]
+    },
+    {
+      "id": "story-b",
+      "letter": "B",
+      "title": "语言学习与数字工具",
+      "source_ids": [
+        "p2-03",
+        "p2-20",
+        "p2-29"
+      ],
+      "chain": [
+        "十分钟网络英语课",
+        "减少逐句翻译",
+        "shadowing与直接英文联想",
+        "AI用于反馈和整理资料",
+        "互联网连接科研与学习资源"
+      ],
+      "anchors": [
+        "English",
+        "AI",
+        "ChatGPT",
+        "Internet",
+        "shadowing"
+      ],
+      "part3_topics": [
+        "English learning and teachers",
+        "Phones, social media and AI"
+      ],
+      "phrases": [
+        {
+          "id": "1",
+          "en": "lead to unnatural expressions",
+          "cn": "导致不自然的表达",
+          "source": "The teacher explained that this makes communication slower and can easily lead to unnatural expressions."
+        },
+        {
+          "id": "2",
+          "en": "provide instant feedback",
+          "cn": "提供即时反馈",
+          "source": "It can provide instant feedback, help me organize complicated information and give me different ways of expressing an idea."
+        },
+        {
+          "id": "3",
+          "en": "access to information",
+          "cn": "获取信息的渠道",
+          "source": "But as a tool, it makes access to information and personalized learning much easier."
+        },
+        {
+          "id": "4",
+          "en": "look up",
+          "cn": "查找",
+          "source": "I can watch a short English lesson, practise with AI tools or look up a photography tutorial whenever I have time."
+        }
+      ]
+    },
+    {
+      "id": "story-c",
+      "letter": "C",
+      "title": "云南毕业旅行与雪山",
+      "source_ids": [
+        "p2-09",
+        "p2-05",
+        "p2-19",
+        "p2-22",
+        "p2-26",
+        "p2-28"
+      ],
+      "chain": [
+        "与好友Ning计划毕业旅行",
+        "准备饮食与保暖衣物",
+        "体力与海拔带来挑战",
+        "约4600米处看到雪山与云层",
+        "庆祝完成硕士并记录共同经历"
+      ],
+      "anchors": [
+        "Ning",
+        "Yulong Snow Mountain",
+        "Yunnan",
+        "4,600 metres"
+      ],
+      "part3_topics": [
+        "Places, nature and beautiful views",
+        "Events and celebration"
+      ],
+      "phrases": [
+        {
+          "id": "1",
+          "en": "give it a try",
+          "cn": "尝试一下",
+          "source": "Ning encouraged me to give it a try because we had talked about doing the trip for several years and finally had the time after graduation."
+        },
+        {
+          "id": "2",
+          "en": "give up",
+          "cn": "放弃",
+          "source": "During the climb, however, we became exhausted and even wanted to give up."
+        },
+        {
+          "id": "3",
+          "en": "took lots of photos",
+          "cn": "拍了很多照片",
+          "source": "We saw snow-covered mountains under a clear blue sky and took lots of photos together."
+        },
+        {
+          "id": "4",
+          "en": "Looking back",
+          "cn": "回顾过去",
+          "source": "Looking back, that moment represents more than just a beautiful view."
+        }
+      ]
+    },
+    {
+      "id": "story-d",
+      "letter": "D",
+      "title": "罗老师：外表与科研态度",
+      "source_ids": [
+        "p2-06",
+        "p2-17"
+      ],
+      "chain": [
+        "硕士导师Professor Luo",
+        "穿着随意甚至有些反差",
+        "研究时严谨而有逻辑",
+        "将复杂问题拆成小步骤",
+        "影响自己对科研的认识"
+      ],
+      "anchors": [
+        "Professor Luo",
+        "T-shirt",
+        "research"
+      ],
+      "part3_topics": [
+        "Clothes and first impressions",
+        "English learning and teachers"
+      ],
+      "phrases": [
+        {
+          "id": "1",
+          "en": "break a complicated question into smaller",
+          "cn": "把复杂问题拆成更小的部分",
+          "source": "He could usually break a complicated question into smaller, manageable steps and guide students to think about the logic rather than just giving them an answer."
+        },
+        {
+          "id": "2",
+          "en": "when it came to research",
+          "cn": "谈到研究时",
+          "source": "But when it came to research, he was extremely rigorous and demanding."
+        },
+        {
+          "id": "3",
+          "en": "different from",
+          "cn": "不同于",
+          "source": "Interestingly, his appearance was quite casual, which was very different from his serious attitude towards research."
+        },
+        {
+          "id": "4",
+          "en": "persistent",
+          "cn": "坚持不懈的",
+          "source": "He made me realize that being a good researcher isn't about looking formal; it is about being curious, logical and persistent."
+        }
+      ]
+    },
+    {
+      "id": "story-e",
+      "letter": "E",
+      "title": "硕士科研：建议与肯定",
+      "source_ids": [
+        "p2-14",
+        "p2-21"
+      ],
+      "chain": [
+        "经历实验失败与压力",
+        "向母亲倾诉",
+        "把注意力转回逐步解决问题",
+        "最终形成完整结果并获专家肯定",
+        "增加韧性与继续研究的信心"
+      ],
+      "anchors": [
+        "mother",
+        "research",
+        "experiments",
+        "experts"
+      ],
+      "part3_topics": [
+        "Decisions, advice and disagreements",
+        "Events and celebration"
+      ],
+      "phrases": [
+        {
+          "id": "1",
+          "en": "step by step",
+          "cn": "一步步地",
+          "source": "Instead, she told me that I should focus on the research itself and on solving the problems step by step."
+        },
+        {
+          "id": "2",
+          "en": "felt overwhelmed",
+          "cn": "感到不堪重负",
+          "source": "I had experienced several unsuccessful experiments and felt overwhelmed because my results weren't developing as I had expected."
+        },
+        {
+          "id": "3",
+          "en": "a complete and convincing set of results",
+          "cn": "一组完整且有说服力的结果",
+          "source": "I became discouraged at times, but I gradually solved the problems and eventually produced a complete and convincing set of results."
+        },
+        {
+          "id": "4",
+          "en": "gave me much more confidence",
+          "cn": "给我更多信心",
+          "source": "Hearing that from someone with expertise in the field gave me much more confidence in my research ability."
+        }
+      ]
+    },
+    {
+      "id": "story-f",
+      "letter": "F",
+      "title": "博士选择、家庭分歧与邮件",
+      "source_ids": [
+        "p2-10",
+        "p2-15",
+        "p2-07"
+      ],
+      "chain": [
+        "毕业后在博士与工作间犹豫",
+        "导师鼓励继续研究",
+        "父母担心稳定与费用",
+        "深入沟通并获得支持",
+        "通过手机等待海外导师邮件"
+      ],
+      "anchors": [
+        "PhD",
+        "parents",
+        "supervisor",
+        "phone"
+      ],
+      "part3_topics": [
+        "Decisions, advice and disagreements",
+        "Phones, social media and AI"
+      ],
+      "phrases": [
+        {
+          "id": "1",
+          "en": "financial security",
+          "cn": "经济保障",
+          "source": "On the other hand, my parents, especially my father, preferred me to find a stable job after graduation because they were concerned about financial security."
+        },
+        {
+          "id": "2",
+          "en": "in the long term",
+          "cn": "从长远看",
+          "source": "More importantly, it helped me understand what kind of work I genuinely want to do in the long term."
+        },
+        {
+          "id": "3",
+          "en": "put some financial pressure on",
+          "cn": "给……带来经济压力",
+          "source": "Eventually, they decided to support my choice, even though studying abroad might put some financial pressure on the family."
+        },
+        {
+          "id": "4",
+          "en": "showed interest in",
+          "cn": "对……表示兴趣",
+          "source": "A professor showed interest in my research and encouraged me to explore further opportunities."
+        }
+      ]
+    },
+    {
+      "id": "story-g",
+      "letter": "G",
+      "title": "相机、二手镜头与摄影成长",
+      "source_ids": [
+        "p2-12",
+        "p2-23",
+        "p2-24"
+      ],
+      "chain": [
+        "毕业礼物Fuji X-S20",
+        "从自动模式学习摄影",
+        "官方镜头约4000至5000元",
+        "在咸鱼约3000元购入并检查状况",
+        "希望借摄影比赛继续进步"
+      ],
+      "anchors": [
+        "Fuji X-S20",
+        "Xianyu",
+        "camera",
+        "lens"
+      ],
+      "part3_topics": [
+        "Second-hand shopping and consumption",
+        "Music, singers and competitions"
+      ],
+      "phrases": [
+        {
+          "id": "1",
+          "en": "make a big difference",
+          "cn": "产生很大影响",
+          "source": "As I became more interested in photography, I realized that the lens could make a big difference."
+        },
+        {
+          "id": "2",
+          "en": "minor cosmetic wear",
+          "cn": "轻微外观磨损",
+          "source": "After about a week, I received it and found only minor cosmetic wear."
+        },
+        {
+          "id": "3",
+          "en": "a concrete reason",
+          "cn": "一个具体理由",
+          "source": "I'd like to take part in a photography competition because it would give me a concrete reason to improve my skills."
+        },
+        {
+          "id": "4",
+          "en": "preserving my memories",
+          "cn": "保存我的回忆",
+          "source": "It has gradually become a way of preserving my memories."
+        }
+      ]
+    },
+    {
+      "id": "story-h",
+      "letter": "H",
+      "title": "动物园孔雀表演与安全边界",
+      "source_ids": [
+        "p2-08",
+        "p2-18"
+      ],
+      "chain": [
+        "云南毕业旅行中的动物园",
+        "第一次看孔雀飞行表演",
+        "自己有些怕鸟",
+        "看到家长让孩子进入表演区拍照",
+        "反思游客、儿童与动物安全"
+      ],
+      "anchors": [
+        "peacocks",
+        "Yunnan",
+        "children",
+        "zoo"
+      ],
+      "part3_topics": [
+        "Children and public behaviour",
+        "Places, nature and beautiful views"
+      ],
+      "phrases": [
+        {
+          "id": "1",
+          "en": "behave unpredictably",
+          "cn": "行为难以预料",
+          "source": "Although I understood that they wanted their children to have fun, I felt there could be safety risks because animals can behave unpredictably."
+        },
+        {
+          "id": "2",
+          "en": "respect boundaries",
+          "cn": "尊重边界",
+          "source": "I believe parents should teach children to respect boundaries in places involving animals."
+        },
+        {
+          "id": "3",
+          "en": "safety risks",
+          "cn": "安全风险",
+          "source": "Although I understood that they wanted their children to have fun, I felt there could be safety risks because animals can behave unpredictably."
+        },
+        {
+          "id": "4",
+          "en": "a wider range of",
+          "cn": "种类更广泛的",
+          "source": "One of our stops was a local zoo, which had a wider range of animals than many zoos I had visited in other cities."
+        }
+      ]
+    },
+    {
+      "id": "story-i",
+      "letter": "I",
+      "title": "孙燕子的音乐与演唱会",
+      "source_ids": [
+        "p2-25",
+        "p2-11"
+      ],
+      "chain": [
+        "喜欢歌手的抒情音乐",
+        "与好友一起参加演唱会",
+        "跟唱并放松",
+        "The Moment让自己想到未来的不确定",
+        "音乐带来安慰与希望"
+      ],
+      "anchors": [
+        "Sun Yanzi",
+        "The Moment",
+        "concert"
+      ],
+      "part3_topics": [
+        "Music, singers and competitions"
+      ],
+      "phrases": [
+        {
+          "id": "1",
+          "en": "a sense of hope",
+          "cn": "希望感",
+          "source": "Her music gives me a sense of hope and reminds me that uncertainty doesn't mean that things will go badly."
+        },
+        {
+          "id": "2",
+          "en": "sang along",
+          "cn": "跟着唱",
+          "source": "My friend and I were extremely excited, and we sang along throughout the concert instead of just sitting quietly."
+        },
+        {
+          "id": "3",
+          "en": "emotionally rich",
+          "cn": "情感丰富的",
+          "source": "I particularly like her lyrical music because it is emotionally rich and often makes me feel understood."
+        },
+        {
+          "id": "4",
+          "en": "under a lot of pressure",
+          "cn": "承受很大压力",
+          "source": "It was a great way to relax, especially because I was under a lot of pressure at the time."
+        }
+      ]
+    },
+    {
+      "id": "story-j",
+      "letter": "J",
+      "title": "从误解到友谊",
+      "source_ids": [
+        "p2-13"
+      ],
+      "chain": [
+        "初中转校生进入朋友圈",
+        "最初因误解与吃醋产生距离",
+        "成为同桌后看到友善的一面",
+        "备考时通过电话与信息互相支持",
+        "明白第一印象并不可靠"
+      ],
+      "anchors": [
+        "friend",
+        "middle school",
+        "interview"
+      ],
+      "part3_topics": [
+        "Decisions, advice and disagreements"
+      ],
+      "phrases": [
+        {
+          "id": "1",
+          "en": "first impressions can be misleading",
+          "cn": "第一印象可能误导人",
+          "source": "The experience taught me that first impressions can be misleading and that genuine friendship can last through different stages of life."
+        },
+        {
+          "id": "2",
+          "en": "had much in common",
+          "cn": "有很多共同点",
+          "source": "We also seemed completely different, and I didn't think we had much in common."
+        },
+        {
+          "id": "3",
+          "en": "genuinely friendly",
+          "cn": "真诚友好的",
+          "source": "She was genuinely friendly and outgoing."
+        },
+        {
+          "id": "4",
+          "en": "supported each other",
+          "cn": "互相支持",
+          "source": "What really turned us into close friends was the way we supported each other."
+        }
+      ]
+    },
+    {
+      "id": "story-k",
+      "letter": "K",
+      "title": "北京丢包与陌生人的帮助",
+      "source_ids": [
+        "p2-16"
+      ],
+      "chain": [
+        "约十五岁第一次独自旅行",
+        "离开北京时把背包落在车站",
+        "上车后发现无法联系家人",
+        "一位女士帮助联系家人并借现金",
+        "包没有找回，但记住了善意"
+      ],
+      "anchors": [
+        "Beijing",
+        "backpack",
+        "woman",
+        "train"
+      ],
+      "part3_topics": [
+        "Decisions, advice and disagreements"
+      ],
+      "phrases": [
+        {
+          "id": "1",
+          "en": "make an enormous difference",
+          "cn": "产生巨大影响",
+          "source": "It also made me realize that a small act of kindness from a stranger can make an enormous difference when someone is vulnerable."
+        },
+        {
+          "id": "2",
+          "en": "a small act of kindness",
+          "cn": "一个小小的善举",
+          "source": "It also made me realize that a small act of kindness from a stranger can make an enormous difference when someone is vulnerable."
+        },
+        {
+          "id": "3",
+          "en": "travelling alone",
+          "cn": "独自旅行",
+          "source": "I was about fifteen, and it was my first time travelling alone."
+        },
+        {
+          "id": "4",
+          "en": "contact my family",
+          "cn": "联系家人",
+          "source": "I didn't realize it until I had already boarded the train, so I immediately felt panicked because I had no easy way to contact my family."
+        }
+      ]
+    },
+    {
+      "id": "story-l",
+      "letter": "L",
+      "title": "西湖附近的安静咖啡馆",
+      "source_ids": [
+        "p2-04"
+      ],
+      "chain": [
+        "杭州西湖附近二楼咖啡馆",
+        "有大窗户且不拥挤",
+        "忙于硕士科研时寻找安静处",
+        "喝咖啡、工作、偶尔拍照",
+        "借安静环境恢复精力与专注"
+      ],
+      "anchors": [
+        "West Lake",
+        "Hangzhou",
+        "café"
+      ],
+      "part3_topics": [
+        "Places, nature and beautiful views"
+      ],
+      "phrases": [
+        {
+          "id": "1",
+          "en": "without being disturbed",
+          "cn": "不受打扰",
+          "source": "I could sit by the window, have a cup of coffee and concentrate on my work without being disturbed."
+        },
+        {
+          "id": "2",
+          "en": "slow down",
+          "cn": "放慢节奏",
+          "source": "I think I like this place because I normally spend a lot of time dealing with research and applications, so I really value somewhere that allows me to slow down."
+        },
+        {
+          "id": "3",
+          "en": "recharge and focus",
+          "cn": "恢复精力并专注",
+          "source": "It has become one of my favourite places to recharge and focus."
+        },
+        {
+          "id": "4",
+          "en": "overlooking the surroundings",
+          "cn": "俯瞰周围景色",
+          "source": "It is on the second floor of a small building and has large windows overlooking the surroundings."
+        }
+      ]
+    },
+    {
+      "id": "story-m",
+      "letter": "M",
+      "title": "邻居与社区故事",
+      "source_ids": [
+        "p2-27"
+      ],
+      "chain": [
+        "认识一位在当地生活多年的年长邻居",
+        "偶遇时聊社区变化",
+        "听以前的街区与传统习俗",
+        "喜欢其朴实的生活态度",
+        "从熟悉地方发现新的故事"
+      ],
+      "anchors": [
+        "neighbour",
+        "neighbourhood",
+        "community"
+      ],
+      "part3_topics": [
+        "Old people, conversations and generations"
+      ],
+      "phrases": [
+        {
+          "id": "1",
+          "en": "a different perspective",
+          "cn": "不同视角",
+          "source": "I think people who have lived in one place for a long time can provide a different perspective on a community because they have actually experienced its changes."
+        },
+        {
+          "id": "2",
+          "en": "traditional customs",
+          "cn": "传统习俗",
+          "source": "What makes him interesting is that he knows a lot about local changes and traditional customs."
+        },
+        {
+          "id": "3",
+          "en": "practical attitude towards life",
+          "cn": "务实的生活态度",
+          "source": "He also has a very practical attitude towards life and often gives simple advice rather than making complicated arguments."
+        },
+        {
+          "id": "4",
+          "en": "the stories behind familiar places",
+          "cn": "熟悉地方背后的故事",
+          "source": "Talking to him has also made me more interested in the stories behind familiar places."
+        }
+      ]
+    }
+  ],
+  "expression_groups": [
+    {
+      "title": "时间",
+      "text": "at that time · after I graduated · by the time I realized it · looking back now · for more than two years · eventually · since then"
+    },
+    {
+      "title": "因果",
+      "text": "one main reason is that · as a result · which made it easier/harder to · partly because · what really mattered was that"
+    },
+    {
+      "title": "反差",
+      "text": "what surprised me was that · quite different from what I expected · despite the fact that · the contrast between A and B"
+    },
+    {
+      "title": "分析",
+      "text": "from my perspective · to some extent · this is particularly true when · however, this doesn't necessarily mean that · I would argue that"
+    },
+    {
+      "title": "反思",
+      "text": "it taught me that · it made me realize that · I became more aware of · it gave me more confidence in · I still remember it because"
+    },
+    {
+      "title": "重点纠错",
+      "text": "过去经历用过去时；one/two + 单复数；a/the；prefer A to B；help someone do；make it easier/harder to do。"
+    }
+  ],
+  "meta": {
+    "version": "1.0.0",
+    "date": "2026-11-18",
+    "source_file": "IELTS_11.23-11.29_个人素材_Band7.5训练库.html",
+    "source_note": "根据上传HTML整理。HTML声明关联2026年11月23–29日海外口语预测；未提供该原始PDF，本站不宣称独立核验预测或官方题库。Band 7.5为学习目标，不是认证评分。",
+    "question_note": "Part 1问句、Part 2提示点与标为新增的迁移题均为训练补充；Part 3问句及所有原有参考回答保留来源。",
+    "deduplicated_part1_answers": 13,
+    "storage_key": "ieltsSpeaking:user:v1"
+  },
+  "errors": [
+    [
+      "discuss about a problem",
+      "discuss a problem",
+      "discuss后直接接宾语。",
+      "We discussed the application process."
+    ],
+    [
+      "I have went there",
+      "I have been there",
+      "have/has后用过去分词；went是过去式。",
+      "I have been there several times."
+    ],
+    [
+      "He help me",
+      "He helps me",
+      "一般现在时第三人称单数；过去叙事则用helped。",
+      "He helps students think logically."
+    ],
+    [
+      "an advice",
+      "some advice / a piece of advice",
+      "advice不可数。",
+      "My mother gave me some useful advice."
+    ],
+    [
+      "I prefer A than B",
+      "I prefer A to B",
+      "prefer A to B。",
+      "I prefer quiet cafés to noisy restaurants."
+    ],
+    [
+      "make me to feel relaxed",
+      "make me feel relaxed",
+      "主动结构make somebody do。",
+      "The music made me feel relaxed."
+    ],
+    [
+      "I am agree",
+      "I agree",
+      "agree为动词。",
+      "I agree with part of your point."
+    ],
+    [
+      "more informations",
+      "more information",
+      "information不可数。",
+      "The website provides more information."
+    ]
+  ],
+  "error_source_note": "上述通用易错点为训练补充，不声称均出现在用户口头原稿中。"
+}
