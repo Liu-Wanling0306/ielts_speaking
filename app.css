@@ -10,3 +10,6 @@
 
 /* Topic classification: responsive category controls and single-assignment question groups. */
 .category-nav{display:flex;flex-wrap:wrap;gap:8px;margin:16px 0}.category-nav button{text-align:left;font-size:13px;max-width:100%;white-space:normal}.topic-section{margin:26px 0;border-top:2px solid var(--line);padding-top:18px;min-width:0}.theme-heading{display:flex;justify-content:space-between;gap:12px;align-items:flex-start;margin-bottom:15px}.theme-heading h3{font-size:21px;margin-bottom:4px}.theme-heading p{margin-bottom:0}.theme-heading .pill{flex-shrink:0}.topic-stack>.exercise{padding:18px 0}.topic-section .grid{align-items:start}@media(max-width:520px){.category-nav{display:grid;grid-template-columns:repeat(2,minmax(0,1fr))}.category-nav button{padding:9px;font-size:12px}.theme-heading h3{font-size:18px}}
+
+/* Part 1: one full-width topic/question column on every screen. */
+.part1-topic-stack{display:block;min-width:0}.part1-topic-stack>.card{width:100%;margin-bottom:16px}

@@ -134,7 +134,8 @@ async def main():
   await page.locator('.nav [data-page=review]').click()
   await page.locator('#wrong').fill('my sample error');await page.locator('#correct').fill('my correction');await page.locator('#why').fill('test explanation');await page.locator('#addErrorForm button').click()
   await page.locator('.nav [data-page=versions]').click()
-  assert '预测' in await page.locator('#releaseDiff').inner_text()
+  latest_item=await page.evaluate('RELEASES[RELEASES.length-1].items[0]')
+  assert latest_item in await page.locator('#releaseDiff').inner_text()
   async with page.expect_download() as dl:await page.locator('[data-action=export]').click()
   with tempfile.TemporaryDirectory() as tmp:
    file=Path(tmp)/'backup.json';await (await dl.value).save_as(file)
