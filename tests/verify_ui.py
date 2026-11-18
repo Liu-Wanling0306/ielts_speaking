@@ -81,6 +81,15 @@ async def main():
   await page.locator('.nav [data-page=p1]').click()
   assert await page.locator('#timerDisplay').inner_text()=='00:30'
   assert await page.locator('.model-info').count()==119
+  assert await page.locator('#part1PersonalNotes li').count()==6
+  assert 'Vannie' in await page.locator('#card-pdf-p1-01-01 .reference .en').text_content()
+  assert 'Kunming' in await page.locator('#card-pdf-p1-04-01 .reference .en').text_content()
+  assert '工作分支' in await page.locator('#card-pdf-p1-02-02 .model-info').inner_text()
+  assert '20–30秒' in await page.locator('#content').inner_text()
+  await page.locator('[data-action=clock-duration][data-seconds="20"]').click()
+  assert await page.locator('#timerDisplay').inner_text()=='00:20'
+  await page.locator('[data-action=clock-duration][data-seconds="30"]').click()
+  assert await page.locator('#timerDisplay').inner_text()=='00:30'
   await page.locator('#speechRate').select_option('140')
   assert '140' in await page.locator('.model-info').first.inner_text()
   await page.locator('#speechRate').select_option('120')

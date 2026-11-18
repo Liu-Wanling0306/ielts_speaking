@@ -61,14 +61,30 @@ for part in ['part1','part2','part3']:
   wc=len(re.findall(r"[A-Za-z]+(?:['’-][A-Za-z]+)*",q['reference']))
   check(wc==q['reference_words'],q['id']+' wrong word count')
   if not q.get('length_exception'):
-   lo,hi={'part1':(45,75),'part2':(215,265),'part3':(90,120)}[part]
+   lo,hi={'part1':(40,60),'part2':(215,265),'part3':(90,120)}[part]
    check(lo<=wc<=hi,q['id']+f' length outside target: {wc}')
+  if part=='part1' and not q.get('length_exception'):
+   check(len(re.split(r'(?<=[.!?])\s+',q['reference']))==4,q['id']+' Part 1 reference is not four sentences')
   check(q['personalization_needed']==bool(re.search(r'\[[^]]+\]',q['reference'])),q['id']+' template status missing')
   sentences=re.split(r'(?<=[.!?])\s+',q['reference'])
   check(len(sentences)==len(set(sentences)),q['id']+' repeated sentence in expanded reference')
 hometown=next(q for q in allq.values() if q.get('forecast_id')=='pdf-p1-03-01')
 check(not re.search(r"\b(?:like|love|enjoy|favourite|miss)\b",hometown['reference'],re.I),'Factual hometown question contains unrequested preference')
 check(lib['meta']['storage_key']=='ieltsSpeaking:user:v1','Storage compatibility changed')
+# These checks protect confirmed biography/preferences that were wrong in the earlier generic models.
+forecast1={q.get('forecast_id'):q for t in lib['part1'] for q in t['questions'] if q.get('forecast_id')}
+check('Vannie' in forecast1['pdf-p1-01-01']['reference'],'Preferred name not updated')
+check('Kunming' in forecast1['pdf-p1-04-01']['reference'] and 'sister' in forecast1['pdf-p1-04-01']['reference'],'Current home incorrect')
+check(forecast1['pdf-p1-08-01']['reference'].startswith('Not usually'),'Shopping-list preference incorrect')
+check('tablet' in forecast1['pdf-p1-11-05']['reference'] and 'choose a computer' not in forecast1['pdf-p1-11-05']['reference'],'Tablet preference incorrect')
+check(forecast1['pdf-p1-16-02']['reference'].startswith('Yes'),'Selfie preference incorrect')
+check('washing machine' in forecast1['pdf-p1-18-01']['reference'].lower(),'Main household machine incorrect')
+check(forecast1['pdf-p1-02-02'].get('not_applicable') is True,'Work branch not labelled')
+check(sum(q['personalization_needed'] for q in forecast1.values())==6,'Remaining personal fact status differs')
+check(lib['meta']['part1_target_seconds']==[20,30],'Part 1 timing metadata incorrect')
+for row in audit['mapping']:
+ q=allq[row['site_id']]
+ check(row['reference_words']==q['reference_words'] and row['personalization_needed']==q['personalization_needed'],row['forecast_id']+' audit status stale')
 if problems:
  print('\n'.join('ERROR: '+p for p in problems));sys.exit(1)
 print(f"PASS v{lib['meta']['version']}: all original answers/IDs preserved; PDF coverage 105/105 + 29/29 + 129/129; reference lengths, cue cards and template status checked.")

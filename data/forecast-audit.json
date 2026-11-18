@@ -1,5 +1,5 @@
 {
-  "version": "1.1.0",
+  "version": "1.2.0",
   "source_file": "2026年11. 23-11. 29日雅思口语预测-海外答案版 Z.pdf",
   "source_pages": 73,
   "source_sha256": "ca13d53d5ec850befba5676807ef2a0fd3c57df075a4ba4e0427afd1c3007792",
@@ -31,9 +31,10 @@
       ],
       "site_id": "pdf-p1-01-01",
       "previously_covered": false,
-      "reference_words": 15,
-      "personalization_needed": true,
-      "cue_points": []
+      "reference_words": 12,
+      "personalization_needed": false,
+      "cue_points": [],
+      "not_applicable": false
     },
     {
       "part": "part1",
@@ -44,9 +45,10 @@
       ],
       "site_id": "p1-01-1",
       "previously_covered": true,
-      "reference_words": 57,
+      "reference_words": 50,
       "personalization_needed": false,
-      "cue_points": []
+      "cue_points": [],
+      "not_applicable": false
     },
     {
       "part": "part1",
@@ -57,9 +59,10 @@
       ],
       "site_id": "pdf-p1-02-02",
       "previously_covered": false,
-      "reference_words": 59,
-      "personalization_needed": true,
-      "cue_points": []
+      "reference_words": 52,
+      "personalization_needed": false,
+      "cue_points": [],
+      "not_applicable": true
     },
     {
       "part": "part1",
@@ -70,9 +73,10 @@
       ],
       "site_id": "pdf-p1-02-03",
       "previously_covered": false,
-      "reference_words": 57,
+      "reference_words": 53,
       "personalization_needed": false,
-      "cue_points": []
+      "cue_points": [],
+      "not_applicable": false
     },
     {
       "part": "part1",
@@ -83,9 +87,10 @@
       ],
       "site_id": "pdf-p1-02-04",
       "previously_covered": false,
-      "reference_words": 56,
+      "reference_words": 53,
       "personalization_needed": false,
-      "cue_points": []
+      "cue_points": [],
+      "not_applicable": false
     },
     {
       "part": "part1",
@@ -96,9 +101,10 @@
       ],
       "site_id": "pdf-p1-02-05",
       "previously_covered": false,
-      "reference_words": 57,
+      "reference_words": 49,
       "personalization_needed": false,
-      "cue_points": []
+      "cue_points": [],
+      "not_applicable": false
     },
     {
       "part": "part1",
@@ -109,9 +115,10 @@
       ],
       "site_id": "pdf-p1-02-06",
       "previously_covered": false,
-      "reference_words": 58,
+      "reference_words": 50,
       "personalization_needed": false,
-      "cue_points": []
+      "cue_points": [],
+      "not_applicable": false
     },
     {
       "part": "part1",
@@ -122,9 +129,10 @@
       ],
       "site_id": "pdf-p1-02-07",
       "previously_covered": false,
-      "reference_words": 58,
+      "reference_words": 51,
       "personalization_needed": false,
-      "cue_points": []
+      "cue_points": [],
+      "not_applicable": false
     },
     {
       "part": "part1",
@@ -135,9 +143,10 @@
       ],
       "site_id": "p1-02-1",
       "previously_covered": true,
-      "reference_words": 58,
+      "reference_words": 53,
       "personalization_needed": false,
-      "cue_points": []
+      "cue_points": [],
+      "not_applicable": false
     },
     {
       "part": "part1",
@@ -148,9 +157,10 @@
       ],
       "site_id": "pdf-p1-03-02",
       "previously_covered": false,
-      "reference_words": 60,
-      "personalization_needed": true,
-      "cue_points": []
+      "reference_words": 51,
+      "personalization_needed": false,
+      "cue_points": [],
+      "not_applicable": false
     },
     {
       "part": "part1",
@@ -161,9 +171,10 @@
       ],
       "site_id": "pdf-p1-03-03",
       "previously_covered": false,
-      "reference_words": 57,
+      "reference_words": 53,
       "personalization_needed": false,
-      "cue_points": []
+      "cue_points": [],
+      "not_applicable": false
     },
     {
       "part": "part1",
@@ -174,9 +185,10 @@
       ],
       "site_id": "pdf-p1-04-01",
       "previously_covered": false,
-      "reference_words": 57,
-      "personalization_needed": true,
-      "cue_points": []
+      "reference_words": 48,
+      "personalization_needed": false,
+      "cue_points": [],
+      "not_applicable": false
     },
     {
       "part": "part1",
@@ -187,9 +199,10 @@
       ],
       "site_id": "pdf-p1-04-02",
       "previously_covered": false,
-      "reference_words": 61,
-      "personalization_needed": true,
-      "cue_points": []
+      "reference_words": 50,
+      "personalization_needed": false,
+      "cue_points": [],
+      "not_applicable": false
     },
     {
       "part": "part1",
@@ -200,9 +213,10 @@
       ],
       "site_id": "pdf-p1-04-03",
       "previously_covered": false,
-      "reference_words": 60,
+      "reference_words": 51,
       "personalization_needed": false,
-      "cue_points": []
+      "cue_points": [],
+      "not_applicable": false
     },
     {
       "part": "part1",
@@ -213,9 +227,10 @@
       ],
       "site_id": "pdf-p1-04-04",
       "previously_covered": false,
-      "reference_words": 63,
+      "reference_words": 54,
       "personalization_needed": true,
-      "cue_points": []
+      "cue_points": [],
+      "not_applicable": false
     },
     {
       "part": "part1",
@@ -226,9 +241,10 @@
       ],
       "site_id": "p1-04-1",
       "previously_covered": true,
-      "reference_words": 57,
+      "reference_words": 51,
       "personalization_needed": false,
-      "cue_points": []
+      "cue_points": [],
+      "not_applicable": false
     },
     {
       "part": "part1",
@@ -239,9 +255,10 @@
       ],
       "site_id": "p1-04-2",
       "previously_covered": true,
-      "reference_words": 58,
-      "personalization_needed": true,
-      "cue_points": []
+      "reference_words": 54,
+      "personalization_needed": false,
+      "cue_points": [],
+      "not_applicable": false
     },
     {
       "part": "part1",
@@ -252,9 +269,10 @@
       ],
       "site_id": "pdf-p1-05-03",
       "previously_covered": false,
-      "reference_words": 62,
-      "personalization_needed": true,
-      "cue_points": []
+      "reference_words": 53,
+      "personalization_needed": false,
+      "cue_points": [],
+      "not_applicable": false
     },
     {
       "part": "part1",
@@ -265,9 +283,10 @@
       ],
       "site_id": "pdf-p1-05-04",
       "previously_covered": false,
-      "reference_words": 64,
-      "personalization_needed": true,
-      "cue_points": []
+      "reference_words": 52,
+      "personalization_needed": false,
+      "cue_points": [],
+      "not_applicable": false
     },
     {
       "part": "part1",
@@ -278,9 +297,10 @@
       ],
       "site_id": "pdf-p1-05-05",
       "previously_covered": false,
-      "reference_words": 57,
+      "reference_words": 54,
       "personalization_needed": false,
-      "cue_points": []
+      "cue_points": [],
+      "not_applicable": false
     },
     {
       "part": "part1",
@@ -291,9 +311,10 @@
       ],
       "site_id": "pdf-p1-05-06",
       "previously_covered": false,
-      "reference_words": 62,
-      "personalization_needed": true,
-      "cue_points": []
+      "reference_words": 51,
+      "personalization_needed": false,
+      "cue_points": [],
+      "not_applicable": false
     },
     {
       "part": "part1",
@@ -304,9 +325,10 @@
       ],
       "site_id": "p1-05-1",
       "previously_covered": true,
-      "reference_words": 58,
+      "reference_words": 49,
       "personalization_needed": false,
-      "cue_points": []
+      "cue_points": [],
+      "not_applicable": false
     },
     {
       "part": "part1",
@@ -317,9 +339,10 @@
       ],
       "site_id": "pdf-p1-06-02",
       "previously_covered": false,
-      "reference_words": 59,
+      "reference_words": 50,
       "personalization_needed": false,
-      "cue_points": []
+      "cue_points": [],
+      "not_applicable": false
     },
     {
       "part": "part1",
@@ -330,9 +353,10 @@
       ],
       "site_id": "pdf-p1-06-03",
       "previously_covered": false,
-      "reference_words": 60,
+      "reference_words": 51,
       "personalization_needed": false,
-      "cue_points": []
+      "cue_points": [],
+      "not_applicable": false
     },
     {
       "part": "part1",
@@ -343,9 +367,10 @@
       ],
       "site_id": "pdf-p1-06-04",
       "previously_covered": false,
-      "reference_words": 64,
-      "personalization_needed": true,
-      "cue_points": []
+      "reference_words": 54,
+      "personalization_needed": false,
+      "cue_points": [],
+      "not_applicable": false
     },
     {
       "part": "part1",
@@ -356,9 +381,10 @@
       ],
       "site_id": "pdf-p1-07-01",
       "previously_covered": false,
-      "reference_words": 61,
+      "reference_words": 52,
       "personalization_needed": false,
-      "cue_points": []
+      "cue_points": [],
+      "not_applicable": false
     },
     {
       "part": "part1",
@@ -369,9 +395,10 @@
       ],
       "site_id": "pdf-p1-07-02",
       "previously_covered": false,
-      "reference_words": 59,
+      "reference_words": 54,
       "personalization_needed": false,
-      "cue_points": []
+      "cue_points": [],
+      "not_applicable": false
     },
     {
       "part": "part1",
@@ -382,9 +409,10 @@
       ],
       "site_id": "pdf-p1-07-03",
       "previously_covered": false,
-      "reference_words": 59,
+      "reference_words": 53,
       "personalization_needed": false,
-      "cue_points": []
+      "cue_points": [],
+      "not_applicable": false
     },
     {
       "part": "part1",
@@ -395,9 +423,10 @@
       ],
       "site_id": "pdf-p1-07-04",
       "previously_covered": false,
-      "reference_words": 62,
+      "reference_words": 53,
       "personalization_needed": true,
-      "cue_points": []
+      "cue_points": [],
+      "not_applicable": false
     },
     {
       "part": "part1",
@@ -408,9 +437,10 @@
       ],
       "site_id": "pdf-p1-08-01",
       "previously_covered": false,
-      "reference_words": 57,
+      "reference_words": 51,
       "personalization_needed": false,
-      "cue_points": []
+      "cue_points": [],
+      "not_applicable": false
     },
     {
       "part": "part1",
@@ -421,9 +451,10 @@
       ],
       "site_id": "pdf-p1-08-02",
       "previously_covered": false,
-      "reference_words": 58,
+      "reference_words": 49,
       "personalization_needed": false,
-      "cue_points": []
+      "cue_points": [],
+      "not_applicable": false
     },
     {
       "part": "part1",
@@ -434,9 +465,10 @@
       ],
       "site_id": "pdf-p1-08-03",
       "previously_covered": false,
-      "reference_words": 61,
+      "reference_words": 53,
       "personalization_needed": false,
-      "cue_points": []
+      "cue_points": [],
+      "not_applicable": false
     },
     {
       "part": "part1",
@@ -447,9 +479,10 @@
       ],
       "site_id": "pdf-p1-08-04",
       "previously_covered": false,
-      "reference_words": 58,
+      "reference_words": 53,
       "personalization_needed": false,
-      "cue_points": []
+      "cue_points": [],
+      "not_applicable": false
     },
     {
       "part": "part1",
@@ -460,9 +493,10 @@
       ],
       "site_id": "p1-11-1",
       "previously_covered": true,
-      "reference_words": 59,
+      "reference_words": 52,
       "personalization_needed": false,
-      "cue_points": []
+      "cue_points": [],
+      "not_applicable": false
     },
     {
       "part": "part1",
@@ -473,9 +507,10 @@
       ],
       "site_id": "pdf-p1-09-02",
       "previously_covered": false,
-      "reference_words": 58,
+      "reference_words": 50,
       "personalization_needed": false,
-      "cue_points": []
+      "cue_points": [],
+      "not_applicable": false
     },
     {
       "part": "part1",
@@ -486,9 +521,10 @@
       ],
       "site_id": "pdf-p1-09-03",
       "previously_covered": false,
-      "reference_words": 58,
+      "reference_words": 51,
       "personalization_needed": false,
-      "cue_points": []
+      "cue_points": [],
+      "not_applicable": false
     },
     {
       "part": "part1",
@@ -499,9 +535,10 @@
       ],
       "site_id": "pdf-p1-09-04",
       "previously_covered": false,
-      "reference_words": 60,
+      "reference_words": 55,
       "personalization_needed": false,
-      "cue_points": []
+      "cue_points": [],
+      "not_applicable": false
     },
     {
       "part": "part1",
@@ -512,9 +549,10 @@
       ],
       "site_id": "pdf-p1-09-05",
       "previously_covered": false,
-      "reference_words": 59,
+      "reference_words": 54,
       "personalization_needed": false,
-      "cue_points": []
+      "cue_points": [],
+      "not_applicable": false
     },
     {
       "part": "part1",
@@ -525,9 +563,10 @@
       ],
       "site_id": "p1-06-1",
       "previously_covered": true,
-      "reference_words": 56,
+      "reference_words": 54,
       "personalization_needed": false,
-      "cue_points": []
+      "cue_points": [],
+      "not_applicable": false
     },
     {
       "part": "part1",
@@ -538,9 +577,10 @@
       ],
       "site_id": "pdf-p1-10-02",
       "previously_covered": false,
-      "reference_words": 58,
-      "personalization_needed": true,
-      "cue_points": []
+      "reference_words": 52,
+      "personalization_needed": false,
+      "cue_points": [],
+      "not_applicable": false
     },
     {
       "part": "part1",
@@ -551,9 +591,10 @@
       ],
       "site_id": "pdf-p1-10-03",
       "previously_covered": false,
-      "reference_words": 62,
+      "reference_words": 56,
       "personalization_needed": true,
-      "cue_points": []
+      "cue_points": [],
+      "not_applicable": false
     },
     {
       "part": "part1",
@@ -564,9 +605,10 @@
       ],
       "site_id": "pdf-p1-10-04",
       "previously_covered": false,
-      "reference_words": 58,
+      "reference_words": 53,
       "personalization_needed": false,
-      "cue_points": []
+      "cue_points": [],
+      "not_applicable": false
     },
     {
       "part": "part1",
@@ -577,9 +619,10 @@
       ],
       "site_id": "pdf-p1-10-05",
       "previously_covered": false,
-      "reference_words": 60,
+      "reference_words": 50,
       "personalization_needed": false,
-      "cue_points": []
+      "cue_points": [],
+      "not_applicable": false
     },
     {
       "part": "part1",
@@ -590,9 +633,10 @@
       ],
       "site_id": "pdf-p1-11-01",
       "previously_covered": false,
-      "reference_words": 59,
+      "reference_words": 52,
       "personalization_needed": false,
-      "cue_points": []
+      "cue_points": [],
+      "not_applicable": false
     },
     {
       "part": "part1",
@@ -603,9 +647,10 @@
       ],
       "site_id": "pdf-p1-11-02",
       "previously_covered": false,
-      "reference_words": 61,
-      "personalization_needed": true,
-      "cue_points": []
+      "reference_words": 55,
+      "personalization_needed": false,
+      "cue_points": [],
+      "not_applicable": false
     },
     {
       "part": "part1",
@@ -616,9 +661,10 @@
       ],
       "site_id": "pdf-p1-11-03",
       "previously_covered": false,
-      "reference_words": 58,
+      "reference_words": 56,
       "personalization_needed": false,
-      "cue_points": []
+      "cue_points": [],
+      "not_applicable": false
     },
     {
       "part": "part1",
@@ -629,9 +675,10 @@
       ],
       "site_id": "pdf-p1-11-04",
       "previously_covered": false,
-      "reference_words": 60,
+      "reference_words": 55,
       "personalization_needed": false,
-      "cue_points": []
+      "cue_points": [],
+      "not_applicable": false
     },
     {
       "part": "part1",
@@ -642,9 +689,10 @@
       ],
       "site_id": "pdf-p1-11-05",
       "previously_covered": false,
-      "reference_words": 58,
+      "reference_words": 55,
       "personalization_needed": false,
-      "cue_points": []
+      "cue_points": [],
+      "not_applicable": false
     },
     {
       "part": "part1",
@@ -655,9 +703,10 @@
       ],
       "site_id": "pdf-p1-12-01",
       "previously_covered": false,
-      "reference_words": 59,
-      "personalization_needed": true,
-      "cue_points": []
+      "reference_words": 53,
+      "personalization_needed": false,
+      "cue_points": [],
+      "not_applicable": false
     },
     {
       "part": "part1",
@@ -668,9 +717,10 @@
       ],
       "site_id": "pdf-p1-12-02",
       "previously_covered": false,
-      "reference_words": 59,
+      "reference_words": 53,
       "personalization_needed": false,
-      "cue_points": []
+      "cue_points": [],
+      "not_applicable": false
     },
     {
       "part": "part1",
@@ -681,9 +731,10 @@
       ],
       "site_id": "pdf-p1-12-03",
       "previously_covered": false,
-      "reference_words": 60,
-      "personalization_needed": true,
-      "cue_points": []
+      "reference_words": 57,
+      "personalization_needed": false,
+      "cue_points": [],
+      "not_applicable": false
     },
     {
       "part": "part1",
@@ -694,9 +745,10 @@
       ],
       "site_id": "pdf-p1-12-04",
       "previously_covered": false,
-      "reference_words": 62,
-      "personalization_needed": true,
-      "cue_points": []
+      "reference_words": 55,
+      "personalization_needed": false,
+      "cue_points": [],
+      "not_applicable": false
     },
     {
       "part": "part1",
@@ -707,9 +759,10 @@
       ],
       "site_id": "pdf-p1-13-01",
       "previously_covered": false,
-      "reference_words": 58,
-      "personalization_needed": true,
-      "cue_points": []
+      "reference_words": 54,
+      "personalization_needed": false,
+      "cue_points": [],
+      "not_applicable": false
     },
     {
       "part": "part1",
@@ -720,9 +773,10 @@
       ],
       "site_id": "pdf-p1-13-02",
       "previously_covered": false,
-      "reference_words": 59,
+      "reference_words": 51,
       "personalization_needed": false,
-      "cue_points": []
+      "cue_points": [],
+      "not_applicable": false
     },
     {
       "part": "part1",
@@ -733,9 +787,10 @@
       ],
       "site_id": "pdf-p1-13-03",
       "previously_covered": false,
-      "reference_words": 59,
+      "reference_words": 53,
       "personalization_needed": false,
-      "cue_points": []
+      "cue_points": [],
+      "not_applicable": false
     },
     {
       "part": "part1",
@@ -746,9 +801,10 @@
       ],
       "site_id": "pdf-p1-13-04",
       "previously_covered": false,
-      "reference_words": 55,
-      "personalization_needed": true,
-      "cue_points": []
+      "reference_words": 50,
+      "personalization_needed": false,
+      "cue_points": [],
+      "not_applicable": false
     },
     {
       "part": "part1",
@@ -759,9 +815,10 @@
       ],
       "site_id": "pdf-p1-14-01",
       "previously_covered": false,
-      "reference_words": 58,
-      "personalization_needed": true,
-      "cue_points": []
+      "reference_words": 51,
+      "personalization_needed": false,
+      "cue_points": [],
+      "not_applicable": false
     },
     {
       "part": "part1",
@@ -772,9 +829,10 @@
       ],
       "site_id": "pdf-p1-14-02",
       "previously_covered": false,
-      "reference_words": 57,
+      "reference_words": 51,
       "personalization_needed": false,
-      "cue_points": []
+      "cue_points": [],
+      "not_applicable": false
     },
     {
       "part": "part1",
@@ -785,9 +843,10 @@
       ],
       "site_id": "pdf-p1-14-03",
       "previously_covered": false,
-      "reference_words": 55,
+      "reference_words": 53,
       "personalization_needed": false,
-      "cue_points": []
+      "cue_points": [],
+      "not_applicable": false
     },
     {
       "part": "part1",
@@ -798,9 +857,10 @@
       ],
       "site_id": "pdf-p1-14-04",
       "previously_covered": false,
-      "reference_words": 59,
+      "reference_words": 54,
       "personalization_needed": false,
-      "cue_points": []
+      "cue_points": [],
+      "not_applicable": false
     },
     {
       "part": "part1",
@@ -811,9 +871,10 @@
       ],
       "site_id": "p1-09-1",
       "previously_covered": true,
-      "reference_words": 59,
+      "reference_words": 53,
       "personalization_needed": false,
-      "cue_points": []
+      "cue_points": [],
+      "not_applicable": false
     },
     {
       "part": "part1",
@@ -824,9 +885,10 @@
       ],
       "site_id": "pdf-p1-15-02",
       "previously_covered": false,
-      "reference_words": 63,
-      "personalization_needed": true,
-      "cue_points": []
+      "reference_words": 54,
+      "personalization_needed": false,
+      "cue_points": [],
+      "not_applicable": false
     },
     {
       "part": "part1",
@@ -837,9 +899,10 @@
       ],
       "site_id": "pdf-p1-15-03",
       "previously_covered": false,
-      "reference_words": 58,
+      "reference_words": 54,
       "personalization_needed": false,
-      "cue_points": []
+      "cue_points": [],
+      "not_applicable": false
     },
     {
       "part": "part1",
@@ -850,9 +913,10 @@
       ],
       "site_id": "pdf-p1-15-04",
       "previously_covered": false,
-      "reference_words": 57,
+      "reference_words": 54,
       "personalization_needed": false,
-      "cue_points": []
+      "cue_points": [],
+      "not_applicable": false
     },
     {
       "part": "part1",
@@ -863,9 +927,10 @@
       ],
       "site_id": "p1-12-1",
       "previously_covered": true,
-      "reference_words": 56,
+      "reference_words": 53,
       "personalization_needed": false,
-      "cue_points": []
+      "cue_points": [],
+      "not_applicable": false
     },
     {
       "part": "part1",
@@ -878,7 +943,8 @@
       "previously_covered": false,
       "reference_words": 56,
       "personalization_needed": false,
-      "cue_points": []
+      "cue_points": [],
+      "not_applicable": false
     },
     {
       "part": "part1",
@@ -889,9 +955,10 @@
       ],
       "site_id": "pdf-p1-16-03",
       "previously_covered": false,
-      "reference_words": 64,
-      "personalization_needed": true,
-      "cue_points": []
+      "reference_words": 53,
+      "personalization_needed": false,
+      "cue_points": [],
+      "not_applicable": false
     },
     {
       "part": "part1",
@@ -902,9 +969,10 @@
       ],
       "site_id": "pdf-p1-16-04",
       "previously_covered": false,
-      "reference_words": 57,
+      "reference_words": 55,
       "personalization_needed": false,
-      "cue_points": []
+      "cue_points": [],
+      "not_applicable": false
     },
     {
       "part": "part1",
@@ -915,9 +983,10 @@
       ],
       "site_id": "pdf-p1-17-01",
       "previously_covered": false,
-      "reference_words": 58,
+      "reference_words": 55,
       "personalization_needed": false,
-      "cue_points": []
+      "cue_points": [],
+      "not_applicable": false
     },
     {
       "part": "part1",
@@ -928,9 +997,10 @@
       ],
       "site_id": "pdf-p1-17-02",
       "previously_covered": false,
-      "reference_words": 64,
-      "personalization_needed": true,
-      "cue_points": []
+      "reference_words": 51,
+      "personalization_needed": false,
+      "cue_points": [],
+      "not_applicable": false
     },
     {
       "part": "part1",
@@ -941,9 +1011,10 @@
       ],
       "site_id": "pdf-p1-17-03",
       "previously_covered": false,
-      "reference_words": 56,
+      "reference_words": 55,
       "personalization_needed": false,
-      "cue_points": []
+      "cue_points": [],
+      "not_applicable": false
     },
     {
       "part": "part1",
@@ -954,9 +1025,10 @@
       ],
       "site_id": "pdf-p1-17-04",
       "previously_covered": false,
-      "reference_words": 58,
+      "reference_words": 56,
       "personalization_needed": false,
-      "cue_points": []
+      "cue_points": [],
+      "not_applicable": false
     },
     {
       "part": "part1",
@@ -967,9 +1039,10 @@
       ],
       "site_id": "pdf-p1-18-01",
       "previously_covered": false,
-      "reference_words": 61,
+      "reference_words": 56,
       "personalization_needed": false,
-      "cue_points": []
+      "cue_points": [],
+      "not_applicable": false
     },
     {
       "part": "part1",
@@ -980,9 +1053,10 @@
       ],
       "site_id": "pdf-p1-18-02",
       "previously_covered": false,
-      "reference_words": 58,
+      "reference_words": 54,
       "personalization_needed": false,
-      "cue_points": []
+      "cue_points": [],
+      "not_applicable": false
     },
     {
       "part": "part1",
@@ -993,9 +1067,10 @@
       ],
       "site_id": "pdf-p1-18-03",
       "previously_covered": false,
-      "reference_words": 60,
+      "reference_words": 55,
       "personalization_needed": false,
-      "cue_points": []
+      "cue_points": [],
+      "not_applicable": false
     },
     {
       "part": "part1",
@@ -1006,9 +1081,10 @@
       ],
       "site_id": "pdf-p1-18-04",
       "previously_covered": false,
-      "reference_words": 56,
+      "reference_words": 54,
       "personalization_needed": false,
-      "cue_points": []
+      "cue_points": [],
+      "not_applicable": false
     },
     {
       "part": "part1",
@@ -1019,9 +1095,10 @@
       ],
       "site_id": "pdf-p1-18-05",
       "previously_covered": false,
-      "reference_words": 62,
+      "reference_words": 56,
       "personalization_needed": true,
-      "cue_points": []
+      "cue_points": [],
+      "not_applicable": false
     },
     {
       "part": "part1",
@@ -1032,9 +1109,10 @@
       ],
       "site_id": "pdf-p1-18-06",
       "previously_covered": false,
-      "reference_words": 58,
+      "reference_words": 56,
       "personalization_needed": false,
-      "cue_points": []
+      "cue_points": [],
+      "not_applicable": false
     },
     {
       "part": "part1",
@@ -1045,9 +1123,10 @@
       ],
       "site_id": "pdf-p1-19-01",
       "previously_covered": false,
-      "reference_words": 57,
+      "reference_words": 54,
       "personalization_needed": false,
-      "cue_points": []
+      "cue_points": [],
+      "not_applicable": false
     },
     {
       "part": "part1",
@@ -1058,9 +1137,10 @@
       ],
       "site_id": "pdf-p1-19-02",
       "previously_covered": false,
-      "reference_words": 56,
+      "reference_words": 55,
       "personalization_needed": false,
-      "cue_points": []
+      "cue_points": [],
+      "not_applicable": false
     },
     {
       "part": "part1",
@@ -1071,9 +1151,10 @@
       ],
       "site_id": "pdf-p1-19-03",
       "previously_covered": false,
-      "reference_words": 59,
+      "reference_words": 55,
       "personalization_needed": true,
-      "cue_points": []
+      "cue_points": [],
+      "not_applicable": false
     },
     {
       "part": "part1",
@@ -1084,9 +1165,10 @@
       ],
       "site_id": "pdf-p1-19-04",
       "previously_covered": false,
-      "reference_words": 56,
+      "reference_words": 55,
       "personalization_needed": false,
-      "cue_points": []
+      "cue_points": [],
+      "not_applicable": false
     },
     {
       "part": "part1",
@@ -1097,9 +1179,10 @@
       ],
       "site_id": "pdf-p1-19-05",
       "previously_covered": false,
-      "reference_words": 57,
+      "reference_words": 55,
       "personalization_needed": false,
-      "cue_points": []
+      "cue_points": [],
+      "not_applicable": false
     },
     {
       "part": "part1",
@@ -1110,9 +1193,10 @@
       ],
       "site_id": "pdf-p1-20-01",
       "previously_covered": false,
-      "reference_words": 59,
-      "personalization_needed": true,
-      "cue_points": []
+      "reference_words": 53,
+      "personalization_needed": false,
+      "cue_points": [],
+      "not_applicable": false
     },
     {
       "part": "part1",
@@ -1123,9 +1207,10 @@
       ],
       "site_id": "pdf-p1-20-02",
       "previously_covered": false,
-      "reference_words": 61,
-      "personalization_needed": true,
-      "cue_points": []
+      "reference_words": 52,
+      "personalization_needed": false,
+      "cue_points": [],
+      "not_applicable": false
     },
     {
       "part": "part1",
@@ -1136,9 +1221,10 @@
       ],
       "site_id": "pdf-p1-20-03",
       "previously_covered": false,
-      "reference_words": 69,
-      "personalization_needed": true,
-      "cue_points": []
+      "reference_words": 57,
+      "personalization_needed": false,
+      "cue_points": [],
+      "not_applicable": false
     },
     {
       "part": "part1",
@@ -1149,9 +1235,10 @@
       ],
       "site_id": "pdf-p1-21-01",
       "previously_covered": false,
-      "reference_words": 63,
-      "personalization_needed": true,
-      "cue_points": []
+      "reference_words": 57,
+      "personalization_needed": false,
+      "cue_points": [],
+      "not_applicable": false
     },
     {
       "part": "part1",
@@ -1162,9 +1249,10 @@
       ],
       "site_id": "pdf-p1-21-02",
       "previously_covered": false,
-      "reference_words": 58,
+      "reference_words": 54,
       "personalization_needed": false,
-      "cue_points": []
+      "cue_points": [],
+      "not_applicable": false
     },
     {
       "part": "part1",
@@ -1175,9 +1263,10 @@
       ],
       "site_id": "pdf-p1-21-03",
       "previously_covered": false,
-      "reference_words": 62,
-      "personalization_needed": true,
-      "cue_points": []
+      "reference_words": 54,
+      "personalization_needed": false,
+      "cue_points": [],
+      "not_applicable": false
     },
     {
       "part": "part1",
@@ -1188,9 +1277,10 @@
       ],
       "site_id": "pdf-p1-21-04",
       "previously_covered": false,
-      "reference_words": 61,
+      "reference_words": 54,
       "personalization_needed": false,
-      "cue_points": []
+      "cue_points": [],
+      "not_applicable": false
     },
     {
       "part": "part1",
@@ -1201,9 +1291,10 @@
       ],
       "site_id": "pdf-p1-21-05",
       "previously_covered": false,
-      "reference_words": 58,
+      "reference_words": 55,
       "personalization_needed": false,
-      "cue_points": []
+      "cue_points": [],
+      "not_applicable": false
     },
     {
       "part": "part1",
@@ -1214,9 +1305,10 @@
       ],
       "site_id": "pdf-p1-21-06",
       "previously_covered": false,
-      "reference_words": 56,
+      "reference_words": 53,
       "personalization_needed": false,
-      "cue_points": []
+      "cue_points": [],
+      "not_applicable": false
     },
     {
       "part": "part1",
@@ -1227,9 +1319,10 @@
       ],
       "site_id": "pdf-p1-22-01",
       "previously_covered": false,
-      "reference_words": 61,
-      "personalization_needed": true,
-      "cue_points": []
+      "reference_words": 57,
+      "personalization_needed": false,
+      "cue_points": [],
+      "not_applicable": false
     },
     {
       "part": "part1",
@@ -1240,9 +1333,10 @@
       ],
       "site_id": "pdf-p1-22-02",
       "previously_covered": false,
-      "reference_words": 58,
+      "reference_words": 53,
       "personalization_needed": false,
-      "cue_points": []
+      "cue_points": [],
+      "not_applicable": false
     },
     {
       "part": "part1",
@@ -1253,9 +1347,10 @@
       ],
       "site_id": "pdf-p1-22-03",
       "previously_covered": false,
-      "reference_words": 57,
+      "reference_words": 54,
       "personalization_needed": false,
-      "cue_points": []
+      "cue_points": [],
+      "not_applicable": false
     },
     {
       "part": "part1",
@@ -1266,9 +1361,10 @@
       ],
       "site_id": "pdf-p1-22-04",
       "previously_covered": false,
-      "reference_words": 63,
-      "personalization_needed": true,
-      "cue_points": []
+      "reference_words": 54,
+      "personalization_needed": false,
+      "cue_points": [],
+      "not_applicable": false
     },
     {
       "part": "part1",
@@ -1279,9 +1375,10 @@
       ],
       "site_id": "pdf-p1-23-01",
       "previously_covered": false,
-      "reference_words": 59,
+      "reference_words": 58,
       "personalization_needed": false,
-      "cue_points": []
+      "cue_points": [],
+      "not_applicable": false
     },
     {
       "part": "part1",
@@ -1294,7 +1391,8 @@
       "previously_covered": false,
       "reference_words": 56,
       "personalization_needed": false,
-      "cue_points": []
+      "cue_points": [],
+      "not_applicable": false
     },
     {
       "part": "part1",
@@ -1305,9 +1403,10 @@
       ],
       "site_id": "pdf-p1-23-03",
       "previously_covered": false,
-      "reference_words": 59,
+      "reference_words": 54,
       "personalization_needed": false,
-      "cue_points": []
+      "cue_points": [],
+      "not_applicable": false
     },
     {
       "part": "part1",
@@ -1318,9 +1417,10 @@
       ],
       "site_id": "pdf-p1-23-04",
       "previously_covered": false,
-      "reference_words": 60,
+      "reference_words": 55,
       "personalization_needed": false,
-      "cue_points": []
+      "cue_points": [],
+      "not_applicable": false
     },
     {
       "part": "part1",
@@ -1331,9 +1431,10 @@
       ],
       "site_id": "pdf-p1-23-05",
       "previously_covered": false,
-      "reference_words": 58,
+      "reference_words": 52,
       "personalization_needed": true,
-      "cue_points": []
+      "cue_points": [],
+      "not_applicable": false
     },
     {
       "part": "part1",
@@ -1344,9 +1445,10 @@
       ],
       "site_id": "pdf-p1-24-01",
       "previously_covered": false,
-      "reference_words": 59,
+      "reference_words": 54,
       "personalization_needed": false,
-      "cue_points": []
+      "cue_points": [],
+      "not_applicable": false
     },
     {
       "part": "part1",
@@ -1357,9 +1459,10 @@
       ],
       "site_id": "pdf-p1-24-02",
       "previously_covered": false,
-      "reference_words": 59,
+      "reference_words": 51,
       "personalization_needed": false,
-      "cue_points": []
+      "cue_points": [],
+      "not_applicable": false
     },
     {
       "part": "part1",
@@ -1370,9 +1473,10 @@
       ],
       "site_id": "pdf-p1-24-03",
       "previously_covered": false,
-      "reference_words": 58,
+      "reference_words": 55,
       "personalization_needed": false,
-      "cue_points": []
+      "cue_points": [],
+      "not_applicable": false
     },
     {
       "part": "part1",
@@ -1383,9 +1487,10 @@
       ],
       "site_id": "pdf-p1-24-04",
       "previously_covered": false,
-      "reference_words": 63,
-      "personalization_needed": true,
-      "cue_points": []
+      "reference_words": 57,
+      "personalization_needed": false,
+      "cue_points": [],
+      "not_applicable": false
     },
     {
       "part": "part2",
@@ -3590,12 +3695,48 @@
       "cue_points": []
     }
   ],
-  "timing_policy": "默认120词/分钟估算，P1约50–70词、P2约220–250词、P3约90–120词；姓名核验例外。真实时长以口头录音为准。含槽位的框架不等于个人化答案已完成。",
+  "timing_policy": "默认120词/分钟估算：Part 1每题约四句话、40–60词，对应20–30秒；姓名核验简答，工作分支按实际身份选择。Part 2约220–250词，Part 3约90–120词。真实时长以口头录音为准，待填选项不等于已确认经历。",
   "rubric_sources": [
     "https://ielts.org/cdn/ielts-guides/ielts-speaking-band-descriptors.pdf",
     "https://ielts.org/take-a-test/test-types/ielts-academic-test/ielts-academic-format-speaking"
   ],
   "background_sources": [
     "https://whc.unesco.org/en/list/1334/"
-  ]
+  ],
+  "part1_personalization": {
+    "source_file": "11月雅思part1素材背景.docx",
+    "source_sha256": "c0b8b1549d7f12a82feb328918803c28c4e58f9162481509bf1e749fe685d214",
+    "source_note": "只保存用于练习的改写答案及来源指纹，不公开上传Word原文件。",
+    "updated_questions": 119,
+    "forecast_questions": 105,
+    "remaining_questions": [
+      "pdf-p1-04-04",
+      "pdf-p1-07-04",
+      "pdf-p1-10-03",
+      "pdf-p1-18-05",
+      "pdf-p1-19-03",
+      "pdf-p1-23-05"
+    ],
+    "remaining_details": {
+      "pdf-p1-04-04": "未明确提供：与姐姐主要在哪个房间共同活动、通常做什么。",
+      "pdf-p1-07-04": "未明确提供：小时候是否坐地板及具体活动。",
+      "pdf-p1-10-03": "未明确提供：昆明当前住所周边花卉的实际情况；杭州太子湾看花经历已确认。",
+      "pdf-p1-18-05": "未明确提供：是否实际用缝纫机做过衣服。",
+      "pdf-p1-19-03": "未明确提供：最近一次表扬他人的时间、人物及具体原因。",
+      "pdf-p1-23-05": "未明确提供：学校里感到无聊的真实课程或活动。"
+    },
+    "not_applicable": [
+      "pdf-p1-02-02"
+    ],
+    "confirmed_context": [
+      "姓名Liu Wanling，称呼Vannie",
+      "九月毕业于浙江大学，土壤学硕士，申请海外博士",
+      "成都生活十多年，杭州读硕士三年，现与姐姐在昆明住约三个月",
+      "购物不列清单；学习用手机计划",
+      "摄影始于大学，为爱好；喜欢旅行自拍",
+      "久坐学习；偏爱晚间；随身复习偏好平板",
+      "洗衣机为最依赖家电；初中计算机课首次练打字",
+      "研究土壤碳循环；防止将博士导师兴趣写成录取结果"
+    ]
+  }
 }
