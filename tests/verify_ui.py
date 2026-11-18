@@ -64,6 +64,38 @@ async def main():
   assert await first.locator('textarea').input_value()=='saved personal speaking notes'
   assert await first.locator('[data-complete]').is_checked()
   assert '待复习' in await first.locator('[data-action=review]').inner_text()
+  # Classification preserves one DOM card per stable question and combines category/search filters.
+  for route,total,categories in [('p1',119,8),('p3',162,9)]:
+   await page.locator(f'.nav [data-page={route}]').click()
+   assert await page.locator('[data-topic-section]').count()==categories
+   assert await page.locator('[data-action=topic-category]').count()==categories+1
+   ids=await page.locator('.exercise[id^=card-]').evaluate_all('(nodes)=>nodes.map(n=>n.id)')
+   assert len(ids)==len(set(ids))==total
+  await page.locator('.nav [data-page=p1]').click()
+  await page.locator('[data-action=topic-category][data-category=technology]').click()
+  assert await page.locator('[data-topic-section]:visible').count()==1
+  assert '20 道题' in await page.locator('#searchResult').inner_text()
+  await page.locator('#p1Search').fill('tablet')
+  filtered=await page.locator('[data-filter-item]').evaluate_all('(nodes)=>nodes.filter(n=>!n.hidden).reduce((s,n)=>s+Number(n.dataset.questionCount),0)')
+  assert 0<filtered<=20
+  await page.locator('#p1Search').fill('impossible-query-123456')
+  assert await page.locator('[data-topic-section]:visible').count()==0
+  assert '没有匹配' in await page.locator('#searchResult').inner_text()
+  await page.locator('#p1Search').fill('')
+  await page.locator('[data-action=topic-category][data-category=all]').click()
+  assert '119 道题' in await page.locator('#searchResult').inner_text()
+  await page.locator('.nav [data-page=p3]').click()
+  await page.locator('[data-action=topic-category][data-category=education]').click()
+  assert '33 道题' in await page.locator('#searchResult').inner_text()
+  assert await page.locator('#card-pdf-p3-05-06').evaluate('(n)=>n.closest("[data-filter-item]").hidden')
+  assert not await page.locator('#card-pdf-p3-11-04').evaluate('(n)=>n.closest("[data-filter-item]").hidden')
+  await page.locator('[data-action=topic-category][data-category=work]').click()
+  assert '9 道题' in await page.locator('#searchResult').inner_text()
+  # An audit jump must reveal an education question despite the retained workplace filter.
+  await page.locator('.nav [data-page=audit]').click()
+  await page.locator('[data-action=open-question][data-id=pdf-p3-25-03]').click()
+  assert await page.locator('#card-pdf-p3-25-03').is_visible()
+  assert await page.locator('[data-action=topic-category][data-category=all]').get_attribute('aria-pressed')=='true'
   # P1 all source and forecast questions; searches show valid groups.
   await page.locator('.nav [data-page=p1]').click()
   assert await page.locator('[data-draft]').count()==119

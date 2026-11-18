@@ -23,9 +23,11 @@
           "reference_source": "依据用户上传《11月雅思part1素材背景.docx》及已提供的个人经历改写；一般看法为可调整的练习表达。",
           "personalization_needed": false,
           "sentence_count": 1,
-          "reference_revision": "1.2.0"
+          "reference_revision": "1.2.0",
+          "category_id": "identity"
         }
-      ]
+      ],
+      "display_title": "姓名与称呼 · Name"
     },
     {
       "id": "pdf-p1-topic-02",
@@ -50,7 +52,8 @@
           "reference_source": "依据用户上传《11月雅思part1素材背景.docx》及已提供的个人经历改写；一般看法为可调整的练习表达。",
           "personalization_needed": false,
           "sentence_count": 4,
-          "reference_revision": "1.2.0"
+          "reference_revision": "1.2.0",
+          "category_id": "identity"
         },
         {
           "id": "pdf-p1-02-02",
@@ -72,7 +75,8 @@
           "sentence_count": 4,
           "reference_revision": "1.2.0",
           "not_applicable": true,
-          "reference_note": "目前未工作：此题属于工作分支。保留真实身份澄清回答，日常训练优先练学习分支。"
+          "reference_note": "目前未工作：此题属于工作分支。保留真实身份澄清回答，日常训练优先练学习分支。",
+          "category_id": "identity"
         },
         {
           "id": "pdf-p1-02-03",
@@ -92,7 +96,8 @@
           "reference_source": "依据用户上传《11月雅思part1素材背景.docx》及已提供的个人经历改写；一般看法为可调整的练习表达。",
           "personalization_needed": false,
           "sentence_count": 4,
-          "reference_revision": "1.2.0"
+          "reference_revision": "1.2.0",
+          "category_id": "identity"
         },
         {
           "id": "pdf-p1-02-04",
@@ -112,7 +117,8 @@
           "reference_source": "依据用户上传《11月雅思part1素材背景.docx》及已提供的个人经历改写；一般看法为可调整的练习表达。",
           "personalization_needed": false,
           "sentence_count": 4,
-          "reference_revision": "1.2.0"
+          "reference_revision": "1.2.0",
+          "category_id": "identity"
         },
         {
           "id": "pdf-p1-02-05",
@@ -132,7 +138,8 @@
           "reference_source": "依据用户上传《11月雅思part1素材背景.docx》及已提供的个人经历改写；一般看法为可调整的练习表达。",
           "personalization_needed": false,
           "sentence_count": 4,
-          "reference_revision": "1.2.0"
+          "reference_revision": "1.2.0",
+          "category_id": "identity"
         },
         {
           "id": "pdf-p1-02-06",
@@ -152,7 +159,8 @@
           "reference_source": "依据用户上传《11月雅思part1素材背景.docx》及已提供的个人经历改写；一般看法为可调整的练习表达。",
           "personalization_needed": false,
           "sentence_count": 4,
-          "reference_revision": "1.2.0"
+          "reference_revision": "1.2.0",
+          "category_id": "identity"
         },
         {
           "id": "pdf-p1-02-07",
@@ -172,9 +180,11 @@
           "reference_source": "依据用户上传《11月雅思part1素材背景.docx》及已提供的个人经历改写；一般看法为可调整的练习表达。",
           "personalization_needed": false,
           "sentence_count": 4,
-          "reference_revision": "1.2.0"
+          "reference_revision": "1.2.0",
+          "category_id": "identity"
         }
-      ]
+      ],
+      "display_title": "学习与工作 · Study / work"
     },
     {
       "id": "pdf-p1-topic-03",
@@ -199,7 +209,8 @@
           "reference_source": "依据用户上传《11月雅思part1素材背景.docx》及已提供的个人经历改写；一般看法为可调整的练习表达。",
           "personalization_needed": false,
           "sentence_count": 4,
-          "reference_revision": "1.2.0"
+          "reference_revision": "1.2.0",
+          "category_id": "home"
         },
         {
           "id": "pdf-p1-03-02",
@@ -219,7 +230,8 @@
           "reference_source": "依据用户上传《11月雅思part1素材背景.docx》及已提供的个人经历改写；一般看法为可调整的练习表达。",
           "personalization_needed": false,
           "sentence_count": 4,
-          "reference_revision": "1.2.0"
+          "reference_revision": "1.2.0",
+          "category_id": "home"
         },
         {
           "id": "pdf-p1-03-03",
@@ -239,9 +251,11 @@
           "reference_source": "依据用户上传《11月雅思part1素材背景.docx》及已提供的个人经历改写；一般看法为可调整的练习表达。",
           "personalization_needed": false,
           "sentence_count": 4,
-          "reference_revision": "1.2.0"
+          "reference_revision": "1.2.0",
+          "category_id": "home"
         }
-      ]
+      ],
+      "display_title": "家乡 · Hometown"
     },
     {
       "id": "pdf-p1-topic-04",
@@ -265,7 +279,8 @@
           "reference_source": "依据用户上传《11月雅思part1素材背景.docx》及已提供的个人经历改写；一般看法为可调整的练习表达。",
           "personalization_needed": false,
           "sentence_count": 4,
-          "reference_revision": "1.2.0"
+          "reference_revision": "1.2.0",
+          "category_id": "home"
         },
         {
           "id": "pdf-p1-04-02",
@@ -285,7 +300,8 @@
           "reference_source": "依据用户上传《11月雅思part1素材背景.docx》及已提供的个人经历改写；一般看法为可调整的练习表达。",
           "personalization_needed": false,
           "sentence_count": 4,
-          "reference_revision": "1.2.0"
+          "reference_revision": "1.2.0",
+          "category_id": "home"
         },
         {
           "id": "pdf-p1-04-03",
@@ -305,7 +321,8 @@
           "reference_source": "依据用户上传《11月雅思part1素材背景.docx》及已提供的个人经历改写；一般看法为可调整的练习表达。",
           "personalization_needed": false,
           "sentence_count": 4,
-          "reference_revision": "1.2.0"
+          "reference_revision": "1.2.0",
+          "category_id": "home"
         },
         {
           "id": "pdf-p1-04-04",
@@ -326,9 +343,11 @@
           "personalization_needed": true,
           "sentence_count": 4,
           "reference_revision": "1.2.0",
-          "reference_note": "未明确提供：与姐姐主要在哪个房间共同活动、通常做什么。 方括号仅为待填选项，不代表已确认事实；替换后再口头计时。"
+          "reference_note": "未明确提供：与姐姐主要在哪个房间共同活动、通常做什么。 方括号仅为待填选项，不代表已确认事实；替换后再口头计时。",
+          "category_id": "home"
         }
-      ]
+      ],
+      "display_title": "住所与房间 · Accommodation"
     },
     {
       "id": "pdf-p1-topic-05",
@@ -353,7 +372,8 @@
           "reference_source": "依据用户上传《11月雅思part1素材背景.docx》及已提供的个人经历改写；一般看法为可调整的练习表达。",
           "personalization_needed": false,
           "sentence_count": 4,
-          "reference_revision": "1.2.0"
+          "reference_revision": "1.2.0",
+          "category_id": "home"
         },
         {
           "id": "p1-04-2",
@@ -374,7 +394,8 @@
           "reference_source": "依据用户上传《11月雅思part1素材背景.docx》及已提供的个人经历改写；一般看法为可调整的练习表达。",
           "personalization_needed": false,
           "sentence_count": 4,
-          "reference_revision": "1.2.0"
+          "reference_revision": "1.2.0",
+          "category_id": "home"
         },
         {
           "id": "pdf-p1-05-03",
@@ -394,7 +415,8 @@
           "reference_source": "依据用户上传《11月雅思part1素材背景.docx》及已提供的个人经历改写；一般看法为可调整的练习表达。",
           "personalization_needed": false,
           "sentence_count": 4,
-          "reference_revision": "1.2.0"
+          "reference_revision": "1.2.0",
+          "category_id": "home"
         },
         {
           "id": "pdf-p1-05-04",
@@ -414,7 +436,8 @@
           "reference_source": "依据用户上传《11月雅思part1素材背景.docx》及已提供的个人经历改写；一般看法为可调整的练习表达。",
           "personalization_needed": false,
           "sentence_count": 4,
-          "reference_revision": "1.2.0"
+          "reference_revision": "1.2.0",
+          "category_id": "home"
         },
         {
           "id": "pdf-p1-05-05",
@@ -434,7 +457,8 @@
           "reference_source": "依据用户上传《11月雅思part1素材背景.docx》及已提供的个人经历改写；一般看法为可调整的练习表达。",
           "personalization_needed": false,
           "sentence_count": 4,
-          "reference_revision": "1.2.0"
+          "reference_revision": "1.2.0",
+          "category_id": "home"
         },
         {
           "id": "pdf-p1-05-06",
@@ -454,9 +478,11 @@
           "reference_source": "依据用户上传《11月雅思part1素材背景.docx》及已提供的个人经历改写；一般看法为可调整的练习表达。",
           "personalization_needed": false,
           "sentence_count": 4,
-          "reference_revision": "1.2.0"
+          "reference_revision": "1.2.0",
+          "category_id": "home"
         }
-      ]
+      ],
+      "display_title": "社区与周边 · Local area"
     },
     {
       "id": "pdf-p1-topic-06",
@@ -481,7 +507,8 @@
           "reference_source": "依据用户上传《11月雅思part1素材背景.docx》及已提供的个人经历改写；一般看法为可调整的练习表达。",
           "personalization_needed": false,
           "sentence_count": 4,
-          "reference_revision": "1.2.0"
+          "reference_revision": "1.2.0",
+          "category_id": "interests"
         },
         {
           "id": "pdf-p1-06-02",
@@ -501,7 +528,8 @@
           "reference_source": "依据用户上传《11月雅思part1素材背景.docx》及已提供的个人经历改写；一般看法为可调整的练习表达。",
           "personalization_needed": false,
           "sentence_count": 4,
-          "reference_revision": "1.2.0"
+          "reference_revision": "1.2.0",
+          "category_id": "interests"
         },
         {
           "id": "pdf-p1-06-03",
@@ -521,7 +549,8 @@
           "reference_source": "依据用户上传《11月雅思part1素材背景.docx》及已提供的个人经历改写；一般看法为可调整的练习表达。",
           "personalization_needed": false,
           "sentence_count": 4,
-          "reference_revision": "1.2.0"
+          "reference_revision": "1.2.0",
+          "category_id": "interests"
         },
         {
           "id": "pdf-p1-06-04",
@@ -541,9 +570,11 @@
           "reference_source": "依据用户上传《11月雅思part1素材背景.docx》及已提供的个人经历改写；一般看法为可调整的练习表达。",
           "personalization_needed": false,
           "sentence_count": 4,
-          "reference_revision": "1.2.0"
+          "reference_revision": "1.2.0",
+          "category_id": "interests"
         }
-      ]
+      ],
+      "display_title": "摄影才能与技能 · Talents"
     },
     {
       "id": "pdf-p1-topic-07",
@@ -567,7 +598,8 @@
           "reference_source": "依据用户上传《11月雅思part1素材背景.docx》及已提供的个人经历改写；一般看法为可调整的练习表达。",
           "personalization_needed": false,
           "sentence_count": 4,
-          "reference_revision": "1.2.0"
+          "reference_revision": "1.2.0",
+          "category_id": "routine"
         },
         {
           "id": "pdf-p1-07-02",
@@ -587,7 +619,8 @@
           "reference_source": "依据用户上传《11月雅思part1素材背景.docx》及已提供的个人经历改写；一般看法为可调整的练习表达。",
           "personalization_needed": false,
           "sentence_count": 4,
-          "reference_revision": "1.2.0"
+          "reference_revision": "1.2.0",
+          "category_id": "routine"
         },
         {
           "id": "pdf-p1-07-03",
@@ -607,7 +640,8 @@
           "reference_source": "依据用户上传《11月雅思part1素材背景.docx》及已提供的个人经历改写；一般看法为可调整的练习表达。",
           "personalization_needed": false,
           "sentence_count": 4,
-          "reference_revision": "1.2.0"
+          "reference_revision": "1.2.0",
+          "category_id": "routine"
         },
         {
           "id": "pdf-p1-07-04",
@@ -628,9 +662,11 @@
           "personalization_needed": true,
           "sentence_count": 4,
           "reference_revision": "1.2.0",
-          "reference_note": "未明确提供：小时候是否坐地板及具体活动。 方括号仅为待填选项，不代表已确认事实；替换后再口头计时。"
+          "reference_note": "未明确提供：小时候是否坐地板及具体活动。 方括号仅为待填选项，不代表已确认事实；替换后再口头计时。",
+          "category_id": "routine"
         }
-      ]
+      ],
+      "display_title": "久坐与休息 · Sitting"
     },
     {
       "id": "pdf-p1-topic-08",
@@ -654,7 +690,8 @@
           "reference_source": "依据用户上传《11月雅思part1素材背景.docx》及已提供的个人经历改写；一般看法为可调整的练习表达。",
           "personalization_needed": false,
           "sentence_count": 4,
-          "reference_revision": "1.2.0"
+          "reference_revision": "1.2.0",
+          "category_id": "routine"
         },
         {
           "id": "pdf-p1-08-02",
@@ -674,7 +711,8 @@
           "reference_source": "依据用户上传《11月雅思part1素材背景.docx》及已提供的个人经历改写；一般看法为可调整的练习表达。",
           "personalization_needed": false,
           "sentence_count": 4,
-          "reference_revision": "1.2.0"
+          "reference_revision": "1.2.0",
+          "category_id": "routine"
         },
         {
           "id": "pdf-p1-08-03",
@@ -694,7 +732,8 @@
           "reference_source": "依据用户上传《11月雅思part1素材背景.docx》及已提供的个人经历改写；一般看法为可调整的练习表达。",
           "personalization_needed": false,
           "sentence_count": 4,
-          "reference_revision": "1.2.0"
+          "reference_revision": "1.2.0",
+          "category_id": "routine"
         },
         {
           "id": "pdf-p1-08-04",
@@ -714,9 +753,11 @@
           "reference_source": "依据用户上传《11月雅思part1素材背景.docx》及已提供的个人经历改写；一般看法为可调整的练习表达。",
           "personalization_needed": false,
           "sentence_count": 4,
-          "reference_revision": "1.2.0"
+          "reference_revision": "1.2.0",
+          "category_id": "routine"
         }
-      ]
+      ],
+      "display_title": "购物与任务清单 · Lists"
     },
     {
       "id": "pdf-p1-topic-09",
@@ -741,7 +782,8 @@
           "reference_source": "依据用户上传《11月雅思part1素材背景.docx》及已提供的个人经历改写；一般看法为可调整的练习表达。",
           "personalization_needed": false,
           "sentence_count": 4,
-          "reference_revision": "1.2.0"
+          "reference_revision": "1.2.0",
+          "category_id": "growth"
         },
         {
           "id": "pdf-p1-09-02",
@@ -761,7 +803,8 @@
           "reference_source": "依据用户上传《11月雅思part1素材背景.docx》及已提供的个人经历改写；一般看法为可调整的练习表达。",
           "personalization_needed": false,
           "sentence_count": 4,
-          "reference_revision": "1.2.0"
+          "reference_revision": "1.2.0",
+          "category_id": "growth"
         },
         {
           "id": "pdf-p1-09-03",
@@ -781,7 +824,8 @@
           "reference_source": "依据用户上传《11月雅思part1素材背景.docx》及已提供的个人经历改写；一般看法为可调整的练习表达。",
           "personalization_needed": false,
           "sentence_count": 4,
-          "reference_revision": "1.2.0"
+          "reference_revision": "1.2.0",
+          "category_id": "growth"
         },
         {
           "id": "pdf-p1-09-04",
@@ -801,7 +845,8 @@
           "reference_source": "依据用户上传《11月雅思part1素材背景.docx》及已提供的个人经历改写；一般看法为可调整的练习表达。",
           "personalization_needed": false,
           "sentence_count": 4,
-          "reference_revision": "1.2.0"
+          "reference_revision": "1.2.0",
+          "category_id": "growth"
         },
         {
           "id": "pdf-p1-09-05",
@@ -821,9 +866,11 @@
           "reference_source": "依据用户上传《11月雅思part1素材背景.docx》及已提供的个人经历改写；一般看法为可调整的练习表达。",
           "personalization_needed": false,
           "sentence_count": 4,
-          "reference_revision": "1.2.0"
+          "reference_revision": "1.2.0",
+          "category_id": "growth"
         }
-      ]
+      ],
+      "display_title": "耐心 · Patience"
     },
     {
       "id": "pdf-p1-topic-10",
@@ -848,7 +895,8 @@
           "reference_source": "依据用户上传《11月雅思part1素材背景.docx》及已提供的个人经历改写；一般看法为可调整的练习表达。",
           "personalization_needed": false,
           "sentence_count": 4,
-          "reference_revision": "1.2.0"
+          "reference_revision": "1.2.0",
+          "category_id": "nature"
         },
         {
           "id": "pdf-p1-10-02",
@@ -868,7 +916,8 @@
           "reference_source": "依据用户上传《11月雅思part1素材背景.docx》及已提供的个人经历改写；一般看法为可调整的练习表达。",
           "personalization_needed": false,
           "sentence_count": 4,
-          "reference_revision": "1.2.0"
+          "reference_revision": "1.2.0",
+          "category_id": "nature"
         },
         {
           "id": "pdf-p1-10-03",
@@ -889,7 +938,8 @@
           "personalization_needed": true,
           "sentence_count": 4,
           "reference_revision": "1.2.0",
-          "reference_note": "未明确提供：昆明当前住所周边花卉的实际情况；杭州太子湾看花经历已确认。 方括号仅为待填选项，不代表已确认事实；替换后再口头计时。"
+          "reference_note": "未明确提供：昆明当前住所周边花卉的实际情况；杭州太子湾看花经历已确认。 方括号仅为待填选项，不代表已确认事实；替换后再口头计时。",
+          "category_id": "nature"
         },
         {
           "id": "pdf-p1-10-04",
@@ -909,7 +959,8 @@
           "reference_source": "依据用户上传《11月雅思part1素材背景.docx》及已提供的个人经历改写；一般看法为可调整的练习表达。",
           "personalization_needed": false,
           "sentence_count": 4,
-          "reference_revision": "1.2.0"
+          "reference_revision": "1.2.0",
+          "category_id": "nature"
         },
         {
           "id": "pdf-p1-10-05",
@@ -929,9 +980,11 @@
           "reference_source": "依据用户上传《11月雅思part1素材背景.docx》及已提供的个人经历改写；一般看法为可调整的练习表达。",
           "personalization_needed": false,
           "sentence_count": 4,
-          "reference_revision": "1.2.0"
+          "reference_revision": "1.2.0",
+          "category_id": "nature"
         }
-      ]
+      ],
+      "display_title": "花卉 · Flowers"
     },
     {
       "id": "pdf-p1-topic-11",
@@ -955,7 +1008,8 @@
           "reference_source": "依据用户上传《11月雅思part1素材背景.docx》及已提供的个人经历改写；一般看法为可调整的练习表达。",
           "personalization_needed": false,
           "sentence_count": 4,
-          "reference_revision": "1.2.0"
+          "reference_revision": "1.2.0",
+          "category_id": "technology"
         },
         {
           "id": "pdf-p1-11-02",
@@ -975,7 +1029,8 @@
           "reference_source": "依据用户上传《11月雅思part1素材背景.docx》及已提供的个人经历改写；一般看法为可调整的练习表达。",
           "personalization_needed": false,
           "sentence_count": 4,
-          "reference_revision": "1.2.0"
+          "reference_revision": "1.2.0",
+          "category_id": "technology"
         },
         {
           "id": "pdf-p1-11-03",
@@ -995,7 +1050,8 @@
           "reference_source": "依据用户上传《11月雅思part1素材背景.docx》及已提供的个人经历改写；一般看法为可调整的练习表达。",
           "personalization_needed": false,
           "sentence_count": 4,
-          "reference_revision": "1.2.0"
+          "reference_revision": "1.2.0",
+          "category_id": "technology"
         },
         {
           "id": "pdf-p1-11-04",
@@ -1015,7 +1071,8 @@
           "reference_source": "依据用户上传《11月雅思part1素材背景.docx》及已提供的个人经历改写；一般看法为可调整的练习表达。",
           "personalization_needed": false,
           "sentence_count": 4,
-          "reference_revision": "1.2.0"
+          "reference_revision": "1.2.0",
+          "category_id": "technology"
         },
         {
           "id": "pdf-p1-11-05",
@@ -1035,9 +1092,11 @@
           "reference_source": "依据用户上传《11月雅思part1素材背景.docx》及已提供的个人经历改写；一般看法为可调整的练习表达。",
           "personalization_needed": false,
           "sentence_count": 4,
-          "reference_revision": "1.2.0"
+          "reference_revision": "1.2.0",
+          "category_id": "technology"
         }
-      ]
+      ],
+      "display_title": "电脑与平板 · Computers"
     },
     {
       "id": "pdf-p1-topic-12",
@@ -1061,7 +1120,8 @@
           "reference_source": "依据用户上传《11月雅思part1素材背景.docx》及已提供的个人经历改写；一般看法为可调整的练习表达。",
           "personalization_needed": false,
           "sentence_count": 4,
-          "reference_revision": "1.2.0"
+          "reference_revision": "1.2.0",
+          "category_id": "routine"
         },
         {
           "id": "pdf-p1-12-02",
@@ -1081,7 +1141,8 @@
           "reference_source": "依据用户上传《11月雅思part1素材背景.docx》及已提供的个人经历改写；一般看法为可调整的练习表达。",
           "personalization_needed": false,
           "sentence_count": 4,
-          "reference_revision": "1.2.0"
+          "reference_revision": "1.2.0",
+          "category_id": "routine"
         },
         {
           "id": "pdf-p1-12-03",
@@ -1101,7 +1162,8 @@
           "reference_source": "依据用户上传《11月雅思part1素材背景.docx》及已提供的个人经历改写；一般看法为可调整的练习表达。",
           "personalization_needed": false,
           "sentence_count": 4,
-          "reference_revision": "1.2.0"
+          "reference_revision": "1.2.0",
+          "category_id": "routine"
         },
         {
           "id": "pdf-p1-12-04",
@@ -1121,9 +1183,11 @@
           "reference_source": "依据用户上传《11月雅思part1素材背景.docx》及已提供的个人经历改写；一般看法为可调整的练习表达。",
           "personalization_needed": false,
           "sentence_count": 4,
-          "reference_revision": "1.2.0"
+          "reference_revision": "1.2.0",
+          "category_id": "routine"
         }
-      ]
+      ],
+      "display_title": "早晚偏好与晚间生活 · Evening"
     },
     {
       "id": "pdf-p1-topic-13",
@@ -1147,7 +1211,8 @@
           "reference_source": "依据用户上传《11月雅思part1素材背景.docx》及已提供的个人经历改写；一般看法为可调整的练习表达。",
           "personalization_needed": false,
           "sentence_count": 4,
-          "reference_revision": "1.2.0"
+          "reference_revision": "1.2.0",
+          "category_id": "interests"
         },
         {
           "id": "pdf-p1-13-02",
@@ -1167,7 +1232,8 @@
           "reference_source": "依据用户上传《11月雅思part1素材背景.docx》及已提供的个人经历改写；一般看法为可调整的练习表达。",
           "personalization_needed": false,
           "sentence_count": 4,
-          "reference_revision": "1.2.0"
+          "reference_revision": "1.2.0",
+          "category_id": "interests"
         },
         {
           "id": "pdf-p1-13-03",
@@ -1187,7 +1253,8 @@
           "reference_source": "依据用户上传《11月雅思part1素材背景.docx》及已提供的个人经历改写；一般看法为可调整的练习表达。",
           "personalization_needed": false,
           "sentence_count": 4,
-          "reference_revision": "1.2.0"
+          "reference_revision": "1.2.0",
+          "category_id": "interests"
         },
         {
           "id": "pdf-p1-13-04",
@@ -1207,9 +1274,11 @@
           "reference_source": "依据用户上传《11月雅思part1素材背景.docx》及已提供的个人经历改写；一般看法为可调整的练习表达。",
           "personalization_needed": false,
           "sentence_count": 4,
-          "reference_revision": "1.2.0"
+          "reference_revision": "1.2.0",
+          "category_id": "interests"
         }
-      ]
+      ],
+      "display_title": "运动 · Sports"
     },
     {
       "id": "pdf-p1-topic-14",
@@ -1233,7 +1302,8 @@
           "reference_source": "依据用户上传《11月雅思part1素材背景.docx》及已提供的个人经历改写；一般看法为可调整的练习表达。",
           "personalization_needed": false,
           "sentence_count": 4,
-          "reference_revision": "1.2.0"
+          "reference_revision": "1.2.0",
+          "category_id": "relationships"
         },
         {
           "id": "pdf-p1-14-02",
@@ -1253,7 +1323,8 @@
           "reference_source": "依据用户上传《11月雅思part1素材背景.docx》及已提供的个人经历改写；一般看法为可调整的练习表达。",
           "personalization_needed": false,
           "sentence_count": 4,
-          "reference_revision": "1.2.0"
+          "reference_revision": "1.2.0",
+          "category_id": "relationships"
         },
         {
           "id": "pdf-p1-14-03",
@@ -1273,7 +1344,8 @@
           "reference_source": "依据用户上传《11月雅思part1素材背景.docx》及已提供的个人经历改写；一般看法为可调整的练习表达。",
           "personalization_needed": false,
           "sentence_count": 4,
-          "reference_revision": "1.2.0"
+          "reference_revision": "1.2.0",
+          "category_id": "relationships"
         },
         {
           "id": "pdf-p1-14-04",
@@ -1293,9 +1365,11 @@
           "reference_source": "依据用户上传《11月雅思part1素材背景.docx》及已提供的个人经历改写；一般看法为可调整的练习表达。",
           "personalization_needed": false,
           "sentence_count": 4,
-          "reference_revision": "1.2.0"
+          "reference_revision": "1.2.0",
+          "category_id": "relationships"
         }
-      ]
+      ],
+      "display_title": "表达感谢 · Saying thank you"
     },
     {
       "id": "pdf-p1-topic-15",
@@ -1320,7 +1394,8 @@
           "reference_source": "依据用户上传《11月雅思part1素材背景.docx》及已提供的个人经历改写；一般看法为可调整的练习表达。",
           "personalization_needed": false,
           "sentence_count": 4,
-          "reference_revision": "1.2.0"
+          "reference_revision": "1.2.0",
+          "category_id": "routine"
         },
         {
           "id": "pdf-p1-15-02",
@@ -1340,7 +1415,8 @@
           "reference_source": "依据用户上传《11月雅思part1素材背景.docx》及已提供的个人经历改写；一般看法为可调整的练习表达。",
           "personalization_needed": false,
           "sentence_count": 4,
-          "reference_revision": "1.2.0"
+          "reference_revision": "1.2.0",
+          "category_id": "routine"
         },
         {
           "id": "pdf-p1-15-03",
@@ -1360,7 +1436,8 @@
           "reference_source": "依据用户上传《11月雅思part1素材背景.docx》及已提供的个人经历改写；一般看法为可调整的练习表达。",
           "personalization_needed": false,
           "sentence_count": 4,
-          "reference_revision": "1.2.0"
+          "reference_revision": "1.2.0",
+          "category_id": "routine"
         },
         {
           "id": "pdf-p1-15-04",
@@ -1380,9 +1457,11 @@
           "reference_source": "依据用户上传《11月雅思part1素材背景.docx》及已提供的个人经历改写；一般看法为可调整的练习表达。",
           "personalization_needed": false,
           "sentence_count": 4,
-          "reference_revision": "1.2.0"
+          "reference_revision": "1.2.0",
+          "category_id": "routine"
         }
-      ]
+      ],
+      "display_title": "日程与计划 · Plans"
     },
     {
       "id": "pdf-p1-topic-16",
@@ -1407,7 +1486,8 @@
           "reference_source": "依据用户上传《11月雅思part1素材背景.docx》及已提供的个人经历改写；一般看法为可调整的练习表达。",
           "personalization_needed": false,
           "sentence_count": 4,
-          "reference_revision": "1.2.0"
+          "reference_revision": "1.2.0",
+          "category_id": "interests"
         },
         {
           "id": "pdf-p1-16-02",
@@ -1427,7 +1507,8 @@
           "reference_source": "依据用户上传《11月雅思part1素材背景.docx》及已提供的个人经历改写；一般看法为可调整的练习表达。",
           "personalization_needed": false,
           "sentence_count": 4,
-          "reference_revision": "1.2.0"
+          "reference_revision": "1.2.0",
+          "category_id": "interests"
         },
         {
           "id": "pdf-p1-16-03",
@@ -1447,7 +1528,8 @@
           "reference_source": "依据用户上传《11月雅思part1素材背景.docx》及已提供的个人经历改写；一般看法为可调整的练习表达。",
           "personalization_needed": false,
           "sentence_count": 4,
-          "reference_revision": "1.2.0"
+          "reference_revision": "1.2.0",
+          "category_id": "interests"
         },
         {
           "id": "pdf-p1-16-04",
@@ -1467,9 +1549,11 @@
           "reference_source": "依据用户上传《11月雅思part1素材背景.docx》及已提供的个人经历改写；一般看法为可调整的练习表达。",
           "personalization_needed": false,
           "sentence_count": 4,
-          "reference_revision": "1.2.0"
+          "reference_revision": "1.2.0",
+          "category_id": "interests"
         }
-      ]
+      ],
+      "display_title": "拍照与自拍 · Photography"
     },
     {
       "id": "pdf-p1-topic-17",
@@ -1493,7 +1577,8 @@
           "reference_source": "依据用户上传《11月雅思part1素材背景.docx》及已提供的个人经历改写；一般看法为可调整的练习表达。",
           "personalization_needed": false,
           "sentence_count": 4,
-          "reference_revision": "1.2.0"
+          "reference_revision": "1.2.0",
+          "category_id": "nature"
         },
         {
           "id": "pdf-p1-17-02",
@@ -1513,7 +1598,8 @@
           "reference_source": "依据用户上传《11月雅思part1素材背景.docx》及已提供的个人经历改写；一般看法为可调整的练习表达。",
           "personalization_needed": false,
           "sentence_count": 4,
-          "reference_revision": "1.2.0"
+          "reference_revision": "1.2.0",
+          "category_id": "nature"
         },
         {
           "id": "pdf-p1-17-03",
@@ -1533,7 +1619,8 @@
           "reference_source": "依据用户上传《11月雅思part1素材背景.docx》及已提供的个人经历改写；一般看法为可调整的练习表达。",
           "personalization_needed": false,
           "sentence_count": 4,
-          "reference_revision": "1.2.0"
+          "reference_revision": "1.2.0",
+          "category_id": "nature"
         },
         {
           "id": "pdf-p1-17-04",
@@ -1553,9 +1640,11 @@
           "reference_source": "依据用户上传《11月雅思part1素材背景.docx》及已提供的个人经历改写；一般看法为可调整的练习表达。",
           "personalization_needed": false,
           "sentence_count": 4,
-          "reference_revision": "1.2.0"
+          "reference_revision": "1.2.0",
+          "category_id": "nature"
         }
-      ]
+      ],
+      "display_title": "科学与研究 · Science"
     },
     {
       "id": "pdf-p1-topic-18",
@@ -1579,7 +1668,8 @@
           "reference_source": "依据用户上传《11月雅思part1素材背景.docx》及已提供的个人经历改写；一般看法为可调整的练习表达。",
           "personalization_needed": false,
           "sentence_count": 4,
-          "reference_revision": "1.2.0"
+          "reference_revision": "1.2.0",
+          "category_id": "technology"
         },
         {
           "id": "pdf-p1-18-02",
@@ -1599,7 +1689,8 @@
           "reference_source": "依据用户上传《11月雅思part1素材背景.docx》及已提供的个人经历改写；一般看法为可调整的练习表达。",
           "personalization_needed": false,
           "sentence_count": 4,
-          "reference_revision": "1.2.0"
+          "reference_revision": "1.2.0",
+          "category_id": "technology"
         },
         {
           "id": "pdf-p1-18-03",
@@ -1619,7 +1710,8 @@
           "reference_source": "依据用户上传《11月雅思part1素材背景.docx》及已提供的个人经历改写；一般看法为可调整的练习表达。",
           "personalization_needed": false,
           "sentence_count": 4,
-          "reference_revision": "1.2.0"
+          "reference_revision": "1.2.0",
+          "category_id": "technology"
         },
         {
           "id": "pdf-p1-18-04",
@@ -1639,7 +1731,8 @@
           "reference_source": "依据用户上传《11月雅思part1素材背景.docx》及已提供的个人经历改写；一般看法为可调整的练习表达。",
           "personalization_needed": false,
           "sentence_count": 4,
-          "reference_revision": "1.2.0"
+          "reference_revision": "1.2.0",
+          "category_id": "technology"
         },
         {
           "id": "pdf-p1-18-05",
@@ -1660,7 +1753,8 @@
           "personalization_needed": true,
           "sentence_count": 4,
           "reference_revision": "1.2.0",
-          "reference_note": "未明确提供：是否实际用缝纫机做过衣服。 方括号仅为待填选项，不代表已确认事实；替换后再口头计时。"
+          "reference_note": "未明确提供：是否实际用缝纫机做过衣服。 方括号仅为待填选项，不代表已确认事实；替换后再口头计时。",
+          "category_id": "technology"
         },
         {
           "id": "pdf-p1-18-06",
@@ -1680,9 +1774,11 @@
           "reference_source": "依据用户上传《11月雅思part1素材背景.docx》及已提供的个人经历改写；一般看法为可调整的练习表达。",
           "personalization_needed": false,
           "sentence_count": 4,
-          "reference_revision": "1.2.0"
+          "reference_revision": "1.2.0",
+          "category_id": "technology"
         }
-      ]
+      ],
+      "display_title": "机器与家电 · Machines"
     },
     {
       "id": "pdf-p1-topic-19",
@@ -1706,7 +1802,8 @@
           "reference_source": "依据用户上传《11月雅思part1素材背景.docx》及已提供的个人经历改写；一般看法为可调整的练习表达。",
           "personalization_needed": false,
           "sentence_count": 4,
-          "reference_revision": "1.2.0"
+          "reference_revision": "1.2.0",
+          "category_id": "growth"
         },
         {
           "id": "pdf-p1-19-02",
@@ -1726,7 +1823,8 @@
           "reference_source": "依据用户上传《11月雅思part1素材背景.docx》及已提供的个人经历改写；一般看法为可调整的练习表达。",
           "personalization_needed": false,
           "sentence_count": 4,
-          "reference_revision": "1.2.0"
+          "reference_revision": "1.2.0",
+          "category_id": "growth"
         },
         {
           "id": "pdf-p1-19-03",
@@ -1747,7 +1845,8 @@
           "personalization_needed": true,
           "sentence_count": 4,
           "reference_revision": "1.2.0",
-          "reference_note": "未明确提供：最近一次表扬他人的时间、人物及具体原因。 方括号仅为待填选项，不代表已确认事实；替换后再口头计时。"
+          "reference_note": "未明确提供：最近一次表扬他人的时间、人物及具体原因。 方括号仅为待填选项，不代表已确认事实；替换后再口头计时。",
+          "category_id": "growth"
         },
         {
           "id": "pdf-p1-19-04",
@@ -1767,7 +1866,8 @@
           "reference_source": "依据用户上传《11月雅思part1素材背景.docx》及已提供的个人经历改写；一般看法为可调整的练习表达。",
           "personalization_needed": false,
           "sentence_count": 4,
-          "reference_revision": "1.2.0"
+          "reference_revision": "1.2.0",
+          "category_id": "growth"
         },
         {
           "id": "pdf-p1-19-05",
@@ -1787,9 +1887,11 @@
           "reference_source": "依据用户上传《11月雅思part1素材背景.docx》及已提供的个人经历改写；一般看法为可调整的练习表达。",
           "personalization_needed": false,
           "sentence_count": 4,
-          "reference_revision": "1.2.0"
+          "reference_revision": "1.2.0",
+          "category_id": "growth"
         }
-      ]
+      ],
+      "display_title": "成就、表扬与鼓励 · Praise"
     },
     {
       "id": "pdf-p1-topic-20",
@@ -1813,7 +1915,8 @@
           "reference_source": "依据用户上传《11月雅思part1素材背景.docx》及已提供的个人经历改写；一般看法为可调整的练习表达。",
           "personalization_needed": false,
           "sentence_count": 4,
-          "reference_revision": "1.2.0"
+          "reference_revision": "1.2.0",
+          "category_id": "interests"
         },
         {
           "id": "pdf-p1-20-02",
@@ -1833,7 +1936,8 @@
           "reference_source": "依据用户上传《11月雅思part1素材背景.docx》及已提供的个人经历改写；一般看法为可调整的练习表达。",
           "personalization_needed": false,
           "sentence_count": 4,
-          "reference_revision": "1.2.0"
+          "reference_revision": "1.2.0",
+          "category_id": "interests"
         },
         {
           "id": "pdf-p1-20-03",
@@ -1853,9 +1957,11 @@
           "reference_source": "依据用户上传《11月雅思part1素材背景.docx》及已提供的个人经历改写；一般看法为可调整的练习表达。",
           "personalization_needed": false,
           "sentence_count": 4,
-          "reference_revision": "1.2.0"
+          "reference_revision": "1.2.0",
+          "category_id": "interests"
         }
-      ]
+      ],
+      "display_title": "阅读与书籍 · Books"
     },
     {
       "id": "pdf-p1-topic-21",
@@ -1879,7 +1985,8 @@
           "reference_source": "依据用户上传《11月雅思part1素材背景.docx》及已提供的个人经历改写；一般看法为可调整的练习表达。",
           "personalization_needed": false,
           "sentence_count": 4,
-          "reference_revision": "1.2.0"
+          "reference_revision": "1.2.0",
+          "category_id": "technology"
         },
         {
           "id": "pdf-p1-21-02",
@@ -1899,7 +2006,8 @@
           "reference_source": "依据用户上传《11月雅思part1素材背景.docx》及已提供的个人经历改写；一般看法为可调整的练习表达。",
           "personalization_needed": false,
           "sentence_count": 4,
-          "reference_revision": "1.2.0"
+          "reference_revision": "1.2.0",
+          "category_id": "technology"
         },
         {
           "id": "pdf-p1-21-03",
@@ -1919,7 +2027,8 @@
           "reference_source": "依据用户上传《11月雅思part1素材背景.docx》及已提供的个人经历改写；一般看法为可调整的练习表达。",
           "personalization_needed": false,
           "sentence_count": 4,
-          "reference_revision": "1.2.0"
+          "reference_revision": "1.2.0",
+          "category_id": "technology"
         },
         {
           "id": "pdf-p1-21-04",
@@ -1939,7 +2048,8 @@
           "reference_source": "依据用户上传《11月雅思part1素材背景.docx》及已提供的个人经历改写；一般看法为可调整的练习表达。",
           "personalization_needed": false,
           "sentence_count": 4,
-          "reference_revision": "1.2.0"
+          "reference_revision": "1.2.0",
+          "category_id": "technology"
         },
         {
           "id": "pdf-p1-21-05",
@@ -1959,7 +2069,8 @@
           "reference_source": "依据用户上传《11月雅思part1素材背景.docx》及已提供的个人经历改写；一般看法为可调整的练习表达。",
           "personalization_needed": false,
           "sentence_count": 4,
-          "reference_revision": "1.2.0"
+          "reference_revision": "1.2.0",
+          "category_id": "technology"
         },
         {
           "id": "pdf-p1-21-06",
@@ -1979,9 +2090,11 @@
           "reference_source": "依据用户上传《11月雅思part1素材背景.docx》及已提供的个人经历改写；一般看法为可调整的练习表达。",
           "personalization_needed": false,
           "sentence_count": 4,
-          "reference_revision": "1.2.0"
+          "reference_revision": "1.2.0",
+          "category_id": "technology"
         }
-      ]
+      ],
+      "display_title": "手机 · Cell phone"
     },
     {
       "id": "pdf-p1-topic-22",
@@ -2005,7 +2118,8 @@
           "reference_source": "依据用户上传《11月雅思part1素材背景.docx》及已提供的个人经历改写；一般看法为可调整的练习表达。",
           "personalization_needed": false,
           "sentence_count": 4,
-          "reference_revision": "1.2.0"
+          "reference_revision": "1.2.0",
+          "category_id": "home"
         },
         {
           "id": "pdf-p1-22-02",
@@ -2025,7 +2139,8 @@
           "reference_source": "依据用户上传《11月雅思part1素材背景.docx》及已提供的个人经历改写；一般看法为可调整的练习表达。",
           "personalization_needed": false,
           "sentence_count": 4,
-          "reference_revision": "1.2.0"
+          "reference_revision": "1.2.0",
+          "category_id": "home"
         },
         {
           "id": "pdf-p1-22-03",
@@ -2045,7 +2160,8 @@
           "reference_source": "依据用户上传《11月雅思part1素材背景.docx》及已提供的个人经历改写；一般看法为可调整的练习表达。",
           "personalization_needed": false,
           "sentence_count": 4,
-          "reference_revision": "1.2.0"
+          "reference_revision": "1.2.0",
+          "category_id": "home"
         },
         {
           "id": "pdf-p1-22-04",
@@ -2065,9 +2181,11 @@
           "reference_source": "依据用户上传《11月雅思part1素材背景.docx》及已提供的个人经历改写；一般看法为可调整的练习表达。",
           "personalization_needed": false,
           "sentence_count": 4,
-          "reference_revision": "1.2.0"
+          "reference_revision": "1.2.0",
+          "category_id": "home"
         }
-      ]
+      ],
+      "display_title": "建筑与保护 · Buildings"
     },
     {
       "id": "pdf-p1-topic-23",
@@ -2091,7 +2209,8 @@
           "reference_source": "依据用户上传《11月雅思part1素材背景.docx》及已提供的个人经历改写；一般看法为可调整的练习表达。",
           "personalization_needed": false,
           "sentence_count": 4,
-          "reference_revision": "1.2.0"
+          "reference_revision": "1.2.0",
+          "category_id": "growth"
         },
         {
           "id": "pdf-p1-23-02",
@@ -2111,7 +2230,8 @@
           "reference_source": "依据用户上传《11月雅思part1素材背景.docx》及已提供的个人经历改写；一般看法为可调整的练习表达。",
           "personalization_needed": false,
           "sentence_count": 4,
-          "reference_revision": "1.2.0"
+          "reference_revision": "1.2.0",
+          "category_id": "growth"
         },
         {
           "id": "pdf-p1-23-03",
@@ -2131,7 +2251,8 @@
           "reference_source": "依据用户上传《11月雅思part1素材背景.docx》及已提供的个人经历改写；一般看法为可调整的练习表达。",
           "personalization_needed": false,
           "sentence_count": 4,
-          "reference_revision": "1.2.0"
+          "reference_revision": "1.2.0",
+          "category_id": "growth"
         },
         {
           "id": "pdf-p1-23-04",
@@ -2151,7 +2272,8 @@
           "reference_source": "依据用户上传《11月雅思part1素材背景.docx》及已提供的个人经历改写；一般看法为可调整的练习表达。",
           "personalization_needed": false,
           "sentence_count": 4,
-          "reference_revision": "1.2.0"
+          "reference_revision": "1.2.0",
+          "category_id": "growth"
         },
         {
           "id": "pdf-p1-23-05",
@@ -2172,9 +2294,11 @@
           "personalization_needed": true,
           "sentence_count": 4,
           "reference_revision": "1.2.0",
-          "reference_note": "未明确提供：学校里感到无聊的真实课程或活动。 方括号仅为待填选项，不代表已确认事实；替换后再口头计时。"
+          "reference_note": "未明确提供：学校里感到无聊的真实课程或活动。 方括号仅为待填选项，不代表已确认事实；替换后再口头计时。",
+          "category_id": "growth"
         }
-      ]
+      ],
+      "display_title": "无聊与调节 · Boredom"
     },
     {
       "id": "pdf-p1-topic-24",
@@ -2198,7 +2322,8 @@
           "reference_source": "依据用户上传《11月雅思part1素材背景.docx》及已提供的个人经历改写；一般看法为可调整的练习表达。",
           "personalization_needed": false,
           "sentence_count": 4,
-          "reference_revision": "1.2.0"
+          "reference_revision": "1.2.0",
+          "category_id": "relationships"
         },
         {
           "id": "pdf-p1-24-02",
@@ -2218,7 +2343,8 @@
           "reference_source": "依据用户上传《11月雅思part1素材背景.docx》及已提供的个人经历改写；一般看法为可调整的练习表达。",
           "personalization_needed": false,
           "sentence_count": 4,
-          "reference_revision": "1.2.0"
+          "reference_revision": "1.2.0",
+          "category_id": "relationships"
         },
         {
           "id": "pdf-p1-24-03",
@@ -2238,7 +2364,8 @@
           "reference_source": "依据用户上传《11月雅思part1素材背景.docx》及已提供的个人经历改写；一般看法为可调整的练习表达。",
           "personalization_needed": false,
           "sentence_count": 4,
-          "reference_revision": "1.2.0"
+          "reference_revision": "1.2.0",
+          "category_id": "relationships"
         },
         {
           "id": "pdf-p1-24-04",
@@ -2258,9 +2385,11 @@
           "reference_source": "依据用户上传《11月雅思part1素材背景.docx》及已提供的个人经历改写；一般看法为可调整的练习表达。",
           "personalization_needed": false,
           "sentence_count": 4,
-          "reference_revision": "1.2.0"
+          "reference_revision": "1.2.0",
+          "category_id": "relationships"
         }
-      ]
+      ],
+      "display_title": "朋友与社交 · Friends"
     },
     {
       "id": "p1-01",
@@ -2280,9 +2409,11 @@
           "reference_source": "依据用户上传《11月雅思part1素材背景.docx》及已提供的个人经历改写；一般看法为可调整的练习表达。",
           "personalization_needed": false,
           "sentence_count": 4,
-          "reference_revision": "1.2.0"
+          "reference_revision": "1.2.0",
+          "category_id": "identity"
         }
-      ]
+      ],
+      "display_title": "学习与工作 · Study / work"
     },
     {
       "id": "p1-02",
@@ -2302,9 +2433,11 @@
           "reference_source": "依据用户上传《11月雅思part1素材背景.docx》及已提供的个人经历改写；一般看法为可调整的练习表达。",
           "personalization_needed": false,
           "sentence_count": 4,
-          "reference_revision": "1.2.0"
+          "reference_revision": "1.2.0",
+          "category_id": "home"
         }
-      ]
+      ],
+      "display_title": "家乡 · Hometown"
     },
     {
       "id": "p1-03",
@@ -2324,7 +2457,8 @@
           "reference_source": "依据用户上传《11月雅思part1素材背景.docx》及已提供的个人经历改写；一般看法为可调整的练习表达。",
           "personalization_needed": false,
           "sentence_count": 4,
-          "reference_revision": "1.2.0"
+          "reference_revision": "1.2.0",
+          "category_id": "home"
         },
         {
           "id": "p1-03-2",
@@ -2340,9 +2474,11 @@
           "reference_source": "依据用户上传《11月雅思part1素材背景.docx》及已提供的个人经历改写；一般看法为可调整的练习表达。",
           "personalization_needed": false,
           "sentence_count": 4,
-          "reference_revision": "1.2.0"
+          "reference_revision": "1.2.0",
+          "category_id": "home"
         }
-      ]
+      ],
+      "display_title": "住所与房间 · Accommodation"
     },
     {
       "id": "p1-05",
@@ -2362,9 +2498,11 @@
           "reference_source": "依据用户上传《11月雅思part1素材背景.docx》及已提供的个人经历改写；一般看法为可调整的练习表达。",
           "personalization_needed": false,
           "sentence_count": 4,
-          "reference_revision": "1.2.0"
+          "reference_revision": "1.2.0",
+          "category_id": "interests"
         }
-      ]
+      ],
+      "display_title": "摄影才能与技能 · Talents"
     },
     {
       "id": "p1-07",
@@ -2384,9 +2522,11 @@
           "reference_source": "依据用户上传《11月雅思part1素材背景.docx》及已提供的个人经历改写；一般看法为可调整的练习表达。",
           "personalization_needed": false,
           "sentence_count": 4,
-          "reference_revision": "1.2.0"
+          "reference_revision": "1.2.0",
+          "category_id": "technology"
         }
-      ]
+      ],
+      "display_title": "电脑与平板 · Computers"
     },
     {
       "id": "p1-08",
@@ -2406,9 +2546,11 @@
           "reference_source": "依据用户上传《11月雅思part1素材背景.docx》及已提供的个人经历改写；一般看法为可调整的练习表达。",
           "personalization_needed": false,
           "sentence_count": 4,
-          "reference_revision": "1.2.0"
+          "reference_revision": "1.2.0",
+          "category_id": "relationships"
         }
-      ]
+      ],
+      "display_title": "表达感谢 · Saying thank you"
     },
     {
       "id": "p1-10",
@@ -2428,9 +2570,11 @@
           "reference_source": "依据用户上传《11月雅思part1素材背景.docx》及已提供的个人经历改写；一般看法为可调整的练习表达。",
           "personalization_needed": false,
           "sentence_count": 4,
-          "reference_revision": "1.2.0"
+          "reference_revision": "1.2.0",
+          "category_id": "routine"
         }
-      ]
+      ],
+      "display_title": "购物与任务清单 · Lists"
     },
     {
       "id": "p1-13",
@@ -2450,9 +2594,11 @@
           "reference_source": "依据用户上传《11月雅思part1素材背景.docx》及已提供的个人经历改写；一般看法为可调整的练习表达。",
           "personalization_needed": false,
           "sentence_count": 4,
-          "reference_revision": "1.2.0"
+          "reference_revision": "1.2.0",
+          "category_id": "technology"
         }
-      ]
+      ],
+      "display_title": "机器与家电 · Machines"
     },
     {
       "id": "p1-14",
@@ -2472,9 +2618,11 @@
           "reference_source": "依据用户上传《11月雅思part1素材背景.docx》及已提供的个人经历改写；一般看法为可调整的练习表达。",
           "personalization_needed": false,
           "sentence_count": 4,
-          "reference_revision": "1.2.0"
+          "reference_revision": "1.2.0",
+          "category_id": "nature"
         }
-      ]
+      ],
+      "display_title": "科学与研究 · Science"
     },
     {
       "id": "p1-15",
@@ -2494,9 +2642,11 @@
           "reference_source": "依据用户上传《11月雅思part1素材背景.docx》及已提供的个人经历改写；一般看法为可调整的练习表达。",
           "personalization_needed": false,
           "sentence_count": 4,
-          "reference_revision": "1.2.0"
+          "reference_revision": "1.2.0",
+          "category_id": "growth"
         }
-      ]
+      ],
+      "display_title": "成就、表扬与鼓励 · Praise"
     },
     {
       "id": "p1-16",
@@ -2516,9 +2666,11 @@
           "reference_source": "依据用户上传《11月雅思part1素材背景.docx》及已提供的个人经历改写；一般看法为可调整的练习表达。",
           "personalization_needed": false,
           "sentence_count": 4,
-          "reference_revision": "1.2.0"
+          "reference_revision": "1.2.0",
+          "category_id": "interests"
         }
-      ]
+      ],
+      "display_title": "阅读与书籍 · Books"
     },
     {
       "id": "p1-17",
@@ -2538,9 +2690,11 @@
           "reference_source": "依据用户上传《11月雅思part1素材背景.docx》及已提供的个人经历改写；一般看法为可调整的练习表达。",
           "personalization_needed": false,
           "sentence_count": 4,
-          "reference_revision": "1.2.0"
+          "reference_revision": "1.2.0",
+          "category_id": "technology"
         }
-      ]
+      ],
+      "display_title": "手机 · Cell phone"
     },
     {
       "id": "p1-18",
@@ -2560,9 +2714,11 @@
           "reference_source": "依据用户上传《11月雅思part1素材背景.docx》及已提供的个人经历改写；一般看法为可调整的练习表达。",
           "personalization_needed": false,
           "sentence_count": 4,
-          "reference_revision": "1.2.0"
+          "reference_revision": "1.2.0",
+          "category_id": "home"
         }
-      ]
+      ],
+      "display_title": "建筑与保护 · Buildings"
     }
   ],
   "part2": [
@@ -3935,7 +4091,8 @@
             60
           ],
           "reference_source": "上传预测 PDF 观点经校订、改写和扩展；一般性分析为练习参考，不代表用户经历或官方示范评分。",
-          "personalization_needed": false
+          "personalization_needed": false,
+          "category_id": "relationships"
         },
         {
           "id": "p3-01-1",
@@ -3958,7 +4115,8 @@
             60
           ],
           "reference_source": "上传预测 PDF 观点经校订、改写和扩展；一般性分析为练习参考，不代表用户经历或官方示范评分。",
-          "personalization_needed": false
+          "personalization_needed": false,
+          "category_id": "relationships"
         },
         {
           "id": "pdf-p3-01-03",
@@ -3980,7 +4138,8 @@
             60
           ],
           "reference_source": "上传预测 PDF 观点经校订、改写和扩展；一般性分析为练习参考，不代表用户经历或官方示范评分。",
-          "personalization_needed": false
+          "personalization_needed": false,
+          "category_id": "work"
         },
         {
           "id": "pdf-p3-01-04",
@@ -4002,7 +4161,8 @@
             60
           ],
           "reference_source": "上传预测 PDF 观点经校订、改写和扩展；一般性分析为练习参考，不代表用户经历或官方示范评分。",
-          "personalization_needed": false
+          "personalization_needed": false,
+          "category_id": "relationships"
         },
         {
           "id": "pdf-p3-01-05",
@@ -4024,7 +4184,8 @@
             60
           ],
           "reference_source": "上传预测 PDF 观点经校订、改写和扩展；一般性分析为练习参考，不代表用户经历或官方示范评分。",
-          "personalization_needed": false
+          "personalization_needed": false,
+          "category_id": "relationships"
         },
         {
           "id": "pdf-p3-01-06",
@@ -4046,9 +4207,11 @@
             60
           ],
           "reference_source": "上传预测 PDF 观点经校订、改写和扩展；一般性分析为练习参考，不代表用户经历或官方示范评分。",
-          "personalization_needed": false
+          "personalization_needed": false,
+          "category_id": "relationships"
         }
-      ]
+      ],
+      "display_title": "代际沟通与经验"
     },
     {
       "id": "pdf-p3-topic-02",
@@ -4075,7 +4238,8 @@
             60
           ],
           "reference_source": "上传预测 PDF 观点经校订、改写和扩展；一般性分析为练习参考，不代表用户经历或官方示范评分。",
-          "personalization_needed": false
+          "personalization_needed": false,
+          "category_id": "relationships"
         },
         {
           "id": "pdf-p3-02-02",
@@ -4097,7 +4261,8 @@
             60
           ],
           "reference_source": "上传预测 PDF 观点经校订、改写和扩展；一般性分析为练习参考，不代表用户经历或官方示范评分。",
-          "personalization_needed": false
+          "personalization_needed": false,
+          "category_id": "relationships"
         },
         {
           "id": "pdf-p3-02-03",
@@ -4119,7 +4284,8 @@
             60
           ],
           "reference_source": "上传预测 PDF 观点经校订、改写和扩展；一般性分析为练习参考，不代表用户经历或官方示范评分。",
-          "personalization_needed": false
+          "personalization_needed": false,
+          "category_id": "relationships"
         },
         {
           "id": "pdf-p3-02-04",
@@ -4141,7 +4307,8 @@
             60
           ],
           "reference_source": "上传预测 PDF 观点经校订、改写和扩展；一般性分析为练习参考，不代表用户经历或官方示范评分。",
-          "personalization_needed": false
+          "personalization_needed": false,
+          "category_id": "relationships"
         },
         {
           "id": "pdf-p3-02-05",
@@ -4163,7 +4330,8 @@
             60
           ],
           "reference_source": "上传预测 PDF 观点经校订、改写和扩展；一般性分析为练习参考，不代表用户经历或官方示范评分。",
-          "personalization_needed": false
+          "personalization_needed": false,
+          "category_id": "relationships"
         },
         {
           "id": "pdf-p3-02-06",
@@ -4185,9 +4353,11 @@
             60
           ],
           "reference_source": "上传预测 PDF 观点经校订、改写和扩展；一般性分析为练习参考，不代表用户经历或官方示范评分。",
-          "personalization_needed": false
+          "personalization_needed": false,
+          "category_id": "relationships"
         }
-      ]
+      ],
+      "display_title": "跨代友谊与自我关注"
     },
     {
       "id": "pdf-p3-topic-03",
@@ -4213,7 +4383,8 @@
             60
           ],
           "reference_source": "上传预测 PDF 观点经校订、改写和扩展；一般性分析为练习参考，不代表用户经历或官方示范评分。",
-          "personalization_needed": false
+          "personalization_needed": false,
+          "category_id": "education"
         },
         {
           "id": "p3-02-1",
@@ -4236,7 +4407,8 @@
             60
           ],
           "reference_source": "上传预测 PDF 观点经校订、改写和扩展；一般性分析为练习参考，不代表用户经历或官方示范评分。",
-          "personalization_needed": false
+          "personalization_needed": false,
+          "category_id": "education"
         },
         {
           "id": "pdf-p3-03-03",
@@ -4258,7 +4430,8 @@
             60
           ],
           "reference_source": "上传预测 PDF 观点经校订、改写和扩展；一般性分析为练习参考，不代表用户经历或官方示范评分。",
-          "personalization_needed": false
+          "personalization_needed": false,
+          "category_id": "education"
         },
         {
           "id": "pdf-p3-03-04",
@@ -4280,7 +4453,8 @@
             60
           ],
           "reference_source": "上传预测 PDF 观点经校订、改写和扩展；一般性分析为练习参考，不代表用户经历或官方示范评分。",
-          "personalization_needed": false
+          "personalization_needed": false,
+          "category_id": "education"
         },
         {
           "id": "pdf-p3-03-05",
@@ -4302,7 +4476,8 @@
             60
           ],
           "reference_source": "上传预测 PDF 观点经校订、改写和扩展；一般性分析为练习参考，不代表用户经历或官方示范评分。",
-          "personalization_needed": false
+          "personalization_needed": false,
+          "category_id": "education"
         },
         {
           "id": "pdf-p3-03-06",
@@ -4324,9 +4499,11 @@
             60
           ],
           "reference_source": "上传预测 PDF 观点经校订、改写和扩展；一般性分析为练习参考，不代表用户经历或官方示范评分。",
-          "personalization_needed": false
+          "personalization_needed": false,
+          "category_id": "education"
         }
-      ]
+      ],
+      "display_title": "语言学习与教师"
     },
     {
       "id": "pdf-p3-topic-04",
@@ -4352,7 +4529,8 @@
             60
           ],
           "reference_source": "上传预测 PDF 观点经校订、改写和扩展；一般性分析为练习参考，不代表用户经历或官方示范评分。",
-          "personalization_needed": false
+          "personalization_needed": false,
+          "category_id": "places"
         },
         {
           "id": "pdf-p3-04-02",
@@ -4374,7 +4552,8 @@
             60
           ],
           "reference_source": "上传预测 PDF 观点经校订、改写和扩展；一般性分析为练习参考，不代表用户经历或官方示范评分。",
-          "personalization_needed": false
+          "personalization_needed": false,
+          "category_id": "culture"
         },
         {
           "id": "pdf-p3-04-03",
@@ -4396,7 +4575,8 @@
             60
           ],
           "reference_source": "上传预测 PDF 观点经校订、改写和扩展；一般性分析为练习参考，不代表用户经历或官方示范评分。",
-          "personalization_needed": false
+          "personalization_needed": false,
+          "category_id": "technology"
         },
         {
           "id": "pdf-p3-04-04",
@@ -4418,9 +4598,11 @@
             60
           ],
           "reference_source": "上传预测 PDF 观点经校订、改写和扩展；一般性分析为练习参考，不代表用户经历或官方示范评分。",
-          "personalization_needed": false
+          "personalization_needed": false,
+          "category_id": "relationships"
         }
-      ]
+      ],
+      "display_title": "安静场所与休闲方式"
     },
     {
       "id": "pdf-p3-topic-05",
@@ -4446,7 +4628,8 @@
             60
           ],
           "reference_source": "上传预测 PDF 观点经校订、改写和扩展；一般性分析为练习参考，不代表用户经历或官方示范评分。",
-          "personalization_needed": false
+          "personalization_needed": false,
+          "category_id": "culture"
         },
         {
           "id": "pdf-p3-05-02",
@@ -4468,7 +4651,8 @@
             60
           ],
           "reference_source": "上传预测 PDF 观点经校订、改写和扩展；一般性分析为练习参考，不代表用户经历或官方示范评分。",
-          "personalization_needed": false
+          "personalization_needed": false,
+          "category_id": "culture"
         },
         {
           "id": "pdf-p3-05-03",
@@ -4490,7 +4674,8 @@
             60
           ],
           "reference_source": "上传预测 PDF 观点经校订、改写和扩展；一般性分析为练习参考，不代表用户经历或官方示范评分。",
-          "personalization_needed": false
+          "personalization_needed": false,
+          "category_id": "relationships"
         },
         {
           "id": "pdf-p3-05-04",
@@ -4512,7 +4697,8 @@
             60
           ],
           "reference_source": "上传预测 PDF 观点经校订、改写和扩展；一般性分析为练习参考，不代表用户经历或官方示范评分。",
-          "personalization_needed": false
+          "personalization_needed": false,
+          "category_id": "education"
         },
         {
           "id": "pdf-p3-05-05",
@@ -4534,7 +4720,8 @@
             60
           ],
           "reference_source": "上传预测 PDF 观点经校订、改写和扩展；一般性分析为练习参考，不代表用户经历或官方示范评分。",
-          "personalization_needed": false
+          "personalization_needed": false,
+          "category_id": "culture"
         },
         {
           "id": "pdf-p3-05-06",
@@ -4556,9 +4743,11 @@
             60
           ],
           "reference_source": "上传预测 PDF 观点经校订、改写和扩展；一般性分析为练习参考，不代表用户经历或官方示范评分。",
-          "personalization_needed": false
+          "personalization_needed": false,
+          "category_id": "work"
         }
-      ]
+      ],
+      "display_title": "喜剧、动画与幽默"
     },
     {
       "id": "pdf-p3-topic-06",
@@ -4584,7 +4773,8 @@
             60
           ],
           "reference_source": "上传预测 PDF 观点经校订、改写和扩展；一般性分析为练习参考，不代表用户经历或官方示范评分。",
-          "personalization_needed": false
+          "personalization_needed": false,
+          "category_id": "education"
         },
         {
           "id": "pdf-p3-06-02",
@@ -4606,7 +4796,8 @@
             60
           ],
           "reference_source": "上传预测 PDF 观点经校订、改写和扩展；一般性分析为练习参考，不代表用户经历或官方示范评分。",
-          "personalization_needed": false
+          "personalization_needed": false,
+          "category_id": "education"
         },
         {
           "id": "pdf-p3-06-03",
@@ -4628,7 +4819,8 @@
             60
           ],
           "reference_source": "上传预测 PDF 观点经校订、改写和扩展；一般性分析为练习参考，不代表用户经历或官方示范评分。",
-          "personalization_needed": false
+          "personalization_needed": false,
+          "category_id": "relationships"
         },
         {
           "id": "pdf-p3-06-04",
@@ -4650,9 +4842,11 @@
             60
           ],
           "reference_source": "上传预测 PDF 观点经校订、改写和扩展；一般性分析为练习参考，不代表用户经历或官方示范评分。",
-          "personalization_needed": false
+          "personalization_needed": false,
+          "category_id": "relationships"
         }
-      ]
+      ],
+      "display_title": "智力与儿童发展"
     },
     {
       "id": "pdf-p3-topic-07",
@@ -4678,7 +4872,8 @@
             60
           ],
           "reference_source": "上传预测 PDF 观点经校订、改写和扩展；一般性分析为练习参考，不代表用户经历或官方示范评分。",
-          "personalization_needed": false
+          "personalization_needed": false,
+          "category_id": "technology"
         },
         {
           "id": "pdf-p3-07-02",
@@ -4700,7 +4895,8 @@
             60
           ],
           "reference_source": "上传预测 PDF 观点经校订、改写和扩展；一般性分析为练习参考，不代表用户经历或官方示范评分。",
-          "personalization_needed": false
+          "personalization_needed": false,
+          "category_id": "technology"
         },
         {
           "id": "pdf-p3-07-03",
@@ -4722,7 +4918,8 @@
             60
           ],
           "reference_source": "上传预测 PDF 观点经校订、改写和扩展；一般性分析为练习参考，不代表用户经历或官方示范评分。",
-          "personalization_needed": false
+          "personalization_needed": false,
+          "category_id": "technology"
         },
         {
           "id": "pdf-p3-07-04",
@@ -4744,9 +4941,11 @@
             60
           ],
           "reference_source": "上传预测 PDF 观点经校订、改写和扩展；一般性分析为练习参考，不代表用户经历或官方示范评分。",
-          "personalization_needed": false
+          "personalization_needed": false,
+          "category_id": "technology"
         }
-      ]
+      ],
+      "display_title": "手机使用与公共礼仪"
     },
     {
       "id": "pdf-p3-topic-08",
@@ -4772,7 +4971,8 @@
             60
           ],
           "reference_source": "上传预测 PDF 观点经校订、改写和扩展；一般性分析为练习参考，不代表用户经历或官方示范评分。",
-          "personalization_needed": false
+          "personalization_needed": false,
+          "category_id": "education"
         },
         {
           "id": "pdf-p3-08-02",
@@ -4794,7 +4994,8 @@
             60
           ],
           "reference_source": "上传预测 PDF 观点经校订、改写和扩展；一般性分析为练习参考，不代表用户经历或官方示范评分。",
-          "personalization_needed": false
+          "personalization_needed": false,
+          "category_id": "places"
         },
         {
           "id": "pdf-p3-08-03",
@@ -4816,9 +5017,11 @@
             60
           ],
           "reference_source": "上传预测 PDF 观点经校订、改写和扩展；一般性分析为练习参考，不代表用户经历或官方示范评分。",
-          "personalization_needed": false
+          "personalization_needed": false,
+          "category_id": "places"
         }
-      ]
+      ],
+      "display_title": "动物与人类"
     },
     {
       "id": "pdf-p3-topic-09",
@@ -4844,7 +5047,8 @@
             60
           ],
           "reference_source": "上传预测 PDF 观点经校订、改写和扩展；一般性分析为练习参考，不代表用户经历或官方示范评分。",
-          "personalization_needed": false
+          "personalization_needed": false,
+          "category_id": "decisions"
         },
         {
           "id": "pdf-p3-09-02",
@@ -4866,7 +5070,8 @@
             60
           ],
           "reference_source": "上传预测 PDF 观点经校订、改写和扩展；一般性分析为练习参考，不代表用户经历或官方示范评分。",
-          "personalization_needed": false
+          "personalization_needed": false,
+          "category_id": "decisions"
         },
         {
           "id": "pdf-p3-09-03",
@@ -4888,7 +5093,8 @@
             60
           ],
           "reference_source": "上传预测 PDF 观点经校订、改写和扩展；一般性分析为练习参考，不代表用户经历或官方示范评分。",
-          "personalization_needed": false
+          "personalization_needed": false,
+          "category_id": "decisions"
         },
         {
           "id": "pdf-p3-09-04",
@@ -4910,7 +5116,8 @@
             60
           ],
           "reference_source": "上传预测 PDF 观点经校订、改写和扩展；一般性分析为练习参考，不代表用户经历或官方示范评分。",
-          "personalization_needed": false
+          "personalization_needed": false,
+          "category_id": "decisions"
         },
         {
           "id": "pdf-p3-09-05",
@@ -4932,7 +5139,8 @@
             60
           ],
           "reference_source": "上传预测 PDF 观点经校订、改写和扩展；一般性分析为练习参考，不代表用户经历或官方示范评分。",
-          "personalization_needed": false
+          "personalization_needed": false,
+          "category_id": "decisions"
         },
         {
           "id": "pdf-p3-09-06",
@@ -4954,9 +5162,11 @@
             60
           ],
           "reference_source": "上传预测 PDF 观点经校订、改写和扩展；一般性分析为练习参考，不代表用户经历或官方示范评分。",
-          "personalization_needed": false
+          "personalization_needed": false,
+          "category_id": "decisions"
         }
-      ]
+      ],
+      "display_title": "计划与执行"
     },
     {
       "id": "pdf-p3-topic-10",
@@ -4982,7 +5192,8 @@
             60
           ],
           "reference_source": "上传预测 PDF 观点经校订、改写和扩展；一般性分析为练习参考，不代表用户经历或官方示范评分。",
-          "personalization_needed": false
+          "personalization_needed": false,
+          "category_id": "education"
         },
         {
           "id": "pdf-p3-10-02",
@@ -5004,7 +5215,8 @@
             60
           ],
           "reference_source": "上传预测 PDF 观点经校订、改写和扩展；一般性分析为练习参考，不代表用户经历或官方示范评分。",
-          "personalization_needed": false
+          "personalization_needed": false,
+          "category_id": "decisions"
         },
         {
           "id": "pdf-p3-10-03",
@@ -5026,7 +5238,8 @@
             60
           ],
           "reference_source": "上传预测 PDF 观点经校订、改写和扩展；一般性分析为练习参考，不代表用户经历或官方示范评分。",
-          "personalization_needed": false
+          "personalization_needed": false,
+          "category_id": "decisions"
         },
         {
           "id": "pdf-p3-10-04",
@@ -5048,9 +5261,11 @@
             60
           ],
           "reference_source": "上传预测 PDF 观点经校订、改写和扩展；一般性分析为练习参考，不代表用户经历或官方示范评分。",
-          "personalization_needed": false
+          "personalization_needed": false,
+          "category_id": "decisions"
         }
-      ]
+      ],
+      "display_title": "自主决策与外界影响"
     },
     {
       "id": "pdf-p3-topic-11",
@@ -5076,7 +5291,8 @@
             60
           ],
           "reference_source": "上传预测 PDF 观点经校订、改写和扩展；一般性分析为练习参考，不代表用户经历或官方示范评分。",
-          "personalization_needed": false
+          "personalization_needed": false,
+          "category_id": "work"
         },
         {
           "id": "pdf-p3-11-02",
@@ -5098,7 +5314,8 @@
             60
           ],
           "reference_source": "上传预测 PDF 观点经校订、改写和扩展；一般性分析为练习参考，不代表用户经历或官方示范评分。",
-          "personalization_needed": false
+          "personalization_needed": false,
+          "category_id": "work"
         },
         {
           "id": "pdf-p3-11-03",
@@ -5120,7 +5337,8 @@
             60
           ],
           "reference_source": "上传预测 PDF 观点经校订、改写和扩展；一般性分析为练习参考，不代表用户经历或官方示范评分。",
-          "personalization_needed": false
+          "personalization_needed": false,
+          "category_id": "work"
         },
         {
           "id": "pdf-p3-11-04",
@@ -5142,9 +5360,11 @@
             60
           ],
           "reference_source": "上传预测 PDF 观点经校订、改写和扩展；一般性分析为练习参考，不代表用户经历或官方示范评分。",
-          "personalization_needed": false
+          "personalization_needed": false,
+          "category_id": "education"
         }
-      ]
+      ],
+      "display_title": "职场人气与校园关系"
     },
     {
       "id": "pdf-p3-topic-12",
@@ -5170,7 +5390,8 @@
             60
           ],
           "reference_source": "上传预测 PDF 观点经校订、改写和扩展；一般性分析为练习参考，不代表用户经历或官方示范评分。",
-          "personalization_needed": false
+          "personalization_needed": false,
+          "category_id": "culture"
         },
         {
           "id": "pdf-p3-12-02",
@@ -5192,7 +5413,8 @@
             60
           ],
           "reference_source": "上传预测 PDF 观点经校订、改写和扩展；一般性分析为练习参考，不代表用户经历或官方示范评分。",
-          "personalization_needed": false
+          "personalization_needed": false,
+          "category_id": "places"
         },
         {
           "id": "pdf-p3-12-03",
@@ -5214,7 +5436,8 @@
             60
           ],
           "reference_source": "上传预测 PDF 观点经校订、改写和扩展；一般性分析为练习参考，不代表用户经历或官方示范评分。",
-          "personalization_needed": false
+          "personalization_needed": false,
+          "category_id": "culture"
         },
         {
           "id": "pdf-p3-12-04",
@@ -5236,7 +5459,8 @@
             60
           ],
           "reference_source": "上传预测 PDF 观点经校订、改写和扩展；一般性分析为练习参考，不代表用户经历或官方示范评分。",
-          "personalization_needed": false
+          "personalization_needed": false,
+          "category_id": "culture"
         },
         {
           "id": "pdf-p3-12-05",
@@ -5258,7 +5482,8 @@
             60
           ],
           "reference_source": "上传预测 PDF 观点经校订、改写和扩展；一般性分析为练习参考，不代表用户经历或官方示范评分。",
-          "personalization_needed": false
+          "personalization_needed": false,
+          "category_id": "culture"
         },
         {
           "id": "pdf-p3-12-06",
@@ -5280,9 +5505,11 @@
             60
           ],
           "reference_source": "上传预测 PDF 观点经校订、改写和扩展；一般性分析为练习参考，不代表用户经历或官方示范评分。",
-          "personalization_needed": false
+          "personalization_needed": false,
+          "category_id": "places"
         }
-      ]
+      ],
+      "display_title": "美感与审美体验"
     },
     {
       "id": "pdf-p3-topic-13",
@@ -5308,7 +5535,8 @@
             60
           ],
           "reference_source": "上传预测 PDF 观点经校订、改写和扩展；一般性分析为练习参考，不代表用户经历或官方示范评分。",
-          "personalization_needed": false
+          "personalization_needed": false,
+          "category_id": "relationships"
         },
         {
           "id": "pdf-p3-13-02",
@@ -5330,7 +5558,8 @@
             60
           ],
           "reference_source": "上传预测 PDF 观点经校订、改写和扩展；一般性分析为练习参考，不代表用户经历或官方示范评分。",
-          "personalization_needed": false
+          "personalization_needed": false,
+          "category_id": "relationships"
         },
         {
           "id": "pdf-p3-13-03",
@@ -5352,7 +5581,8 @@
             60
           ],
           "reference_source": "上传预测 PDF 观点经校订、改写和扩展；一般性分析为练习参考，不代表用户经历或官方示范评分。",
-          "personalization_needed": false
+          "personalization_needed": false,
+          "category_id": "relationships"
         },
         {
           "id": "pdf-p3-13-04",
@@ -5374,7 +5604,8 @@
             60
           ],
           "reference_source": "上传预测 PDF 观点经校订、改写和扩展；一般性分析为练习参考，不代表用户经历或官方示范评分。",
-          "personalization_needed": false
+          "personalization_needed": false,
+          "category_id": "relationships"
         },
         {
           "id": "pdf-p3-13-05",
@@ -5396,7 +5627,8 @@
             60
           ],
           "reference_source": "上传预测 PDF 观点经校订、改写和扩展；一般性分析为练习参考，不代表用户经历或官方示范评分。",
-          "personalization_needed": false
+          "personalization_needed": false,
+          "category_id": "relationships"
         },
         {
           "id": "pdf-p3-13-06",
@@ -5418,9 +5650,11 @@
             60
           ],
           "reference_source": "上传预测 PDF 观点经校订、改写和扩展；一般性分析为练习参考，不代表用户经历或官方示范评分。",
-          "personalization_needed": false
+          "personalization_needed": false,
+          "category_id": "relationships"
         }
-      ]
+      ],
+      "display_title": "友谊与社交"
     },
     {
       "id": "pdf-p3-topic-14",
@@ -5446,7 +5680,8 @@
             60
           ],
           "reference_source": "上传预测 PDF 观点经校订、改写和扩展；一般性分析为练习参考，不代表用户经历或官方示范评分。",
-          "personalization_needed": false
+          "personalization_needed": false,
+          "category_id": "education"
         },
         {
           "id": "pdf-p3-14-02",
@@ -5468,7 +5703,8 @@
             60
           ],
           "reference_source": "上传预测 PDF 观点经校订、改写和扩展；一般性分析为练习参考，不代表用户经历或官方示范评分。",
-          "personalization_needed": false
+          "personalization_needed": false,
+          "category_id": "education"
         },
         {
           "id": "pdf-p3-14-03",
@@ -5490,7 +5726,8 @@
             60
           ],
           "reference_source": "上传预测 PDF 观点经校订、改写和扩展；一般性分析为练习参考，不代表用户经历或官方示范评分。",
-          "personalization_needed": false
+          "personalization_needed": false,
+          "category_id": "education"
         },
         {
           "id": "pdf-p3-14-04",
@@ -5512,9 +5749,11 @@
             60
           ],
           "reference_source": "上传预测 PDF 观点经校订、改写和扩展；一般性分析为练习参考，不代表用户经历或官方示范评分。",
-          "personalization_needed": false
+          "personalization_needed": false,
+          "category_id": "education"
         }
-      ]
+      ],
+      "display_title": "鼓励与反馈"
     },
     {
       "id": "pdf-p3-topic-15",
@@ -5540,7 +5779,8 @@
             60
           ],
           "reference_source": "上传预测 PDF 观点经校订、改写和扩展；一般性分析为练习参考，不代表用户经历或官方示范评分。",
-          "personalization_needed": false
+          "personalization_needed": false,
+          "category_id": "decisions"
         },
         {
           "id": "pdf-p3-15-02",
@@ -5562,7 +5802,8 @@
             60
           ],
           "reference_source": "上传预测 PDF 观点经校订、改写和扩展；一般性分析为练习参考，不代表用户经历或官方示范评分。",
-          "personalization_needed": false
+          "personalization_needed": false,
+          "category_id": "decisions"
         },
         {
           "id": "pdf-p3-15-03",
@@ -5584,7 +5825,8 @@
             60
           ],
           "reference_source": "上传预测 PDF 观点经校订、改写和扩展；一般性分析为练习参考，不代表用户经历或官方示范评分。",
-          "personalization_needed": false
+          "personalization_needed": false,
+          "category_id": "education"
         },
         {
           "id": "pdf-p3-15-04",
@@ -5606,7 +5848,8 @@
             60
           ],
           "reference_source": "上传预测 PDF 观点经校订、改写和扩展；一般性分析为练习参考，不代表用户经历或官方示范评分。",
-          "personalization_needed": false
+          "personalization_needed": false,
+          "category_id": "decisions"
         },
         {
           "id": "pdf-p3-15-05",
@@ -5628,7 +5871,8 @@
             60
           ],
           "reference_source": "上传预测 PDF 观点经校订、改写和扩展；一般性分析为练习参考，不代表用户经历或官方示范评分。",
-          "personalization_needed": false
+          "personalization_needed": false,
+          "category_id": "decisions"
         },
         {
           "id": "pdf-p3-15-06",
@@ -5650,9 +5894,11 @@
             60
           ],
           "reference_source": "上传预测 PDF 观点经校订、改写和扩展；一般性分析为练习参考，不代表用户经历或官方示范评分。",
-          "personalization_needed": false
+          "personalization_needed": false,
+          "category_id": "decisions"
         }
-      ]
+      ],
+      "display_title": "分歧与尊重"
     },
     {
       "id": "pdf-p3-topic-16",
@@ -5678,7 +5924,8 @@
             60
           ],
           "reference_source": "上传预测 PDF 观点经校订、改写和扩展；一般性分析为练习参考，不代表用户经历或官方示范评分。",
-          "personalization_needed": false
+          "personalization_needed": false,
+          "category_id": "decisions"
         },
         {
           "id": "pdf-p3-16-02",
@@ -5700,7 +5947,8 @@
             60
           ],
           "reference_source": "上传预测 PDF 观点经校订、改写和扩展；一般性分析为练习参考，不代表用户经历或官方示范评分。",
-          "personalization_needed": false
+          "personalization_needed": false,
+          "category_id": "decisions"
         },
         {
           "id": "pdf-p3-16-03",
@@ -5722,7 +5970,8 @@
             60
           ],
           "reference_source": "上传预测 PDF 观点经校订、改写和扩展；一般性分析为练习参考，不代表用户经历或官方示范评分。",
-          "personalization_needed": false
+          "personalization_needed": false,
+          "category_id": "decisions"
         },
         {
           "id": "pdf-p3-16-04",
@@ -5744,9 +5993,11 @@
             60
           ],
           "reference_source": "上传预测 PDF 观点经校订、改写和扩展；一般性分析为练习参考，不代表用户经历或官方示范评分。",
-          "personalization_needed": false
+          "personalization_needed": false,
+          "category_id": "decisions"
         }
-      ]
+      ],
+      "display_title": "遗失物品与处理"
     },
     {
       "id": "pdf-p3-topic-17",
@@ -5772,7 +6023,8 @@
             60
           ],
           "reference_source": "上传预测 PDF 观点经校订、改写和扩展；一般性分析为练习参考，不代表用户经历或官方示范评分。",
-          "personalization_needed": false
+          "personalization_needed": false,
+          "category_id": "consumption"
         },
         {
           "id": "pdf-p3-17-02",
@@ -5794,7 +6046,8 @@
             60
           ],
           "reference_source": "上传预测 PDF 观点经校订、改写和扩展；一般性分析为练习参考，不代表用户经历或官方示范评分。",
-          "personalization_needed": false
+          "personalization_needed": false,
+          "category_id": "work"
         },
         {
           "id": "pdf-p3-17-03",
@@ -5816,7 +6069,8 @@
             60
           ],
           "reference_source": "上传预测 PDF 观点经校订、改写和扩展；一般性分析为练习参考，不代表用户经历或官方示范评分。",
-          "personalization_needed": false
+          "personalization_needed": false,
+          "category_id": "consumption"
         },
         {
           "id": "pdf-p3-17-04",
@@ -5838,7 +6092,8 @@
             60
           ],
           "reference_source": "上传预测 PDF 观点经校订、改写和扩展；一般性分析为练习参考，不代表用户经历或官方示范评分。",
-          "personalization_needed": false
+          "personalization_needed": false,
+          "category_id": "consumption"
         },
         {
           "id": "pdf-p3-17-05",
@@ -5860,7 +6115,8 @@
             60
           ],
           "reference_source": "上传预测 PDF 观点经校订、改写和扩展；一般性分析为练习参考，不代表用户经历或官方示范评分。",
-          "personalization_needed": false
+          "personalization_needed": false,
+          "category_id": "consumption"
         },
         {
           "id": "pdf-p3-17-06",
@@ -5882,9 +6138,11 @@
             60
           ],
           "reference_source": "上传预测 PDF 观点经校订、改写和扩展；一般性分析为练习参考，不代表用户经历或官方示范评分。",
-          "personalization_needed": false
+          "personalization_needed": false,
+          "category_id": "consumption"
         }
-      ]
+      ],
+      "display_title": "服饰选择与着装规范"
     },
     {
       "id": "pdf-p3-topic-18",
@@ -5910,7 +6168,8 @@
             60
           ],
           "reference_source": "上传预测 PDF 观点经校订、改写和扩展；一般性分析为练习参考，不代表用户经历或官方示范评分。",
-          "personalization_needed": false
+          "personalization_needed": false,
+          "category_id": "education"
         },
         {
           "id": "p3-04-2",
@@ -5933,7 +6192,8 @@
             60
           ],
           "reference_source": "上传预测 PDF 观点经校订、改写和扩展；一般性分析为练习参考，不代表用户经历或官方示范评分。",
-          "personalization_needed": false
+          "personalization_needed": false,
+          "category_id": "education"
         },
         {
           "id": "pdf-p3-18-03",
@@ -5955,7 +6215,8 @@
             60
           ],
           "reference_source": "上传预测 PDF 观点经校订、改写和扩展；一般性分析为练习参考，不代表用户经历或官方示范评分。",
-          "personalization_needed": false
+          "personalization_needed": false,
+          "category_id": "education"
         },
         {
           "id": "pdf-p3-18-04",
@@ -5977,7 +6238,8 @@
             60
           ],
           "reference_source": "上传预测 PDF 观点经校订、改写和扩展；一般性分析为练习参考，不代表用户经历或官方示范评分。",
-          "personalization_needed": false
+          "personalization_needed": false,
+          "category_id": "education"
         },
         {
           "id": "pdf-p3-18-05",
@@ -5999,7 +6261,8 @@
             60
           ],
           "reference_source": "上传预测 PDF 观点经校订、改写和扩展；一般性分析为练习参考，不代表用户经历或官方示范评分。",
-          "personalization_needed": false
+          "personalization_needed": false,
+          "category_id": "education"
         },
         {
           "id": "pdf-p3-18-06",
@@ -6021,9 +6284,11 @@
             60
           ],
           "reference_source": "上传预测 PDF 观点经校订、改写和扩展；一般性分析为练习参考，不代表用户经历或官方示范评分。",
-          "personalization_needed": false
+          "personalization_needed": false,
+          "category_id": "education"
         }
-      ]
+      ],
+      "display_title": "儿童行为与家庭教育"
     },
     {
       "id": "pdf-p3-topic-19",
@@ -6049,7 +6314,8 @@
             60
           ],
           "reference_source": "上传预测 PDF 观点经校订、改写和扩展；一般性分析为练习参考，不代表用户经历或官方示范评分。",
-          "personalization_needed": false
+          "personalization_needed": false,
+          "category_id": "places"
         },
         {
           "id": "pdf-p3-19-02",
@@ -6071,7 +6337,8 @@
             60
           ],
           "reference_source": "上传预测 PDF 观点经校订、改写和扩展；一般性分析为练习参考，不代表用户经历或官方示范评分。",
-          "personalization_needed": false
+          "personalization_needed": false,
+          "category_id": "places"
         },
         {
           "id": "pdf-p3-19-03",
@@ -6093,7 +6360,8 @@
             60
           ],
           "reference_source": "上传预测 PDF 观点经校订、改写和扩展；一般性分析为练习参考，不代表用户经历或官方示范评分。",
-          "personalization_needed": false
+          "personalization_needed": false,
+          "category_id": "places"
         },
         {
           "id": "pdf-p3-19-04",
@@ -6115,7 +6383,8 @@
             60
           ],
           "reference_source": "上传预测 PDF 观点经校订、改写和扩展；一般性分析为练习参考，不代表用户经历或官方示范评分。",
-          "personalization_needed": false
+          "personalization_needed": false,
+          "category_id": "places"
         },
         {
           "id": "pdf-p3-19-05",
@@ -6137,7 +6406,8 @@
             60
           ],
           "reference_source": "上传预测 PDF 观点经校订、改写和扩展；一般性分析为练习参考，不代表用户经历或官方示范评分。",
-          "personalization_needed": false
+          "personalization_needed": false,
+          "category_id": "places"
         },
         {
           "id": "pdf-p3-19-06",
@@ -6159,9 +6429,11 @@
             60
           ],
           "reference_source": "上传预测 PDF 观点经校订、改写和扩展；一般性分析为练习参考，不代表用户经历或官方示范评分。",
-          "personalization_needed": false
+          "personalization_needed": false,
+          "category_id": "places"
         }
-      ]
+      ],
+      "display_title": "天空观察与自然体验"
     },
     {
       "id": "pdf-p3-topic-20",
@@ -6187,7 +6459,8 @@
             60
           ],
           "reference_source": "上传预测 PDF 观点经校订、改写和扩展；一般性分析为练习参考，不代表用户经历或官方示范评分。",
-          "personalization_needed": false
+          "personalization_needed": false,
+          "category_id": "places"
         },
         {
           "id": "pdf-p3-20-02",
@@ -6209,7 +6482,8 @@
             60
           ],
           "reference_source": "上传预测 PDF 观点经校订、改写和扩展；一般性分析为练习参考，不代表用户经历或官方示范评分。",
-          "personalization_needed": false
+          "personalization_needed": false,
+          "category_id": "places"
         },
         {
           "id": "pdf-p3-20-03",
@@ -6231,7 +6505,8 @@
             60
           ],
           "reference_source": "上传预测 PDF 观点经校订、改写和扩展；一般性分析为练习参考，不代表用户经历或官方示范评分。",
-          "personalization_needed": false
+          "personalization_needed": false,
+          "category_id": "places"
         },
         {
           "id": "pdf-p3-20-04",
@@ -6253,9 +6528,11 @@
             60
           ],
           "reference_source": "上传预测 PDF 观点经校订、改写和扩展；一般性分析为练习参考，不代表用户经历或官方示范评分。",
-          "personalization_needed": false
+          "personalization_needed": false,
+          "category_id": "places"
         }
-      ]
+      ],
+      "display_title": "河流湖泊与社区发展"
     },
     {
       "id": "pdf-p3-topic-21",
@@ -6281,7 +6558,8 @@
             60
           ],
           "reference_source": "上传预测 PDF 观点经校订、改写和扩展；一般性分析为练习参考，不代表用户经历或官方示范评分。",
-          "personalization_needed": false
+          "personalization_needed": false,
+          "category_id": "education"
         },
         {
           "id": "pdf-p3-21-02",
@@ -6303,9 +6581,11 @@
             60
           ],
           "reference_source": "上传预测 PDF 观点经校订、改写和扩展；一般性分析为练习参考，不代表用户经历或官方示范评分。",
-          "personalization_needed": false
+          "personalization_needed": false,
+          "category_id": "relationships"
         }
-      ]
+      ],
+      "display_title": "表扬与纠错"
     },
     {
       "id": "pdf-p3-topic-22",
@@ -6331,7 +6611,8 @@
             60
           ],
           "reference_source": "上传预测 PDF 观点经校订、改写和扩展；一般性分析为练习参考，不代表用户经历或官方示范评分。",
-          "personalization_needed": false
+          "personalization_needed": false,
+          "category_id": "traditions"
         },
         {
           "id": "pdf-p3-22-02",
@@ -6353,7 +6634,8 @@
             60
           ],
           "reference_source": "上传预测 PDF 观点经校订、改写和扩展；一般性分析为练习参考，不代表用户经历或官方示范评分。",
-          "personalization_needed": false
+          "personalization_needed": false,
+          "category_id": "traditions"
         },
         {
           "id": "pdf-p3-22-03",
@@ -6375,7 +6657,8 @@
             60
           ],
           "reference_source": "上传预测 PDF 观点经校订、改写和扩展；一般性分析为练习参考，不代表用户经历或官方示范评分。",
-          "personalization_needed": false
+          "personalization_needed": false,
+          "category_id": "traditions"
         },
         {
           "id": "pdf-p3-22-04",
@@ -6397,9 +6680,11 @@
             60
           ],
           "reference_source": "上传预测 PDF 观点经校订、改写和扩展；一般性分析为练习参考，不代表用户经历或官方示范评分。",
-          "personalization_needed": false
+          "personalization_needed": false,
+          "category_id": "traditions"
         }
-      ]
+      ],
+      "display_title": "节庆与庆祝"
     },
     {
       "id": "pdf-p3-topic-23",
@@ -6426,7 +6711,8 @@
             60
           ],
           "reference_source": "上传预测 PDF 观点经校订、改写和扩展；一般性分析为练习参考，不代表用户经历或官方示范评分。",
-          "personalization_needed": false
+          "personalization_needed": false,
+          "category_id": "consumption"
         },
         {
           "id": "pdf-p3-23-02",
@@ -6448,7 +6734,8 @@
             60
           ],
           "reference_source": "上传预测 PDF 观点经校订、改写和扩展；一般性分析为练习参考，不代表用户经历或官方示范评分。",
-          "personalization_needed": false
+          "personalization_needed": false,
+          "category_id": "consumption"
         },
         {
           "id": "pdf-p3-23-03",
@@ -6470,7 +6757,8 @@
             60
           ],
           "reference_source": "上传预测 PDF 观点经校订、改写和扩展；一般性分析为练习参考，不代表用户经历或官方示范评分。",
-          "personalization_needed": false
+          "personalization_needed": false,
+          "category_id": "consumption"
         },
         {
           "id": "pdf-p3-23-04",
@@ -6492,7 +6780,8 @@
             60
           ],
           "reference_source": "上传预测 PDF 观点经校订、改写和扩展；一般性分析为练习参考，不代表用户经历或官方示范评分。",
-          "personalization_needed": false
+          "personalization_needed": false,
+          "category_id": "consumption"
         },
         {
           "id": "pdf-p3-23-05",
@@ -6514,7 +6803,8 @@
             60
           ],
           "reference_source": "上传预测 PDF 观点经校订、改写和扩展；一般性分析为练习参考，不代表用户经历或官方示范评分。",
-          "personalization_needed": false
+          "personalization_needed": false,
+          "category_id": "consumption"
         },
         {
           "id": "pdf-p3-23-06",
@@ -6536,9 +6826,11 @@
             60
           ],
           "reference_source": "上传预测 PDF 观点经校订、改写和扩展；一般性分析为练习参考，不代表用户经历或官方示范评分。",
-          "personalization_needed": false
+          "personalization_needed": false,
+          "category_id": "consumption"
         }
-      ]
+      ],
+      "display_title": "二手消费与回收"
     },
     {
       "id": "pdf-p3-topic-24",
@@ -6564,7 +6856,8 @@
             60
           ],
           "reference_source": "上传预测 PDF 观点经校订、改写和扩展；一般性分析为练习参考，不代表用户经历或官方示范评分。",
-          "personalization_needed": false
+          "personalization_needed": false,
+          "category_id": "culture"
         },
         {
           "id": "pdf-p3-24-02",
@@ -6586,7 +6879,8 @@
             60
           ],
           "reference_source": "上传预测 PDF 观点经校订、改写和扩展；一般性分析为练习参考，不代表用户经历或官方示范评分。",
-          "personalization_needed": false
+          "personalization_needed": false,
+          "category_id": "culture"
         },
         {
           "id": "pdf-p3-24-03",
@@ -6608,7 +6902,8 @@
             60
           ],
           "reference_source": "上传预测 PDF 观点经校订、改写和扩展；一般性分析为练习参考，不代表用户经历或官方示范评分。",
-          "personalization_needed": false
+          "personalization_needed": false,
+          "category_id": "work"
         },
         {
           "id": "pdf-p3-24-04",
@@ -6630,9 +6925,11 @@
             60
           ],
           "reference_source": "上传预测 PDF 观点经校订、改写和扩展；一般性分析为练习参考，不代表用户经历或官方示范评分。",
-          "personalization_needed": false
+          "personalization_needed": false,
+          "category_id": "work"
         }
-      ]
+      ],
+      "display_title": "竞争节目与职场竞争"
     },
     {
       "id": "pdf-p3-topic-25",
@@ -6658,7 +6955,8 @@
             60
           ],
           "reference_source": "上传预测 PDF 观点经校订、改写和扩展；一般性分析为练习参考，不代表用户经历或官方示范评分。",
-          "personalization_needed": false
+          "personalization_needed": false,
+          "category_id": "culture"
         },
         {
           "id": "pdf-p3-25-02",
@@ -6680,7 +6978,8 @@
             60
           ],
           "reference_source": "上传预测 PDF 观点经校订、改写和扩展；一般性分析为练习参考，不代表用户经历或官方示范评分。",
-          "personalization_needed": false
+          "personalization_needed": false,
+          "category_id": "culture"
         },
         {
           "id": "pdf-p3-25-03",
@@ -6702,7 +7001,8 @@
             60
           ],
           "reference_source": "上传预测 PDF 观点经校订、改写和扩展；一般性分析为练习参考，不代表用户经历或官方示范评分。",
-          "personalization_needed": false
+          "personalization_needed": false,
+          "category_id": "education"
         },
         {
           "id": "pdf-p3-25-04",
@@ -6724,7 +7024,8 @@
             60
           ],
           "reference_source": "上传预测 PDF 观点经校订、改写和扩展；一般性分析为练习参考，不代表用户经历或官方示范评分。",
-          "personalization_needed": false
+          "personalization_needed": false,
+          "category_id": "culture"
         },
         {
           "id": "pdf-p3-25-05",
@@ -6746,7 +7047,8 @@
             60
           ],
           "reference_source": "上传预测 PDF 观点经校订、改写和扩展；一般性分析为练习参考，不代表用户经历或官方示范评分。",
-          "personalization_needed": false
+          "personalization_needed": false,
+          "category_id": "culture"
         },
         {
           "id": "pdf-p3-25-06",
@@ -6768,9 +7070,11 @@
             60
           ],
           "reference_source": "上传预测 PDF 观点经校订、改写和扩展；一般性分析为练习参考，不代表用户经历或官方示范评分。",
-          "personalization_needed": false
+          "personalization_needed": false,
+          "category_id": "culture"
         }
-      ]
+      ],
+      "display_title": "音乐偏好与音乐教育"
     },
     {
       "id": "pdf-p3-topic-26",
@@ -6796,7 +7100,8 @@
             60
           ],
           "reference_source": "上传预测 PDF 观点经校订、改写和扩展；一般性分析为练习参考，不代表用户经历或官方示范评分。",
-          "personalization_needed": false
+          "personalization_needed": false,
+          "category_id": "places"
         },
         {
           "id": "pdf-p3-26-02",
@@ -6818,7 +7123,8 @@
             60
           ],
           "reference_source": "上传预测 PDF 观点经校订、改写和扩展；一般性分析为练习参考，不代表用户经历或官方示范评分。",
-          "personalization_needed": false
+          "personalization_needed": false,
+          "category_id": "places"
         },
         {
           "id": "pdf-p3-26-03",
@@ -6840,7 +7146,8 @@
             60
           ],
           "reference_source": "上传预测 PDF 观点经校订、改写和扩展；一般性分析为练习参考，不代表用户经历或官方示范评分。",
-          "personalization_needed": false
+          "personalization_needed": false,
+          "category_id": "places"
         },
         {
           "id": "pdf-p3-26-04",
@@ -6862,7 +7169,8 @@
             60
           ],
           "reference_source": "上传预测 PDF 观点经校订、改写和扩展；一般性分析为练习参考，不代表用户经历或官方示范评分。",
-          "personalization_needed": false
+          "personalization_needed": false,
+          "category_id": "places"
         },
         {
           "id": "pdf-p3-26-05",
@@ -6884,7 +7192,8 @@
             60
           ],
           "reference_source": "上传预测 PDF 观点经校订、改写和扩展；一般性分析为练习参考，不代表用户经历或官方示范评分。",
-          "personalization_needed": false
+          "personalization_needed": false,
+          "category_id": "places"
         },
         {
           "id": "pdf-p3-26-06",
@@ -6906,9 +7215,11 @@
             60
           ],
           "reference_source": "上传预测 PDF 观点经校订、改写和扩展；一般性分析为练习参考，不代表用户经历或官方示范评分。",
-          "personalization_needed": false
+          "personalization_needed": false,
+          "category_id": "places"
         }
-      ]
+      ],
+      "display_title": "旅行体验与信息判断"
     },
     {
       "id": "p3-01",
@@ -6930,7 +7241,8 @@
           ],
           "reference_source": "按上传预测题干及原个人素材改写；拓展分析为训练补充，不是实际评分。",
           "personalization_needed": false,
-          "question_source": "原 HTML 保留拓展题，不计入 PDF 原题覆盖。"
+          "question_source": "原 HTML 保留拓展题，不计入 PDF 原题覆盖。",
+          "category_id": "relationships"
         },
         {
           "id": "p3-01-4",
@@ -6948,9 +7260,11 @@
           ],
           "reference_source": "按上传预测题干及原个人素材改写；拓展分析为训练补充，不是实际评分。",
           "personalization_needed": false,
-          "question_source": "原 HTML 保留拓展题，不计入 PDF 原题覆盖。"
+          "question_source": "原 HTML 保留拓展题，不计入 PDF 原题覆盖。",
+          "category_id": "relationships"
         }
-      ]
+      ],
+      "display_title": "代际沟通与经验"
     },
     {
       "id": "p3-02",
@@ -6972,7 +7286,8 @@
           ],
           "reference_source": "按上传预测题干及原个人素材改写；拓展分析为训练补充，不是实际评分。",
           "personalization_needed": false,
-          "question_source": "原 HTML 保留拓展题，不计入 PDF 原题覆盖。"
+          "question_source": "原 HTML 保留拓展题，不计入 PDF 原题覆盖。",
+          "category_id": "education"
         },
         {
           "id": "p3-02-3",
@@ -6990,7 +7305,8 @@
           ],
           "reference_source": "按上传预测题干及原个人素材改写；拓展分析为训练补充，不是实际评分。",
           "personalization_needed": false,
-          "question_source": "原 HTML 保留拓展题，不计入 PDF 原题覆盖。"
+          "question_source": "原 HTML 保留拓展题，不计入 PDF 原题覆盖。",
+          "category_id": "education"
         },
         {
           "id": "p3-02-4",
@@ -7008,9 +7324,11 @@
           ],
           "reference_source": "按上传预测题干及原个人素材改写；拓展分析为训练补充，不是实际评分。",
           "personalization_needed": false,
-          "question_source": "原 HTML 保留拓展题，不计入 PDF 原题覆盖。"
+          "question_source": "原 HTML 保留拓展题，不计入 PDF 原题覆盖。",
+          "category_id": "education"
         }
-      ]
+      ],
+      "display_title": "语言学习与教师"
     },
     {
       "id": "p3-03",
@@ -7032,7 +7350,8 @@
           ],
           "reference_source": "按上传预测题干及原个人素材改写；拓展分析为训练补充，不是实际评分。",
           "personalization_needed": false,
-          "question_source": "原 HTML 保留拓展题，不计入 PDF 原题覆盖。"
+          "question_source": "原 HTML 保留拓展题，不计入 PDF 原题覆盖。",
+          "category_id": "places"
         },
         {
           "id": "p3-03-2",
@@ -7050,7 +7369,8 @@
           ],
           "reference_source": "按上传预测题干及原个人素材改写；拓展分析为训练补充，不是实际评分。",
           "personalization_needed": false,
-          "question_source": "原 HTML 保留拓展题，不计入 PDF 原题覆盖。"
+          "question_source": "原 HTML 保留拓展题，不计入 PDF 原题覆盖。",
+          "category_id": "places"
         },
         {
           "id": "p3-03-3",
@@ -7068,7 +7388,8 @@
           ],
           "reference_source": "按上传预测题干及原个人素材改写；拓展分析为训练补充，不是实际评分。",
           "personalization_needed": false,
-          "question_source": "原 HTML 保留拓展题，不计入 PDF 原题覆盖。"
+          "question_source": "原 HTML 保留拓展题，不计入 PDF 原题覆盖。",
+          "category_id": "places"
         },
         {
           "id": "p3-03-4",
@@ -7086,9 +7407,11 @@
           ],
           "reference_source": "按上传预测题干及原个人素材改写；拓展分析为训练补充，不是实际评分。",
           "personalization_needed": false,
-          "question_source": "原 HTML 保留拓展题，不计入 PDF 原题覆盖。"
+          "question_source": "原 HTML 保留拓展题，不计入 PDF 原题覆盖。",
+          "category_id": "places"
         }
-      ]
+      ],
+      "display_title": "自然风景与旅行"
     },
     {
       "id": "p3-04",
@@ -7110,7 +7433,8 @@
           ],
           "reference_source": "按上传预测题干及原个人素材改写；拓展分析为训练补充，不是实际评分。",
           "personalization_needed": false,
-          "question_source": "原 HTML 保留拓展题，不计入 PDF 原题覆盖。"
+          "question_source": "原 HTML 保留拓展题，不计入 PDF 原题覆盖。",
+          "category_id": "education"
         },
         {
           "id": "p3-04-3",
@@ -7128,9 +7452,11 @@
           ],
           "reference_source": "按上传预测题干及原个人素材改写；拓展分析为训练补充，不是实际评分。",
           "personalization_needed": false,
-          "question_source": "原 HTML 保留拓展题，不计入 PDF 原题覆盖。"
+          "question_source": "原 HTML 保留拓展题，不计入 PDF 原题覆盖。",
+          "category_id": "education"
         }
-      ]
+      ],
+      "display_title": "儿童行为与家庭教育"
     },
     {
       "id": "p3-05",
@@ -7152,7 +7478,8 @@
           ],
           "reference_source": "按上传预测题干及原个人素材改写；拓展分析为训练补充，不是实际评分。",
           "personalization_needed": false,
-          "question_source": "原 HTML 保留拓展题，不计入 PDF 原题覆盖。"
+          "question_source": "原 HTML 保留拓展题，不计入 PDF 原题覆盖。",
+          "category_id": "technology"
         },
         {
           "id": "p3-05-2",
@@ -7170,7 +7497,8 @@
           ],
           "reference_source": "按上传预测题干及原个人素材改写；拓展分析为训练补充，不是实际评分。",
           "personalization_needed": false,
-          "question_source": "原 HTML 保留拓展题，不计入 PDF 原题覆盖。"
+          "question_source": "原 HTML 保留拓展题，不计入 PDF 原题覆盖。",
+          "category_id": "technology"
         },
         {
           "id": "p3-05-3",
@@ -7188,7 +7516,8 @@
           ],
           "reference_source": "按上传预测题干及原个人素材改写；拓展分析为训练补充，不是实际评分。",
           "personalization_needed": false,
-          "question_source": "原 HTML 保留拓展题，不计入 PDF 原题覆盖。"
+          "question_source": "原 HTML 保留拓展题，不计入 PDF 原题覆盖。",
+          "category_id": "technology"
         },
         {
           "id": "p3-05-4",
@@ -7206,9 +7535,11 @@
           ],
           "reference_source": "按上传预测题干及原个人素材改写；拓展分析为训练补充，不是实际评分。",
           "personalization_needed": false,
-          "question_source": "原 HTML 保留拓展题，不计入 PDF 原题覆盖。"
+          "question_source": "原 HTML 保留拓展题，不计入 PDF 原题覆盖。",
+          "category_id": "education"
         }
-      ]
+      ],
+      "display_title": "手机、社交媒体与AI"
     },
     {
       "id": "p3-06",
@@ -7230,7 +7561,8 @@
           ],
           "reference_source": "按上传预测题干及原个人素材改写；拓展分析为训练补充，不是实际评分。",
           "personalization_needed": false,
-          "question_source": "原 HTML 保留拓展题，不计入 PDF 原题覆盖。"
+          "question_source": "原 HTML 保留拓展题，不计入 PDF 原题覆盖。",
+          "category_id": "decisions"
         },
         {
           "id": "p3-06-2",
@@ -7248,7 +7580,8 @@
           ],
           "reference_source": "按上传预测题干及原个人素材改写；拓展分析为训练补充，不是实际评分。",
           "personalization_needed": false,
-          "question_source": "原 HTML 保留拓展题，不计入 PDF 原题覆盖。"
+          "question_source": "原 HTML 保留拓展题，不计入 PDF 原题覆盖。",
+          "category_id": "decisions"
         },
         {
           "id": "p3-06-3",
@@ -7266,7 +7599,8 @@
           ],
           "reference_source": "按上传预测题干及原个人素材改写；拓展分析为训练补充，不是实际评分。",
           "personalization_needed": false,
-          "question_source": "原 HTML 保留拓展题，不计入 PDF 原题覆盖。"
+          "question_source": "原 HTML 保留拓展题，不计入 PDF 原题覆盖。",
+          "category_id": "decisions"
         },
         {
           "id": "p3-06-4",
@@ -7284,9 +7618,11 @@
           ],
           "reference_source": "按上传预测题干及原个人素材改写；拓展分析为训练补充，不是实际评分。",
           "personalization_needed": false,
-          "question_source": "原 HTML 保留拓展题，不计入 PDF 原题覆盖。"
+          "question_source": "原 HTML 保留拓展题，不计入 PDF 原题覆盖。",
+          "category_id": "decisions"
         }
-      ]
+      ],
+      "display_title": "决策、建议与分歧"
     },
     {
       "id": "p3-07",
@@ -7308,7 +7644,8 @@
           ],
           "reference_source": "按上传预测题干及原个人素材改写；拓展分析为训练补充，不是实际评分。",
           "personalization_needed": false,
-          "question_source": "原 HTML 保留拓展题，不计入 PDF 原题覆盖。"
+          "question_source": "原 HTML 保留拓展题，不计入 PDF 原题覆盖。",
+          "category_id": "consumption"
         },
         {
           "id": "p3-07-2",
@@ -7326,7 +7663,8 @@
           ],
           "reference_source": "按上传预测题干及原个人素材改写；拓展分析为训练补充，不是实际评分。",
           "personalization_needed": false,
-          "question_source": "原 HTML 保留拓展题，不计入 PDF 原题覆盖。"
+          "question_source": "原 HTML 保留拓展题，不计入 PDF 原题覆盖。",
+          "category_id": "consumption"
         },
         {
           "id": "p3-07-3",
@@ -7344,7 +7682,8 @@
           ],
           "reference_source": "按上传预测题干及原个人素材改写；拓展分析为训练补充，不是实际评分。",
           "personalization_needed": false,
-          "question_source": "原 HTML 保留拓展题，不计入 PDF 原题覆盖。"
+          "question_source": "原 HTML 保留拓展题，不计入 PDF 原题覆盖。",
+          "category_id": "work"
         },
         {
           "id": "p3-07-4",
@@ -7362,9 +7701,11 @@
           ],
           "reference_source": "按上传预测题干及原个人素材改写；拓展分析为训练补充，不是实际评分。",
           "personalization_needed": false,
-          "question_source": "原 HTML 保留拓展题，不计入 PDF 原题覆盖。"
+          "question_source": "原 HTML 保留拓展题，不计入 PDF 原题覆盖。",
+          "category_id": "consumption"
         }
-      ]
+      ],
+      "display_title": "服饰与第一印象"
     },
     {
       "id": "p3-08",
@@ -7386,7 +7727,8 @@
           ],
           "reference_source": "按上传预测题干及原个人素材改写；拓展分析为训练补充，不是实际评分。",
           "personalization_needed": false,
-          "question_source": "原 HTML 保留拓展题，不计入 PDF 原题覆盖。"
+          "question_source": "原 HTML 保留拓展题，不计入 PDF 原题覆盖。",
+          "category_id": "consumption"
         },
         {
           "id": "p3-08-2",
@@ -7404,7 +7746,8 @@
           ],
           "reference_source": "按上传预测题干及原个人素材改写；拓展分析为训练补充，不是实际评分。",
           "personalization_needed": false,
-          "question_source": "原 HTML 保留拓展题，不计入 PDF 原题覆盖。"
+          "question_source": "原 HTML 保留拓展题，不计入 PDF 原题覆盖。",
+          "category_id": "consumption"
         },
         {
           "id": "p3-08-3",
@@ -7422,9 +7765,11 @@
           ],
           "reference_source": "按上传预测题干及原个人素材改写；拓展分析为训练补充，不是实际评分。",
           "personalization_needed": false,
-          "question_source": "原 HTML 保留拓展题，不计入 PDF 原题覆盖。"
+          "question_source": "原 HTML 保留拓展题，不计入 PDF 原题覆盖。",
+          "category_id": "consumption"
         }
-      ]
+      ],
+      "display_title": "二手购物与平台保障"
     },
     {
       "id": "p3-09",
@@ -7446,7 +7791,8 @@
           ],
           "reference_source": "按上传预测题干及原个人素材改写；拓展分析为训练补充，不是实际评分。",
           "personalization_needed": false,
-          "question_source": "原 HTML 保留拓展题，不计入 PDF 原题覆盖。"
+          "question_source": "原 HTML 保留拓展题，不计入 PDF 原题覆盖。",
+          "category_id": "culture"
         },
         {
           "id": "p3-09-2",
@@ -7464,7 +7810,8 @@
           ],
           "reference_source": "按上传预测题干及原个人素材改写；拓展分析为训练补充，不是实际评分。",
           "personalization_needed": false,
-          "question_source": "原 HTML 保留拓展题，不计入 PDF 原题覆盖。"
+          "question_source": "原 HTML 保留拓展题，不计入 PDF 原题覆盖。",
+          "category_id": "culture"
         },
         {
           "id": "p3-09-3",
@@ -7482,7 +7829,8 @@
           ],
           "reference_source": "按上传预测题干及原个人素材改写；拓展分析为训练补充，不是实际评分。",
           "personalization_needed": false,
-          "question_source": "原 HTML 保留拓展题，不计入 PDF 原题覆盖。"
+          "question_source": "原 HTML 保留拓展题，不计入 PDF 原题覆盖。",
+          "category_id": "education"
         },
         {
           "id": "p3-09-4",
@@ -7500,9 +7848,11 @@
           ],
           "reference_source": "按上传预测题干及原个人素材改写；拓展分析为训练补充，不是实际评分。",
           "personalization_needed": false,
-          "question_source": "原 HTML 保留拓展题，不计入 PDF 原题覆盖。"
+          "question_source": "原 HTML 保留拓展题，不计入 PDF 原题覆盖。",
+          "category_id": "education"
         }
-      ]
+      ],
+      "display_title": "音乐与技能竞赛"
     },
     {
       "id": "p3-10",
@@ -7524,7 +7874,8 @@
           ],
           "reference_source": "按上传预测题干及原个人素材改写；拓展分析为训练补充，不是实际评分。",
           "personalization_needed": false,
-          "question_source": "原 HTML 保留拓展题，不计入 PDF 原题覆盖。"
+          "question_source": "原 HTML 保留拓展题，不计入 PDF 原题覆盖。",
+          "category_id": "traditions"
         },
         {
           "id": "p3-10-2",
@@ -7542,7 +7893,8 @@
           ],
           "reference_source": "按上传预测题干及原个人素材改写；拓展分析为训练补充，不是实际评分。",
           "personalization_needed": false,
-          "question_source": "原 HTML 保留拓展题，不计入 PDF 原题覆盖。"
+          "question_source": "原 HTML 保留拓展题，不计入 PDF 原题覆盖。",
+          "category_id": "traditions"
         },
         {
           "id": "p3-10-3",
@@ -7560,9 +7912,11 @@
           ],
           "reference_source": "按上传预测题干及原个人素材改写；拓展分析为训练补充，不是实际评分。",
           "personalization_needed": false,
-          "question_source": "原 HTML 保留拓展题，不计入 PDF 原题覆盖。"
+          "question_source": "原 HTML 保留拓展题，不计入 PDF 原题覆盖。",
+          "category_id": "traditions"
         }
-      ]
+      ],
+      "display_title": "节庆与庆祝"
     }
   ],
   "groups": [
@@ -8264,7 +8618,7 @@
     }
   ],
   "meta": {
-    "version": "1.2.0",
+    "version": "1.3.0",
     "date": "2026-11-18",
     "source_file": "IELTS_11.23-11.29_个人素材_Band7.5训练库.html",
     "source_note": "已依据上传的73页海外预测PDF核查全部题干：Part 1共105问、Part 2共29题卡、Part 3共129问。Part 1已依据用户补充的个人背景Word修订。预测题不等于官方已验证考试题；Band 7.5为训练目标，文字不能保证实际口语分数。",
@@ -8272,7 +8626,7 @@
     "deduplicated_part1_answers": 13,
     "storage_key": "ieltsSpeaking:user:v1",
     "forecast_audit": {
-      "version": "1.2.0",
+      "version": "1.3.0",
       "source_file": "2026年11. 23-11. 29日雅思口语预测-海外答案版 Z.pdf",
       "source_pages": 73,
       "source_sha256": "ca13d53d5ec850befba5676807ef2a0fd3c57df075a4ba4e0427afd1c3007792",
@@ -8307,7 +8661,8 @@
           "reference_words": 12,
           "personalization_needed": false,
           "cue_points": [],
-          "not_applicable": false
+          "not_applicable": false,
+          "category_id": "identity"
         },
         {
           "part": "part1",
@@ -8321,7 +8676,8 @@
           "reference_words": 50,
           "personalization_needed": false,
           "cue_points": [],
-          "not_applicable": false
+          "not_applicable": false,
+          "category_id": "identity"
         },
         {
           "part": "part1",
@@ -8335,7 +8691,8 @@
           "reference_words": 52,
           "personalization_needed": false,
           "cue_points": [],
-          "not_applicable": true
+          "not_applicable": true,
+          "category_id": "identity"
         },
         {
           "part": "part1",
@@ -8349,7 +8706,8 @@
           "reference_words": 53,
           "personalization_needed": false,
           "cue_points": [],
-          "not_applicable": false
+          "not_applicable": false,
+          "category_id": "identity"
         },
         {
           "part": "part1",
@@ -8363,7 +8721,8 @@
           "reference_words": 53,
           "personalization_needed": false,
           "cue_points": [],
-          "not_applicable": false
+          "not_applicable": false,
+          "category_id": "identity"
         },
         {
           "part": "part1",
@@ -8377,7 +8736,8 @@
           "reference_words": 49,
           "personalization_needed": false,
           "cue_points": [],
-          "not_applicable": false
+          "not_applicable": false,
+          "category_id": "identity"
         },
         {
           "part": "part1",
@@ -8391,7 +8751,8 @@
           "reference_words": 50,
           "personalization_needed": false,
           "cue_points": [],
-          "not_applicable": false
+          "not_applicable": false,
+          "category_id": "identity"
         },
         {
           "part": "part1",
@@ -8405,7 +8766,8 @@
           "reference_words": 51,
           "personalization_needed": false,
           "cue_points": [],
-          "not_applicable": false
+          "not_applicable": false,
+          "category_id": "identity"
         },
         {
           "part": "part1",
@@ -8419,7 +8781,8 @@
           "reference_words": 53,
           "personalization_needed": false,
           "cue_points": [],
-          "not_applicable": false
+          "not_applicable": false,
+          "category_id": "home"
         },
         {
           "part": "part1",
@@ -8433,7 +8796,8 @@
           "reference_words": 51,
           "personalization_needed": false,
           "cue_points": [],
-          "not_applicable": false
+          "not_applicable": false,
+          "category_id": "home"
         },
         {
           "part": "part1",
@@ -8447,7 +8811,8 @@
           "reference_words": 53,
           "personalization_needed": false,
           "cue_points": [],
-          "not_applicable": false
+          "not_applicable": false,
+          "category_id": "home"
         },
         {
           "part": "part1",
@@ -8461,7 +8826,8 @@
           "reference_words": 48,
           "personalization_needed": false,
           "cue_points": [],
-          "not_applicable": false
+          "not_applicable": false,
+          "category_id": "home"
         },
         {
           "part": "part1",
@@ -8475,7 +8841,8 @@
           "reference_words": 50,
           "personalization_needed": false,
           "cue_points": [],
-          "not_applicable": false
+          "not_applicable": false,
+          "category_id": "home"
         },
         {
           "part": "part1",
@@ -8489,7 +8856,8 @@
           "reference_words": 51,
           "personalization_needed": false,
           "cue_points": [],
-          "not_applicable": false
+          "not_applicable": false,
+          "category_id": "home"
         },
         {
           "part": "part1",
@@ -8503,7 +8871,8 @@
           "reference_words": 54,
           "personalization_needed": true,
           "cue_points": [],
-          "not_applicable": false
+          "not_applicable": false,
+          "category_id": "home"
         },
         {
           "part": "part1",
@@ -8517,7 +8886,8 @@
           "reference_words": 51,
           "personalization_needed": false,
           "cue_points": [],
-          "not_applicable": false
+          "not_applicable": false,
+          "category_id": "home"
         },
         {
           "part": "part1",
@@ -8531,7 +8901,8 @@
           "reference_words": 54,
           "personalization_needed": false,
           "cue_points": [],
-          "not_applicable": false
+          "not_applicable": false,
+          "category_id": "home"
         },
         {
           "part": "part1",
@@ -8545,7 +8916,8 @@
           "reference_words": 53,
           "personalization_needed": false,
           "cue_points": [],
-          "not_applicable": false
+          "not_applicable": false,
+          "category_id": "home"
         },
         {
           "part": "part1",
@@ -8559,7 +8931,8 @@
           "reference_words": 52,
           "personalization_needed": false,
           "cue_points": [],
-          "not_applicable": false
+          "not_applicable": false,
+          "category_id": "home"
         },
         {
           "part": "part1",
@@ -8573,7 +8946,8 @@
           "reference_words": 54,
           "personalization_needed": false,
           "cue_points": [],
-          "not_applicable": false
+          "not_applicable": false,
+          "category_id": "home"
         },
         {
           "part": "part1",
@@ -8587,7 +8961,8 @@
           "reference_words": 51,
           "personalization_needed": false,
           "cue_points": [],
-          "not_applicable": false
+          "not_applicable": false,
+          "category_id": "home"
         },
         {
           "part": "part1",
@@ -8601,7 +8976,8 @@
           "reference_words": 49,
           "personalization_needed": false,
           "cue_points": [],
-          "not_applicable": false
+          "not_applicable": false,
+          "category_id": "interests"
         },
         {
           "part": "part1",
@@ -8615,7 +8991,8 @@
           "reference_words": 50,
           "personalization_needed": false,
           "cue_points": [],
-          "not_applicable": false
+          "not_applicable": false,
+          "category_id": "interests"
         },
         {
           "part": "part1",
@@ -8629,7 +9006,8 @@
           "reference_words": 51,
           "personalization_needed": false,
           "cue_points": [],
-          "not_applicable": false
+          "not_applicable": false,
+          "category_id": "interests"
         },
         {
           "part": "part1",
@@ -8643,7 +9021,8 @@
           "reference_words": 54,
           "personalization_needed": false,
           "cue_points": [],
-          "not_applicable": false
+          "not_applicable": false,
+          "category_id": "interests"
         },
         {
           "part": "part1",
@@ -8657,7 +9036,8 @@
           "reference_words": 52,
           "personalization_needed": false,
           "cue_points": [],
-          "not_applicable": false
+          "not_applicable": false,
+          "category_id": "routine"
         },
         {
           "part": "part1",
@@ -8671,7 +9051,8 @@
           "reference_words": 54,
           "personalization_needed": false,
           "cue_points": [],
-          "not_applicable": false
+          "not_applicable": false,
+          "category_id": "routine"
         },
         {
           "part": "part1",
@@ -8685,7 +9066,8 @@
           "reference_words": 53,
           "personalization_needed": false,
           "cue_points": [],
-          "not_applicable": false
+          "not_applicable": false,
+          "category_id": "routine"
         },
         {
           "part": "part1",
@@ -8699,7 +9081,8 @@
           "reference_words": 53,
           "personalization_needed": true,
           "cue_points": [],
-          "not_applicable": false
+          "not_applicable": false,
+          "category_id": "routine"
         },
         {
           "part": "part1",
@@ -8713,7 +9096,8 @@
           "reference_words": 51,
           "personalization_needed": false,
           "cue_points": [],
-          "not_applicable": false
+          "not_applicable": false,
+          "category_id": "routine"
         },
         {
           "part": "part1",
@@ -8727,7 +9111,8 @@
           "reference_words": 49,
           "personalization_needed": false,
           "cue_points": [],
-          "not_applicable": false
+          "not_applicable": false,
+          "category_id": "routine"
         },
         {
           "part": "part1",
@@ -8741,7 +9126,8 @@
           "reference_words": 53,
           "personalization_needed": false,
           "cue_points": [],
-          "not_applicable": false
+          "not_applicable": false,
+          "category_id": "routine"
         },
         {
           "part": "part1",
@@ -8755,7 +9141,8 @@
           "reference_words": 53,
           "personalization_needed": false,
           "cue_points": [],
-          "not_applicable": false
+          "not_applicable": false,
+          "category_id": "routine"
         },
         {
           "part": "part1",
@@ -8769,7 +9156,8 @@
           "reference_words": 52,
           "personalization_needed": false,
           "cue_points": [],
-          "not_applicable": false
+          "not_applicable": false,
+          "category_id": "growth"
         },
         {
           "part": "part1",
@@ -8783,7 +9171,8 @@
           "reference_words": 50,
           "personalization_needed": false,
           "cue_points": [],
-          "not_applicable": false
+          "not_applicable": false,
+          "category_id": "growth"
         },
         {
           "part": "part1",
@@ -8797,7 +9186,8 @@
           "reference_words": 51,
           "personalization_needed": false,
           "cue_points": [],
-          "not_applicable": false
+          "not_applicable": false,
+          "category_id": "growth"
         },
         {
           "part": "part1",
@@ -8811,7 +9201,8 @@
           "reference_words": 55,
           "personalization_needed": false,
           "cue_points": [],
-          "not_applicable": false
+          "not_applicable": false,
+          "category_id": "growth"
         },
         {
           "part": "part1",
@@ -8825,7 +9216,8 @@
           "reference_words": 54,
           "personalization_needed": false,
           "cue_points": [],
-          "not_applicable": false
+          "not_applicable": false,
+          "category_id": "growth"
         },
         {
           "part": "part1",
@@ -8839,7 +9231,8 @@
           "reference_words": 54,
           "personalization_needed": false,
           "cue_points": [],
-          "not_applicable": false
+          "not_applicable": false,
+          "category_id": "nature"
         },
         {
           "part": "part1",
@@ -8853,7 +9246,8 @@
           "reference_words": 52,
           "personalization_needed": false,
           "cue_points": [],
-          "not_applicable": false
+          "not_applicable": false,
+          "category_id": "nature"
         },
         {
           "part": "part1",
@@ -8867,7 +9261,8 @@
           "reference_words": 56,
           "personalization_needed": true,
           "cue_points": [],
-          "not_applicable": false
+          "not_applicable": false,
+          "category_id": "nature"
         },
         {
           "part": "part1",
@@ -8881,7 +9276,8 @@
           "reference_words": 53,
           "personalization_needed": false,
           "cue_points": [],
-          "not_applicable": false
+          "not_applicable": false,
+          "category_id": "nature"
         },
         {
           "part": "part1",
@@ -8895,7 +9291,8 @@
           "reference_words": 50,
           "personalization_needed": false,
           "cue_points": [],
-          "not_applicable": false
+          "not_applicable": false,
+          "category_id": "nature"
         },
         {
           "part": "part1",
@@ -8909,7 +9306,8 @@
           "reference_words": 52,
           "personalization_needed": false,
           "cue_points": [],
-          "not_applicable": false
+          "not_applicable": false,
+          "category_id": "technology"
         },
         {
           "part": "part1",
@@ -8923,7 +9321,8 @@
           "reference_words": 55,
           "personalization_needed": false,
           "cue_points": [],
-          "not_applicable": false
+          "not_applicable": false,
+          "category_id": "technology"
         },
         {
           "part": "part1",
@@ -8937,7 +9336,8 @@
           "reference_words": 56,
           "personalization_needed": false,
           "cue_points": [],
-          "not_applicable": false
+          "not_applicable": false,
+          "category_id": "technology"
         },
         {
           "part": "part1",
@@ -8951,7 +9351,8 @@
           "reference_words": 55,
           "personalization_needed": false,
           "cue_points": [],
-          "not_applicable": false
+          "not_applicable": false,
+          "category_id": "technology"
         },
         {
           "part": "part1",
@@ -8965,7 +9366,8 @@
           "reference_words": 55,
           "personalization_needed": false,
           "cue_points": [],
-          "not_applicable": false
+          "not_applicable": false,
+          "category_id": "technology"
         },
         {
           "part": "part1",
@@ -8979,7 +9381,8 @@
           "reference_words": 53,
           "personalization_needed": false,
           "cue_points": [],
-          "not_applicable": false
+          "not_applicable": false,
+          "category_id": "routine"
         },
         {
           "part": "part1",
@@ -8993,7 +9396,8 @@
           "reference_words": 53,
           "personalization_needed": false,
           "cue_points": [],
-          "not_applicable": false
+          "not_applicable": false,
+          "category_id": "routine"
         },
         {
           "part": "part1",
@@ -9007,7 +9411,8 @@
           "reference_words": 57,
           "personalization_needed": false,
           "cue_points": [],
-          "not_applicable": false
+          "not_applicable": false,
+          "category_id": "routine"
         },
         {
           "part": "part1",
@@ -9021,7 +9426,8 @@
           "reference_words": 55,
           "personalization_needed": false,
           "cue_points": [],
-          "not_applicable": false
+          "not_applicable": false,
+          "category_id": "routine"
         },
         {
           "part": "part1",
@@ -9035,7 +9441,8 @@
           "reference_words": 54,
           "personalization_needed": false,
           "cue_points": [],
-          "not_applicable": false
+          "not_applicable": false,
+          "category_id": "interests"
         },
         {
           "part": "part1",
@@ -9049,7 +9456,8 @@
           "reference_words": 51,
           "personalization_needed": false,
           "cue_points": [],
-          "not_applicable": false
+          "not_applicable": false,
+          "category_id": "interests"
         },
         {
           "part": "part1",
@@ -9063,7 +9471,8 @@
           "reference_words": 53,
           "personalization_needed": false,
           "cue_points": [],
-          "not_applicable": false
+          "not_applicable": false,
+          "category_id": "interests"
         },
         {
           "part": "part1",
@@ -9077,7 +9486,8 @@
           "reference_words": 50,
           "personalization_needed": false,
           "cue_points": [],
-          "not_applicable": false
+          "not_applicable": false,
+          "category_id": "interests"
         },
         {
           "part": "part1",
@@ -9091,7 +9501,8 @@
           "reference_words": 51,
           "personalization_needed": false,
           "cue_points": [],
-          "not_applicable": false
+          "not_applicable": false,
+          "category_id": "relationships"
         },
         {
           "part": "part1",
@@ -9105,7 +9516,8 @@
           "reference_words": 51,
           "personalization_needed": false,
           "cue_points": [],
-          "not_applicable": false
+          "not_applicable": false,
+          "category_id": "relationships"
         },
         {
           "part": "part1",
@@ -9119,7 +9531,8 @@
           "reference_words": 53,
           "personalization_needed": false,
           "cue_points": [],
-          "not_applicable": false
+          "not_applicable": false,
+          "category_id": "relationships"
         },
         {
           "part": "part1",
@@ -9133,7 +9546,8 @@
           "reference_words": 54,
           "personalization_needed": false,
           "cue_points": [],
-          "not_applicable": false
+          "not_applicable": false,
+          "category_id": "relationships"
         },
         {
           "part": "part1",
@@ -9147,7 +9561,8 @@
           "reference_words": 53,
           "personalization_needed": false,
           "cue_points": [],
-          "not_applicable": false
+          "not_applicable": false,
+          "category_id": "routine"
         },
         {
           "part": "part1",
@@ -9161,7 +9576,8 @@
           "reference_words": 54,
           "personalization_needed": false,
           "cue_points": [],
-          "not_applicable": false
+          "not_applicable": false,
+          "category_id": "routine"
         },
         {
           "part": "part1",
@@ -9175,7 +9591,8 @@
           "reference_words": 54,
           "personalization_needed": false,
           "cue_points": [],
-          "not_applicable": false
+          "not_applicable": false,
+          "category_id": "routine"
         },
         {
           "part": "part1",
@@ -9189,7 +9606,8 @@
           "reference_words": 54,
           "personalization_needed": false,
           "cue_points": [],
-          "not_applicable": false
+          "not_applicable": false,
+          "category_id": "routine"
         },
         {
           "part": "part1",
@@ -9203,7 +9621,8 @@
           "reference_words": 53,
           "personalization_needed": false,
           "cue_points": [],
-          "not_applicable": false
+          "not_applicable": false,
+          "category_id": "interests"
         },
         {
           "part": "part1",
@@ -9217,7 +9636,8 @@
           "reference_words": 56,
           "personalization_needed": false,
           "cue_points": [],
-          "not_applicable": false
+          "not_applicable": false,
+          "category_id": "interests"
         },
         {
           "part": "part1",
@@ -9231,7 +9651,8 @@
           "reference_words": 53,
           "personalization_needed": false,
           "cue_points": [],
-          "not_applicable": false
+          "not_applicable": false,
+          "category_id": "interests"
         },
         {
           "part": "part1",
@@ -9245,7 +9666,8 @@
           "reference_words": 55,
           "personalization_needed": false,
           "cue_points": [],
-          "not_applicable": false
+          "not_applicable": false,
+          "category_id": "interests"
         },
         {
           "part": "part1",
@@ -9259,7 +9681,8 @@
           "reference_words": 55,
           "personalization_needed": false,
           "cue_points": [],
-          "not_applicable": false
+          "not_applicable": false,
+          "category_id": "nature"
         },
         {
           "part": "part1",
@@ -9273,7 +9696,8 @@
           "reference_words": 51,
           "personalization_needed": false,
           "cue_points": [],
-          "not_applicable": false
+          "not_applicable": false,
+          "category_id": "nature"
         },
         {
           "part": "part1",
@@ -9287,7 +9711,8 @@
           "reference_words": 55,
           "personalization_needed": false,
           "cue_points": [],
-          "not_applicable": false
+          "not_applicable": false,
+          "category_id": "nature"
         },
         {
           "part": "part1",
@@ -9301,7 +9726,8 @@
           "reference_words": 56,
           "personalization_needed": false,
           "cue_points": [],
-          "not_applicable": false
+          "not_applicable": false,
+          "category_id": "nature"
         },
         {
           "part": "part1",
@@ -9315,7 +9741,8 @@
           "reference_words": 56,
           "personalization_needed": false,
           "cue_points": [],
-          "not_applicable": false
+          "not_applicable": false,
+          "category_id": "technology"
         },
         {
           "part": "part1",
@@ -9329,7 +9756,8 @@
           "reference_words": 54,
           "personalization_needed": false,
           "cue_points": [],
-          "not_applicable": false
+          "not_applicable": false,
+          "category_id": "technology"
         },
         {
           "part": "part1",
@@ -9343,7 +9771,8 @@
           "reference_words": 55,
           "personalization_needed": false,
           "cue_points": [],
-          "not_applicable": false
+          "not_applicable": false,
+          "category_id": "technology"
         },
         {
           "part": "part1",
@@ -9357,7 +9786,8 @@
           "reference_words": 54,
           "personalization_needed": false,
           "cue_points": [],
-          "not_applicable": false
+          "not_applicable": false,
+          "category_id": "technology"
         },
         {
           "part": "part1",
@@ -9371,7 +9801,8 @@
           "reference_words": 56,
           "personalization_needed": true,
           "cue_points": [],
-          "not_applicable": false
+          "not_applicable": false,
+          "category_id": "technology"
         },
         {
           "part": "part1",
@@ -9385,7 +9816,8 @@
           "reference_words": 56,
           "personalization_needed": false,
           "cue_points": [],
-          "not_applicable": false
+          "not_applicable": false,
+          "category_id": "technology"
         },
         {
           "part": "part1",
@@ -9399,7 +9831,8 @@
           "reference_words": 54,
           "personalization_needed": false,
           "cue_points": [],
-          "not_applicable": false
+          "not_applicable": false,
+          "category_id": "growth"
         },
         {
           "part": "part1",
@@ -9413,7 +9846,8 @@
           "reference_words": 55,
           "personalization_needed": false,
           "cue_points": [],
-          "not_applicable": false
+          "not_applicable": false,
+          "category_id": "growth"
         },
         {
           "part": "part1",
@@ -9427,7 +9861,8 @@
           "reference_words": 55,
           "personalization_needed": true,
           "cue_points": [],
-          "not_applicable": false
+          "not_applicable": false,
+          "category_id": "growth"
         },
         {
           "part": "part1",
@@ -9441,7 +9876,8 @@
           "reference_words": 55,
           "personalization_needed": false,
           "cue_points": [],
-          "not_applicable": false
+          "not_applicable": false,
+          "category_id": "growth"
         },
         {
           "part": "part1",
@@ -9455,7 +9891,8 @@
           "reference_words": 55,
           "personalization_needed": false,
           "cue_points": [],
-          "not_applicable": false
+          "not_applicable": false,
+          "category_id": "growth"
         },
         {
           "part": "part1",
@@ -9469,7 +9906,8 @@
           "reference_words": 53,
           "personalization_needed": false,
           "cue_points": [],
-          "not_applicable": false
+          "not_applicable": false,
+          "category_id": "interests"
         },
         {
           "part": "part1",
@@ -9483,7 +9921,8 @@
           "reference_words": 52,
           "personalization_needed": false,
           "cue_points": [],
-          "not_applicable": false
+          "not_applicable": false,
+          "category_id": "interests"
         },
         {
           "part": "part1",
@@ -9497,7 +9936,8 @@
           "reference_words": 57,
           "personalization_needed": false,
           "cue_points": [],
-          "not_applicable": false
+          "not_applicable": false,
+          "category_id": "interests"
         },
         {
           "part": "part1",
@@ -9511,7 +9951,8 @@
           "reference_words": 57,
           "personalization_needed": false,
           "cue_points": [],
-          "not_applicable": false
+          "not_applicable": false,
+          "category_id": "technology"
         },
         {
           "part": "part1",
@@ -9525,7 +9966,8 @@
           "reference_words": 54,
           "personalization_needed": false,
           "cue_points": [],
-          "not_applicable": false
+          "not_applicable": false,
+          "category_id": "technology"
         },
         {
           "part": "part1",
@@ -9539,7 +9981,8 @@
           "reference_words": 54,
           "personalization_needed": false,
           "cue_points": [],
-          "not_applicable": false
+          "not_applicable": false,
+          "category_id": "technology"
         },
         {
           "part": "part1",
@@ -9553,7 +9996,8 @@
           "reference_words": 54,
           "personalization_needed": false,
           "cue_points": [],
-          "not_applicable": false
+          "not_applicable": false,
+          "category_id": "technology"
         },
         {
           "part": "part1",
@@ -9567,7 +10011,8 @@
           "reference_words": 55,
           "personalization_needed": false,
           "cue_points": [],
-          "not_applicable": false
+          "not_applicable": false,
+          "category_id": "technology"
         },
         {
           "part": "part1",
@@ -9581,7 +10026,8 @@
           "reference_words": 53,
           "personalization_needed": false,
           "cue_points": [],
-          "not_applicable": false
+          "not_applicable": false,
+          "category_id": "technology"
         },
         {
           "part": "part1",
@@ -9595,7 +10041,8 @@
           "reference_words": 57,
           "personalization_needed": false,
           "cue_points": [],
-          "not_applicable": false
+          "not_applicable": false,
+          "category_id": "home"
         },
         {
           "part": "part1",
@@ -9609,7 +10056,8 @@
           "reference_words": 53,
           "personalization_needed": false,
           "cue_points": [],
-          "not_applicable": false
+          "not_applicable": false,
+          "category_id": "home"
         },
         {
           "part": "part1",
@@ -9623,7 +10071,8 @@
           "reference_words": 54,
           "personalization_needed": false,
           "cue_points": [],
-          "not_applicable": false
+          "not_applicable": false,
+          "category_id": "home"
         },
         {
           "part": "part1",
@@ -9637,7 +10086,8 @@
           "reference_words": 54,
           "personalization_needed": false,
           "cue_points": [],
-          "not_applicable": false
+          "not_applicable": false,
+          "category_id": "home"
         },
         {
           "part": "part1",
@@ -9651,7 +10101,8 @@
           "reference_words": 58,
           "personalization_needed": false,
           "cue_points": [],
-          "not_applicable": false
+          "not_applicable": false,
+          "category_id": "growth"
         },
         {
           "part": "part1",
@@ -9665,7 +10116,8 @@
           "reference_words": 56,
           "personalization_needed": false,
           "cue_points": [],
-          "not_applicable": false
+          "not_applicable": false,
+          "category_id": "growth"
         },
         {
           "part": "part1",
@@ -9679,7 +10131,8 @@
           "reference_words": 54,
           "personalization_needed": false,
           "cue_points": [],
-          "not_applicable": false
+          "not_applicable": false,
+          "category_id": "growth"
         },
         {
           "part": "part1",
@@ -9693,7 +10146,8 @@
           "reference_words": 55,
           "personalization_needed": false,
           "cue_points": [],
-          "not_applicable": false
+          "not_applicable": false,
+          "category_id": "growth"
         },
         {
           "part": "part1",
@@ -9707,7 +10161,8 @@
           "reference_words": 52,
           "personalization_needed": true,
           "cue_points": [],
-          "not_applicable": false
+          "not_applicable": false,
+          "category_id": "growth"
         },
         {
           "part": "part1",
@@ -9721,7 +10176,8 @@
           "reference_words": 54,
           "personalization_needed": false,
           "cue_points": [],
-          "not_applicable": false
+          "not_applicable": false,
+          "category_id": "relationships"
         },
         {
           "part": "part1",
@@ -9735,7 +10191,8 @@
           "reference_words": 51,
           "personalization_needed": false,
           "cue_points": [],
-          "not_applicable": false
+          "not_applicable": false,
+          "category_id": "relationships"
         },
         {
           "part": "part1",
@@ -9749,7 +10206,8 @@
           "reference_words": 55,
           "personalization_needed": false,
           "cue_points": [],
-          "not_applicable": false
+          "not_applicable": false,
+          "category_id": "relationships"
         },
         {
           "part": "part1",
@@ -9763,7 +10221,8 @@
           "reference_words": 57,
           "personalization_needed": false,
           "cue_points": [],
-          "not_applicable": false
+          "not_applicable": false,
+          "category_id": "relationships"
         },
         {
           "part": "part2",
@@ -10300,7 +10759,8 @@
           "previously_covered": false,
           "reference_words": 103,
           "personalization_needed": false,
-          "cue_points": []
+          "cue_points": [],
+          "category_id": "relationships"
         },
         {
           "part": "part3",
@@ -10313,7 +10773,8 @@
           "previously_covered": true,
           "reference_words": 97,
           "personalization_needed": false,
-          "cue_points": []
+          "cue_points": [],
+          "category_id": "relationships"
         },
         {
           "part": "part3",
@@ -10326,7 +10787,8 @@
           "previously_covered": false,
           "reference_words": 103,
           "personalization_needed": false,
-          "cue_points": []
+          "cue_points": [],
+          "category_id": "work"
         },
         {
           "part": "part3",
@@ -10339,7 +10801,8 @@
           "previously_covered": false,
           "reference_words": 102,
           "personalization_needed": false,
-          "cue_points": []
+          "cue_points": [],
+          "category_id": "relationships"
         },
         {
           "part": "part3",
@@ -10352,7 +10815,8 @@
           "previously_covered": false,
           "reference_words": 106,
           "personalization_needed": false,
-          "cue_points": []
+          "cue_points": [],
+          "category_id": "relationships"
         },
         {
           "part": "part3",
@@ -10365,7 +10829,8 @@
           "previously_covered": false,
           "reference_words": 105,
           "personalization_needed": false,
-          "cue_points": []
+          "cue_points": [],
+          "category_id": "relationships"
         },
         {
           "part": "part3",
@@ -10378,7 +10843,8 @@
           "previously_covered": true,
           "reference_words": 95,
           "personalization_needed": false,
-          "cue_points": []
+          "cue_points": [],
+          "category_id": "relationships"
         },
         {
           "part": "part3",
@@ -10391,7 +10857,8 @@
           "previously_covered": false,
           "reference_words": 101,
           "personalization_needed": false,
-          "cue_points": []
+          "cue_points": [],
+          "category_id": "relationships"
         },
         {
           "part": "part3",
@@ -10404,7 +10871,8 @@
           "previously_covered": false,
           "reference_words": 91,
           "personalization_needed": false,
-          "cue_points": []
+          "cue_points": [],
+          "category_id": "relationships"
         },
         {
           "part": "part3",
@@ -10417,7 +10885,8 @@
           "previously_covered": false,
           "reference_words": 101,
           "personalization_needed": false,
-          "cue_points": []
+          "cue_points": [],
+          "category_id": "relationships"
         },
         {
           "part": "part3",
@@ -10430,7 +10899,8 @@
           "previously_covered": false,
           "reference_words": 90,
           "personalization_needed": false,
-          "cue_points": []
+          "cue_points": [],
+          "category_id": "relationships"
         },
         {
           "part": "part3",
@@ -10443,7 +10913,8 @@
           "previously_covered": false,
           "reference_words": 95,
           "personalization_needed": false,
-          "cue_points": []
+          "cue_points": [],
+          "category_id": "relationships"
         },
         {
           "part": "part3",
@@ -10456,7 +10927,8 @@
           "previously_covered": false,
           "reference_words": 109,
           "personalization_needed": false,
-          "cue_points": []
+          "cue_points": [],
+          "category_id": "education"
         },
         {
           "part": "part3",
@@ -10469,7 +10941,8 @@
           "previously_covered": true,
           "reference_words": 95,
           "personalization_needed": false,
-          "cue_points": []
+          "cue_points": [],
+          "category_id": "education"
         },
         {
           "part": "part3",
@@ -10482,7 +10955,8 @@
           "previously_covered": false,
           "reference_words": 98,
           "personalization_needed": false,
-          "cue_points": []
+          "cue_points": [],
+          "category_id": "education"
         },
         {
           "part": "part3",
@@ -10495,7 +10969,8 @@
           "previously_covered": false,
           "reference_words": 96,
           "personalization_needed": false,
-          "cue_points": []
+          "cue_points": [],
+          "category_id": "education"
         },
         {
           "part": "part3",
@@ -10508,7 +10983,8 @@
           "previously_covered": false,
           "reference_words": 95,
           "personalization_needed": false,
-          "cue_points": []
+          "cue_points": [],
+          "category_id": "education"
         },
         {
           "part": "part3",
@@ -10521,7 +10997,8 @@
           "previously_covered": false,
           "reference_words": 91,
           "personalization_needed": false,
-          "cue_points": []
+          "cue_points": [],
+          "category_id": "education"
         },
         {
           "part": "part3",
@@ -10534,7 +11011,8 @@
           "previously_covered": false,
           "reference_words": 103,
           "personalization_needed": false,
-          "cue_points": []
+          "cue_points": [],
+          "category_id": "places"
         },
         {
           "part": "part3",
@@ -10547,7 +11025,8 @@
           "previously_covered": false,
           "reference_words": 96,
           "personalization_needed": false,
-          "cue_points": []
+          "cue_points": [],
+          "category_id": "culture"
         },
         {
           "part": "part3",
@@ -10560,7 +11039,8 @@
           "previously_covered": false,
           "reference_words": 104,
           "personalization_needed": false,
-          "cue_points": []
+          "cue_points": [],
+          "category_id": "technology"
         },
         {
           "part": "part3",
@@ -10573,7 +11053,8 @@
           "previously_covered": false,
           "reference_words": 107,
           "personalization_needed": false,
-          "cue_points": []
+          "cue_points": [],
+          "category_id": "relationships"
         },
         {
           "part": "part3",
@@ -10586,7 +11067,8 @@
           "previously_covered": false,
           "reference_words": 93,
           "personalization_needed": false,
-          "cue_points": []
+          "cue_points": [],
+          "category_id": "culture"
         },
         {
           "part": "part3",
@@ -10599,7 +11081,8 @@
           "previously_covered": false,
           "reference_words": 91,
           "personalization_needed": false,
-          "cue_points": []
+          "cue_points": [],
+          "category_id": "culture"
         },
         {
           "part": "part3",
@@ -10612,7 +11095,8 @@
           "previously_covered": false,
           "reference_words": 92,
           "personalization_needed": false,
-          "cue_points": []
+          "cue_points": [],
+          "category_id": "relationships"
         },
         {
           "part": "part3",
@@ -10625,7 +11109,8 @@
           "previously_covered": false,
           "reference_words": 99,
           "personalization_needed": false,
-          "cue_points": []
+          "cue_points": [],
+          "category_id": "education"
         },
         {
           "part": "part3",
@@ -10638,7 +11123,8 @@
           "previously_covered": false,
           "reference_words": 109,
           "personalization_needed": false,
-          "cue_points": []
+          "cue_points": [],
+          "category_id": "culture"
         },
         {
           "part": "part3",
@@ -10651,7 +11137,8 @@
           "previously_covered": false,
           "reference_words": 105,
           "personalization_needed": false,
-          "cue_points": []
+          "cue_points": [],
+          "category_id": "work"
         },
         {
           "part": "part3",
@@ -10664,7 +11151,8 @@
           "previously_covered": false,
           "reference_words": 106,
           "personalization_needed": false,
-          "cue_points": []
+          "cue_points": [],
+          "category_id": "education"
         },
         {
           "part": "part3",
@@ -10677,7 +11165,8 @@
           "previously_covered": false,
           "reference_words": 100,
           "personalization_needed": false,
-          "cue_points": []
+          "cue_points": [],
+          "category_id": "education"
         },
         {
           "part": "part3",
@@ -10690,7 +11179,8 @@
           "previously_covered": false,
           "reference_words": 98,
           "personalization_needed": false,
-          "cue_points": []
+          "cue_points": [],
+          "category_id": "relationships"
         },
         {
           "part": "part3",
@@ -10703,7 +11193,8 @@
           "previously_covered": false,
           "reference_words": 94,
           "personalization_needed": false,
-          "cue_points": []
+          "cue_points": [],
+          "category_id": "relationships"
         },
         {
           "part": "part3",
@@ -10716,7 +11207,8 @@
           "previously_covered": false,
           "reference_words": 94,
           "personalization_needed": false,
-          "cue_points": []
+          "cue_points": [],
+          "category_id": "technology"
         },
         {
           "part": "part3",
@@ -10729,7 +11221,8 @@
           "previously_covered": false,
           "reference_words": 90,
           "personalization_needed": false,
-          "cue_points": []
+          "cue_points": [],
+          "category_id": "technology"
         },
         {
           "part": "part3",
@@ -10742,7 +11235,8 @@
           "previously_covered": false,
           "reference_words": 102,
           "personalization_needed": false,
-          "cue_points": []
+          "cue_points": [],
+          "category_id": "technology"
         },
         {
           "part": "part3",
@@ -10755,7 +11249,8 @@
           "previously_covered": false,
           "reference_words": 104,
           "personalization_needed": false,
-          "cue_points": []
+          "cue_points": [],
+          "category_id": "technology"
         },
         {
           "part": "part3",
@@ -10768,7 +11263,8 @@
           "previously_covered": false,
           "reference_words": 108,
           "personalization_needed": false,
-          "cue_points": []
+          "cue_points": [],
+          "category_id": "education"
         },
         {
           "part": "part3",
@@ -10781,7 +11277,8 @@
           "previously_covered": false,
           "reference_words": 103,
           "personalization_needed": false,
-          "cue_points": []
+          "cue_points": [],
+          "category_id": "places"
         },
         {
           "part": "part3",
@@ -10794,7 +11291,8 @@
           "previously_covered": false,
           "reference_words": 95,
           "personalization_needed": false,
-          "cue_points": []
+          "cue_points": [],
+          "category_id": "places"
         },
         {
           "part": "part3",
@@ -10807,7 +11305,8 @@
           "previously_covered": false,
           "reference_words": 107,
           "personalization_needed": false,
-          "cue_points": []
+          "cue_points": [],
+          "category_id": "decisions"
         },
         {
           "part": "part3",
@@ -10820,7 +11319,8 @@
           "previously_covered": false,
           "reference_words": 98,
           "personalization_needed": false,
-          "cue_points": []
+          "cue_points": [],
+          "category_id": "decisions"
         },
         {
           "part": "part3",
@@ -10833,7 +11333,8 @@
           "previously_covered": false,
           "reference_words": 93,
           "personalization_needed": false,
-          "cue_points": []
+          "cue_points": [],
+          "category_id": "decisions"
         },
         {
           "part": "part3",
@@ -10846,7 +11347,8 @@
           "previously_covered": false,
           "reference_words": 95,
           "personalization_needed": false,
-          "cue_points": []
+          "cue_points": [],
+          "category_id": "decisions"
         },
         {
           "part": "part3",
@@ -10859,7 +11361,8 @@
           "previously_covered": false,
           "reference_words": 98,
           "personalization_needed": false,
-          "cue_points": []
+          "cue_points": [],
+          "category_id": "decisions"
         },
         {
           "part": "part3",
@@ -10872,7 +11375,8 @@
           "previously_covered": false,
           "reference_words": 93,
           "personalization_needed": false,
-          "cue_points": []
+          "cue_points": [],
+          "category_id": "decisions"
         },
         {
           "part": "part3",
@@ -10885,7 +11389,8 @@
           "previously_covered": false,
           "reference_words": 92,
           "personalization_needed": false,
-          "cue_points": []
+          "cue_points": [],
+          "category_id": "education"
         },
         {
           "part": "part3",
@@ -10898,7 +11403,8 @@
           "previously_covered": false,
           "reference_words": 99,
           "personalization_needed": false,
-          "cue_points": []
+          "cue_points": [],
+          "category_id": "decisions"
         },
         {
           "part": "part3",
@@ -10911,7 +11417,8 @@
           "previously_covered": false,
           "reference_words": 98,
           "personalization_needed": false,
-          "cue_points": []
+          "cue_points": [],
+          "category_id": "decisions"
         },
         {
           "part": "part3",
@@ -10924,7 +11431,8 @@
           "previously_covered": false,
           "reference_words": 97,
           "personalization_needed": false,
-          "cue_points": []
+          "cue_points": [],
+          "category_id": "decisions"
         },
         {
           "part": "part3",
@@ -10937,7 +11445,8 @@
           "previously_covered": false,
           "reference_words": 97,
           "personalization_needed": false,
-          "cue_points": []
+          "cue_points": [],
+          "category_id": "work"
         },
         {
           "part": "part3",
@@ -10950,7 +11459,8 @@
           "previously_covered": false,
           "reference_words": 110,
           "personalization_needed": false,
-          "cue_points": []
+          "cue_points": [],
+          "category_id": "work"
         },
         {
           "part": "part3",
@@ -10963,7 +11473,8 @@
           "previously_covered": false,
           "reference_words": 95,
           "personalization_needed": false,
-          "cue_points": []
+          "cue_points": [],
+          "category_id": "work"
         },
         {
           "part": "part3",
@@ -10976,7 +11487,8 @@
           "previously_covered": false,
           "reference_words": 111,
           "personalization_needed": false,
-          "cue_points": []
+          "cue_points": [],
+          "category_id": "education"
         },
         {
           "part": "part3",
@@ -10989,7 +11501,8 @@
           "previously_covered": false,
           "reference_words": 96,
           "personalization_needed": false,
-          "cue_points": []
+          "cue_points": [],
+          "category_id": "culture"
         },
         {
           "part": "part3",
@@ -11002,7 +11515,8 @@
           "previously_covered": false,
           "reference_words": 115,
           "personalization_needed": false,
-          "cue_points": []
+          "cue_points": [],
+          "category_id": "places"
         },
         {
           "part": "part3",
@@ -11015,7 +11529,8 @@
           "previously_covered": false,
           "reference_words": 104,
           "personalization_needed": false,
-          "cue_points": []
+          "cue_points": [],
+          "category_id": "culture"
         },
         {
           "part": "part3",
@@ -11028,7 +11543,8 @@
           "previously_covered": false,
           "reference_words": 95,
           "personalization_needed": false,
-          "cue_points": []
+          "cue_points": [],
+          "category_id": "culture"
         },
         {
           "part": "part3",
@@ -11041,7 +11557,8 @@
           "previously_covered": false,
           "reference_words": 103,
           "personalization_needed": false,
-          "cue_points": []
+          "cue_points": [],
+          "category_id": "culture"
         },
         {
           "part": "part3",
@@ -11054,7 +11571,8 @@
           "previously_covered": false,
           "reference_words": 100,
           "personalization_needed": false,
-          "cue_points": []
+          "cue_points": [],
+          "category_id": "places"
         },
         {
           "part": "part3",
@@ -11067,7 +11585,8 @@
           "previously_covered": false,
           "reference_words": 96,
           "personalization_needed": false,
-          "cue_points": []
+          "cue_points": [],
+          "category_id": "relationships"
         },
         {
           "part": "part3",
@@ -11080,7 +11599,8 @@
           "previously_covered": false,
           "reference_words": 104,
           "personalization_needed": false,
-          "cue_points": []
+          "cue_points": [],
+          "category_id": "relationships"
         },
         {
           "part": "part3",
@@ -11093,7 +11613,8 @@
           "previously_covered": false,
           "reference_words": 101,
           "personalization_needed": false,
-          "cue_points": []
+          "cue_points": [],
+          "category_id": "relationships"
         },
         {
           "part": "part3",
@@ -11106,7 +11627,8 @@
           "previously_covered": false,
           "reference_words": 90,
           "personalization_needed": false,
-          "cue_points": []
+          "cue_points": [],
+          "category_id": "relationships"
         },
         {
           "part": "part3",
@@ -11119,7 +11641,8 @@
           "previously_covered": false,
           "reference_words": 101,
           "personalization_needed": false,
-          "cue_points": []
+          "cue_points": [],
+          "category_id": "relationships"
         },
         {
           "part": "part3",
@@ -11132,7 +11655,8 @@
           "previously_covered": false,
           "reference_words": 98,
           "personalization_needed": false,
-          "cue_points": []
+          "cue_points": [],
+          "category_id": "relationships"
         },
         {
           "part": "part3",
@@ -11145,7 +11669,8 @@
           "previously_covered": false,
           "reference_words": 107,
           "personalization_needed": false,
-          "cue_points": []
+          "cue_points": [],
+          "category_id": "education"
         },
         {
           "part": "part3",
@@ -11158,7 +11683,8 @@
           "previously_covered": false,
           "reference_words": 96,
           "personalization_needed": false,
-          "cue_points": []
+          "cue_points": [],
+          "category_id": "education"
         },
         {
           "part": "part3",
@@ -11171,7 +11697,8 @@
           "previously_covered": false,
           "reference_words": 108,
           "personalization_needed": false,
-          "cue_points": []
+          "cue_points": [],
+          "category_id": "education"
         },
         {
           "part": "part3",
@@ -11184,7 +11711,8 @@
           "previously_covered": false,
           "reference_words": 105,
           "personalization_needed": false,
-          "cue_points": []
+          "cue_points": [],
+          "category_id": "education"
         },
         {
           "part": "part3",
@@ -11197,7 +11725,8 @@
           "previously_covered": false,
           "reference_words": 105,
           "personalization_needed": false,
-          "cue_points": []
+          "cue_points": [],
+          "category_id": "decisions"
         },
         {
           "part": "part3",
@@ -11210,7 +11739,8 @@
           "previously_covered": false,
           "reference_words": 112,
           "personalization_needed": false,
-          "cue_points": []
+          "cue_points": [],
+          "category_id": "decisions"
         },
         {
           "part": "part3",
@@ -11223,7 +11753,8 @@
           "previously_covered": false,
           "reference_words": 105,
           "personalization_needed": false,
-          "cue_points": []
+          "cue_points": [],
+          "category_id": "education"
         },
         {
           "part": "part3",
@@ -11236,7 +11767,8 @@
           "previously_covered": false,
           "reference_words": 101,
           "personalization_needed": false,
-          "cue_points": []
+          "cue_points": [],
+          "category_id": "decisions"
         },
         {
           "part": "part3",
@@ -11249,7 +11781,8 @@
           "previously_covered": false,
           "reference_words": 106,
           "personalization_needed": false,
-          "cue_points": []
+          "cue_points": [],
+          "category_id": "decisions"
         },
         {
           "part": "part3",
@@ -11262,7 +11795,8 @@
           "previously_covered": false,
           "reference_words": 110,
           "personalization_needed": false,
-          "cue_points": []
+          "cue_points": [],
+          "category_id": "decisions"
         },
         {
           "part": "part3",
@@ -11275,7 +11809,8 @@
           "previously_covered": false,
           "reference_words": 97,
           "personalization_needed": false,
-          "cue_points": []
+          "cue_points": [],
+          "category_id": "decisions"
         },
         {
           "part": "part3",
@@ -11288,7 +11823,8 @@
           "previously_covered": false,
           "reference_words": 98,
           "personalization_needed": false,
-          "cue_points": []
+          "cue_points": [],
+          "category_id": "decisions"
         },
         {
           "part": "part3",
@@ -11301,7 +11837,8 @@
           "previously_covered": false,
           "reference_words": 91,
           "personalization_needed": false,
-          "cue_points": []
+          "cue_points": [],
+          "category_id": "decisions"
         },
         {
           "part": "part3",
@@ -11314,7 +11851,8 @@
           "previously_covered": false,
           "reference_words": 103,
           "personalization_needed": false,
-          "cue_points": []
+          "cue_points": [],
+          "category_id": "decisions"
         },
         {
           "part": "part3",
@@ -11327,7 +11865,8 @@
           "previously_covered": false,
           "reference_words": 97,
           "personalization_needed": false,
-          "cue_points": []
+          "cue_points": [],
+          "category_id": "consumption"
         },
         {
           "part": "part3",
@@ -11340,7 +11879,8 @@
           "previously_covered": false,
           "reference_words": 104,
           "personalization_needed": false,
-          "cue_points": []
+          "cue_points": [],
+          "category_id": "work"
         },
         {
           "part": "part3",
@@ -11353,7 +11893,8 @@
           "previously_covered": false,
           "reference_words": 91,
           "personalization_needed": false,
-          "cue_points": []
+          "cue_points": [],
+          "category_id": "consumption"
         },
         {
           "part": "part3",
@@ -11366,7 +11907,8 @@
           "previously_covered": false,
           "reference_words": 95,
           "personalization_needed": false,
-          "cue_points": []
+          "cue_points": [],
+          "category_id": "consumption"
         },
         {
           "part": "part3",
@@ -11379,7 +11921,8 @@
           "previously_covered": false,
           "reference_words": 113,
           "personalization_needed": false,
-          "cue_points": []
+          "cue_points": [],
+          "category_id": "consumption"
         },
         {
           "part": "part3",
@@ -11392,7 +11935,8 @@
           "previously_covered": false,
           "reference_words": 96,
           "personalization_needed": false,
-          "cue_points": []
+          "cue_points": [],
+          "category_id": "consumption"
         },
         {
           "part": "part3",
@@ -11405,7 +11949,8 @@
           "previously_covered": false,
           "reference_words": 103,
           "personalization_needed": false,
-          "cue_points": []
+          "cue_points": [],
+          "category_id": "education"
         },
         {
           "part": "part3",
@@ -11418,7 +11963,8 @@
           "previously_covered": true,
           "reference_words": 102,
           "personalization_needed": false,
-          "cue_points": []
+          "cue_points": [],
+          "category_id": "education"
         },
         {
           "part": "part3",
@@ -11431,7 +11977,8 @@
           "previously_covered": false,
           "reference_words": 90,
           "personalization_needed": false,
-          "cue_points": []
+          "cue_points": [],
+          "category_id": "education"
         },
         {
           "part": "part3",
@@ -11444,7 +11991,8 @@
           "previously_covered": false,
           "reference_words": 107,
           "personalization_needed": false,
-          "cue_points": []
+          "cue_points": [],
+          "category_id": "education"
         },
         {
           "part": "part3",
@@ -11457,7 +12005,8 @@
           "previously_covered": false,
           "reference_words": 103,
           "personalization_needed": false,
-          "cue_points": []
+          "cue_points": [],
+          "category_id": "education"
         },
         {
           "part": "part3",
@@ -11470,7 +12019,8 @@
           "previously_covered": false,
           "reference_words": 94,
           "personalization_needed": false,
-          "cue_points": []
+          "cue_points": [],
+          "category_id": "education"
         },
         {
           "part": "part3",
@@ -11483,7 +12033,8 @@
           "previously_covered": false,
           "reference_words": 99,
           "personalization_needed": false,
-          "cue_points": []
+          "cue_points": [],
+          "category_id": "places"
         },
         {
           "part": "part3",
@@ -11496,7 +12047,8 @@
           "previously_covered": false,
           "reference_words": 97,
           "personalization_needed": false,
-          "cue_points": []
+          "cue_points": [],
+          "category_id": "places"
         },
         {
           "part": "part3",
@@ -11509,7 +12061,8 @@
           "previously_covered": false,
           "reference_words": 90,
           "personalization_needed": false,
-          "cue_points": []
+          "cue_points": [],
+          "category_id": "places"
         },
         {
           "part": "part3",
@@ -11522,7 +12075,8 @@
           "previously_covered": false,
           "reference_words": 95,
           "personalization_needed": false,
-          "cue_points": []
+          "cue_points": [],
+          "category_id": "places"
         },
         {
           "part": "part3",
@@ -11535,7 +12089,8 @@
           "previously_covered": false,
           "reference_words": 97,
           "personalization_needed": false,
-          "cue_points": []
+          "cue_points": [],
+          "category_id": "places"
         },
         {
           "part": "part3",
@@ -11548,7 +12103,8 @@
           "previously_covered": false,
           "reference_words": 92,
           "personalization_needed": false,
-          "cue_points": []
+          "cue_points": [],
+          "category_id": "places"
         },
         {
           "part": "part3",
@@ -11561,7 +12117,8 @@
           "previously_covered": false,
           "reference_words": 97,
           "personalization_needed": false,
-          "cue_points": []
+          "cue_points": [],
+          "category_id": "places"
         },
         {
           "part": "part3",
@@ -11574,7 +12131,8 @@
           "previously_covered": false,
           "reference_words": 101,
           "personalization_needed": false,
-          "cue_points": []
+          "cue_points": [],
+          "category_id": "places"
         },
         {
           "part": "part3",
@@ -11587,7 +12145,8 @@
           "previously_covered": false,
           "reference_words": 98,
           "personalization_needed": false,
-          "cue_points": []
+          "cue_points": [],
+          "category_id": "places"
         },
         {
           "part": "part3",
@@ -11600,7 +12159,8 @@
           "previously_covered": false,
           "reference_words": 94,
           "personalization_needed": false,
-          "cue_points": []
+          "cue_points": [],
+          "category_id": "places"
         },
         {
           "part": "part3",
@@ -11613,7 +12173,8 @@
           "previously_covered": false,
           "reference_words": 107,
           "personalization_needed": false,
-          "cue_points": []
+          "cue_points": [],
+          "category_id": "education"
         },
         {
           "part": "part3",
@@ -11626,7 +12187,8 @@
           "previously_covered": false,
           "reference_words": 95,
           "personalization_needed": false,
-          "cue_points": []
+          "cue_points": [],
+          "category_id": "relationships"
         },
         {
           "part": "part3",
@@ -11639,7 +12201,8 @@
           "previously_covered": false,
           "reference_words": 98,
           "personalization_needed": false,
-          "cue_points": []
+          "cue_points": [],
+          "category_id": "traditions"
         },
         {
           "part": "part3",
@@ -11652,7 +12215,8 @@
           "previously_covered": false,
           "reference_words": 99,
           "personalization_needed": false,
-          "cue_points": []
+          "cue_points": [],
+          "category_id": "traditions"
         },
         {
           "part": "part3",
@@ -11665,7 +12229,8 @@
           "previously_covered": false,
           "reference_words": 104,
           "personalization_needed": false,
-          "cue_points": []
+          "cue_points": [],
+          "category_id": "traditions"
         },
         {
           "part": "part3",
@@ -11678,7 +12243,8 @@
           "previously_covered": false,
           "reference_words": 92,
           "personalization_needed": false,
-          "cue_points": []
+          "cue_points": [],
+          "category_id": "traditions"
         },
         {
           "part": "part3",
@@ -11692,7 +12258,8 @@
           "previously_covered": false,
           "reference_words": 103,
           "personalization_needed": false,
-          "cue_points": []
+          "cue_points": [],
+          "category_id": "consumption"
         },
         {
           "part": "part3",
@@ -11705,7 +12272,8 @@
           "previously_covered": false,
           "reference_words": 90,
           "personalization_needed": false,
-          "cue_points": []
+          "cue_points": [],
+          "category_id": "consumption"
         },
         {
           "part": "part3",
@@ -11718,7 +12286,8 @@
           "previously_covered": false,
           "reference_words": 105,
           "personalization_needed": false,
-          "cue_points": []
+          "cue_points": [],
+          "category_id": "consumption"
         },
         {
           "part": "part3",
@@ -11731,7 +12300,8 @@
           "previously_covered": false,
           "reference_words": 109,
           "personalization_needed": false,
-          "cue_points": []
+          "cue_points": [],
+          "category_id": "consumption"
         },
         {
           "part": "part3",
@@ -11744,7 +12314,8 @@
           "previously_covered": false,
           "reference_words": 104,
           "personalization_needed": false,
-          "cue_points": []
+          "cue_points": [],
+          "category_id": "consumption"
         },
         {
           "part": "part3",
@@ -11757,7 +12328,8 @@
           "previously_covered": false,
           "reference_words": 106,
           "personalization_needed": false,
-          "cue_points": []
+          "cue_points": [],
+          "category_id": "consumption"
         },
         {
           "part": "part3",
@@ -11770,7 +12342,8 @@
           "previously_covered": false,
           "reference_words": 98,
           "personalization_needed": false,
-          "cue_points": []
+          "cue_points": [],
+          "category_id": "culture"
         },
         {
           "part": "part3",
@@ -11783,7 +12356,8 @@
           "previously_covered": false,
           "reference_words": 108,
           "personalization_needed": false,
-          "cue_points": []
+          "cue_points": [],
+          "category_id": "culture"
         },
         {
           "part": "part3",
@@ -11796,7 +12370,8 @@
           "previously_covered": false,
           "reference_words": 95,
           "personalization_needed": false,
-          "cue_points": []
+          "cue_points": [],
+          "category_id": "work"
         },
         {
           "part": "part3",
@@ -11809,7 +12384,8 @@
           "previously_covered": false,
           "reference_words": 96,
           "personalization_needed": false,
-          "cue_points": []
+          "cue_points": [],
+          "category_id": "work"
         },
         {
           "part": "part3",
@@ -11822,7 +12398,8 @@
           "previously_covered": false,
           "reference_words": 92,
           "personalization_needed": false,
-          "cue_points": []
+          "cue_points": [],
+          "category_id": "culture"
         },
         {
           "part": "part3",
@@ -11835,7 +12412,8 @@
           "previously_covered": false,
           "reference_words": 94,
           "personalization_needed": false,
-          "cue_points": []
+          "cue_points": [],
+          "category_id": "culture"
         },
         {
           "part": "part3",
@@ -11848,7 +12426,8 @@
           "previously_covered": false,
           "reference_words": 101,
           "personalization_needed": false,
-          "cue_points": []
+          "cue_points": [],
+          "category_id": "education"
         },
         {
           "part": "part3",
@@ -11861,7 +12440,8 @@
           "previously_covered": false,
           "reference_words": 110,
           "personalization_needed": false,
-          "cue_points": []
+          "cue_points": [],
+          "category_id": "culture"
         },
         {
           "part": "part3",
@@ -11874,7 +12454,8 @@
           "previously_covered": false,
           "reference_words": 107,
           "personalization_needed": false,
-          "cue_points": []
+          "cue_points": [],
+          "category_id": "culture"
         },
         {
           "part": "part3",
@@ -11887,7 +12468,8 @@
           "previously_covered": false,
           "reference_words": 106,
           "personalization_needed": false,
-          "cue_points": []
+          "cue_points": [],
+          "category_id": "culture"
         },
         {
           "part": "part3",
@@ -11900,7 +12482,8 @@
           "previously_covered": false,
           "reference_words": 94,
           "personalization_needed": false,
-          "cue_points": []
+          "cue_points": [],
+          "category_id": "places"
         },
         {
           "part": "part3",
@@ -11913,7 +12496,8 @@
           "previously_covered": false,
           "reference_words": 103,
           "personalization_needed": false,
-          "cue_points": []
+          "cue_points": [],
+          "category_id": "places"
         },
         {
           "part": "part3",
@@ -11926,7 +12510,8 @@
           "previously_covered": false,
           "reference_words": 106,
           "personalization_needed": false,
-          "cue_points": []
+          "cue_points": [],
+          "category_id": "places"
         },
         {
           "part": "part3",
@@ -11939,7 +12524,8 @@
           "previously_covered": false,
           "reference_words": 99,
           "personalization_needed": false,
-          "cue_points": []
+          "cue_points": [],
+          "category_id": "places"
         },
         {
           "part": "part3",
@@ -11952,7 +12538,8 @@
           "previously_covered": false,
           "reference_words": 101,
           "personalization_needed": false,
-          "cue_points": []
+          "cue_points": [],
+          "category_id": "places"
         },
         {
           "part": "part3",
@@ -11965,7 +12552,8 @@
           "previously_covered": false,
           "reference_words": 99,
           "personalization_needed": false,
-          "cue_points": []
+          "cue_points": [],
+          "category_id": "places"
         }
       ],
       "timing_policy": "默认120词/分钟估算：Part 1每题约四句话、40–60词，对应20–30秒；姓名核验简答，工作分支按实际身份选择。Part 2约220–250词，Part 3约90–120词。真实时长以口头录音为准，待填选项不等于已确认经历。",
@@ -12011,13 +12599,15 @@
           "洗衣机为最依赖家电；初中计算机课首次练打字",
           "研究土壤碳循环；防止将博士导师兴趣写成录取结果"
         ]
-      }
+      },
+      "classification_note": "按问题主要讨论重点作教学归类，每题只有一个主分类；跨主题题选择主要训练方向。这不是IELTS官方分类、题目频率或考试优先级。原始来源题组和所有问句、参考、ID保留。"
     },
     "words_per_minute": 120,
     "part1_target_seconds": [
       20,
       30
-    ]
+    ],
+    "classification_note": "按问题主要讨论重点作教学归类，每题只有一个主分类；跨主题题选择主要训练方向。这不是IELTS官方分类、题目频率或考试优先级。原始来源题组和所有问句、参考、ID保留。"
   },
   "errors": [
     [
@@ -12069,5 +12659,96 @@
       "The website provides more information."
     ]
   ],
-  "error_source_note": "上述通用易错点为训练补充，不声称均出现在用户口头原稿中。"
+  "error_source_note": "上述通用易错点为训练补充，不声称均出现在用户口头原稿中。",
+  "topic_categories": {
+    "part1": [
+      {
+        "id": "identity",
+        "title": "身份与学业",
+        "description": "姓名、专业、学习与申请阶段"
+      },
+      {
+        "id": "home",
+        "title": "家乡、住所与城市",
+        "description": "家乡、居住空间、社区与建筑"
+      },
+      {
+        "id": "relationships",
+        "title": "人际交往与礼仪",
+        "description": "朋友、社交与表达感谢"
+      },
+      {
+        "id": "routine",
+        "title": "日常生活与时间管理",
+        "description": "久坐、晚间活动、清单、计划与购物"
+      },
+      {
+        "id": "interests",
+        "title": "兴趣、文艺与运动",
+        "description": "摄影、阅读、技能与运动"
+      },
+      {
+        "id": "technology",
+        "title": "科技工具与家用设备",
+        "description": "电脑、手机、机器与家电"
+      },
+      {
+        "id": "nature",
+        "title": "自然与科学",
+        "description": "花卉、科学兴趣与研究"
+      },
+      {
+        "id": "growth",
+        "title": "情绪、性格与个人成长",
+        "description": "耐心、无聊、成就、表扬与鼓励"
+      }
+    ],
+    "part3": [
+      {
+        "id": "relationships",
+        "title": "人际关系、代际与社会心理",
+        "description": "代际沟通、友谊、自我关注与幸福感"
+      },
+      {
+        "id": "education",
+        "title": "教育、学习与儿童成长",
+        "description": "语言学习、教师、育儿、校园与反馈"
+      },
+      {
+        "id": "technology",
+        "title": "科技应用与数字生活",
+        "description": "手机、社交媒体、技术与日常生活"
+      },
+      {
+        "id": "places",
+        "title": "自然、城市与旅游",
+        "description": "公共空间、动物、天空、河流湖泊与旅行"
+      },
+      {
+        "id": "culture",
+        "title": "文化艺术、休闲与审美",
+        "description": "幽默、影视、音乐、审美与娱乐"
+      },
+      {
+        "id": "decisions",
+        "title": "计划、决策与问题处理",
+        "description": "计划执行、独立决策、分歧沟通与失物处理"
+      },
+      {
+        "id": "consumption",
+        "title": "消费、服饰与可持续生活",
+        "description": "购物、着装、二手消费、回收与资源"
+      },
+      {
+        "id": "work",
+        "title": "职场合作、领导与竞争",
+        "description": "工作表现、职场关系、职业规范与竞争"
+      },
+      {
+        "id": "traditions",
+        "title": "家庭庆祝与社会传统",
+        "description": "节日、家庭团聚、庆祝与文化传承"
+      }
+    ]
+  }
 }

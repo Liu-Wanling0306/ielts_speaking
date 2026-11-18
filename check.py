@@ -85,6 +85,19 @@ check(lib['meta']['part1_target_seconds']==[20,30],'Part 1 timing metadata incor
 for row in audit['mapping']:
  q=allq[row['site_id']]
  check(row['reference_words']==q['reference_words'] and row['personalization_needed']==q['personalization_needed'],row['forecast_id']+' audit status stale')
+for part,expected in [('part1',8),('part3',9)]:
+ categories=lib['topic_categories'][part];keys={c['id'] for c in categories}
+ check(len(keys)==len(categories)==expected,part+' invalid category catalog')
+ qs=[q for t in lib[part] for q in t['questions']]
+ for t in lib[part]:
+  check(bool(t.get('display_title')),t['id']+' missing human-readable topic')
+  for q in t['questions']:check(q.get('category_id') in keys,q['id']+' missing/invalid classification')
+ for key in keys:check(any(q.get('category_id')==key for q in qs),part+' empty category '+key)
+ for row in audit['mapping']:
+  if row['part']==part:check(row.get('category_id')==allq[row['site_id']]['category_id'],row['forecast_id']+' stale category in audit')
+check(allq['pdf-p3-11-04']['category_id']=='education','School popularity classified under workplace')
+check(allq['pdf-p3-05-06']['category_id']=='work','Business humour classified only under comedy')
+check(allq['pdf-p3-25-03']['category_id']=='education','Instrument learning classified only under music')
 if problems:
  print('\n'.join('ERROR: '+p for p in problems));sys.exit(1)
 print(f"PASS v{lib['meta']['version']}: all original answers/IDs preserved; PDF coverage 105/105 + 29/29 + 129/129; reference lengths, cue cards and template status checked.")
