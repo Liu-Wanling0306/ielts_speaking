@@ -4,3 +4,6 @@
 @media print{.nav,.sidebar,.timer,.toolbar,button,.search-row{display:none}.hero{background:#fff;color:#222}.hero p,.hero h1 span{color:#444}.workbench,.grid{display:block}.card{break-inside:avoid}.reference[open]{border:0}.shell{max-width:none}}
 
 .group-picker>summary{margin-bottom:12px;font-size:13px}
+
+/* Forecast evidence and speaking-duration guidance */
+.model-info{display:flex;gap:.6rem;flex-wrap:wrap;margin:.7rem 0}.audit-row{border-top:1px solid var(--line,#d9e4dd);padding:1rem 0}.audit-hash{overflow-wrap:anywhere}.note p:last-child{margin-bottom:0}.model-info .pill{font-size:.82rem}.en{white-space:pre-line}

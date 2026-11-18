@@ -1,0 +1,3601 @@
+{
+  "version": "1.1.0",
+  "source_file": "2026年11. 23-11. 29日雅思口语预测-海外答案版 Z.pdf",
+  "source_pages": 73,
+  "source_sha256": "ca13d53d5ec850befba5676807ef2a0fd3c57df075a4ba4e0427afd1c3007792",
+  "method": "逐页扫描 OCR 提取题干，校订英文和题卡；同主题不视为同题；Part 1工作/学习分支均收录。原 HTML 无原始问句的项目仅按训练问句的明确等义对应计算旧覆盖。预测材料不是官方考试记录。",
+  "counts": {
+    "part1": 105,
+    "part2": 29,
+    "part3": 129
+  },
+  "topic_counts": {
+    "part1": 24,
+    "part3": 26
+  },
+  "part2_missing_before": [
+    "pdf-p2-05",
+    "pdf-p2-20"
+  ],
+  "legacy_supplemental_part2": [
+    "p2-05",
+    "p2-20"
+  ],
+  "mapping": [
+    {
+      "part": "part1",
+      "forecast_id": "pdf-p1-01-01",
+      "question": "What's your full name?",
+      "pages": [
+        1
+      ],
+      "site_id": "pdf-p1-01-01",
+      "previously_covered": false,
+      "reference_words": 15,
+      "personalization_needed": true,
+      "cue_points": []
+    },
+    {
+      "part": "part1",
+      "forecast_id": "pdf-p1-02-01",
+      "question": "Are you studying or working?",
+      "pages": [
+        1
+      ],
+      "site_id": "p1-01-1",
+      "previously_covered": true,
+      "reference_words": 57,
+      "personalization_needed": false,
+      "cue_points": []
+    },
+    {
+      "part": "part1",
+      "forecast_id": "pdf-p1-02-02",
+      "question": "Why did you choose this job?",
+      "pages": [
+        1
+      ],
+      "site_id": "pdf-p1-02-02",
+      "previously_covered": false,
+      "reference_words": 59,
+      "personalization_needed": true,
+      "cue_points": []
+    },
+    {
+      "part": "part1",
+      "forecast_id": "pdf-p1-02-03",
+      "question": "Why did you choose to study your major?",
+      "pages": [
+        1
+      ],
+      "site_id": "pdf-p1-02-03",
+      "previously_covered": false,
+      "reference_words": 57,
+      "personalization_needed": false,
+      "cue_points": []
+    },
+    {
+      "part": "part1",
+      "forecast_id": "pdf-p1-02-04",
+      "question": "Why do you think your university major is interesting?",
+      "pages": [
+        1
+      ],
+      "site_id": "pdf-p1-02-04",
+      "previously_covered": false,
+      "reference_words": 56,
+      "personalization_needed": false,
+      "cue_points": []
+    },
+    {
+      "part": "part1",
+      "forecast_id": "pdf-p1-02-05",
+      "question": "Is your major difficult to study at first?",
+      "pages": [
+        2
+      ],
+      "site_id": "pdf-p1-02-05",
+      "previously_covered": false,
+      "reference_words": 57,
+      "personalization_needed": false,
+      "cue_points": []
+    },
+    {
+      "part": "part1",
+      "forecast_id": "pdf-p1-02-06",
+      "question": "Who helps you when you have difficulties?",
+      "pages": [
+        2
+      ],
+      "site_id": "pdf-p1-02-06",
+      "previously_covered": false,
+      "reference_words": 58,
+      "personalization_needed": false,
+      "cue_points": []
+    },
+    {
+      "part": "part1",
+      "forecast_id": "pdf-p1-02-07",
+      "question": "What technology do you use when you study?",
+      "pages": [
+        2
+      ],
+      "site_id": "pdf-p1-02-07",
+      "previously_covered": false,
+      "reference_words": 58,
+      "personalization_needed": false,
+      "cue_points": []
+    },
+    {
+      "part": "part1",
+      "forecast_id": "pdf-p1-03-01",
+      "question": "Where's your hometown?",
+      "pages": [
+        2
+      ],
+      "site_id": "p1-02-1",
+      "previously_covered": true,
+      "reference_words": 58,
+      "personalization_needed": false,
+      "cue_points": []
+    },
+    {
+      "part": "part1",
+      "forecast_id": "pdf-p1-03-02",
+      "question": "How long have you lived there?",
+      "pages": [
+        2
+      ],
+      "site_id": "pdf-p1-03-02",
+      "previously_covered": false,
+      "reference_words": 60,
+      "personalization_needed": true,
+      "cue_points": []
+    },
+    {
+      "part": "part1",
+      "forecast_id": "pdf-p1-03-03",
+      "question": "Do you like living there?",
+      "pages": [
+        2
+      ],
+      "site_id": "pdf-p1-03-03",
+      "previously_covered": false,
+      "reference_words": 57,
+      "personalization_needed": false,
+      "cue_points": []
+    },
+    {
+      "part": "part1",
+      "forecast_id": "pdf-p1-04-01",
+      "question": "Do you live in a house or a flat?",
+      "pages": [
+        3
+      ],
+      "site_id": "pdf-p1-04-01",
+      "previously_covered": false,
+      "reference_words": 57,
+      "personalization_needed": true,
+      "cue_points": []
+    },
+    {
+      "part": "part1",
+      "forecast_id": "pdf-p1-04-02",
+      "question": "How long have you lived there?",
+      "pages": [
+        3
+      ],
+      "site_id": "pdf-p1-04-02",
+      "previously_covered": false,
+      "reference_words": 61,
+      "personalization_needed": true,
+      "cue_points": []
+    },
+    {
+      "part": "part1",
+      "forecast_id": "pdf-p1-04-03",
+      "question": "Which room (of your home) do you like best?/Can you say something about the room?",
+      "pages": [
+        3
+      ],
+      "site_id": "pdf-p1-04-03",
+      "previously_covered": false,
+      "reference_words": 60,
+      "personalization_needed": false,
+      "cue_points": []
+    },
+    {
+      "part": "part1",
+      "forecast_id": "pdf-p1-04-04",
+      "question": "Which room do you spend most of the time with your family in?",
+      "pages": [
+        3
+      ],
+      "site_id": "pdf-p1-04-04",
+      "previously_covered": false,
+      "reference_words": 63,
+      "personalization_needed": true,
+      "cue_points": []
+    },
+    {
+      "part": "part1",
+      "forecast_id": "pdf-p1-05-01",
+      "question": "Do you like the area that you live in?",
+      "pages": [
+        3
+      ],
+      "site_id": "p1-04-1",
+      "previously_covered": true,
+      "reference_words": 57,
+      "personalization_needed": false,
+      "cue_points": []
+    },
+    {
+      "part": "part1",
+      "forecast_id": "pdf-p1-05-02",
+      "question": "What are some changes in the area recently?",
+      "pages": [
+        3
+      ],
+      "site_id": "p1-04-2",
+      "previously_covered": true,
+      "reference_words": 58,
+      "personalization_needed": true,
+      "cue_points": []
+    },
+    {
+      "part": "part1",
+      "forecast_id": "pdf-p1-05-03",
+      "question": "Where do you like to go in that area?",
+      "pages": [
+        4
+      ],
+      "site_id": "pdf-p1-05-03",
+      "previously_covered": false,
+      "reference_words": 62,
+      "personalization_needed": true,
+      "cue_points": []
+    },
+    {
+      "part": "part1",
+      "forecast_id": "pdf-p1-05-04",
+      "question": "What do you find interesting about the place where you live?",
+      "pages": [
+        4
+      ],
+      "site_id": "pdf-p1-05-04",
+      "previously_covered": false,
+      "reference_words": 64,
+      "personalization_needed": true,
+      "cue_points": []
+    },
+    {
+      "part": "part1",
+      "forecast_id": "pdf-p1-05-05",
+      "question": "Do you plan to live there in the future?",
+      "pages": [
+        4
+      ],
+      "site_id": "pdf-p1-05-05",
+      "previously_covered": false,
+      "reference_words": 57,
+      "personalization_needed": false,
+      "cue_points": []
+    },
+    {
+      "part": "part1",
+      "forecast_id": "pdf-p1-05-06",
+      "question": "Did you learn the history of your city?",
+      "pages": [
+        4
+      ],
+      "site_id": "pdf-p1-05-06",
+      "previously_covered": false,
+      "reference_words": 62,
+      "personalization_needed": true,
+      "cue_points": []
+    },
+    {
+      "part": "part1",
+      "forecast_id": "pdf-p1-06-01",
+      "question": "Do you have a talent, or something you are good at?",
+      "pages": [
+        4
+      ],
+      "site_id": "p1-05-1",
+      "previously_covered": true,
+      "reference_words": 58,
+      "personalization_needed": false,
+      "cue_points": []
+    },
+    {
+      "part": "part1",
+      "forecast_id": "pdf-p1-06-02",
+      "question": "Was it mastered recently or when you were young?",
+      "pages": [
+        4
+      ],
+      "site_id": "pdf-p1-06-02",
+      "previously_covered": false,
+      "reference_words": 59,
+      "personalization_needed": false,
+      "cue_points": []
+    },
+    {
+      "part": "part1",
+      "forecast_id": "pdf-p1-06-03",
+      "question": "Do you think your talent can be useful for your future work? Why?",
+      "pages": [
+        5
+      ],
+      "site_id": "pdf-p1-06-03",
+      "previously_covered": false,
+      "reference_words": 60,
+      "personalization_needed": false,
+      "cue_points": []
+    },
+    {
+      "part": "part1",
+      "forecast_id": "pdf-p1-06-04",
+      "question": "Do you think anyone in your family has the same talent?",
+      "pages": [
+        5
+      ],
+      "site_id": "pdf-p1-06-04",
+      "previously_covered": false,
+      "reference_words": 64,
+      "personalization_needed": true,
+      "cue_points": []
+    },
+    {
+      "part": "part1",
+      "forecast_id": "pdf-p1-07-01",
+      "question": "Where is your favorite place to sit?",
+      "pages": [
+        5
+      ],
+      "site_id": "pdf-p1-07-01",
+      "previously_covered": false,
+      "reference_words": 61,
+      "personalization_needed": false,
+      "cue_points": []
+    },
+    {
+      "part": "part1",
+      "forecast_id": "pdf-p1-07-02",
+      "question": "Do you always sit down for a long time?",
+      "pages": [
+        5
+      ],
+      "site_id": "pdf-p1-07-02",
+      "previously_covered": false,
+      "reference_words": 59,
+      "personalization_needed": false,
+      "cue_points": []
+    },
+    {
+      "part": "part1",
+      "forecast_id": "pdf-p1-07-03",
+      "question": "Do you feel sleepy when you are sitting down?",
+      "pages": [
+        5
+      ],
+      "site_id": "pdf-p1-07-03",
+      "previously_covered": false,
+      "reference_words": 59,
+      "personalization_needed": false,
+      "cue_points": []
+    },
+    {
+      "part": "part1",
+      "forecast_id": "pdf-p1-07-04",
+      "question": "When you were a kid, did you usually sit on the floor?",
+      "pages": [
+        5
+      ],
+      "site_id": "pdf-p1-07-04",
+      "previously_covered": false,
+      "reference_words": 62,
+      "personalization_needed": true,
+      "cue_points": []
+    },
+    {
+      "part": "part1",
+      "forecast_id": "pdf-p1-08-01",
+      "question": "Do you make a list when you shop?",
+      "pages": [
+        6
+      ],
+      "site_id": "pdf-p1-08-01",
+      "previously_covered": false,
+      "reference_words": 57,
+      "personalization_needed": false,
+      "cue_points": []
+    },
+    {
+      "part": "part1",
+      "forecast_id": "pdf-p1-08-02",
+      "question": "Do you make a list for your work? Does it work?",
+      "pages": [
+        6
+      ],
+      "site_id": "pdf-p1-08-02",
+      "previously_covered": false,
+      "reference_words": 58,
+      "personalization_needed": false,
+      "cue_points": []
+    },
+    {
+      "part": "part1",
+      "forecast_id": "pdf-p1-08-03",
+      "question": "Why don't some people like making lists?",
+      "pages": [
+        6
+      ],
+      "site_id": "pdf-p1-08-03",
+      "previously_covered": false,
+      "reference_words": 61,
+      "personalization_needed": false,
+      "cue_points": []
+    },
+    {
+      "part": "part1",
+      "forecast_id": "pdf-p1-08-04",
+      "question": "Do you prefer to make a list on paper or on your phone?",
+      "pages": [
+        6
+      ],
+      "site_id": "pdf-p1-08-04",
+      "previously_covered": false,
+      "reference_words": 58,
+      "personalization_needed": false,
+      "cue_points": []
+    },
+    {
+      "part": "part1",
+      "forecast_id": "pdf-p1-09-01",
+      "question": "Are you a patient person?",
+      "pages": [
+        6
+      ],
+      "site_id": "p1-11-1",
+      "previously_covered": true,
+      "reference_words": 59,
+      "personalization_needed": false,
+      "cue_points": []
+    },
+    {
+      "part": "part1",
+      "forecast_id": "pdf-p1-09-02",
+      "question": "What is it that makes you feel impatient?",
+      "pages": [
+        7
+      ],
+      "site_id": "pdf-p1-09-02",
+      "previously_covered": false,
+      "reference_words": 58,
+      "personalization_needed": false,
+      "cue_points": []
+    },
+    {
+      "part": "part1",
+      "forecast_id": "pdf-p1-09-03",
+      "question": "How do you feel when you have to do something for a long time?",
+      "pages": [
+        7
+      ],
+      "site_id": "pdf-p1-09-03",
+      "previously_covered": false,
+      "reference_words": 58,
+      "personalization_needed": false,
+      "cue_points": []
+    },
+    {
+      "part": "part1",
+      "forecast_id": "pdf-p1-09-04",
+      "question": "Does your job require you to be patient?",
+      "pages": [
+        7
+      ],
+      "site_id": "pdf-p1-09-04",
+      "previously_covered": false,
+      "reference_words": 60,
+      "personalization_needed": false,
+      "cue_points": []
+    },
+    {
+      "part": "part1",
+      "forecast_id": "pdf-p1-09-05",
+      "question": "Are you more patient now than when you were a child?",
+      "pages": [
+        7
+      ],
+      "site_id": "pdf-p1-09-05",
+      "previously_covered": false,
+      "reference_words": 59,
+      "personalization_needed": false,
+      "cue_points": []
+    },
+    {
+      "part": "part1",
+      "forecast_id": "pdf-p1-10-01",
+      "question": "Do you love flowers?",
+      "pages": [
+        7
+      ],
+      "site_id": "p1-06-1",
+      "previously_covered": true,
+      "reference_words": 56,
+      "personalization_needed": false,
+      "cue_points": []
+    },
+    {
+      "part": "part1",
+      "forecast_id": "pdf-p1-10-02",
+      "question": "Do you know anyone who loves flowers?",
+      "pages": [
+        7
+      ],
+      "site_id": "pdf-p1-10-02",
+      "previously_covered": false,
+      "reference_words": 58,
+      "personalization_needed": true,
+      "cue_points": []
+    },
+    {
+      "part": "part1",
+      "forecast_id": "pdf-p1-10-03",
+      "question": "Are there a lot of flowers where you live?",
+      "pages": [
+        8
+      ],
+      "site_id": "pdf-p1-10-03",
+      "previously_covered": false,
+      "reference_words": 62,
+      "personalization_needed": true,
+      "cue_points": []
+    },
+    {
+      "part": "part1",
+      "forecast_id": "pdf-p1-10-04",
+      "question": "Would you take photos of flowers in your daily life?",
+      "pages": [
+        8
+      ],
+      "site_id": "pdf-p1-10-04",
+      "previously_covered": false,
+      "reference_words": 58,
+      "personalization_needed": false,
+      "cue_points": []
+    },
+    {
+      "part": "part1",
+      "forecast_id": "pdf-p1-10-05",
+      "question": "Do people in your country often send flowers to others?",
+      "pages": [
+        8
+      ],
+      "site_id": "pdf-p1-10-05",
+      "previously_covered": false,
+      "reference_words": 60,
+      "personalization_needed": false,
+      "cue_points": []
+    },
+    {
+      "part": "part1",
+      "forecast_id": "pdf-p1-11-01",
+      "question": "In what conditions would you use a computer?",
+      "pages": [
+        8
+      ],
+      "site_id": "pdf-p1-11-01",
+      "previously_covered": false,
+      "reference_words": 59,
+      "personalization_needed": false,
+      "cue_points": []
+    },
+    {
+      "part": "part1",
+      "forecast_id": "pdf-p1-11-02",
+      "question": "When was the first time you used a computer?",
+      "pages": [
+        8
+      ],
+      "site_id": "pdf-p1-11-02",
+      "previously_covered": false,
+      "reference_words": 61,
+      "personalization_needed": true,
+      "cue_points": []
+    },
+    {
+      "part": "part1",
+      "forecast_id": "pdf-p1-11-03",
+      "question": "What would your life be like without computers?",
+      "pages": [
+        9
+      ],
+      "site_id": "pdf-p1-11-03",
+      "previously_covered": false,
+      "reference_words": 58,
+      "personalization_needed": false,
+      "cue_points": []
+    },
+    {
+      "part": "part1",
+      "forecast_id": "pdf-p1-11-04",
+      "question": "In what conditions would it be difficult for you to use a computer?",
+      "pages": [
+        9
+      ],
+      "site_id": "pdf-p1-11-04",
+      "previously_covered": false,
+      "reference_words": 60,
+      "personalization_needed": false,
+      "cue_points": []
+    },
+    {
+      "part": "part1",
+      "forecast_id": "pdf-p1-11-05",
+      "question": "Would you like to use a computer or tablet?",
+      "pages": [
+        9
+      ],
+      "site_id": "pdf-p1-11-05",
+      "previously_covered": false,
+      "reference_words": 58,
+      "personalization_needed": false,
+      "cue_points": []
+    },
+    {
+      "part": "part1",
+      "forecast_id": "pdf-p1-12-01",
+      "question": "Do you like the morning or evening?",
+      "pages": [
+        9
+      ],
+      "site_id": "pdf-p1-12-01",
+      "previously_covered": false,
+      "reference_words": 59,
+      "personalization_needed": true,
+      "cue_points": []
+    },
+    {
+      "part": "part1",
+      "forecast_id": "pdf-p1-12-02",
+      "question": "What do you usually do in the evening?",
+      "pages": [
+        9
+      ],
+      "site_id": "pdf-p1-12-02",
+      "previously_covered": false,
+      "reference_words": 59,
+      "personalization_needed": false,
+      "cue_points": []
+    },
+    {
+      "part": "part1",
+      "forecast_id": "pdf-p1-12-03",
+      "question": "What did you do in the evening when you were little? Why?",
+      "pages": [
+        9
+      ],
+      "site_id": "pdf-p1-12-03",
+      "previously_covered": false,
+      "reference_words": 60,
+      "personalization_needed": true,
+      "cue_points": []
+    },
+    {
+      "part": "part1",
+      "forecast_id": "pdf-p1-12-04",
+      "question": "Are there any differences between what you do in the evening now and what you did in the past?",
+      "pages": [
+        10
+      ],
+      "site_id": "pdf-p1-12-04",
+      "previously_covered": false,
+      "reference_words": 62,
+      "personalization_needed": true,
+      "cue_points": []
+    },
+    {
+      "part": "part1",
+      "forecast_id": "pdf-p1-13-01",
+      "question": "Did you learn to play any sports as a child?",
+      "pages": [
+        10
+      ],
+      "site_id": "pdf-p1-13-01",
+      "previously_covered": false,
+      "reference_words": 58,
+      "personalization_needed": true,
+      "cue_points": []
+    },
+    {
+      "part": "part1",
+      "forecast_id": "pdf-p1-13-02",
+      "question": "Are there any sports you would like to try in the future?",
+      "pages": [
+        10
+      ],
+      "site_id": "pdf-p1-13-02",
+      "previously_covered": false,
+      "reference_words": 59,
+      "personalization_needed": false,
+      "cue_points": []
+    },
+    {
+      "part": "part1",
+      "forecast_id": "pdf-p1-13-03",
+      "question": "Do you believe all children should participate in sports at school?",
+      "pages": [
+        10
+      ],
+      "site_id": "pdf-p1-13-03",
+      "previously_covered": false,
+      "reference_words": 59,
+      "personalization_needed": false,
+      "cue_points": []
+    },
+    {
+      "part": "part1",
+      "forecast_id": "pdf-p1-13-04",
+      "question": "What sports do you like to watch or play?",
+      "pages": [
+        10
+      ],
+      "site_id": "pdf-p1-13-04",
+      "previously_covered": false,
+      "reference_words": 55,
+      "personalization_needed": true,
+      "cue_points": []
+    },
+    {
+      "part": "part1",
+      "forecast_id": "pdf-p1-14-01",
+      "question": "Have you ever sent a thank you card to others?",
+      "pages": [
+        11
+      ],
+      "site_id": "pdf-p1-14-01",
+      "previously_covered": false,
+      "reference_words": 58,
+      "personalization_needed": true,
+      "cue_points": []
+    },
+    {
+      "part": "part1",
+      "forecast_id": "pdf-p1-14-02",
+      "question": "Do people in your country often say 'thank you'?",
+      "pages": [
+        11
+      ],
+      "site_id": "pdf-p1-14-02",
+      "previously_covered": false,
+      "reference_words": 57,
+      "personalization_needed": false,
+      "cue_points": []
+    },
+    {
+      "part": "part1",
+      "forecast_id": "pdf-p1-14-03",
+      "question": "On what occasions do people often say 'thank you'?",
+      "pages": [
+        11
+      ],
+      "site_id": "pdf-p1-14-03",
+      "previously_covered": false,
+      "reference_words": 55,
+      "personalization_needed": false,
+      "cue_points": []
+    },
+    {
+      "part": "part1",
+      "forecast_id": "pdf-p1-14-04",
+      "question": "Why do people need to say 'thank you'?",
+      "pages": [
+        11
+      ],
+      "site_id": "pdf-p1-14-04",
+      "previously_covered": false,
+      "reference_words": 59,
+      "personalization_needed": false,
+      "cue_points": []
+    },
+    {
+      "part": "part1",
+      "forecast_id": "pdf-p1-15-01",
+      "question": "Do you like making plans?",
+      "pages": [
+        11
+      ],
+      "site_id": "p1-09-1",
+      "previously_covered": true,
+      "reference_words": 59,
+      "personalization_needed": false,
+      "cue_points": []
+    },
+    {
+      "part": "part1",
+      "forecast_id": "pdf-p1-15-02",
+      "question": "Do you use paper or your cellphone to make plans?",
+      "pages": [
+        12
+      ],
+      "site_id": "pdf-p1-15-02",
+      "previously_covered": false,
+      "reference_words": 63,
+      "personalization_needed": true,
+      "cue_points": []
+    },
+    {
+      "part": "part1",
+      "forecast_id": "pdf-p1-15-03",
+      "question": "What are the benefits of making plans?",
+      "pages": [
+        12
+      ],
+      "site_id": "pdf-p1-15-03",
+      "previously_covered": false,
+      "reference_words": 58,
+      "personalization_needed": false,
+      "cue_points": []
+    },
+    {
+      "part": "part1",
+      "forecast_id": "pdf-p1-15-04",
+      "question": "Why is it that some people don't make plans?",
+      "pages": [
+        12
+      ],
+      "site_id": "pdf-p1-15-04",
+      "previously_covered": false,
+      "reference_words": 57,
+      "personalization_needed": false,
+      "cue_points": []
+    },
+    {
+      "part": "part1",
+      "forecast_id": "pdf-p1-16-01",
+      "question": "Do you like taking photos?",
+      "pages": [
+        12
+      ],
+      "site_id": "p1-12-1",
+      "previously_covered": true,
+      "reference_words": 56,
+      "personalization_needed": false,
+      "cue_points": []
+    },
+    {
+      "part": "part1",
+      "forecast_id": "pdf-p1-16-02",
+      "question": "Do you like taking selfies?",
+      "pages": [
+        12
+      ],
+      "site_id": "pdf-p1-16-02",
+      "previously_covered": false,
+      "reference_words": 56,
+      "personalization_needed": false,
+      "cue_points": []
+    },
+    {
+      "part": "part1",
+      "forecast_id": "pdf-p1-16-03",
+      "question": "What is your favorite family photo?",
+      "pages": [
+        13
+      ],
+      "site_id": "pdf-p1-16-03",
+      "previously_covered": false,
+      "reference_words": 64,
+      "personalization_needed": true,
+      "cue_points": []
+    },
+    {
+      "part": "part1",
+      "forecast_id": "pdf-p1-16-04",
+      "question": "Do you want to improve your photography skills?",
+      "pages": [
+        13
+      ],
+      "site_id": "pdf-p1-16-04",
+      "previously_covered": false,
+      "reference_words": 57,
+      "personalization_needed": false,
+      "cue_points": []
+    },
+    {
+      "part": "part1",
+      "forecast_id": "pdf-p1-17-01",
+      "question": "Do you like science?",
+      "pages": [
+        13
+      ],
+      "site_id": "pdf-p1-17-01",
+      "previously_covered": false,
+      "reference_words": 58,
+      "personalization_needed": false,
+      "cue_points": []
+    },
+    {
+      "part": "part1",
+      "forecast_id": "pdf-p1-17-02",
+      "question": "When did you start to learn about science?",
+      "pages": [
+        13
+      ],
+      "site_id": "pdf-p1-17-02",
+      "previously_covered": false,
+      "reference_words": 64,
+      "personalization_needed": true,
+      "cue_points": []
+    },
+    {
+      "part": "part1",
+      "forecast_id": "pdf-p1-17-03",
+      "question": "Which science subject is interesting to you?",
+      "pages": [
+        13
+      ],
+      "site_id": "pdf-p1-17-03",
+      "previously_covered": false,
+      "reference_words": 56,
+      "personalization_needed": false,
+      "cue_points": []
+    },
+    {
+      "part": "part1",
+      "forecast_id": "pdf-p1-17-04",
+      "question": "What kinds of interesting things have you done with science?",
+      "pages": [
+        13
+      ],
+      "site_id": "pdf-p1-17-04",
+      "previously_covered": false,
+      "reference_words": 58,
+      "personalization_needed": false,
+      "cue_points": []
+    },
+    {
+      "part": "part1",
+      "forecast_id": "pdf-p1-18-01",
+      "question": "What is your favorite machine in your home?",
+      "pages": [
+        14
+      ],
+      "site_id": "pdf-p1-18-01",
+      "previously_covered": false,
+      "reference_words": 61,
+      "personalization_needed": false,
+      "cue_points": []
+    },
+    {
+      "part": "part1",
+      "forecast_id": "pdf-p1-18-02",
+      "question": "Do you think washing machines and sweeping machines are important?",
+      "pages": [
+        14
+      ],
+      "site_id": "pdf-p1-18-02",
+      "previously_covered": false,
+      "reference_words": 58,
+      "personalization_needed": false,
+      "cue_points": []
+    },
+    {
+      "part": "part1",
+      "forecast_id": "pdf-p1-18-03",
+      "question": "Do you read the instructions before using a machine?",
+      "pages": [
+        14
+      ],
+      "site_id": "pdf-p1-18-03",
+      "previously_covered": false,
+      "reference_words": 60,
+      "personalization_needed": false,
+      "cue_points": []
+    },
+    {
+      "part": "part1",
+      "forecast_id": "pdf-p1-18-04",
+      "question": "Do you think it is important to read the instructions?",
+      "pages": [
+        14
+      ],
+      "site_id": "pdf-p1-18-04",
+      "previously_covered": false,
+      "reference_words": 56,
+      "personalization_needed": false,
+      "cue_points": []
+    },
+    {
+      "part": "part1",
+      "forecast_id": "pdf-p1-18-05",
+      "question": "Have you ever used a sewing machine to make clothes?",
+      "pages": [
+        14
+      ],
+      "site_id": "pdf-p1-18-05",
+      "previously_covered": false,
+      "reference_words": 62,
+      "personalization_needed": true,
+      "cue_points": []
+    },
+    {
+      "part": "part1",
+      "forecast_id": "pdf-p1-18-06",
+      "question": "What do you do when a machine in your home breaks down?",
+      "pages": [
+        15
+      ],
+      "site_id": "pdf-p1-18-06",
+      "previously_covered": false,
+      "reference_words": 58,
+      "personalization_needed": false,
+      "cue_points": []
+    },
+    {
+      "part": "part1",
+      "forecast_id": "pdf-p1-19-01",
+      "question": "Have you had any achievements recently?",
+      "pages": [
+        15
+      ],
+      "site_id": "pdf-p1-19-01",
+      "previously_covered": false,
+      "reference_words": 57,
+      "personalization_needed": false,
+      "cue_points": []
+    },
+    {
+      "part": "part1",
+      "forecast_id": "pdf-p1-19-02",
+      "question": "How do you feel when you are praised?",
+      "pages": [
+        15
+      ],
+      "site_id": "pdf-p1-19-02",
+      "previously_covered": false,
+      "reference_words": 56,
+      "personalization_needed": false,
+      "cue_points": []
+    },
+    {
+      "part": "part1",
+      "forecast_id": "pdf-p1-19-03",
+      "question": "When was the last time you praised someone?",
+      "pages": [
+        15
+      ],
+      "site_id": "pdf-p1-19-03",
+      "previously_covered": false,
+      "reference_words": 59,
+      "personalization_needed": true,
+      "cue_points": []
+    },
+    {
+      "part": "part1",
+      "forecast_id": "pdf-p1-19-04",
+      "question": "Do you think parents should often praise their children?",
+      "pages": [
+        15
+      ],
+      "site_id": "pdf-p1-19-04",
+      "previously_covered": false,
+      "reference_words": 56,
+      "personalization_needed": false,
+      "cue_points": []
+    },
+    {
+      "part": "part1",
+      "forecast_id": "pdf-p1-19-05",
+      "question": "Have you ever been praised or encouraged by your teacher?",
+      "pages": [
+        16
+      ],
+      "site_id": "pdf-p1-19-05",
+      "previously_covered": false,
+      "reference_words": 57,
+      "personalization_needed": false,
+      "cue_points": []
+    },
+    {
+      "part": "part1",
+      "forecast_id": "pdf-p1-20-01",
+      "question": "Do you often read books? When?",
+      "pages": [
+        16
+      ],
+      "site_id": "pdf-p1-20-01",
+      "previously_covered": false,
+      "reference_words": 59,
+      "personalization_needed": true,
+      "cue_points": []
+    },
+    {
+      "part": "part1",
+      "forecast_id": "pdf-p1-20-02",
+      "question": "Are your reading habits now different than before?",
+      "pages": [
+        16
+      ],
+      "site_id": "pdf-p1-20-02",
+      "previously_covered": false,
+      "reference_words": 61,
+      "personalization_needed": true,
+      "cue_points": []
+    },
+    {
+      "part": "part1",
+      "forecast_id": "pdf-p1-20-03",
+      "question": "Have you ever read a novel that has been adapted into a film?",
+      "pages": [
+        16
+      ],
+      "site_id": "pdf-p1-20-03",
+      "previously_covered": false,
+      "reference_words": 69,
+      "personalization_needed": true,
+      "cue_points": []
+    },
+    {
+      "part": "part1",
+      "forecast_id": "pdf-p1-21-01",
+      "question": "When did you use cell phone for the first time?",
+      "pages": [
+        16
+      ],
+      "site_id": "pdf-p1-21-01",
+      "previously_covered": false,
+      "reference_words": 63,
+      "personalization_needed": true,
+      "cue_points": []
+    },
+    {
+      "part": "part1",
+      "forecast_id": "pdf-p1-21-02",
+      "question": "Do you think cell phone is important?",
+      "pages": [
+        17
+      ],
+      "site_id": "pdf-p1-21-02",
+      "previously_covered": false,
+      "reference_words": 58,
+      "personalization_needed": false,
+      "cue_points": []
+    },
+    {
+      "part": "part1",
+      "forecast_id": "pdf-p1-21-03",
+      "question": "Do you often use your mobile phone for texting or calls?",
+      "pages": [
+        17
+      ],
+      "site_id": "pdf-p1-21-03",
+      "previously_covered": false,
+      "reference_words": 62,
+      "personalization_needed": true,
+      "cue_points": []
+    },
+    {
+      "part": "part1",
+      "forecast_id": "pdf-p1-21-04",
+      "question": "Will you buy a new one in the future?",
+      "pages": [
+        17
+      ],
+      "site_id": "pdf-p1-21-04",
+      "previously_covered": false,
+      "reference_words": 61,
+      "personalization_needed": false,
+      "cue_points": []
+    },
+    {
+      "part": "part1",
+      "forecast_id": "pdf-p1-21-05",
+      "question": "How has your mobile phone changed your life?",
+      "pages": [
+        17
+      ],
+      "site_id": "pdf-p1-21-05",
+      "previously_covered": false,
+      "reference_words": 58,
+      "personalization_needed": false,
+      "cue_points": []
+    },
+    {
+      "part": "part1",
+      "forecast_id": "pdf-p1-21-06",
+      "question": "On what occasions are you not allowed to use your mobile phone?",
+      "pages": [
+        17
+      ],
+      "site_id": "pdf-p1-21-06",
+      "previously_covered": false,
+      "reference_words": 56,
+      "personalization_needed": false,
+      "cue_points": []
+    },
+    {
+      "part": "part1",
+      "forecast_id": "pdf-p1-22-01",
+      "question": "Have you ever seen some old buildings in the city?",
+      "pages": [
+        18
+      ],
+      "site_id": "pdf-p1-22-01",
+      "previously_covered": false,
+      "reference_words": 61,
+      "personalization_needed": true,
+      "cue_points": []
+    },
+    {
+      "part": "part1",
+      "forecast_id": "pdf-p1-22-02",
+      "question": "Do you think we should preserve old buildings in cities?",
+      "pages": [
+        18
+      ],
+      "site_id": "pdf-p1-22-02",
+      "previously_covered": false,
+      "reference_words": 58,
+      "personalization_needed": false,
+      "cue_points": []
+    },
+    {
+      "part": "part1",
+      "forecast_id": "pdf-p1-22-03",
+      "question": "Do you prefer living in an old building or a modern house?",
+      "pages": [
+        18
+      ],
+      "site_id": "pdf-p1-22-03",
+      "previously_covered": false,
+      "reference_words": 57,
+      "personalization_needed": false,
+      "cue_points": []
+    },
+    {
+      "part": "part1",
+      "forecast_id": "pdf-p1-22-04",
+      "question": "Are there any old buildings you want to see in the future? Why?",
+      "pages": [
+        18
+      ],
+      "site_id": "pdf-p1-22-04",
+      "previously_covered": false,
+      "reference_words": 63,
+      "personalization_needed": true,
+      "cue_points": []
+    },
+    {
+      "part": "part1",
+      "forecast_id": "pdf-p1-23-01",
+      "question": "Do you often feel bored?",
+      "pages": [
+        18
+      ],
+      "site_id": "pdf-p1-23-01",
+      "previously_covered": false,
+      "reference_words": 59,
+      "personalization_needed": false,
+      "cue_points": []
+    },
+    {
+      "part": "part1",
+      "forecast_id": "pdf-p1-23-02",
+      "question": "When would you feel bored?",
+      "pages": [
+        19
+      ],
+      "site_id": "pdf-p1-23-02",
+      "previously_covered": false,
+      "reference_words": 56,
+      "personalization_needed": false,
+      "cue_points": []
+    },
+    {
+      "part": "part1",
+      "forecast_id": "pdf-p1-23-03",
+      "question": "What do you do when you feel bored?",
+      "pages": [
+        19
+      ],
+      "site_id": "pdf-p1-23-03",
+      "previously_covered": false,
+      "reference_words": 59,
+      "personalization_needed": false,
+      "cue_points": []
+    },
+    {
+      "part": "part1",
+      "forecast_id": "pdf-p1-23-04",
+      "question": "Do you think childhood is boring or adulthood is boring?",
+      "pages": [
+        19
+      ],
+      "site_id": "pdf-p1-23-04",
+      "previously_covered": false,
+      "reference_words": 60,
+      "personalization_needed": false,
+      "cue_points": []
+    },
+    {
+      "part": "part1",
+      "forecast_id": "pdf-p1-23-05",
+      "question": "Did you think school was boring when you were a child?",
+      "pages": [
+        19
+      ],
+      "site_id": "pdf-p1-23-05",
+      "previously_covered": false,
+      "reference_words": 58,
+      "personalization_needed": true,
+      "cue_points": []
+    },
+    {
+      "part": "part1",
+      "forecast_id": "pdf-p1-24-01",
+      "question": "Where do you usually meet your friends?",
+      "pages": [
+        19
+      ],
+      "site_id": "pdf-p1-24-01",
+      "previously_covered": false,
+      "reference_words": 59,
+      "personalization_needed": false,
+      "cue_points": []
+    },
+    {
+      "part": "part1",
+      "forecast_id": "pdf-p1-24-02",
+      "question": "Where is not a good place to meet your friends?",
+      "pages": [
+        20
+      ],
+      "site_id": "pdf-p1-24-02",
+      "previously_covered": false,
+      "reference_words": 59,
+      "personalization_needed": false,
+      "cue_points": []
+    },
+    {
+      "part": "part1",
+      "forecast_id": "pdf-p1-24-03",
+      "question": "Do you like making friends?",
+      "pages": [
+        20
+      ],
+      "site_id": "pdf-p1-24-03",
+      "previously_covered": false,
+      "reference_words": 58,
+      "personalization_needed": false,
+      "cue_points": []
+    },
+    {
+      "part": "part1",
+      "forecast_id": "pdf-p1-24-04",
+      "question": "Did you make a lot of friends when you were a child?",
+      "pages": [
+        20
+      ],
+      "site_id": "pdf-p1-24-04",
+      "previously_covered": false,
+      "reference_words": 63,
+      "personalization_needed": true,
+      "cue_points": []
+    },
+    {
+      "part": "part2",
+      "forecast_id": "pdf-p2-01",
+      "question": "Describe an interesting conversation you had with a very old person",
+      "pages": [
+        20,
+        21
+      ],
+      "site_id": "p2-01",
+      "previously_covered": true,
+      "reference_words": 234,
+      "personalization_needed": false,
+      "cue_points": [
+        "Who this person is",
+        "When and where you had the conversation",
+        "What you talked about",
+        "And explain why you think it was interesting"
+      ]
+    },
+    {
+      "part": "part2",
+      "forecast_id": "pdf-p2-02",
+      "question": "Describe an interesting old person you have met",
+      "pages": [
+        21
+      ],
+      "site_id": "p2-02",
+      "previously_covered": true,
+      "reference_words": 242,
+      "personalization_needed": false,
+      "cue_points": [
+        "Who this person is.",
+        "When/where you met this person",
+        "What you did with this person",
+        "And explain why you think this person is interesting"
+      ]
+    },
+    {
+      "part": "part2",
+      "forecast_id": "pdf-p2-03",
+      "question": "Describe an impressive course/English lesson you had and enjoyed",
+      "pages": [
+        22
+      ],
+      "site_id": "p2-03",
+      "previously_covered": true,
+      "reference_words": 235,
+      "personalization_needed": false,
+      "cue_points": [
+        "What it was about",
+        "When you had it",
+        "What the teacher did",
+        "And why you enjoyed the lesson"
+      ]
+    },
+    {
+      "part": "part2",
+      "forecast_id": "pdf-p2-04",
+      "question": "Describe a quiet place you like to go",
+      "pages": [
+        23
+      ],
+      "site_id": "p2-04",
+      "previously_covered": true,
+      "reference_words": 229,
+      "personalization_needed": true,
+      "cue_points": [
+        "Where it is",
+        "How you knew it",
+        "How often you go there",
+        "What you do there",
+        "And explain how you feel about the place"
+      ]
+    },
+    {
+      "part": "part2",
+      "forecast_id": "pdf-p2-05",
+      "question": "Describe a film that made you laugh (comedy)",
+      "pages": [
+        24
+      ],
+      "site_id": "p2-pdf-film",
+      "previously_covered": false,
+      "reference_words": 240,
+      "personalization_needed": true,
+      "cue_points": [
+        "What it is",
+        "When you watched it",
+        "Who you watched it with",
+        "And explain why it made you laugh"
+      ]
+    },
+    {
+      "part": "part2",
+      "forecast_id": "pdf-p2-06",
+      "question": "Describe an intelligent person you know",
+      "pages": [
+        25
+      ],
+      "site_id": "p2-06",
+      "previously_covered": true,
+      "reference_words": 231,
+      "personalization_needed": false,
+      "cue_points": [
+        "Who this person is",
+        "How you knew this person",
+        "What this person does",
+        "And explain why you think this person is intelligent"
+      ]
+    },
+    {
+      "part": "part2",
+      "forecast_id": "pdf-p2-07",
+      "question": "Describe a time you used your cell phone/smart-phone to do something important",
+      "pages": [
+        26
+      ],
+      "site_id": "p2-07",
+      "previously_covered": true,
+      "reference_words": 228,
+      "personalization_needed": false,
+      "cue_points": [
+        "What happened",
+        "When it happened",
+        "How important the cellphone/smartphone was",
+        "And explain how you felt about the experience"
+      ]
+    },
+    {
+      "part": "part2",
+      "forecast_id": "pdf-p2-08",
+      "question": "Describe a place where you saw animals",
+      "pages": [
+        27
+      ],
+      "site_id": "p2-08",
+      "previously_covered": true,
+      "reference_words": 241,
+      "personalization_needed": false,
+      "cue_points": [
+        "When you went there",
+        "Who you went with",
+        "What animals you saw there",
+        "And explain how you felt about the place"
+      ]
+    },
+    {
+      "part": "part2",
+      "forecast_id": "pdf-p2-09",
+      "question": "Describe a time when you and some other people made a plan to do an activity",
+      "pages": [
+        28
+      ],
+      "site_id": "p2-09",
+      "previously_covered": true,
+      "reference_words": 235,
+      "personalization_needed": false,
+      "cue_points": [
+        "What it was",
+        "When and where you made it",
+        "What the activity was",
+        "And explain how you felt about the plan"
+      ]
+    },
+    {
+      "part": "part2",
+      "forecast_id": "pdf-p2-10",
+      "question": "Describe a difficult decision that you made and had a good result",
+      "pages": [
+        29
+      ],
+      "site_id": "p2-10",
+      "previously_covered": true,
+      "reference_words": 236,
+      "personalization_needed": false,
+      "cue_points": [
+        "What the decision was",
+        "When you made that decision",
+        "Why it was difficult to make",
+        "And explain how you felt about the good result"
+      ]
+    },
+    {
+      "part": "part2",
+      "forecast_id": "pdf-p2-11",
+      "question": "Describe a well-known /popular person in your country",
+      "pages": [
+        30
+      ],
+      "site_id": "p2-11",
+      "previously_covered": true,
+      "reference_words": 233,
+      "personalization_needed": false,
+      "cue_points": [
+        "Who this person is",
+        "What he/she has done",
+        "Why he/she is popular",
+        "And explain how you feel about this person"
+      ]
+    },
+    {
+      "part": "part2",
+      "forecast_id": "pdf-p2-12",
+      "question": "Describe an object that you think is beautiful",
+      "pages": [
+        31
+      ],
+      "site_id": "p2-12",
+      "previously_covered": true,
+      "reference_words": 237,
+      "personalization_needed": false,
+      "cue_points": [
+        "What it is",
+        "Where you saw it",
+        "What it looks like",
+        "And explain why you think it is beautiful"
+      ]
+    },
+    {
+      "part": "part2",
+      "forecast_id": "pdf-p2-13",
+      "question": "Describe a person you disliked at first but ended up being friends with",
+      "pages": [
+        32
+      ],
+      "site_id": "p2-13",
+      "previously_covered": true,
+      "reference_words": 232,
+      "personalization_needed": false,
+      "cue_points": [
+        "Who he/she is",
+        "How you knew him/her",
+        "Why you disliked him/her at first but changed your mind",
+        "And explain how you feel about the experience"
+      ]
+    },
+    {
+      "part": "part2",
+      "forecast_id": "pdf-p2-14",
+      "question": "Describe an occasion when someone gave you positive advice or suggestions.",
+      "pages": [
+        33
+      ],
+      "site_id": "p2-14",
+      "previously_covered": true,
+      "reference_words": 239,
+      "personalization_needed": false,
+      "cue_points": [
+        "Who the person is",
+        "What he/she said",
+        "How the advice/suggestion affected you",
+        "And explain how you felt about the advice/suggestions"
+      ]
+    },
+    {
+      "part": "part2",
+      "forecast_id": "pdf-p2-15",
+      "question": "Describe a disagreement you had with someone",
+      "pages": [
+        34
+      ],
+      "site_id": "p2-15",
+      "previously_covered": true,
+      "reference_words": 244,
+      "personalization_needed": false,
+      "cue_points": [
+        "Who you had the disagreement with",
+        "What the disagreement was",
+        "What happened",
+        "And explain how you felt about it"
+      ]
+    },
+    {
+      "part": "part2",
+      "forecast_id": "pdf-p2-16",
+      "question": "Describe an occasion that you lost something",
+      "pages": [
+        35
+      ],
+      "site_id": "p2-16",
+      "previously_covered": true,
+      "reference_words": 232,
+      "personalization_needed": true,
+      "cue_points": [
+        "What you lost",
+        "When and where you lost it",
+        "What you did to find it",
+        "And explain how you felt about it"
+      ]
+    },
+    {
+      "part": "part2",
+      "forecast_id": "pdf-p2-17",
+      "question": "Describe a person who you think wears unusual clothes",
+      "pages": [
+        36
+      ],
+      "site_id": "p2-17",
+      "previously_covered": true,
+      "reference_words": 238,
+      "personalization_needed": false,
+      "cue_points": [
+        "Who this person is",
+        "How you knew this person",
+        "What his/her clothes are like",
+        "And explain why you think his/her clothes are unusual"
+      ]
+    },
+    {
+      "part": "part2",
+      "forecast_id": "pdf-p2-18",
+      "question": "Describe a time when you saw children behave badly in public",
+      "pages": [
+        37
+      ],
+      "site_id": "p2-18",
+      "previously_covered": true,
+      "reference_words": 235,
+      "personalization_needed": false,
+      "cue_points": [
+        "Where it was",
+        "What the children were doing",
+        "How others reacted to it",
+        "And explain how you felt about it"
+      ]
+    },
+    {
+      "part": "part2",
+      "forecast_id": "pdf-p2-19",
+      "question": "Describe a time when you saw something in the sky(e.g. flying kites, birds, sunset, etc.)",
+      "pages": [
+        38
+      ],
+      "site_id": "p2-19",
+      "previously_covered": true,
+      "reference_words": 234,
+      "personalization_needed": true,
+      "cue_points": [
+        "What you saw",
+        "Where/when you saw it/them",
+        "How long you saw it/them",
+        "And explain how you felt about the experience"
+      ]
+    },
+    {
+      "part": "part2",
+      "forecast_id": "pdf-p2-20",
+      "question": "Describe an important river/lake in your country",
+      "pages": [
+        39
+      ],
+      "site_id": "p2-pdf-river",
+      "previously_covered": false,
+      "reference_words": 234,
+      "personalization_needed": false,
+      "cue_points": [
+        "Where it is located",
+        "How big/long it is",
+        "What it looks like",
+        "And explain why it is important"
+      ]
+    },
+    {
+      "part": "part2",
+      "forecast_id": "pdf-p2-21",
+      "question": "Describe a time when you were praised for something you did",
+      "pages": [
+        40
+      ],
+      "site_id": "p2-21",
+      "previously_covered": true,
+      "reference_words": 239,
+      "personalization_needed": false,
+      "cue_points": [
+        "When it happened",
+        "What you did",
+        "Who praised you",
+        "How you felt about the experience"
+      ]
+    },
+    {
+      "part": "part2",
+      "forecast_id": "pdf-p2-22",
+      "question": "Describe an important event you celebrated",
+      "pages": [
+        41
+      ],
+      "site_id": "p2-22",
+      "previously_covered": true,
+      "reference_words": 240,
+      "personalization_needed": false,
+      "cue_points": [
+        "What the event was",
+        "When it happened",
+        "Who attended the event",
+        "And explain how you felt about the event"
+      ]
+    },
+    {
+      "part": "part2",
+      "forecast_id": "pdf-p2-23",
+      "question": "Describe a website that sells second-hand items",
+      "pages": [
+        42
+      ],
+      "site_id": "p2-23",
+      "previously_covered": true,
+      "reference_words": 234,
+      "personalization_needed": false,
+      "cue_points": [
+        "What it is",
+        "How you found out about it",
+        "What you have bought from it",
+        "And explain whether you like it"
+      ]
+    },
+    {
+      "part": "part2",
+      "forecast_id": "pdf-p2-24",
+      "question": "Describe a competition (e.g music,cooking or sports) you would like to participate in",
+      "pages": [
+        43
+      ],
+      "site_id": "p2-24",
+      "previously_covered": true,
+      "reference_words": 239,
+      "personalization_needed": true,
+      "cue_points": [
+        "What the contest/competition is about",
+        "Where the contest/competition will take place",
+        "When it will be held",
+        "And explain why you would like to participate in it"
+      ]
+    },
+    {
+      "part": "part2",
+      "forecast_id": "pdf-p2-25",
+      "question": "Describe a singer whose music/songs you like",
+      "pages": [
+        44
+      ],
+      "site_id": "p2-25",
+      "previously_covered": true,
+      "reference_words": 231,
+      "personalization_needed": true,
+      "cue_points": [
+        "Who he/she is",
+        "What genre his/her music belongs to",
+        "When/where you listen to his/her music/songs",
+        "And explain why you like him/her and his/her music"
+      ]
+    },
+    {
+      "part": "part2",
+      "forecast_id": "pdf-p2-26",
+      "question": "Describe a place in your country or part of your country that you would like to recommend to visitors/travelers",
+      "pages": [
+        45
+      ],
+      "site_id": "p2-26",
+      "previously_covered": true,
+      "reference_words": 237,
+      "personalization_needed": false,
+      "cue_points": [
+        "What it is",
+        "Where it is",
+        "What people can do there",
+        "And explain why you would like to recommend it to visitors/travelers"
+      ]
+    },
+    {
+      "part": "part2",
+      "forecast_id": "pdf-p2-27",
+      "question": "Describe an interesting neighbor",
+      "pages": [
+        46
+      ],
+      "site_id": "p2-27",
+      "previously_covered": true,
+      "reference_words": 231,
+      "personalization_needed": false,
+      "cue_points": [
+        "Who he/she is",
+        "How you knew him/her",
+        "What you do together",
+        "And explain why he/she is interesting"
+      ]
+    },
+    {
+      "part": "part2",
+      "forecast_id": "pdf-p2-28",
+      "question": "Describe a time when a person persuaded you to do something and you were happy about that",
+      "pages": [
+        47
+      ],
+      "site_id": "p2-28",
+      "previously_covered": true,
+      "reference_words": 233,
+      "personalization_needed": false,
+      "cue_points": [
+        "Who he/she was",
+        "When/where it happened",
+        "What he/she persuaded you to do",
+        "And explain why you were happy"
+      ]
+    },
+    {
+      "part": "part2",
+      "forecast_id": "pdf-p2-29",
+      "question": "Describe the greatest invention that has changed the world in a positive way",
+      "pages": [
+        48
+      ],
+      "site_id": "p2-29",
+      "previously_covered": true,
+      "reference_words": 239,
+      "personalization_needed": false,
+      "cue_points": [
+        "What it is",
+        "What benefits it has brought",
+        "How it influences people of different ages",
+        "And explain how it changed people's lives"
+      ]
+    },
+    {
+      "part": "part3",
+      "forecast_id": "pdf-p3-01-01",
+      "question": "How do people have a conversation with an elderly person?",
+      "pages": [
+        49
+      ],
+      "site_id": "pdf-p3-01-01",
+      "previously_covered": false,
+      "reference_words": 103,
+      "personalization_needed": false,
+      "cue_points": []
+    },
+    {
+      "part": "part3",
+      "forecast_id": "pdf-p3-01-02",
+      "question": "What can young people learn from old people?",
+      "pages": [
+        49
+      ],
+      "site_id": "p3-01-1",
+      "previously_covered": true,
+      "reference_words": 97,
+      "personalization_needed": false,
+      "cue_points": []
+    },
+    {
+      "part": "part3",
+      "forecast_id": "pdf-p3-01-03",
+      "question": "Do you think old people can work better than young people?",
+      "pages": [
+        49
+      ],
+      "site_id": "pdf-p3-01-03",
+      "previously_covered": false,
+      "reference_words": 103,
+      "personalization_needed": false,
+      "cue_points": []
+    },
+    {
+      "part": "part3",
+      "forecast_id": "pdf-p3-01-04",
+      "question": "What are the advantages of having people of different ages living in the same house?",
+      "pages": [
+        49
+      ],
+      "site_id": "pdf-p3-01-04",
+      "previously_covered": false,
+      "reference_words": 102,
+      "personalization_needed": false,
+      "cue_points": []
+    },
+    {
+      "part": "part3",
+      "forecast_id": "pdf-p3-01-05",
+      "question": "Has old people's life quality improved when compared to the past?",
+      "pages": [
+        49
+      ],
+      "site_id": "pdf-p3-01-05",
+      "previously_covered": false,
+      "reference_words": 106,
+      "personalization_needed": false,
+      "cue_points": []
+    },
+    {
+      "part": "part3",
+      "forecast_id": "pdf-p3-01-06",
+      "question": "Do old people share the same interests as young people?",
+      "pages": [
+        49
+      ],
+      "site_id": "pdf-p3-01-06",
+      "previously_covered": false,
+      "reference_words": 105,
+      "personalization_needed": false,
+      "cue_points": []
+    },
+    {
+      "part": "part3",
+      "forecast_id": "pdf-p3-02-01",
+      "question": "Do you think old people and young people can share interests?",
+      "pages": [
+        50
+      ],
+      "site_id": "p3-01-3",
+      "previously_covered": true,
+      "reference_words": 95,
+      "personalization_needed": false,
+      "cue_points": []
+    },
+    {
+      "part": "part3",
+      "forecast_id": "pdf-p3-02-02",
+      "question": "What can old people teach young people?",
+      "pages": [
+        50
+      ],
+      "site_id": "pdf-p3-02-02",
+      "previously_covered": false,
+      "reference_words": 101,
+      "personalization_needed": false,
+      "cue_points": []
+    },
+    {
+      "part": "part3",
+      "forecast_id": "pdf-p3-02-03",
+      "question": "Is it easy for young people and old people to make friends with each other?",
+      "pages": [
+        50
+      ],
+      "site_id": "pdf-p3-02-03",
+      "previously_covered": false,
+      "reference_words": 91,
+      "personalization_needed": false,
+      "cue_points": []
+    },
+    {
+      "part": "part3",
+      "forecast_id": "pdf-p3-02-04",
+      "question": "Are there benefits when one person is interested in another person?",
+      "pages": [
+        50
+      ],
+      "site_id": "pdf-p3-02-04",
+      "previously_covered": false,
+      "reference_words": 101,
+      "personalization_needed": false,
+      "cue_points": []
+    },
+    {
+      "part": "part3",
+      "forecast_id": "pdf-p3-02-05",
+      "question": "Do you think people are more selfish or self-centered now than in the past?",
+      "pages": [
+        51
+      ],
+      "site_id": "pdf-p3-02-05",
+      "previously_covered": false,
+      "reference_words": 90,
+      "personalization_needed": false,
+      "cue_points": []
+    },
+    {
+      "part": "part3",
+      "forecast_id": "pdf-p3-02-06",
+      "question": "What benefits can people get if they are self-centered?",
+      "pages": [
+        51
+      ],
+      "site_id": "pdf-p3-02-06",
+      "previously_covered": false,
+      "reference_words": 95,
+      "personalization_needed": false,
+      "cue_points": []
+    },
+    {
+      "part": "part3",
+      "forecast_id": "pdf-p3-03-01",
+      "question": "Why do people learn foreign languages?",
+      "pages": [
+        51
+      ],
+      "site_id": "pdf-p3-03-01",
+      "previously_covered": false,
+      "reference_words": 109,
+      "personalization_needed": false,
+      "cue_points": []
+    },
+    {
+      "part": "part3",
+      "forecast_id": "pdf-p3-03-02",
+      "question": "What makes a good foreign language teacher?",
+      "pages": [
+        51
+      ],
+      "site_id": "p3-02-1",
+      "previously_covered": true,
+      "reference_words": 95,
+      "personalization_needed": false,
+      "cue_points": []
+    },
+    {
+      "part": "part3",
+      "forecast_id": "pdf-p3-03-03",
+      "question": "Do you think grammar is important when learning foreign languages?",
+      "pages": [
+        52
+      ],
+      "site_id": "pdf-p3-03-03",
+      "previously_covered": false,
+      "reference_words": 98,
+      "personalization_needed": false,
+      "cue_points": []
+    },
+    {
+      "part": "part3",
+      "forecast_id": "pdf-p3-03-04",
+      "question": "Is it interesting to be a foreign language teacher? Why?",
+      "pages": [
+        52
+      ],
+      "site_id": "pdf-p3-03-04",
+      "previously_covered": false,
+      "reference_words": 96,
+      "personalization_needed": false,
+      "cue_points": []
+    },
+    {
+      "part": "part3",
+      "forecast_id": "pdf-p3-03-05",
+      "question": "What is the impact of information technology on learning foreign languages?",
+      "pages": [
+        52
+      ],
+      "site_id": "pdf-p3-03-05",
+      "previously_covered": false,
+      "reference_words": 95,
+      "personalization_needed": false,
+      "cue_points": []
+    },
+    {
+      "part": "part3",
+      "forecast_id": "pdf-p3-03-06",
+      "question": "What effect will it have on the students if the teacher is impatient with them?",
+      "pages": [
+        52
+      ],
+      "site_id": "pdf-p3-03-06",
+      "previously_covered": false,
+      "reference_words": 91,
+      "personalization_needed": false,
+      "cue_points": []
+    },
+    {
+      "part": "part3",
+      "forecast_id": "pdf-p3-04-01",
+      "question": "Is it easy to find quiet places in your country? Why?",
+      "pages": [
+        53
+      ],
+      "site_id": "pdf-p3-04-01",
+      "previously_covered": false,
+      "reference_words": 103,
+      "personalization_needed": false,
+      "cue_points": []
+    },
+    {
+      "part": "part3",
+      "forecast_id": "pdf-p3-04-02",
+      "question": "How do people spend their leisure time in your country?",
+      "pages": [
+        53
+      ],
+      "site_id": "pdf-p3-04-02",
+      "previously_covered": false,
+      "reference_words": 96,
+      "personalization_needed": false,
+      "cue_points": []
+    },
+    {
+      "part": "part3",
+      "forecast_id": "pdf-p3-04-03",
+      "question": "How does technology affect the way people spend their leisure time?",
+      "pages": [
+        53
+      ],
+      "site_id": "pdf-p3-04-03",
+      "previously_covered": false,
+      "reference_words": 104,
+      "personalization_needed": false,
+      "cue_points": []
+    },
+    {
+      "part": "part3",
+      "forecast_id": "pdf-p3-04-04",
+      "question": "Do you think only old people have time for leisure?",
+      "pages": [
+        53
+      ],
+      "site_id": "pdf-p3-04-04",
+      "previously_covered": false,
+      "reference_words": 107,
+      "personalization_needed": false,
+      "cue_points": []
+    },
+    {
+      "part": "part3",
+      "forecast_id": "pdf-p3-05-01",
+      "question": "Do people like comedy?",
+      "pages": [
+        53
+      ],
+      "site_id": "pdf-p3-05-01",
+      "previously_covered": false,
+      "reference_words": 93,
+      "personalization_needed": false,
+      "cue_points": []
+    },
+    {
+      "part": "part3",
+      "forecast_id": "pdf-p3-05-02",
+      "question": "Why do people of all ages like cartoons?",
+      "pages": [
+        53
+      ],
+      "site_id": "pdf-p3-05-02",
+      "previously_covered": false,
+      "reference_words": 91,
+      "personalization_needed": false,
+      "cue_points": []
+    },
+    {
+      "part": "part3",
+      "forecast_id": "pdf-p3-05-03",
+      "question": "Why do some people like to make others laugh?",
+      "pages": [
+        54
+      ],
+      "site_id": "pdf-p3-05-03",
+      "previously_covered": false,
+      "reference_words": 92,
+      "personalization_needed": false,
+      "cue_points": []
+    },
+    {
+      "part": "part3",
+      "forecast_id": "pdf-p3-05-04",
+      "question": "Should teachers tell jokes in class?",
+      "pages": [
+        54
+      ],
+      "site_id": "pdf-p3-05-04",
+      "previously_covered": false,
+      "reference_words": 99,
+      "personalization_needed": false,
+      "cue_points": []
+    },
+    {
+      "part": "part3",
+      "forecast_id": "pdf-p3-05-05",
+      "question": "What kind of people like comedy?",
+      "pages": [
+        54
+      ],
+      "site_id": "pdf-p3-05-05",
+      "previously_covered": false,
+      "reference_words": 109,
+      "personalization_needed": false,
+      "cue_points": []
+    },
+    {
+      "part": "part3",
+      "forecast_id": "pdf-p3-05-06",
+      "question": "Is it good to tell jokes in business activities?",
+      "pages": [
+        54
+      ],
+      "site_id": "pdf-p3-05-06",
+      "previously_covered": false,
+      "reference_words": 105,
+      "personalization_needed": false,
+      "cue_points": []
+    },
+    {
+      "part": "part3",
+      "forecast_id": "pdf-p3-06-01",
+      "question": "Why are some children more intelligent than others?",
+      "pages": [
+        54
+      ],
+      "site_id": "pdf-p3-06-01",
+      "previously_covered": false,
+      "reference_words": 106,
+      "personalization_needed": false,
+      "cue_points": []
+    },
+    {
+      "part": "part3",
+      "forecast_id": "pdf-p3-06-02",
+      "question": "Who do you think plays a more important role in a child's development, teachers or parents?",
+      "pages": [
+        55
+      ],
+      "site_id": "pdf-p3-06-02",
+      "previously_covered": false,
+      "reference_words": 100,
+      "personalization_needed": false,
+      "cue_points": []
+    },
+    {
+      "part": "part3",
+      "forecast_id": "pdf-p3-06-03",
+      "question": "Do you think smart people tend to be selfish?",
+      "pages": [
+        55
+      ],
+      "site_id": "pdf-p3-06-03",
+      "previously_covered": false,
+      "reference_words": 98,
+      "personalization_needed": false,
+      "cue_points": []
+    },
+    {
+      "part": "part3",
+      "forecast_id": "pdf-p3-06-04",
+      "question": "Are smart people happier than others?",
+      "pages": [
+        55
+      ],
+      "site_id": "pdf-p3-06-04",
+      "previously_covered": false,
+      "reference_words": 94,
+      "personalization_needed": false,
+      "cue_points": []
+    },
+    {
+      "part": "part3",
+      "forecast_id": "pdf-p3-07-01",
+      "question": "What do you usually do with a cellphone?",
+      "pages": [
+        55
+      ],
+      "site_id": "pdf-p3-07-01",
+      "previously_covered": false,
+      "reference_words": 94,
+      "personalization_needed": false,
+      "cue_points": []
+    },
+    {
+      "part": "part3",
+      "forecast_id": "pdf-p3-07-02",
+      "question": "What are the differences between young people and old people when using a cellphone?",
+      "pages": [
+        56
+      ],
+      "site_id": "pdf-p3-07-02",
+      "previously_covered": false,
+      "reference_words": 90,
+      "personalization_needed": false,
+      "cue_points": []
+    },
+    {
+      "part": "part3",
+      "forecast_id": "pdf-p3-07-03",
+      "question": "Which one is more important, using a cellphone to make phone calls or to read messages?",
+      "pages": [
+        56
+      ],
+      "site_id": "pdf-p3-07-03",
+      "previously_covered": false,
+      "reference_words": 102,
+      "personalization_needed": false,
+      "cue_points": []
+    },
+    {
+      "part": "part3",
+      "forecast_id": "pdf-p3-07-04",
+      "question": "Do you think there should be a law to stop people from making phone calls in public?",
+      "pages": [
+        56
+      ],
+      "site_id": "pdf-p3-07-04",
+      "previously_covered": false,
+      "reference_words": 104,
+      "personalization_needed": false,
+      "cue_points": []
+    },
+    {
+      "part": "part3",
+      "forecast_id": "pdf-p3-08-01",
+      "question": "Why do stories and movies for children always feature animals?",
+      "pages": [
+        56
+      ],
+      "site_id": "pdf-p3-08-01",
+      "previously_covered": false,
+      "reference_words": 108,
+      "personalization_needed": false,
+      "cue_points": []
+    },
+    {
+      "part": "part3",
+      "forecast_id": "pdf-p3-08-02",
+      "question": "How did animals help people in the past?",
+      "pages": [
+        56
+      ],
+      "site_id": "pdf-p3-08-02",
+      "previously_covered": false,
+      "reference_words": 103,
+      "personalization_needed": false,
+      "cue_points": []
+    },
+    {
+      "part": "part3",
+      "forecast_id": "pdf-p3-08-03",
+      "question": "Do you think people are more interested in animals now than they were in the past?",
+      "pages": [
+        57
+      ],
+      "site_id": "pdf-p3-08-03",
+      "previously_covered": false,
+      "reference_words": 95,
+      "personalization_needed": false,
+      "cue_points": []
+    },
+    {
+      "part": "part3",
+      "forecast_id": "pdf-p3-09-01",
+      "question": "What kind of plans do young people often make?",
+      "pages": [
+        57
+      ],
+      "site_id": "pdf-p3-09-01",
+      "previously_covered": false,
+      "reference_words": 107,
+      "personalization_needed": false,
+      "cue_points": []
+    },
+    {
+      "part": "part3",
+      "forecast_id": "pdf-p3-09-02",
+      "question": "Why can't people always follow their plans?",
+      "pages": [
+        57
+      ],
+      "site_id": "pdf-p3-09-02",
+      "previously_covered": false,
+      "reference_words": 98,
+      "personalization_needed": false,
+      "cue_points": []
+    },
+    {
+      "part": "part3",
+      "forecast_id": "pdf-p3-09-03",
+      "question": "Why do people make plans?",
+      "pages": [
+        57
+      ],
+      "site_id": "pdf-p3-09-03",
+      "previously_covered": false,
+      "reference_words": 93,
+      "personalization_needed": false,
+      "cue_points": []
+    },
+    {
+      "part": "part3",
+      "forecast_id": "pdf-p3-09-04",
+      "question": "Is it important to make plans?",
+      "pages": [
+        57
+      ],
+      "site_id": "pdf-p3-09-04",
+      "previously_covered": false,
+      "reference_words": 95,
+      "personalization_needed": false,
+      "cue_points": []
+    },
+    {
+      "part": "part3",
+      "forecast_id": "pdf-p3-09-05",
+      "question": "Why do some people like to make plans while others just don't like to?",
+      "pages": [
+        57
+      ],
+      "site_id": "pdf-p3-09-05",
+      "previously_covered": false,
+      "reference_words": 98,
+      "personalization_needed": false,
+      "cue_points": []
+    },
+    {
+      "part": "part3",
+      "forecast_id": "pdf-p3-09-06",
+      "question": "Are there any people who never make plans?",
+      "pages": [
+        58
+      ],
+      "site_id": "pdf-p3-09-06",
+      "previously_covered": false,
+      "reference_words": 93,
+      "personalization_needed": false,
+      "cue_points": []
+    },
+    {
+      "part": "part3",
+      "forecast_id": "pdf-p3-10-01",
+      "question": "Do you think it's necessary for kids to make as many decisions by themselves as they can?",
+      "pages": [
+        58
+      ],
+      "site_id": "pdf-p3-10-01",
+      "previously_covered": false,
+      "reference_words": 92,
+      "personalization_needed": false,
+      "cue_points": []
+    },
+    {
+      "part": "part3",
+      "forecast_id": "pdf-p3-10-02",
+      "question": "Do you think some people can make decisions without asking for advice from others?",
+      "pages": [
+        58
+      ],
+      "site_id": "pdf-p3-10-02",
+      "previously_covered": false,
+      "reference_words": 99,
+      "personalization_needed": false,
+      "cue_points": []
+    },
+    {
+      "part": "part3",
+      "forecast_id": "pdf-p3-10-03",
+      "question": "Do you think young people are easily influenced by others when they make decisions? Why or why not?",
+      "pages": [
+        58
+      ],
+      "site_id": "pdf-p3-10-03",
+      "previously_covered": false,
+      "reference_words": 98,
+      "personalization_needed": false,
+      "cue_points": []
+    },
+    {
+      "part": "part3",
+      "forecast_id": "pdf-p3-10-04",
+      "question": "What kinds of decisions do young people have to make?",
+      "pages": [
+        58
+      ],
+      "site_id": "pdf-p3-10-04",
+      "previously_covered": false,
+      "reference_words": 97,
+      "personalization_needed": false,
+      "cue_points": []
+    },
+    {
+      "part": "part3",
+      "forecast_id": "pdf-p3-11-01",
+      "question": "What kinds of people are popular at work?",
+      "pages": [
+        59
+      ],
+      "site_id": "pdf-p3-11-01",
+      "previously_covered": false,
+      "reference_words": 97,
+      "personalization_needed": false,
+      "cue_points": []
+    },
+    {
+      "part": "part3",
+      "forecast_id": "pdf-p3-11-02",
+      "question": "Are bosses more popular than employees at work?",
+      "pages": [
+        59
+      ],
+      "site_id": "pdf-p3-11-02",
+      "previously_covered": false,
+      "reference_words": 110,
+      "personalization_needed": false,
+      "cue_points": []
+    },
+    {
+      "part": "part3",
+      "forecast_id": "pdf-p3-11-03",
+      "question": "Which one is more important, maintaining a good relationship with colleagues or doing well at work?",
+      "pages": [
+        59
+      ],
+      "site_id": "pdf-p3-11-03",
+      "previously_covered": false,
+      "reference_words": 95,
+      "personalization_needed": false,
+      "cue_points": []
+    },
+    {
+      "part": "part3",
+      "forecast_id": "pdf-p3-11-04",
+      "question": "What benefits are there when a child is popular at school?",
+      "pages": [
+        59
+      ],
+      "site_id": "pdf-p3-11-04",
+      "previously_covered": false,
+      "reference_words": 111,
+      "personalization_needed": false,
+      "cue_points": []
+    },
+    {
+      "part": "part3",
+      "forecast_id": "pdf-p3-12-01",
+      "question": "Do you think there are more beautiful things now than in the past?",
+      "pages": [
+        59
+      ],
+      "site_id": "pdf-p3-12-01",
+      "previously_covered": false,
+      "reference_words": 96,
+      "personalization_needed": false,
+      "cue_points": []
+    },
+    {
+      "part": "part3",
+      "forecast_id": "pdf-p3-12-02",
+      "question": "What beautiful scenery spots are there in your country?",
+      "pages": [
+        60
+      ],
+      "site_id": "pdf-p3-12-02",
+      "previously_covered": false,
+      "reference_words": 115,
+      "personalization_needed": false,
+      "cue_points": []
+    },
+    {
+      "part": "part3",
+      "forecast_id": "pdf-p3-12-03",
+      "question": "Why do you think people create beautiful things?",
+      "pages": [
+        60
+      ],
+      "site_id": "pdf-p3-12-03",
+      "previously_covered": false,
+      "reference_words": 104,
+      "personalization_needed": false,
+      "cue_points": []
+    },
+    {
+      "part": "part3",
+      "forecast_id": "pdf-p3-12-04",
+      "question": "Where do you think people usually come into contact with beautiful things?",
+      "pages": [
+        60
+      ],
+      "site_id": "pdf-p3-12-04",
+      "previously_covered": false,
+      "reference_words": 95,
+      "personalization_needed": false,
+      "cue_points": []
+    },
+    {
+      "part": "part3",
+      "forecast_id": "pdf-p3-12-05",
+      "question": "Do people in your country prefer listening to music to appreciating paintings and literature?",
+      "pages": [
+        60
+      ],
+      "site_id": "pdf-p3-12-05",
+      "previously_covered": false,
+      "reference_words": 103,
+      "personalization_needed": false,
+      "cue_points": []
+    },
+    {
+      "part": "part3",
+      "forecast_id": "pdf-p3-12-06",
+      "question": "Why do many people go to scenic spots in person instead of just reading about them in books?",
+      "pages": [
+        60
+      ],
+      "site_id": "pdf-p3-12-06",
+      "previously_covered": false,
+      "reference_words": 100,
+      "personalization_needed": false,
+      "cue_points": []
+    },
+    {
+      "part": "part3",
+      "forecast_id": "pdf-p3-13-01",
+      "question": "What do you think of making friends online?",
+      "pages": [
+        60
+      ],
+      "site_id": "pdf-p3-13-01",
+      "previously_covered": false,
+      "reference_words": 96,
+      "personalization_needed": false,
+      "cue_points": []
+    },
+    {
+      "part": "part3",
+      "forecast_id": "pdf-p3-13-02",
+      "question": "Is it a good idea to make friends with people who are much older than you?",
+      "pages": [
+        61
+      ],
+      "site_id": "pdf-p3-13-02",
+      "previously_covered": false,
+      "reference_words": 104,
+      "personalization_needed": false,
+      "cue_points": []
+    },
+    {
+      "part": "part3",
+      "forecast_id": "pdf-p3-13-03",
+      "question": "Do you enjoy meeting new people?",
+      "pages": [
+        61
+      ],
+      "site_id": "pdf-p3-13-03",
+      "previously_covered": false,
+      "reference_words": 101,
+      "personalization_needed": false,
+      "cue_points": []
+    },
+    {
+      "part": "part3",
+      "forecast_id": "pdf-p3-13-04",
+      "question": "Do you think friendship is important?",
+      "pages": [
+        61
+      ],
+      "site_id": "pdf-p3-13-04",
+      "previously_covered": false,
+      "reference_words": 90,
+      "personalization_needed": false,
+      "cue_points": []
+    },
+    {
+      "part": "part3",
+      "forecast_id": "pdf-p3-13-05",
+      "question": "Why is it difficult for some people to make friends with others?",
+      "pages": [
+        61
+      ],
+      "site_id": "pdf-p3-13-05",
+      "previously_covered": false,
+      "reference_words": 101,
+      "personalization_needed": false,
+      "cue_points": []
+    },
+    {
+      "part": "part3",
+      "forecast_id": "pdf-p3-13-06",
+      "question": "Do we benefit from having friends with different personalities?",
+      "pages": [
+        61
+      ],
+      "site_id": "pdf-p3-13-06",
+      "previously_covered": false,
+      "reference_words": 98,
+      "personalization_needed": false,
+      "cue_points": []
+    },
+    {
+      "part": "part3",
+      "forecast_id": "pdf-p3-14-01",
+      "question": "When should parents encourage their children?",
+      "pages": [
+        62
+      ],
+      "site_id": "pdf-p3-14-01",
+      "previously_covered": false,
+      "reference_words": 107,
+      "personalization_needed": false,
+      "cue_points": []
+    },
+    {
+      "part": "part3",
+      "forecast_id": "pdf-p3-14-02",
+      "question": "Should parents always encourage their children?",
+      "pages": [
+        62
+      ],
+      "site_id": "pdf-p3-14-02",
+      "previously_covered": false,
+      "reference_words": 96,
+      "personalization_needed": false,
+      "cue_points": []
+    },
+    {
+      "part": "part3",
+      "forecast_id": "pdf-p3-14-03",
+      "question": "Do you think negative feedback is more important than positive feedback? Why?",
+      "pages": [
+        62
+      ],
+      "site_id": "pdf-p3-14-03",
+      "previously_covered": false,
+      "reference_words": 108,
+      "personalization_needed": false,
+      "cue_points": []
+    },
+    {
+      "part": "part3",
+      "forecast_id": "pdf-p3-14-04",
+      "question": "Why is negative feedback as important as positive feedback at work or in study?",
+      "pages": [
+        62
+      ],
+      "site_id": "pdf-p3-14-04",
+      "previously_covered": false,
+      "reference_words": 105,
+      "personalization_needed": false,
+      "cue_points": []
+    },
+    {
+      "part": "part3",
+      "forecast_id": "pdf-p3-15-01",
+      "question": "What do you do if you disagree with someone?",
+      "pages": [
+        62
+      ],
+      "site_id": "pdf-p3-15-01",
+      "previously_covered": false,
+      "reference_words": 105,
+      "personalization_needed": false,
+      "cue_points": []
+    },
+    {
+      "part": "part3",
+      "forecast_id": "pdf-p3-15-02",
+      "question": "How can we stop an argument from escalating into a fight?",
+      "pages": [
+        62
+      ],
+      "site_id": "pdf-p3-15-02",
+      "previously_covered": false,
+      "reference_words": 112,
+      "personalization_needed": false,
+      "cue_points": []
+    },
+    {
+      "part": "part3",
+      "forecast_id": "pdf-p3-15-03",
+      "question": "Who do you think should teach children to respect their teacher?",
+      "pages": [
+        63
+      ],
+      "site_id": "pdf-p3-15-03",
+      "previously_covered": false,
+      "reference_words": 105,
+      "personalization_needed": false,
+      "cue_points": []
+    },
+    {
+      "part": "part3",
+      "forecast_id": "pdf-p3-15-04",
+      "question": "What disagreements do parents and children usually have?",
+      "pages": [
+        63
+      ],
+      "site_id": "pdf-p3-15-04",
+      "previously_covered": false,
+      "reference_words": 101,
+      "personalization_needed": false,
+      "cue_points": []
+    },
+    {
+      "part": "part3",
+      "forecast_id": "pdf-p3-15-05",
+      "question": "Why do some people avoid arguing with others?",
+      "pages": [
+        63
+      ],
+      "site_id": "pdf-p3-15-05",
+      "previously_covered": false,
+      "reference_words": 106,
+      "personalization_needed": false,
+      "cue_points": []
+    },
+    {
+      "part": "part3",
+      "forecast_id": "pdf-p3-15-06",
+      "question": "How do we show respect to others when we disagree with them?",
+      "pages": [
+        63
+      ],
+      "site_id": "pdf-p3-15-06",
+      "previously_covered": false,
+      "reference_words": 110,
+      "personalization_needed": false,
+      "cue_points": []
+    },
+    {
+      "part": "part3",
+      "forecast_id": "pdf-p3-16-01",
+      "question": "What kinds of things do people usually lose?",
+      "pages": [
+        63
+      ],
+      "site_id": "pdf-p3-16-01",
+      "previously_covered": false,
+      "reference_words": 97,
+      "personalization_needed": false,
+      "cue_points": []
+    },
+    {
+      "part": "part3",
+      "forecast_id": "pdf-p3-16-02",
+      "question": "What will people do when losing things?",
+      "pages": [
+        63
+      ],
+      "site_id": "pdf-p3-16-02",
+      "previously_covered": false,
+      "reference_words": 98,
+      "personalization_needed": false,
+      "cue_points": []
+    },
+    {
+      "part": "part3",
+      "forecast_id": "pdf-p3-16-03",
+      "question": "Is it effective to offer rewards to find lost things?",
+      "pages": [
+        64
+      ],
+      "site_id": "pdf-p3-16-03",
+      "previously_covered": false,
+      "reference_words": 91,
+      "personalization_needed": false,
+      "cue_points": []
+    },
+    {
+      "part": "part3",
+      "forecast_id": "pdf-p3-16-04",
+      "question": "What kinds of people may lose things often?",
+      "pages": [
+        64
+      ],
+      "site_id": "pdf-p3-16-04",
+      "previously_covered": false,
+      "reference_words": 103,
+      "personalization_needed": false,
+      "cue_points": []
+    },
+    {
+      "part": "part3",
+      "forecast_id": "pdf-p3-17-01",
+      "question": "What are the differences between clothes worn by old people and those by young people?",
+      "pages": [
+        64
+      ],
+      "site_id": "pdf-p3-17-01",
+      "previously_covered": false,
+      "reference_words": 97,
+      "personalization_needed": false,
+      "cue_points": []
+    },
+    {
+      "part": "part3",
+      "forecast_id": "pdf-p3-17-02",
+      "question": "What kind of clothes do people wear in the workplace?",
+      "pages": [
+        64
+      ],
+      "site_id": "pdf-p3-17-02",
+      "previously_covered": false,
+      "reference_words": 104,
+      "personalization_needed": false,
+      "cue_points": []
+    },
+    {
+      "part": "part3",
+      "forecast_id": "pdf-p3-17-03",
+      "question": "Do you think it is a good idea to buy clothes online?",
+      "pages": [
+        64
+      ],
+      "site_id": "pdf-p3-17-03",
+      "previously_covered": false,
+      "reference_words": 91,
+      "personalization_needed": false,
+      "cue_points": []
+    },
+    {
+      "part": "part3",
+      "forecast_id": "pdf-p3-17-04",
+      "question": "Do you think young people wear unusual clothes more than other age groups?",
+      "pages": [
+        65
+      ],
+      "site_id": "pdf-p3-17-04",
+      "previously_covered": false,
+      "reference_words": 95,
+      "personalization_needed": false,
+      "cue_points": []
+    },
+    {
+      "part": "part3",
+      "forecast_id": "pdf-p3-17-05",
+      "question": "Do you think that the style of the clothing is more important than its comfort?",
+      "pages": [
+        65
+      ],
+      "site_id": "pdf-p3-17-05",
+      "previously_covered": false,
+      "reference_words": 113,
+      "personalization_needed": false,
+      "cue_points": []
+    },
+    {
+      "part": "part3",
+      "forecast_id": "pdf-p3-17-06",
+      "question": "What factors affect people's decisions when buying clothes?",
+      "pages": [
+        65
+      ],
+      "site_id": "pdf-p3-17-06",
+      "previously_covered": false,
+      "reference_words": 96,
+      "personalization_needed": false,
+      "cue_points": []
+    },
+    {
+      "part": "part3",
+      "forecast_id": "pdf-p3-18-01",
+      "question": "What bad behavior do children usually have?",
+      "pages": [
+        65
+      ],
+      "site_id": "pdf-p3-18-01",
+      "previously_covered": false,
+      "reference_words": 103,
+      "personalization_needed": false,
+      "cue_points": []
+    },
+    {
+      "part": "part3",
+      "forecast_id": "pdf-p3-18-02",
+      "question": "How should parents stop their children from behaving badly in public?",
+      "pages": [
+        65
+      ],
+      "site_id": "p3-04-2",
+      "previously_covered": true,
+      "reference_words": 102,
+      "personalization_needed": false,
+      "cue_points": []
+    },
+    {
+      "part": "part3",
+      "forecast_id": "pdf-p3-18-03",
+      "question": "Are parents these days stricter than those in the past?",
+      "pages": [
+        66
+      ],
+      "site_id": "pdf-p3-18-03",
+      "previously_covered": false,
+      "reference_words": 90,
+      "personalization_needed": false,
+      "cue_points": []
+    },
+    {
+      "part": "part3",
+      "forecast_id": "pdf-p3-18-04",
+      "question": "Whose influence on children is more important? Friends or parents?",
+      "pages": [
+        66
+      ],
+      "site_id": "pdf-p3-18-04",
+      "previously_covered": false,
+      "reference_words": 107,
+      "personalization_needed": false,
+      "cue_points": []
+    },
+    {
+      "part": "part3",
+      "forecast_id": "pdf-p3-18-05",
+      "question": "Who is to blame when children have bad behaviors, the parents or the children themselves?",
+      "pages": [
+        66
+      ],
+      "site_id": "pdf-p3-18-05",
+      "previously_covered": false,
+      "reference_words": 103,
+      "personalization_needed": false,
+      "cue_points": []
+    },
+    {
+      "part": "part3",
+      "forecast_id": "pdf-p3-18-06",
+      "question": "What effect does it have on children when their parents punish them for their bad behaviors?",
+      "pages": [
+        66
+      ],
+      "site_id": "pdf-p3-18-06",
+      "previously_covered": false,
+      "reference_words": 94,
+      "personalization_needed": false,
+      "cue_points": []
+    },
+    {
+      "part": "part3",
+      "forecast_id": "pdf-p3-19-01",
+      "question": "Would people be willing to get up early to watch and enjoy the sunrise?",
+      "pages": [
+        67
+      ],
+      "site_id": "pdf-p3-19-01",
+      "previously_covered": false,
+      "reference_words": 99,
+      "personalization_needed": false,
+      "cue_points": []
+    },
+    {
+      "part": "part3",
+      "forecast_id": "pdf-p3-19-02",
+      "question": "When would people watch the sky?",
+      "pages": [
+        67
+      ],
+      "site_id": "pdf-p3-19-02",
+      "previously_covered": false,
+      "reference_words": 97,
+      "personalization_needed": false,
+      "cue_points": []
+    },
+    {
+      "part": "part3",
+      "forecast_id": "pdf-p3-19-03",
+      "question": "Do many people pay attention to the shapes of stars?",
+      "pages": [
+        67
+      ],
+      "site_id": "pdf-p3-19-03",
+      "previously_covered": false,
+      "reference_words": 90,
+      "personalization_needed": false,
+      "cue_points": []
+    },
+    {
+      "part": "part3",
+      "forecast_id": "pdf-p3-19-04",
+      "question": "What do people usually see in the sky in the daytime?",
+      "pages": [
+        67
+      ],
+      "site_id": "pdf-p3-19-04",
+      "previously_covered": false,
+      "reference_words": 95,
+      "personalization_needed": false,
+      "cue_points": []
+    },
+    {
+      "part": "part3",
+      "forecast_id": "pdf-p3-19-05",
+      "question": "What are the differences between things people see in the sky in the daytime and at night?",
+      "pages": [
+        67
+      ],
+      "site_id": "pdf-p3-19-05",
+      "previously_covered": false,
+      "reference_words": 97,
+      "personalization_needed": false,
+      "cue_points": []
+    },
+    {
+      "part": "part3",
+      "forecast_id": "pdf-p3-19-06",
+      "question": "Why do some people like to watch stars at night?",
+      "pages": [
+        67
+      ],
+      "site_id": "pdf-p3-19-06",
+      "previously_covered": false,
+      "reference_words": 92,
+      "personalization_needed": false,
+      "cue_points": []
+    },
+    {
+      "part": "part3",
+      "forecast_id": "pdf-p3-20-01",
+      "question": "How can rivers and lakes benefit local people?",
+      "pages": [
+        68
+      ],
+      "site_id": "pdf-p3-20-01",
+      "previously_covered": false,
+      "reference_words": 97,
+      "personalization_needed": false,
+      "cue_points": []
+    },
+    {
+      "part": "part3",
+      "forecast_id": "pdf-p3-20-02",
+      "question": "Do you think rivers and lakes attract tourists?",
+      "pages": [
+        68
+      ],
+      "site_id": "pdf-p3-20-02",
+      "previously_covered": false,
+      "reference_words": 101,
+      "personalization_needed": false,
+      "cue_points": []
+    },
+    {
+      "part": "part3",
+      "forecast_id": "pdf-p3-20-03",
+      "question": "How do rivers and lakes affect local tourism?",
+      "pages": [
+        68
+      ],
+      "site_id": "pdf-p3-20-03",
+      "previously_covered": false,
+      "reference_words": 98,
+      "personalization_needed": false,
+      "cue_points": []
+    },
+    {
+      "part": "part3",
+      "forecast_id": "pdf-p3-20-04",
+      "question": "Are rivers and lakes good for transport? Why?",
+      "pages": [
+        68
+      ],
+      "site_id": "pdf-p3-20-04",
+      "previously_covered": false,
+      "reference_words": 94,
+      "personalization_needed": false,
+      "cue_points": []
+    },
+    {
+      "part": "part3",
+      "forecast_id": "pdf-p3-21-01",
+      "question": "When do parents usually praise their children?",
+      "pages": [
+        68
+      ],
+      "site_id": "pdf-p3-21-01",
+      "previously_covered": false,
+      "reference_words": 107,
+      "personalization_needed": false,
+      "cue_points": []
+    },
+    {
+      "part": "part3",
+      "forecast_id": "pdf-p3-21-02",
+      "question": "Do you think people should always point out and correct others' mistakes?",
+      "pages": [
+        69
+      ],
+      "site_id": "pdf-p3-21-02",
+      "previously_covered": false,
+      "reference_words": 95,
+      "personalization_needed": false,
+      "cue_points": []
+    },
+    {
+      "part": "part3",
+      "forecast_id": "pdf-p3-22-01",
+      "question": "Do people often celebrate festivals with families?",
+      "pages": [
+        69
+      ],
+      "site_id": "pdf-p3-22-01",
+      "previously_covered": false,
+      "reference_words": 98,
+      "personalization_needed": false,
+      "cue_points": []
+    },
+    {
+      "part": "part3",
+      "forecast_id": "pdf-p3-22-02",
+      "question": "Do people often celebrate events with a large group of people or just a few people?",
+      "pages": [
+        69
+      ],
+      "site_id": "pdf-p3-22-02",
+      "previously_covered": false,
+      "reference_words": 99,
+      "personalization_needed": false,
+      "cue_points": []
+    },
+    {
+      "part": "part3",
+      "forecast_id": "pdf-p3-22-03",
+      "question": "What kinds of events do people usually celebrate?",
+      "pages": [
+        69
+      ],
+      "site_id": "pdf-p3-22-03",
+      "previously_covered": false,
+      "reference_words": 104,
+      "personalization_needed": false,
+      "cue_points": []
+    },
+    {
+      "part": "part3",
+      "forecast_id": "pdf-p3-22-04",
+      "question": "Do you like to celebrate important events? Why?",
+      "pages": [
+        69
+      ],
+      "site_id": "pdf-p3-22-04",
+      "previously_covered": false,
+      "reference_words": 92,
+      "personalization_needed": false,
+      "cue_points": []
+    },
+    {
+      "part": "part3",
+      "forecast_id": "pdf-p3-23-01",
+      "question": "Some people think it's a waste to buy too many clothes for children. What do you think?",
+      "pages": [
+        69,
+        70
+      ],
+      "site_id": "pdf-p3-23-01",
+      "previously_covered": false,
+      "reference_words": 103,
+      "personalization_needed": false,
+      "cue_points": []
+    },
+    {
+      "part": "part3",
+      "forecast_id": "pdf-p3-23-02",
+      "question": "How do people usually handle the clothes they don't want?",
+      "pages": [
+        70
+      ],
+      "site_id": "pdf-p3-23-02",
+      "previously_covered": false,
+      "reference_words": 90,
+      "personalization_needed": false,
+      "cue_points": []
+    },
+    {
+      "part": "part3",
+      "forecast_id": "pdf-p3-23-03",
+      "question": "Why do people buy second-hand clothes?",
+      "pages": [
+        70
+      ],
+      "site_id": "pdf-p3-23-03",
+      "previously_covered": false,
+      "reference_words": 105,
+      "personalization_needed": false,
+      "cue_points": []
+    },
+    {
+      "part": "part3",
+      "forecast_id": "pdf-p3-23-04",
+      "question": "What problems will occur if people don't recycle?",
+      "pages": [
+        70
+      ],
+      "site_id": "pdf-p3-23-04",
+      "previously_covered": false,
+      "reference_words": 109,
+      "personalization_needed": false,
+      "cue_points": []
+    },
+    {
+      "part": "part3",
+      "forecast_id": "pdf-p3-23-05",
+      "question": "Should the government encourage people to recycle items?",
+      "pages": [
+        70
+      ],
+      "site_id": "pdf-p3-23-05",
+      "previously_covered": false,
+      "reference_words": 104,
+      "personalization_needed": false,
+      "cue_points": []
+    },
+    {
+      "part": "part3",
+      "forecast_id": "pdf-p3-23-06",
+      "question": "How do people in your country recycle various items they don't want?",
+      "pages": [
+        70
+      ],
+      "site_id": "pdf-p3-23-06",
+      "previously_covered": false,
+      "reference_words": 106,
+      "personalization_needed": false,
+      "cue_points": []
+    },
+    {
+      "part": "part3",
+      "forecast_id": "pdf-p3-24-01",
+      "question": "What are the contests commonly seen on TV programs?",
+      "pages": [
+        71
+      ],
+      "site_id": "pdf-p3-24-01",
+      "previously_covered": false,
+      "reference_words": 98,
+      "personalization_needed": false,
+      "cue_points": []
+    },
+    {
+      "part": "part3",
+      "forecast_id": "pdf-p3-24-02",
+      "question": "Why are competition shows popular?",
+      "pages": [
+        71
+      ],
+      "site_id": "pdf-p3-24-02",
+      "previously_covered": false,
+      "reference_words": 108,
+      "personalization_needed": false,
+      "cue_points": []
+    },
+    {
+      "part": "part3",
+      "forecast_id": "pdf-p3-24-03",
+      "question": "What kinds of industries need competition? Why?",
+      "pages": [
+        71
+      ],
+      "site_id": "pdf-p3-24-03",
+      "previously_covered": false,
+      "reference_words": 95,
+      "personalization_needed": false,
+      "cue_points": []
+    },
+    {
+      "part": "part3",
+      "forecast_id": "pdf-p3-24-04",
+      "question": "Do you think it is necessary to encourage people to compete with one another in companies?",
+      "pages": [
+        71
+      ],
+      "site_id": "pdf-p3-24-04",
+      "previously_covered": false,
+      "reference_words": 96,
+      "personalization_needed": false,
+      "cue_points": []
+    },
+    {
+      "part": "part3",
+      "forecast_id": "pdf-p3-25-01",
+      "question": "What kind of music do people like at different ages?",
+      "pages": [
+        71
+      ],
+      "site_id": "pdf-p3-25-01",
+      "previously_covered": false,
+      "reference_words": 92,
+      "personalization_needed": false,
+      "cue_points": []
+    },
+    {
+      "part": "part3",
+      "forecast_id": "pdf-p3-25-02",
+      "question": "What kind of music is popular in China now and what kind will be in the future?",
+      "pages": [
+        71
+      ],
+      "site_id": "pdf-p3-25-02",
+      "previously_covered": false,
+      "reference_words": 94,
+      "personalization_needed": false,
+      "cue_points": []
+    },
+    {
+      "part": "part3",
+      "forecast_id": "pdf-p3-25-03",
+      "question": "Do Chinese parents require their children to learn to play musical instruments?",
+      "pages": [
+        72
+      ],
+      "site_id": "pdf-p3-25-03",
+      "previously_covered": false,
+      "reference_words": 101,
+      "personalization_needed": false,
+      "cue_points": []
+    },
+    {
+      "part": "part3",
+      "forecast_id": "pdf-p3-25-04",
+      "question": "Why do some people like to listen to live music while others prefer CDs?",
+      "pages": [
+        72
+      ],
+      "site_id": "pdf-p3-25-04",
+      "previously_covered": false,
+      "reference_words": 110,
+      "personalization_needed": false,
+      "cue_points": []
+    },
+    {
+      "part": "part3",
+      "forecast_id": "pdf-p3-25-05",
+      "question": "Can anyone learn how to sing?",
+      "pages": [
+        72
+      ],
+      "site_id": "pdf-p3-25-05",
+      "previously_covered": false,
+      "reference_words": 107,
+      "personalization_needed": false,
+      "cue_points": []
+    },
+    {
+      "part": "part3",
+      "forecast_id": "pdf-p3-25-06",
+      "question": "What should the government do to help people with musical talent?",
+      "pages": [
+        72
+      ],
+      "site_id": "pdf-p3-25-06",
+      "previously_covered": false,
+      "reference_words": 106,
+      "personalization_needed": false,
+      "cue_points": []
+    },
+    {
+      "part": "part3",
+      "forecast_id": "pdf-p3-26-01",
+      "question": "Is it important to take photos while traveling?",
+      "pages": [
+        72
+      ],
+      "site_id": "pdf-p3-26-01",
+      "previously_covered": false,
+      "reference_words": 94,
+      "personalization_needed": false,
+      "cue_points": []
+    },
+    {
+      "part": "part3",
+      "forecast_id": "pdf-p3-26-02",
+      "question": "Can you trust other people's travel journals on the Internet?",
+      "pages": [
+        73
+      ],
+      "site_id": "pdf-p3-26-02",
+      "previously_covered": false,
+      "reference_words": 103,
+      "personalization_needed": false,
+      "cue_points": []
+    },
+    {
+      "part": "part3",
+      "forecast_id": "pdf-p3-26-03",
+      "question": "What factors affect how people feel about traveling?",
+      "pages": [
+        73
+      ],
+      "site_id": "pdf-p3-26-03",
+      "previously_covered": false,
+      "reference_words": 106,
+      "personalization_needed": false,
+      "cue_points": []
+    },
+    {
+      "part": "part3",
+      "forecast_id": "pdf-p3-26-04",
+      "question": "Will you go to a foreign country to travel because of the distinct landscape?",
+      "pages": [
+        73
+      ],
+      "site_id": "pdf-p3-26-04",
+      "previously_covered": false,
+      "reference_words": 99,
+      "personalization_needed": false,
+      "cue_points": []
+    },
+    {
+      "part": "part3",
+      "forecast_id": "pdf-p3-26-05",
+      "question": "How can tourists have a good travel experience?",
+      "pages": [
+        73
+      ],
+      "site_id": "pdf-p3-26-05",
+      "previously_covered": false,
+      "reference_words": 101,
+      "personalization_needed": false,
+      "cue_points": []
+    },
+    {
+      "part": "part3",
+      "forecast_id": "pdf-p3-26-06",
+      "question": "What kinds of comments do travelers typically leave online after a trip?",
+      "pages": [
+        73
+      ],
+      "site_id": "pdf-p3-26-06",
+      "previously_covered": false,
+      "reference_words": 99,
+      "personalization_needed": false,
+      "cue_points": []
+    }
+  ],
+  "timing_policy": "默认120词/分钟估算，P1约50–70词、P2约220–250词、P3约90–120词；姓名核验例外。真实时长以口头录音为准。含槽位的框架不等于个人化答案已完成。",
+  "rubric_sources": [
+    "https://ielts.org/cdn/ielts-guides/ielts-speaking-band-descriptors.pdf",
+    "https://ielts.org/take-a-test/test-types/ielts-academic-test/ielts-academic-format-speaking"
+  ],
+  "background_sources": [
+    "https://whc.unesco.org/en/list/1334/"
+  ]
+}
