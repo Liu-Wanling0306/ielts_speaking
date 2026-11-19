@@ -98,6 +98,17 @@ for part,expected in [('part1',8),('part3',9)]:
 check(allq['pdf-p3-11-04']['category_id']=='education','School popularity classified under workplace')
 check(allq['pdf-p3-05-06']['category_id']=='work','Business humour classified only under comedy')
 check(allq['pdf-p3-25-03']['category_id']=='education','Instrument learning classified only under music')
+mock=lib.get('mock_exam',{})
+check(mock.get('part1_seconds')==270 and mock.get('part3_seconds')==270,'Mock section timing differs')
+check(mock.get('preparation_seconds')==60 and mock.get('long_turn_seconds')==120,'Mock long-turn timing differs')
+all_topics={t['id'] for t in lib['part3']}
+for q in lib['part2']:
+ link=mock.get('links',{}).get(q['id'],{})
+ check(len(link.get('wrap_up',[]))==2 and all(link.get('wrap_up',[])),q['id']+' missing mock wrap-up')
+ check(bool(link.get('part3_topic_ids')) and all(t in all_topics for t in link.get('part3_topic_ids',[])),q['id']+' invalid linked discussion topics')
+ check(all(id in allq for id in link.get('part3_question_ids',[])),q['id']+' invalid linked discussion question')
+for file in ['mock-core.js','mock-exam.js','tests/verify_mock_core.js','tests/verify_mock_ui.py']:
+ check((ROOT/file).exists(),'Missing mock module/check '+file)
 if problems:
  print('\n'.join('ERROR: '+p for p in problems));sys.exit(1)
 print(f"PASS v{lib['meta']['version']}: all original answers/IDs preserved; PDF coverage 105/105 + 29/29 + 129/129; reference lengths, cue cards and template status checked.")

@@ -1,0 +1,24 @@
+'use strict';
+const assert=require('node:assert/strict'),C=require('../mock-core.js'),lib=require('../data/library.json');
+let seed=691218;function rng(){seed=(Math.imul(seed,1664525)+1013904223)>>>0;return seed/4294967296}
+const makeUser=()=>({mock:C.empty(),completed:{},review:{}}),user=makeUser(),bank=C.banks(lib),seen=new Set(),original=JSON.stringify(user);
+for(let n=0;n<600;n++){
+ const plan=C.generate(lib,user,rng);assert(plan.p1.length>=10&&plan.p1.length<=12);assert(plan.p3.length>=4&&plan.p3.length<=6);assert.equal(plan.topics.length,3);assert.equal(new Set(plan.topics).size,3);assert.equal(plan.wrap.length,2);assert.notEqual(plan.p2.id,'p2-20');seen.add(plan.p2.id);
+ for(const rows of [plan.p1,[plan.p2],plan.p3]){assert.equal(new Set(rows.map(q=>q.id)).size,rows.length);assert.equal(new Set(rows.map(q=>C.normalize(q.question||q.title))).size,rows.length);assert(rows.every(q=>!q.not_applicable&&!q.length_exception))}
+ const scope=C.part3Pool(bank,lib.mock_exam.links[plan.p2.id]);assert(plan.p3.every(q=>scope.some(s=>s.id===q.id)));
+}
+assert.equal(seen.size,bank.part2.length,'All eligible cue cards should be reachable');assert.equal(JSON.stringify(user),original,'Drawing alone must not mark anything practised');
+const sample=bank.part1.slice(0,3);user.completed[sample[0].aliases.at(-1)]=true;assert.equal(C.tier(sample[0],user),1);C.rate(user.mock,sample[1],'fluent');assert.equal(C.tier(sample[1],user),2);const chosen=C.pick(sample,3,user,rng);assert.equal(chosen[0].id,sample[2].id);assert.equal(chosen.at(-1).id,sample[1].id);
+C.rate(user.mock,sample[1],'unfamiliar');assert.equal(C.tier(sample[1],user),0);C.attempt(user.mock,sample[1]);assert.equal(C.tier(sample[1],user),1);C.rate(user.mock,sample[1],'developing');user.review[sample[1].id]=true;assert.equal(C.tier(sample[1],user),1);C.rate(user.mock,sample[1],'fluent');user.review[sample[1].id]=false;assert.equal(C.tier(sample[1],user),2);
+const alias=bank.part1.find(q=>q.aliases.length>1);assert(alias);C.rate(user.mock,alias,'unfamiliar');for(const id of alias.aliases)assert.equal(user.mock.ratings[id].level,'unfamiliar');assert.equal(C.tier(alias,user),0);
+const trained=makeUser();for(const rows of [bank.part1,bank.part2,bank.part3])for(const q of rows)C.rate(trained.mock,q,'fluent');const returned=bank.part2[3];C.rate(trained.mock,returned,'unfamiliar');for(let i=0;i<20;i++)assert.equal(C.generate(lib,trained,rng).p2.id,returned.id,'An unfamiliar cue card must outrank fluent cards');
+// When cue-card priority ties, avoid an already-trained discussion scope if a fresh scope exists.
+const discussionUser=makeUser();for(const q of bank.part3)C.rate(discussionUser.mock,q,'fluent');
+const freshScope=C.part3Pool(bank,lib.mock_exam.links['p2-16']);for(const q of freshScope)for(const id of q.aliases)delete discussionUser.mock.ratings[id];
+for(let i=0;i<30;i++){const plan=C.generate(lib,discussionUser,rng);assert(plan.p3.every(q=>C.tier(q,discussionUser)===0),'Fresh linked discussion should outrank a repeated discussion when the cue-card tier ties')}
+const restored=C.validateState(user.mock,bank);assert.deepEqual(restored,user.mock);assert.equal(C.validateState(undefined,bank),null);assert.equal(C.mergeState(restored,null),restored);
+assert.throws(()=>C.validateState({schema:1,ratings:{constructor:{level:'fluent',attempts:1,at:Date.now()}},history:[],active:null},bank));assert.throws(()=>C.validateState({...user.mock,ratings:{[sample[0].id]:{level:'unfamiliar',attempts:-1,at:Date.now()}}},bank));
+const qid=bank.part1[0].id,p2id=bank.part2[0].id;const active={id:'test-session',startedAt:new Date().toISOString(),status:'exam',steps:[{kind:'intro',label:'Identity',durationMs:0},{kind:'p1',label:'Interview',qid,durationMs:0}],index:1,remainingMs:22000,stepElapsedMs:3000,totalMs:3000,tickAt:Date.now(),running:false,sectionMs:{p1:267000,p3:270000},notes:'prepared notes',results:[],plannedIds:[qid,p2id],part2Id:p2id,complete:false,finishedAt:null};
+const state={...C.empty(),active};assert.deepEqual(C.validateState(state,bank),state);assert.throws(()=>C.validateState({...state,active:{...active,index:100}},bank));assert.throws(()=>C.validateState({...state,active:{...active,remainingMs:1e10}},bank));assert.throws(()=>C.validateState({...state,active:{...active,steps:[{kind:'p3',label:'Wrong part',qid,durationMs:0}]}},bank));
+const entry={id:'history-1',startedAt:active.startedAt,finishedAt:new Date().toISOString(),totalMs:3000,complete:false,results:[{id:qid,outcome:'answered',elapsedMs:3000}],plannedIds:[qid,p2id],part2Id:p2id};const incoming={...C.empty(),history:[entry]};const merged=C.mergeState(state,C.validateState(incoming,bank));assert.equal(merged.active.id,active.id);assert.equal(C.mergeState(merged,incoming).history.length,1);
+console.log('PASS 600 seeded mock plans, all 38 cue cards reachable, related Part 3, freshness/recycling/aliases, no draw-only mutation, backup validation and merge');

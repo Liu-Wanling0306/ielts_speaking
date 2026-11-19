@@ -8618,15 +8618,15 @@
     }
   ],
   "meta": {
-    "version": "1.3.1",
-    "date": "2026-11-18",
+    "version": "1.4.0",
+    "date": "2026-11-19",
     "source_file": "IELTS_11.23-11.29_个人素材_Band7.5训练库.html",
     "source_note": "已依据上传的73页海外预测PDF核查全部题干：Part 1共105问、Part 2共29题卡、Part 3共129问。Part 1已依据用户补充的个人背景Word修订。预测题不等于官方已验证考试题；Band 7.5为训练目标，文字不能保证实际口语分数。",
     "question_note": "预测原题标注PDF页码；Part 1依据本轮个人背景Word重写，常规题约四句话、20–30秒。姓名核验简答；工作分支标为不适用，6题仍需确认个别细节。原始HTML回答保留存档。",
     "deduplicated_part1_answers": 13,
     "storage_key": "ieltsSpeaking:user:v1",
     "forecast_audit": {
-      "version": "1.3.1",
+      "version": "1.4.0",
       "source_file": "2026年11. 23-11. 29日雅思口语预测-海外答案版 Z.pdf",
       "source_pages": 73,
       "source_sha256": "ca13d53d5ec850befba5676807ef2a0fd3c57df075a4ba4e0427afd1c3007792",
@@ -12750,5 +12750,511 @@
         "description": "节日、家庭团聚、庆祝与文化传承"
       }
     ]
+  },
+  "mock_exam": {
+    "version": 1,
+    "format_source": "https://ielts.org/take-a-test/test-types/ielts-academic-test/ielts-academic-format-speaking",
+    "format_checked": "2026-11-19",
+    "part1_seconds": 270,
+    "preparation_seconds": 60,
+    "long_turn_seconds": 120,
+    "wrap_up_seconds": 15,
+    "part3_seconds": 270,
+    "links": {
+      "p2-01": {
+        "part3_topic_ids": [
+          "pdf-p3-topic-01",
+          "pdf-p3-topic-02"
+        ],
+        "part3_question_ids": [],
+        "wrap_up": [
+          "Do you still enjoy talking to this person?",
+          "Would you like to have more conversations like that?"
+        ],
+        "wrap_up_source": "为模拟流程编写的个人化收尾追问，不是PDF原题。"
+      },
+      "p2-02": {
+        "part3_topic_ids": [
+          "pdf-p3-topic-01",
+          "pdf-p3-topic-02"
+        ],
+        "part3_question_ids": [],
+        "wrap_up": [
+          "Do you see this person very often?",
+          "Would you like to spend more time with this person?"
+        ],
+        "wrap_up_source": "为模拟流程编写的个人化收尾追问，不是PDF原题。"
+      },
+      "p2-03": {
+        "part3_topic_ids": [
+          "pdf-p3-topic-03"
+        ],
+        "part3_question_ids": [],
+        "wrap_up": [
+          "Would you like to take another lesson like this?",
+          "Have you used anything you learned in that lesson?"
+        ],
+        "wrap_up_source": "为模拟流程编写的个人化收尾追问，不是PDF原题。"
+      },
+      "p2-04": {
+        "part3_topic_ids": [
+          "pdf-p3-topic-04"
+        ],
+        "part3_question_ids": [
+          "p3-03-1",
+          "p3-03-4"
+        ],
+        "wrap_up": [
+          "Do you usually go to this place alone?",
+          "Would you recommend this place to a friend?"
+        ],
+        "wrap_up_source": "为模拟流程编写的个人化收尾追问，不是PDF原题。"
+      },
+      "p2-05": {
+        "part3_topic_ids": [
+          "pdf-p3-topic-26"
+        ],
+        "part3_question_ids": [
+          "p3-03-1",
+          "p3-03-2",
+          "p3-03-3",
+          "p3-03-4"
+        ],
+        "wrap_up": [
+          "Would you like to go back to this place?",
+          "Did you take photographs of the scenery?"
+        ],
+        "wrap_up_source": "为模拟流程编写的个人化收尾追问，不是PDF原题。"
+      },
+      "p2-06": {
+        "part3_topic_ids": [
+          "pdf-p3-topic-06"
+        ],
+        "part3_question_ids": [
+          "pdf-p3-10-02",
+          "pdf-p3-10-03"
+        ],
+        "wrap_up": [
+          "Do you often ask this person for advice?",
+          "Would you like to work with this person again?"
+        ],
+        "wrap_up_source": "为模拟流程编写的个人化收尾追问，不是PDF原题。"
+      },
+      "p2-07": {
+        "part3_topic_ids": [
+          "pdf-p3-topic-07"
+        ],
+        "part3_question_ids": [
+          "p3-05-1",
+          "p3-05-2",
+          "p3-05-3"
+        ],
+        "wrap_up": [
+          "Do you still use your phone for this purpose?",
+          "Could you have managed without your phone that day?"
+        ],
+        "wrap_up_source": "为模拟流程编写的个人化收尾追问，不是PDF原题。"
+      },
+      "p2-08": {
+        "part3_topic_ids": [
+          "pdf-p3-topic-08"
+        ],
+        "part3_question_ids": [
+          "p3-03-3"
+        ],
+        "wrap_up": [
+          "Would you like to visit that place again?",
+          "Was there one animal you especially wanted to see?"
+        ],
+        "wrap_up_source": "为模拟流程编写的个人化收尾追问，不是PDF原题。"
+      },
+      "p2-09": {
+        "part3_topic_ids": [
+          "pdf-p3-topic-09"
+        ],
+        "part3_question_ids": [],
+        "wrap_up": [
+          "Did you enjoy planning the activity?",
+          "Would you make a similar plan with these people again?"
+        ],
+        "wrap_up_source": "为模拟流程编写的个人化收尾追问，不是PDF原题。"
+      },
+      "p2-10": {
+        "part3_topic_ids": [
+          "pdf-p3-topic-10"
+        ],
+        "part3_question_ids": [
+          "p3-06-1",
+          "p3-06-2"
+        ],
+        "wrap_up": [
+          "Are you still happy with that decision?",
+          "Would you make the same choice again?"
+        ],
+        "wrap_up_source": "为模拟流程编写的个人化收尾追问，不是PDF原题。"
+      },
+      "p2-11": {
+        "part3_topic_ids": [
+          "pdf-p3-topic-11"
+        ],
+        "part3_question_ids": [
+          "p3-07-2",
+          "p3-07-3"
+        ],
+        "wrap_up": [
+          "Would you like to meet this person?",
+          "Have you ever seen this person perform in person?"
+        ],
+        "wrap_up_source": "为模拟流程编写的个人化收尾追问，不是PDF原题。"
+      },
+      "p2-12": {
+        "part3_topic_ids": [
+          "pdf-p3-topic-12"
+        ],
+        "part3_question_ids": [],
+        "wrap_up": [
+          "Do you see or use this object often?",
+          "Would you choose this object as a gift?"
+        ],
+        "wrap_up_source": "为模拟流程编写的个人化收尾追问，不是PDF原题。"
+      },
+      "p2-13": {
+        "part3_topic_ids": [
+          "pdf-p3-topic-13"
+        ],
+        "part3_question_ids": [],
+        "wrap_up": [
+          "Are you still in touch with this friend?",
+          "Do you often think about your first impression of this person?"
+        ],
+        "wrap_up_source": "为模拟流程编写的个人化收尾追问，不是PDF原题。"
+      },
+      "p2-14": {
+        "part3_topic_ids": [
+          "pdf-p3-topic-14",
+          "pdf-p3-topic-21"
+        ],
+        "part3_question_ids": [],
+        "wrap_up": [
+          "Have you thanked this person for the advice?",
+          "Would you ask this person for advice again?"
+        ],
+        "wrap_up_source": "为模拟流程编写的个人化收尾追问，不是PDF原题。"
+      },
+      "p2-15": {
+        "part3_topic_ids": [
+          "pdf-p3-topic-15"
+        ],
+        "part3_question_ids": [],
+        "wrap_up": [
+          "Did your relationship change after the disagreement?",
+          "Would you handle that conversation differently now?"
+        ],
+        "wrap_up_source": "为模拟流程编写的个人化收尾追问，不是PDF原题。"
+      },
+      "p2-16": {
+        "part3_topic_ids": [
+          "pdf-p3-topic-16"
+        ],
+        "part3_question_ids": [],
+        "wrap_up": [
+          "Did you eventually get the item back?",
+          "Are you more careful with your belongings now?"
+        ],
+        "wrap_up_source": "为模拟流程编写的个人化收尾追问，不是PDF原题。"
+      },
+      "p2-17": {
+        "part3_topic_ids": [
+          "pdf-p3-topic-17"
+        ],
+        "part3_question_ids": [],
+        "wrap_up": [
+          "Do you often see this person wearing those clothes?",
+          "Would you wear a similar outfit yourself?"
+        ],
+        "wrap_up_source": "为模拟流程编写的个人化收尾追问，不是PDF原题。"
+      },
+      "p2-18": {
+        "part3_topic_ids": [
+          "pdf-p3-topic-18"
+        ],
+        "part3_question_ids": [],
+        "wrap_up": [
+          "Did the children stop behaving that way?",
+          "Would you feel comfortable visiting that place again?"
+        ],
+        "wrap_up_source": "为模拟流程编写的个人化收尾追问，不是PDF原题。"
+      },
+      "p2-19": {
+        "part3_topic_ids": [
+          "pdf-p3-topic-19"
+        ],
+        "part3_question_ids": [],
+        "wrap_up": [
+          "Did you take any photographs of what you saw?",
+          "Would you like to see something similar again?"
+        ],
+        "wrap_up_source": "为模拟流程编写的个人化收尾追问，不是PDF原题。"
+      },
+      "p2-20": {
+        "part3_topic_ids": [
+          "pdf-p3-topic-07",
+          "pdf-p3-topic-03"
+        ],
+        "part3_question_ids": [],
+        "wrap_up": [
+          "Do you use this invention every day?",
+          "Would it be difficult for you to live without it?"
+        ],
+        "wrap_up_source": "为模拟流程编写的个人化收尾追问，不是PDF原题。"
+      },
+      "p2-21": {
+        "part3_topic_ids": [
+          "pdf-p3-topic-21",
+          "pdf-p3-topic-14"
+        ],
+        "part3_question_ids": [],
+        "wrap_up": [
+          "Did the praise make you want to continue the activity?",
+          "Do you still remember what the person said?"
+        ],
+        "wrap_up_source": "为模拟流程编写的个人化收尾追问，不是PDF原题。"
+      },
+      "p2-22": {
+        "part3_topic_ids": [
+          "pdf-p3-topic-22"
+        ],
+        "part3_question_ids": [
+          "p3-10-1",
+          "p3-10-2",
+          "p3-10-3"
+        ],
+        "wrap_up": [
+          "Would you like to celebrate a similar occasion again?",
+          "Do you have any photographs of the celebration?"
+        ],
+        "wrap_up_source": "为模拟流程编写的个人化收尾追问，不是PDF原题。"
+      },
+      "p2-23": {
+        "part3_topic_ids": [
+          "pdf-p3-topic-23"
+        ],
+        "part3_question_ids": [
+          "p3-08-1",
+          "p3-08-2",
+          "p3-08-3"
+        ],
+        "wrap_up": [
+          "Would you use this website again?",
+          "Have you recommended it to anyone?"
+        ],
+        "wrap_up_source": "为模拟流程编写的个人化收尾追问，不是PDF原题。"
+      },
+      "p2-24": {
+        "part3_topic_ids": [
+          "pdf-p3-topic-24"
+        ],
+        "part3_question_ids": [
+          "p3-09-3",
+          "p3-09-4"
+        ],
+        "wrap_up": [
+          "Have you decided which competition to enter?",
+          "Would you enter mainly to learn or to win?"
+        ],
+        "wrap_up_source": "为模拟流程编写的个人化收尾追问，不是PDF原题。"
+      },
+      "p2-25": {
+        "part3_topic_ids": [
+          "pdf-p3-topic-25"
+        ],
+        "part3_question_ids": [
+          "p3-09-1",
+          "p3-09-2"
+        ],
+        "wrap_up": [
+          "Would you like to hear this singer perform live?",
+          "Do you often listen to this singer now?"
+        ],
+        "wrap_up_source": "为模拟流程编写的个人化收尾追问，不是PDF原题。"
+      },
+      "p2-26": {
+        "part3_topic_ids": [
+          "pdf-p3-topic-26"
+        ],
+        "part3_question_ids": [
+          "p3-03-1",
+          "p3-03-2",
+          "p3-03-3",
+          "p3-03-4"
+        ],
+        "wrap_up": [
+          "Would you like to return to this place?",
+          "Who would you recommend it to first?"
+        ],
+        "wrap_up_source": "为模拟流程编写的个人化收尾追问，不是PDF原题。"
+      },
+      "p2-27": {
+        "part3_topic_ids": [
+          "pdf-p3-topic-01",
+          "pdf-p3-topic-02",
+          "pdf-p3-topic-13"
+        ],
+        "part3_question_ids": [],
+        "wrap_up": [
+          "Do you speak to this neighbour often?",
+          "Would you like to know more about the area from this person?"
+        ],
+        "wrap_up_source": "为模拟流程编写的个人化收尾追问，不是PDF原题。"
+      },
+      "p2-28": {
+        "part3_topic_ids": [
+          "pdf-p3-topic-10",
+          "pdf-p3-topic-15"
+        ],
+        "part3_question_ids": [],
+        "wrap_up": [
+          "Are you glad you listened to this person?",
+          "Would you accept similar advice from this person again?"
+        ],
+        "wrap_up_source": "为模拟流程编写的个人化收尾追问，不是PDF原题。"
+      },
+      "p2-29": {
+        "part3_topic_ids": [
+          "pdf-p3-topic-07",
+          "pdf-p3-topic-03"
+        ],
+        "part3_question_ids": [],
+        "wrap_up": [
+          "Do you use this invention every day?",
+          "Would it be difficult for you to live without it?"
+        ],
+        "wrap_up_source": "为模拟流程编写的个人化收尾追问，不是PDF原题。"
+      },
+      "new-j-1": {
+        "part3_topic_ids": [
+          "pdf-p3-topic-14",
+          "pdf-p3-topic-21"
+        ],
+        "part3_question_ids": [],
+        "wrap_up": [
+          "Are you still in contact with this person?",
+          "Would you ask this person for help again?"
+        ],
+        "wrap_up_source": "为模拟流程编写的个人化收尾追问，不是PDF原题。"
+      },
+      "new-j-2": {
+        "part3_topic_ids": [
+          "pdf-p3-topic-13"
+        ],
+        "part3_question_ids": [],
+        "wrap_up": [
+          "Are you glad you changed your opinion?",
+          "Do you still spend time with this person?"
+        ],
+        "wrap_up_source": "为模拟流程编写的个人化收尾追问，不是PDF原题。"
+      },
+      "new-k-1": {
+        "part3_topic_ids": [
+          "pdf-p3-topic-16"
+        ],
+        "part3_question_ids": [],
+        "wrap_up": [
+          "Did you thank the person who helped you?",
+          "Do you still remember that person clearly?"
+        ],
+        "wrap_up_source": "为模拟流程编写的个人化收尾追问，不是PDF原题。"
+      },
+      "new-k-2": {
+        "part3_topic_ids": [
+          "pdf-p3-topic-16"
+        ],
+        "part3_question_ids": [],
+        "wrap_up": [
+          "Did the problem affect the rest of your journey?",
+          "Would you prepare differently for a similar trip?"
+        ],
+        "wrap_up_source": "为模拟流程编写的个人化收尾追问，不是PDF原题。"
+      },
+      "new-l-1": {
+        "part3_topic_ids": [
+          "pdf-p3-topic-04"
+        ],
+        "part3_question_ids": [
+          "p3-03-1",
+          "p3-03-4"
+        ],
+        "wrap_up": [
+          "Do you usually work there alone?",
+          "Would you recommend it to someone who needs to study?"
+        ],
+        "wrap_up_source": "为模拟流程编写的个人化收尾追问，不是PDF原题。"
+      },
+      "new-l-2": {
+        "part3_topic_ids": [
+          "pdf-p3-topic-04"
+        ],
+        "part3_question_ids": [
+          "p3-03-1",
+          "p3-03-4"
+        ],
+        "wrap_up": [
+          "How often would you like to go there?",
+          "Do you prefer to visit alone or with someone?"
+        ],
+        "wrap_up_source": "为模拟流程编写的个人化收尾追问，不是PDF原题。"
+      },
+      "new-m-1": {
+        "part3_topic_ids": [
+          "pdf-p3-topic-01",
+          "pdf-p3-topic-02",
+          "pdf-p3-topic-13"
+        ],
+        "part3_question_ids": [],
+        "wrap_up": [
+          "Do you often talk to this person?",
+          "Would you like to learn more about the area from them?"
+        ],
+        "wrap_up_source": "为模拟流程编写的个人化收尾追问，不是PDF原题。"
+      },
+      "new-m-2": {
+        "part3_topic_ids": [
+          "pdf-p3-topic-01",
+          "pdf-p3-topic-02",
+          "pdf-p3-topic-13"
+        ],
+        "part3_question_ids": [],
+        "wrap_up": [
+          "Did you visit any of the places you discussed?",
+          "Would you like to have another conversation like that?"
+        ],
+        "wrap_up_source": "为模拟流程编写的个人化收尾追问，不是PDF原题。"
+      },
+      "p2-pdf-film": {
+        "part3_topic_ids": [
+          "pdf-p3-topic-05"
+        ],
+        "part3_question_ids": [],
+        "wrap_up": [
+          "Would you watch this film again?",
+          "Would you recommend it to your friends?"
+        ],
+        "wrap_up_source": "为模拟流程编写的个人化收尾追问，不是PDF原题。"
+      },
+      "p2-pdf-river": {
+        "part3_topic_ids": [
+          "pdf-p3-topic-20"
+        ],
+        "part3_question_ids": [
+          "p3-03-3"
+        ],
+        "wrap_up": [
+          "Would you recommend visiting this river or lake?",
+          "Would you like to spend more time there?"
+        ],
+        "wrap_up_source": "为模拟流程编写的个人化收尾追问，不是PDF原题。"
+      }
+    },
+    "note": "正式考试按时间控制，并无固定逐题数量；本模拟采用3组Part 1题约10–12问、1张Part 2题卡与2道训练补充收尾追问、4–6道关联Part 3问题。"
   }
 }

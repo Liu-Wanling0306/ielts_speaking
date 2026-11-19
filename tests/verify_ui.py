@@ -160,7 +160,7 @@ async def main():
   assert any('待核题' in x for x in await page.locator('#card-p2-20 .note').all_text_contents())
   await page.screenshot(path='/workspace/work/speaking/desktop.png',full_page=True)
   await page.set_viewport_size({'width':390,'height':844})
-  for route in ['home','p1','p2','p3','audit','phrases','review','versions']:
+  for route in ['home','p1','p2','p3','mock','audit','phrases','review','versions']:
    await page.evaluate('(route)=>go(route)',route)
    assert await page.evaluate('document.documentElement.scrollWidth<=innerWidth'),route+' mobile overflow'
   await page.evaluate("state.group='story-a';state.mode='read';go('p2')")
