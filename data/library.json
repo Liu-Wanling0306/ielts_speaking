@@ -8618,7 +8618,7 @@
     }
   ],
   "meta": {
-    "version": "1.4.1",
+    "version": "1.5.0",
     "date": "2026-11-19",
     "source_file": "IELTS_11.23-11.29_个人素材_Band7.5训练库.html",
     "source_note": "已依据上传的73页海外预测PDF核查全部题干：Part 1共105问、Part 2共29题卡、Part 3共129问。Part 1已依据用户补充的个人背景Word修订。预测题不等于官方已验证考试题；Band 7.5为训练目标，文字不能保证实际口语分数。",
@@ -8626,7 +8626,7 @@
     "deduplicated_part1_answers": 13,
     "storage_key": "ieltsSpeaking:user:v1",
     "forecast_audit": {
-      "version": "1.4.1",
+      "version": "1.5.0",
       "source_file": "2026年11. 23-11. 29日雅思口语预测-海外答案版 Z.pdf",
       "source_pages": 73,
       "source_sha256": "ca13d53d5ec850befba5676807ef2a0fd3c57df075a4ba4e0427afd1c3007792",
@@ -13271,6 +13271,9 @@
         "wrap_up_source": "为模拟流程编写的个人化收尾追问，不是PDF原题。"
       }
     },
-    "note": "正式考试按时间控制，并无固定逐题数量；本模拟采用3组Part 1题约10–12问、1张Part 2题卡与2道训练补充收尾追问、4–6道关联Part 3问题。"
+    "note": "正式考试按时间控制，并无固定逐题数量；本模拟采用3组Part 1题约10–12问、1张Part 2题卡与2道训练补充收尾追问、4–6道关联Part 3问题。",
+    "auto_advance": false,
+    "display_mode": "whole_part",
+    "question_audio": "browser_english_before_answer_timer"
   }
 }

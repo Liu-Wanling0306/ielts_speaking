@@ -99,6 +99,7 @@ check(allq['pdf-p3-11-04']['category_id']=='education','School popularity classi
 check(allq['pdf-p3-05-06']['category_id']=='work','Business humour classified only under comedy')
 check(allq['pdf-p3-25-03']['category_id']=='education','Instrument learning classified only under music')
 mock=lib.get('mock_exam',{})
+check(mock.get('auto_advance') is False and mock.get('display_mode')=='whole_part','Mock must stay on the current question/Part at timeout')
 check(mock.get('part1_seconds')==270 and mock.get('part3_seconds')==270,'Mock section timing differs')
 check(mock.get('preparation_seconds')==60 and mock.get('long_turn_seconds')==120,'Mock long-turn timing differs')
 all_topics={t['id'] for t in lib['part3']}
