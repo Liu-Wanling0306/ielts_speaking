@@ -1,12 +1,14 @@
 'use strict';
 const assert=require('node:assert/strict'),C=require('../mock-core.js'),lib=require('../data/library.json');
 let seed=691218;function rng(){seed=(Math.imul(seed,1664525)+1013904223)>>>0;return seed/4294967296}
-const makeUser=()=>({mock:C.empty(),completed:{},review:{}}),user=makeUser(),bank=C.banks(lib),seen=new Set(),original=JSON.stringify(user);
+const makeUser=()=>({mock:C.empty(),completed:{},review:{}}),user=makeUser(),bank=C.banks(lib),seen=new Set(),seenP1=new Set(),seenP3=new Set(),original=JSON.stringify(user);
 for(let n=0;n<600;n++){
- const plan=C.generate(lib,user,rng);assert(plan.p1.length>=10&&plan.p1.length<=12);assert(plan.p3.length>=4&&plan.p3.length<=6);assert.equal(plan.topics.length,3);assert.equal(new Set(plan.topics).size,3);assert.equal(plan.wrap.length,2);assert.notEqual(plan.p2.id,'p2-20');seen.add(plan.p2.id);
+ const plan=C.generate(lib,user,rng);assert(plan.p1.length>=10&&plan.p1.length<=12);assert(plan.p3.length>=4&&plan.p3.length<=6);assert.equal(plan.topics.length,3);assert.equal(new Set(plan.topics).size,3);assert.equal(plan.wrap.length,2);assert.notEqual(plan.p2.id,'p2-20');seen.add(plan.p2.id);plan.p1.forEach(q=>seenP1.add(q.id));plan.p3.forEach(q=>seenP3.add(q.id));
  for(const rows of [plan.p1,[plan.p2],plan.p3]){assert.equal(new Set(rows.map(q=>q.id)).size,rows.length);assert.equal(new Set(rows.map(q=>C.normalize(q.question||q.title))).size,rows.length);assert(rows.every(q=>!q.not_applicable&&!q.length_exception))}
  const scope=C.part3Pool(bank,lib.mock_exam.links[plan.p2.id]);assert(plan.p3.every(q=>scope.some(s=>s.id===q.id)));
 }
+assert.equal(seenP3.size,bank.part3.length,'All Part 3 questions, including original supplements, must be reachable');
+assert.equal(seenP1.size,bank.part1.length,'All eligible Part 1 questions, including unique supplements, must be reachable');
 assert.equal(seen.size,bank.part2.length,'All eligible cue cards should be reachable');assert.equal(JSON.stringify(user),original,'Drawing alone must not mark anything practised');
 const sample=bank.part1.slice(0,3);user.completed[sample[0].aliases.at(-1)]=true;assert.equal(C.tier(sample[0],user),1);C.rate(user.mock,sample[1],'fluent');assert.equal(C.tier(sample[1],user),2);const chosen=C.pick(sample,3,user,rng);assert.equal(chosen[0].id,sample[2].id);assert.equal(chosen.at(-1).id,sample[1].id);
 C.rate(user.mock,sample[1],'unfamiliar');assert.equal(C.tier(sample[1],user),0);C.attempt(user.mock,sample[1]);assert.equal(C.tier(sample[1],user),1);C.rate(user.mock,sample[1],'developing');user.review[sample[1].id]=true;assert.equal(C.tier(sample[1],user),1);C.rate(user.mock,sample[1],'fluent');user.review[sample[1].id]=false;assert.equal(C.tier(sample[1],user),2);

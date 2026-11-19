@@ -8618,7 +8618,7 @@
     }
   ],
   "meta": {
-    "version": "1.4.0",
+    "version": "1.4.1",
     "date": "2026-11-19",
     "source_file": "IELTS_11.23-11.29_个人素材_Band7.5训练库.html",
     "source_note": "已依据上传的73页海外预测PDF核查全部题干：Part 1共105问、Part 2共29题卡、Part 3共129问。Part 1已依据用户补充的个人背景Word修订。预测题不等于官方已验证考试题；Band 7.5为训练目标，文字不能保证实际口语分数。",
@@ -8626,7 +8626,7 @@
     "deduplicated_part1_answers": 13,
     "storage_key": "ieltsSpeaking:user:v1",
     "forecast_audit": {
-      "version": "1.4.0",
+      "version": "1.4.1",
       "source_file": "2026年11. 23-11. 29日雅思口语预测-海外答案版 Z.pdf",
       "source_pages": 73,
       "source_sha256": "ca13d53d5ec850befba5676807ef2a0fd3c57df075a4ba4e0427afd1c3007792",
@@ -12764,7 +12764,8 @@
       "p2-01": {
         "part3_topic_ids": [
           "pdf-p3-topic-01",
-          "pdf-p3-topic-02"
+          "pdf-p3-topic-02",
+          "p3-01"
         ],
         "part3_question_ids": [],
         "wrap_up": [
@@ -12776,7 +12777,8 @@
       "p2-02": {
         "part3_topic_ids": [
           "pdf-p3-topic-01",
-          "pdf-p3-topic-02"
+          "pdf-p3-topic-02",
+          "p3-01"
         ],
         "part3_question_ids": [],
         "wrap_up": [
@@ -12787,7 +12789,8 @@
       },
       "p2-03": {
         "part3_topic_ids": [
-          "pdf-p3-topic-03"
+          "pdf-p3-topic-03",
+          "p3-02"
         ],
         "part3_question_ids": [],
         "wrap_up": [
@@ -12842,7 +12845,8 @@
       },
       "p2-07": {
         "part3_topic_ids": [
-          "pdf-p3-topic-07"
+          "pdf-p3-topic-07",
+          "p3-05"
         ],
         "part3_question_ids": [
           "p3-05-1",
@@ -12881,7 +12885,8 @@
       },
       "p2-10": {
         "part3_topic_ids": [
-          "pdf-p3-topic-10"
+          "pdf-p3-topic-10",
+          "p3-06"
         ],
         "part3_question_ids": [
           "p3-06-1",
@@ -12943,7 +12948,8 @@
       },
       "p2-15": {
         "part3_topic_ids": [
-          "pdf-p3-topic-15"
+          "pdf-p3-topic-15",
+          "p3-06"
         ],
         "part3_question_ids": [],
         "wrap_up": [
@@ -12965,7 +12971,8 @@
       },
       "p2-17": {
         "part3_topic_ids": [
-          "pdf-p3-topic-17"
+          "pdf-p3-topic-17",
+          "p3-07"
         ],
         "part3_question_ids": [],
         "wrap_up": [
@@ -12976,7 +12983,8 @@
       },
       "p2-18": {
         "part3_topic_ids": [
-          "pdf-p3-topic-18"
+          "pdf-p3-topic-18",
+          "p3-04"
         ],
         "part3_question_ids": [],
         "wrap_up": [
@@ -12999,7 +13007,9 @@
       "p2-20": {
         "part3_topic_ids": [
           "pdf-p3-topic-07",
-          "pdf-p3-topic-03"
+          "pdf-p3-topic-03",
+          "p3-05",
+          "p3-02"
         ],
         "part3_question_ids": [],
         "wrap_up": [
@@ -13098,7 +13108,8 @@
         "part3_topic_ids": [
           "pdf-p3-topic-01",
           "pdf-p3-topic-02",
-          "pdf-p3-topic-13"
+          "pdf-p3-topic-13",
+          "p3-01"
         ],
         "part3_question_ids": [],
         "wrap_up": [
@@ -13110,7 +13121,8 @@
       "p2-28": {
         "part3_topic_ids": [
           "pdf-p3-topic-10",
-          "pdf-p3-topic-15"
+          "pdf-p3-topic-15",
+          "p3-06"
         ],
         "part3_question_ids": [],
         "wrap_up": [
@@ -13122,7 +13134,9 @@
       "p2-29": {
         "part3_topic_ids": [
           "pdf-p3-topic-07",
-          "pdf-p3-topic-03"
+          "pdf-p3-topic-03",
+          "p3-05",
+          "p3-02"
         ],
         "part3_question_ids": [],
         "wrap_up": [
@@ -13208,7 +13222,8 @@
         "part3_topic_ids": [
           "pdf-p3-topic-01",
           "pdf-p3-topic-02",
-          "pdf-p3-topic-13"
+          "pdf-p3-topic-13",
+          "p3-01"
         ],
         "part3_question_ids": [],
         "wrap_up": [
@@ -13221,7 +13236,8 @@
         "part3_topic_ids": [
           "pdf-p3-topic-01",
           "pdf-p3-topic-02",
-          "pdf-p3-topic-13"
+          "pdf-p3-topic-13",
+          "p3-01"
         ],
         "part3_question_ids": [],
         "wrap_up": [
