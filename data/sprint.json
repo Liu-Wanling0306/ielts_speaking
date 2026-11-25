@@ -1,0 +1,785 @@
+{
+  "version": "1.6.0",
+  "title": "考前冲刺",
+  "timezone": "Asia/Shanghai",
+  "source_note": "按用户2026-11-25上传的对照与建议整理。未重新核验原PDF或考场报告；3/15、1/17仅是原材料所述覆盖比较，不代表考试命中率。新英文问法与cue points均为教学补充，未捏造个人经历；旧题库完整保留。",
+  "questions": [
+    {
+      "id": "sprint-p1-01-1",
+      "part": 1,
+      "topic": "Sleeping",
+      "question": "How many hours do you usually sleep?",
+      "guide": "真实作息→一个原因或情境→影响；不要编造睡眠时长。",
+      "cue_points": [],
+      "source": "根据用户2026-11-25上传对照清单补充的教学问法与提示点，非核验后的考场原题。"
+    },
+    {
+      "id": "sprint-p1-01-2",
+      "part": 1,
+      "topic": "Sleeping",
+      "question": "Do you find it easy to fall asleep?",
+      "guide": "真实作息→一个原因或情境→影响；不要编造睡眠时长。",
+      "cue_points": [],
+      "source": "根据用户2026-11-25上传对照清单补充的教学问法与提示点，非核验后的考场原题。"
+    },
+    {
+      "id": "sprint-p1-01-3",
+      "part": 1,
+      "topic": "Sleeping",
+      "question": "Have your sleeping habits changed since you were a child?",
+      "guide": "真实作息→一个原因或情境→影响；不要编造睡眠时长。",
+      "cue_points": [],
+      "source": "根据用户2026-11-25上传对照清单补充的教学问法与提示点，非核验后的考场原题。"
+    },
+    {
+      "id": "sprint-p1-02-1",
+      "part": 1,
+      "topic": "Tidiness",
+      "question": "Are you a tidy person?",
+      "guide": "实际习惯→具体整理方式→原因；说明过去与现在的变化。",
+      "cue_points": [],
+      "source": "根据用户2026-11-25上传对照清单补充的教学问法与提示点，非核验后的考场原题。"
+    },
+    {
+      "id": "sprint-p1-02-2",
+      "part": 1,
+      "topic": "Tidiness",
+      "question": "How do you keep your room tidy?",
+      "guide": "实际习惯→具体整理方式→原因；说明过去与现在的变化。",
+      "cue_points": [],
+      "source": "根据用户2026-11-25上传对照清单补充的教学问法与提示点，非核验后的考场原题。"
+    },
+    {
+      "id": "sprint-p1-02-3",
+      "part": 1,
+      "topic": "Tidiness",
+      "question": "Were you taught to be tidy as a child?",
+      "guide": "实际习惯→具体整理方式→原因；说明过去与现在的变化。",
+      "cue_points": [],
+      "source": "根据用户2026-11-25上传对照清单补充的教学问法与提示点，非核验后的考场原题。"
+    },
+    {
+      "id": "sprint-p1-03-1",
+      "part": 1,
+      "topic": "Paper",
+      "question": "Do you often write on paper?",
+      "guide": "纸张与平板用途比较；手机计划已确认，不替你指定手写习惯。",
+      "cue_points": [],
+      "source": "根据用户2026-11-25上传对照清单补充的教学问法与提示点，非核验后的考场原题。"
+    },
+    {
+      "id": "sprint-p1-03-2",
+      "part": 1,
+      "topic": "Paper",
+      "question": "Do you prefer paper notes or digital notes?",
+      "guide": "纸张与平板用途比较；手机计划已确认，不替你指定手写习惯。",
+      "cue_points": [],
+      "source": "根据用户2026-11-25上传对照清单补充的教学问法与提示点，非核验后的考场原题。"
+    },
+    {
+      "id": "sprint-p1-03-3",
+      "part": 1,
+      "topic": "Paper",
+      "question": "Did you use more paper when you were younger?",
+      "guide": "纸张与平板用途比较；手机计划已确认，不替你指定手写习惯。",
+      "cue_points": [],
+      "source": "根据用户2026-11-25上传对照清单补充的教学问法与提示点，非核验后的考场原题。"
+    },
+    {
+      "id": "sprint-p1-04-1",
+      "part": 1,
+      "topic": "Singing",
+      "question": "Do you like singing?",
+      "guide": "喜欢听孙燕姿不等于喜欢唱歌；先确认真实喜好。",
+      "cue_points": [],
+      "source": "根据用户2026-11-25上传对照清单补充的教学问法与提示点，非核验后的考场原题。"
+    },
+    {
+      "id": "sprint-p1-04-2",
+      "part": 1,
+      "topic": "Singing",
+      "question": "When do you usually sing?",
+      "guide": "喜欢听孙燕姿不等于喜欢唱歌；先确认真实喜好。",
+      "cue_points": [],
+      "source": "根据用户2026-11-25上传对照清单补充的教学问法与提示点，非核验后的考场原题。"
+    },
+    {
+      "id": "sprint-p1-04-3",
+      "part": 1,
+      "topic": "Singing",
+      "question": "Did you enjoy singing when you were a child?",
+      "guide": "喜欢听孙燕姿不等于喜欢唱歌；先确认真实喜好。",
+      "cue_points": [],
+      "source": "根据用户2026-11-25上传对照清单补充的教学问法与提示点，非核验后的考场原题。"
+    },
+    {
+      "id": "sprint-p1-05-1",
+      "part": 1,
+      "topic": "Websites",
+      "question": "What websites do you often use?",
+      "guide": "可用已确认的二手购物经历，重点回答网站功能而非整段购物故事。",
+      "cue_points": [],
+      "source": "根据用户2026-11-25上传对照清单补充的教学问法与提示点，非核验后的考场原题。"
+    },
+    {
+      "id": "sprint-p1-05-2",
+      "part": 1,
+      "topic": "Websites",
+      "question": "What do you use websites for?",
+      "guide": "可用已确认的二手购物经历，重点回答网站功能而非整段购物故事。",
+      "cue_points": [],
+      "source": "根据用户2026-11-25上传对照清单补充的教学问法与提示点，非核验后的考场原题。"
+    },
+    {
+      "id": "sprint-p1-05-3",
+      "part": 1,
+      "topic": "Websites",
+      "question": "Have the websites you use changed over time?",
+      "guide": "可用已确认的二手购物经历，重点回答网站功能而非整段购物故事。",
+      "cue_points": [],
+      "source": "根据用户2026-11-25上传对照清单补充的教学问法与提示点，非核验后的考场原题。"
+    },
+    {
+      "id": "sprint-p1-06-1",
+      "part": 1,
+      "topic": "Travelling",
+      "question": "How do you usually travel around your city?",
+      "guide": "实际交通方式→理由→简短例子；区分通勤与长途旅行。",
+      "cue_points": [],
+      "source": "根据用户2026-11-25上传对照清单补充的教学问法与提示点，非核验后的考场原题。"
+    },
+    {
+      "id": "sprint-p1-06-2",
+      "part": 1,
+      "topic": "Travelling",
+      "question": "Do you prefer travelling alone or with others?",
+      "guide": "实际交通方式→理由→简短例子；区分通勤与长途旅行。",
+      "cue_points": [],
+      "source": "根据用户2026-11-25上传对照清单补充的教学问法与提示点，非核验后的考场原题。"
+    },
+    {
+      "id": "sprint-p1-06-3",
+      "part": 1,
+      "topic": "Travelling",
+      "question": "Has the way you travel changed since childhood?",
+      "guide": "实际交通方式→理由→简短例子；区分通勤与长途旅行。",
+      "cue_points": [],
+      "source": "根据用户2026-11-25上传对照清单补充的教学问法与提示点，非核验后的考场原题。"
+    },
+    {
+      "id": "sprint-p1-07-1",
+      "part": 1,
+      "topic": "Snacks",
+      "question": "Do you often eat snacks?",
+      "guide": "补真实食物、频率和情境；不为迎合健康主题假称不吃零食。",
+      "cue_points": [],
+      "source": "根据用户2026-11-25上传对照清单补充的教学问法与提示点，非核验后的考场原题。"
+    },
+    {
+      "id": "sprint-p1-07-2",
+      "part": 1,
+      "topic": "Snacks",
+      "question": "What snacks did you enjoy as a child?",
+      "guide": "补真实食物、频率和情境；不为迎合健康主题假称不吃零食。",
+      "cue_points": [],
+      "source": "根据用户2026-11-25上传对照清单补充的教学问法与提示点，非核验后的考场原题。"
+    },
+    {
+      "id": "sprint-p1-07-3",
+      "part": 1,
+      "topic": "Snacks",
+      "question": "Have your snacking habits changed?",
+      "guide": "补真实食物、频率和情境；不为迎合健康主题假称不吃零食。",
+      "cue_points": [],
+      "source": "根据用户2026-11-25上传对照清单补充的教学问法与提示点，非核验后的考场原题。"
+    },
+    {
+      "id": "sprint-p1-08-1",
+      "part": 1,
+      "topic": "Shoes",
+      "question": "What kind of shoes do you usually wear?",
+      "guide": "真实选择→舒适/实用理由→购买情境。",
+      "cue_points": [],
+      "source": "根据用户2026-11-25上传对照清单补充的教学问法与提示点，非核验后的考场原题。"
+    },
+    {
+      "id": "sprint-p1-08-2",
+      "part": 1,
+      "topic": "Shoes",
+      "question": "How do you choose new shoes?",
+      "guide": "真实选择→舒适/实用理由→购买情境。",
+      "cue_points": [],
+      "source": "根据用户2026-11-25上传对照清单补充的教学问法与提示点，非核验后的考场原题。"
+    },
+    {
+      "id": "sprint-p1-08-3",
+      "part": 1,
+      "topic": "Shoes",
+      "question": "Do you prefer buying shoes online or in shops?",
+      "guide": "真实选择→舒适/实用理由→购买情境。",
+      "cue_points": [],
+      "source": "根据用户2026-11-25上传对照清单补充的教学问法与提示点，非核验后的考场原题。"
+    },
+    {
+      "id": "sprint-p1-09-1",
+      "part": 1,
+      "topic": "Recycling",
+      "question": "Do you recycle things at home?",
+      "guide": "实际分类条件→具体做法→困难或变化，勿编当地回收规定。",
+      "cue_points": [],
+      "source": "根据用户2026-11-25上传对照清单补充的教学问法与提示点，非核验后的考场原题。"
+    },
+    {
+      "id": "sprint-p1-09-2",
+      "part": 1,
+      "topic": "Recycling",
+      "question": "What items do you usually recycle?",
+      "guide": "实际分类条件→具体做法→困难或变化，勿编当地回收规定。",
+      "cue_points": [],
+      "source": "根据用户2026-11-25上传对照清单补充的教学问法与提示点，非核验后的考场原题。"
+    },
+    {
+      "id": "sprint-p1-09-3",
+      "part": 1,
+      "topic": "Recycling",
+      "question": "Did you learn about recycling at school?",
+      "guide": "实际分类条件→具体做法→困难或变化，勿编当地回收规定。",
+      "cue_points": [],
+      "source": "根据用户2026-11-25上传对照清单补充的教学问法与提示点，非核验后的考场原题。"
+    },
+    {
+      "id": "sprint-p1-10-1",
+      "part": 1,
+      "topic": "Housework",
+      "question": "What housework do you usually do?",
+      "guide": "与姐姐同住、依赖洗衣机可复用，但具体家务分工待确认。",
+      "cue_points": [],
+      "source": "根据用户2026-11-25上传对照清单补充的教学问法与提示点，非核验后的考场原题。"
+    },
+    {
+      "id": "sprint-p1-10-2",
+      "part": 1,
+      "topic": "Housework",
+      "question": "Did you do housework as a child?",
+      "guide": "与姐姐同住、依赖洗衣机可复用，但具体家务分工待确认。",
+      "cue_points": [],
+      "source": "根据用户2026-11-25上传对照清单补充的教学问法与提示点，非核验后的考场原题。"
+    },
+    {
+      "id": "sprint-p1-10-3",
+      "part": 1,
+      "topic": "Housework",
+      "question": "Is there any housework you dislike doing?",
+      "guide": "与姐姐同住、依赖洗衣机可复用，但具体家务分工待确认。",
+      "cue_points": [],
+      "source": "根据用户2026-11-25上传对照清单补充的教学问法与提示点，非核验后的考场原题。"
+    },
+    {
+      "id": "sprint-p1-11-1",
+      "part": 1,
+      "topic": "Politeness",
+      "question": "How do people show politeness in your country?",
+      "guide": "一个常见行为→理由→例子；说谢谢只是礼貌的一部分。",
+      "cue_points": [],
+      "source": "根据用户2026-11-25上传对照清单补充的教学问法与提示点，非核验后的考场原题。"
+    },
+    {
+      "id": "sprint-p1-11-2",
+      "part": 1,
+      "topic": "Politeness",
+      "question": "Who taught you to be polite?",
+      "guide": "一个常见行为→理由→例子；说谢谢只是礼貌的一部分。",
+      "cue_points": [],
+      "source": "根据用户2026-11-25上传对照清单补充的教学问法与提示点，非核验后的考场原题。"
+    },
+    {
+      "id": "sprint-p1-11-3",
+      "part": 1,
+      "topic": "Politeness",
+      "question": "Do you think politeness is important in daily life?",
+      "guide": "一个常见行为→理由→例子；说谢谢只是礼貌的一部分。",
+      "cue_points": [],
+      "source": "根据用户2026-11-25上传对照清单补充的教学问法与提示点，非核验后的考场原题。"
+    },
+    {
+      "id": "sprint-p1-12-1",
+      "part": 1,
+      "topic": "Remembering names",
+      "question": "Are you good at remembering names?",
+      "guide": "真实能力→记忆方法→简短情境。",
+      "cue_points": [],
+      "source": "根据用户2026-11-25上传对照清单补充的教学问法与提示点，非核验后的考场原题。"
+    },
+    {
+      "id": "sprint-p1-12-2",
+      "part": 1,
+      "topic": "Remembering names",
+      "question": "What do you do when you forget a name?",
+      "guide": "真实能力→记忆方法→简短情境。",
+      "cue_points": [],
+      "source": "根据用户2026-11-25上传对照清单补充的教学问法与提示点，非核验后的考场原题。"
+    },
+    {
+      "id": "sprint-p1-12-3",
+      "part": 1,
+      "topic": "Remembering names",
+      "question": "Do you use any methods to remember names?",
+      "guide": "真实能力→记忆方法→简短情境。",
+      "cue_points": [],
+      "source": "根据用户2026-11-25上传对照清单补充的教学问法与提示点，非核验后的考场原题。"
+    },
+    {
+      "id": "sprint-p2-01",
+      "part": 2,
+      "topic": "保持健康的人",
+      "question": "Describe a person you know who does things to stay healthy.",
+      "guide": "朋友人物可复用。待补：真实人物、运动频率、饮食作息、情绪变化；先讲具体行为，再说影响。不要编医学效果。",
+      "cue_points": [
+        "Who this person is",
+        "What this person does to stay healthy",
+        "How you know about these habits",
+        "And explain what you think of this person’s lifestyle"
+      ],
+      "source": "根据用户2026-11-25上传对照清单补充的教学问法与提示点，非核验后的考场原题。"
+    },
+    {
+      "id": "sprint-p2-02",
+      "part": 2,
+      "topic": "擅长学习语言的人",
+      "question": "Describe a person you know who is good at learning languages.",
+      "guide": "补真实人物和一次可观察的学习表现；shadowing或regular practice只在真实适用时采用。重点是能力证据，不是英语课本身。",
+      "cue_points": [
+        "Who this person is",
+        "What languages this person learns",
+        "How this person learns languages",
+        "And explain why you think this person is good at it"
+      ],
+      "source": "根据用户2026-11-25上传对照清单补充的教学问法与提示点，非核验后的考场原题。"
+    },
+    {
+      "id": "sprint-p2-03",
+      "part": 2,
+      "topic": "看过的体育比赛",
+      "question": "Describe a sports match you watched.",
+      "guide": "可考虑郑钦文相关素材，但必须填写实际看过的场次、关键瞬间和感受；观看与想参加不是同题。",
+      "cue_points": [
+        "What the match was",
+        "When and where you watched it",
+        "What happened during the match",
+        "And explain how you felt about it"
+      ],
+      "source": "根据用户2026-11-25上传对照清单补充的教学问法与提示点，非核验后的考场原题。"
+    },
+    {
+      "id": "sprint-p2-04",
+      "part": 2,
+      "topic": "乐观的人",
+      "question": "Describe an optimistic person you know.",
+      "guide": "复用朋友人物；提供一次真实困难及应对行为，不只反复说positive。",
+      "cue_points": [
+        "Who this person is",
+        "How you know this person",
+        "What this person does when facing difficulties",
+        "And explain how this person influences you"
+      ],
+      "source": "根据用户2026-11-25上传对照清单补充的教学问法与提示点，非核验后的考场原题。"
+    },
+    {
+      "id": "sprint-p2-05",
+      "part": 2,
+      "topic": "不想重访的地方",
+      "question": "Describe a place you visited but would not like to visit again.",
+      "guide": "选择真实负面经历，补拥挤、噪声或交通的具体证据；不能照搬喜欢的西湖故事只改开头。",
+      "cue_points": [
+        "Where the place is",
+        "When you went there",
+        "What happened during your visit",
+        "And explain why you would not like to return"
+      ],
+      "source": "根据用户2026-11-25上传对照清单补充的教学问法与提示点，非核验后的考场原题。"
+    },
+    {
+      "id": "sprint-p2-06",
+      "part": 2,
+      "topic": "不感兴趣的谈话",
+      "question": "Describe a conversation you had that you were not interested in.",
+      "guide": "补一段真实聊天，保持礼貌；不感兴趣不是对方不好。",
+      "cue_points": [
+        "Who you talked with",
+        "When and where it happened",
+        "What the conversation was about",
+        "And explain why you were not interested"
+      ],
+      "source": "根据用户2026-11-25上传对照清单补充的教学问法与提示点，非核验后的考场原题。"
+    },
+    {
+      "id": "sprint-p2-07",
+      "part": 2,
+      "topic": "和朋友的美好夜晚",
+      "question": "Describe a pleasant evening you spent with friends.",
+      "guide": "可用孙燕姿演唱会或云南旅行；重心是与朋友互动和当晚细节。",
+      "cue_points": [
+        "Who you were with",
+        "Where you spent the evening",
+        "What you did together",
+        "And explain why the evening was enjoyable"
+      ],
+      "source": "根据用户2026-11-25上传对照清单补充的教学问法与提示点，非核验后的考场原题。"
+    },
+    {
+      "id": "sprint-p2-08",
+      "part": 2,
+      "topic": "攒钱买东西",
+      "question": "Describe something you saved money to buy.",
+      "guide": "可用富士镜头与二手购物；补真实攒钱过程、时间及取舍，不能只介绍咸鱼网站。",
+      "cue_points": [
+        "What you wanted to buy",
+        "How you saved money",
+        "How long it took",
+        "And explain how you felt after buying it"
+      ],
+      "source": "根据用户2026-11-25上传对照清单补充的教学问法与提示点，非核验后的考场原题。"
+    },
+    {
+      "id": "sprint-p2-09",
+      "part": 2,
+      "topic": "等待特殊事情",
+      "question": "Describe a time you waited for something special to happen.",
+      "guide": "博士申请或毕业结果；真实时间线和结果待补，不能把申请写成已录取。",
+      "cue_points": [
+        "What you waited for",
+        "Why it was special",
+        "What you did while waiting",
+        "And explain how you felt about the outcome"
+      ],
+      "source": "根据用户2026-11-25上传对照清单补充的教学问法与提示点，非核验后的考场原题。"
+    },
+    {
+      "id": "sprint-p2-10",
+      "part": 2,
+      "topic": "优质服务",
+      "question": "Describe a time you received excellent service.",
+      "guide": "补真实服务地点、具体帮助及解决结果；不要凭空给二手交易增加客服故事。",
+      "cue_points": [
+        "Where you received the service",
+        "What you needed",
+        "What the staff did",
+        "And explain why the service was excellent"
+      ],
+      "source": "根据用户2026-11-25上传对照清单补充的教学问法与提示点，非核验后的考场原题。"
+    },
+    {
+      "id": "sprint-p2-11",
+      "part": 2,
+      "topic": "帮助别人解决问题",
+      "question": "Describe a time you helped someone solve a problem.",
+      "guide": "科研合作可复用；明确你做了什么，不能把北京别人帮你找包直接套用。",
+      "cue_points": [
+        "Who you helped",
+        "What the problem was",
+        "How you helped",
+        "And explain what happened afterwards"
+      ],
+      "source": "根据用户2026-11-25上传对照清单补充的教学问法与提示点，非核验后的考场原题。"
+    },
+    {
+      "id": "sprint-p2-12",
+      "part": 2,
+      "topic": "明智的重要决定",
+      "question": "Describe an important decision you made that had a good result.",
+      "guide": "可参考原p2-10；重新强调权衡选项、判断依据和实际结果。",
+      "cue_points": [
+        "What the decision was",
+        "When you made it",
+        "How you made the decision",
+        "And explain why it was a wise decision"
+      ],
+      "source": "根据用户2026-11-25上传对照清单补充的教学问法与提示点，非核验后的考场原题。"
+    },
+    {
+      "id": "sprint-p2-13",
+      "part": 2,
+      "topic": "早起经历",
+      "question": "Describe a time you had to get up early.",
+      "guide": "旅行或赶车可复用，填写真实时间和行动顺序。",
+      "cue_points": [
+        "When it happened",
+        "Why you got up early",
+        "What you did that morning",
+        "And explain how you felt"
+      ],
+      "source": "根据用户2026-11-25上传对照清单补充的教学问法与提示点，非核验后的考场原题。"
+    },
+    {
+      "id": "sprint-p2-14",
+      "part": 2,
+      "topic": "改变计划",
+      "question": "Describe a time you changed your plan.",
+      "guide": "博士申请或北京丢包可用；要有原计划→触发原因→替代方案→结果。",
+      "cue_points": [
+        "What your original plan was",
+        "Why you changed it",
+        "What you did instead",
+        "And explain how you felt about the change"
+      ],
+      "source": "根据用户2026-11-25上传对照清单补充的教学问法与提示点，非核验后的考场原题。"
+    },
+    {
+      "id": "sprint-p2-15",
+      "part": 2,
+      "topic": "改变重要观点",
+      "question": "Describe a time you changed your opinion about something important.",
+      "guide": "可用最初不喜欢后成为朋友，或爷爷讲年兽；解释改变的证据，不只叙述故事。",
+      "cue_points": [
+        "What your original opinion was",
+        "What made you reconsider it",
+        "What your new opinion was",
+        "And explain why the change mattered"
+      ],
+      "source": "根据用户2026-11-25上传对照清单补充的教学问法与提示点，非核验后的考场原题。"
+    },
+    {
+      "id": "sprint-p2-16",
+      "part": 2,
+      "topic": "团队合作",
+      "question": "Describe a time you worked in a team.",
+      "guide": "土壤科研可用；具体任务、个人贡献、协调困难与结果待补，避免笼统we did everything。",
+      "cue_points": [
+        "What the team was working on",
+        "Who you worked with",
+        "What your role was",
+        "And explain what the team achieved"
+      ],
+      "source": "根据用户2026-11-25上传对照清单补充的教学问法与提示点，非核验后的考场原题。"
+    },
+    {
+      "id": "sprint-p2-17",
+      "part": 2,
+      "topic": "久等回复",
+      "question": "Describe a time you waited a long time for a reply.",
+      "guide": "联系博士导师可用；与等待特殊事情区分，重点是沟通、跟进方式与情绪，结果未确认则如实说。",
+      "cue_points": [
+        "Who you were waiting to hear from",
+        "Why you needed a reply",
+        "What you did while waiting",
+        "And explain how you felt"
+      ],
+      "source": "根据用户2026-11-25上传对照清单补充的教学问法与提示点，非核验后的考场原题。"
+    },
+    {
+      "id": "sprint-p3-01",
+      "part": 3,
+      "topic": "Body & Mind",
+      "question": "How can people maintain both physical and mental health?",
+      "guide": "规律活动、睡眠和支持网络→机制→具体例子→个体差异。",
+      "cue_points": [],
+      "source": "根据用户2026-11-25上传对照清单补充的教学问法与提示点，非核验后的考场原题。"
+    },
+    {
+      "id": "sprint-p3-02",
+      "part": 3,
+      "topic": "Body & Mind",
+      "question": "Why do some people find it difficult to exercise regularly?",
+      "guide": "时间和设施障碍→情境例子→可行的小步改变；勿归结为所有人懒惰。",
+      "cue_points": [],
+      "source": "根据用户2026-11-25上传对照清单补充的教学问法与提示点，非核验后的考场原题。"
+    },
+    {
+      "id": "sprint-p3-03",
+      "part": 3,
+      "topic": "Body & Mind",
+      "question": "Can exercise help people manage stress?",
+      "guide": "适度活动可能缓解紧张→注意力转移/日常规律→例子；不替代必要专业支持。",
+      "cue_points": [],
+      "source": "根据用户2026-11-25上传对照清单补充的教学问法与提示点，非核验后的考场原题。"
+    },
+    {
+      "id": "sprint-p3-04",
+      "part": 3,
+      "topic": "Body & Mind",
+      "question": "How can friends and families support someone who feels anxious?",
+      "guide": "倾听、实际帮助、鼓励求助→尊重隐私；不作医疗诊断。",
+      "cue_points": [],
+      "source": "根据用户2026-11-25上传对照清单补充的教学问法与提示点，非核验后的考场原题。"
+    },
+    {
+      "id": "sprint-p3-05",
+      "part": 3,
+      "topic": "Body & Mind",
+      "question": "Who should be responsible for promoting healthy lifestyles?",
+      "guide": "个人选择与政府环境共同作用→可及设施→避免单方归责。",
+      "cue_points": [],
+      "source": "根据用户2026-11-25上传对照清单补充的教学问法与提示点，非核验后的考场原题。"
+    },
+    {
+      "id": "sprint-p3-06",
+      "part": 3,
+      "topic": "Body & Mind",
+      "question": "How does social media affect people’s mental well-being?",
+      "guide": "支持联系与不健康比较的双面机制→取决于使用方式。",
+      "cue_points": [],
+      "source": "根据用户2026-11-25上传对照清单补充的教学问法与提示点，非核验后的考场原题。"
+    },
+    {
+      "id": "sprint-p3-07",
+      "part": 3,
+      "topic": "Body & Mind",
+      "question": "Are young people more health-conscious than older people?",
+      "guide": "不同群体和资源差异→举例→避免没有依据的普遍化。",
+      "cue_points": [],
+      "source": "根据用户2026-11-25上传对照清单补充的教学问法与提示点，非核验后的考场原题。"
+    },
+    {
+      "id": "sprint-p3-08",
+      "part": 3,
+      "topic": "Body & Mind",
+      "question": "Why do some people keep healthy habits while others give up?",
+      "guide": "可持续目标、习惯线索、社会支持→具体对照→并非只靠意志力。",
+      "cue_points": [],
+      "source": "根据用户2026-11-25上传对照清单补充的教学问法与提示点，非核验后的考场原题。"
+    }
+  ],
+  "days": [
+    {
+      "date": "2026-11-25",
+      "title": "补齐5道人物、地点与比赛题",
+      "minutes": "约90–110分钟，可拆成两段",
+      "method": "Part1每题20–30秒；前三道人物/比赛题准备1分钟、表达2分钟，其余两题先列真实故事框架。Part3每题45–60秒。",
+      "ids": [
+        "sprint-p1-01-1",
+        "sprint-p1-01-2",
+        "sprint-p1-01-3",
+        "sprint-p1-02-1",
+        "sprint-p1-02-2",
+        "sprint-p1-02-3",
+        "sprint-p1-03-1",
+        "sprint-p1-03-2",
+        "sprint-p1-03-3",
+        "sprint-p1-04-1",
+        "sprint-p1-04-2",
+        "sprint-p1-04-3",
+        "sprint-p2-01",
+        "sprint-p2-02",
+        "sprint-p2-03",
+        "sprint-p2-04",
+        "sprint-p2-05",
+        "sprint-p3-01",
+        "sprint-p3-02",
+        "sprint-p3-03",
+        "sprint-p3-04"
+      ]
+    },
+    {
+      "date": "2026-11-26",
+      "title": "事件串题与题眼变形",
+      "minutes": "约100–120分钟，可拆成两段",
+      "method": "12道事件题全部列出；优先用博士申请、镜头购物和科研母故事各练一次，再对每道题做30–60秒题眼转换。不要把12题当12篇新范文背诵。",
+      "ids": [
+        "sprint-p1-05-1",
+        "sprint-p1-05-2",
+        "sprint-p1-05-3",
+        "sprint-p1-06-1",
+        "sprint-p1-06-2",
+        "sprint-p1-06-3",
+        "sprint-p1-07-1",
+        "sprint-p1-07-2",
+        "sprint-p1-07-3",
+        "sprint-p1-08-1",
+        "sprint-p1-08-2",
+        "sprint-p1-08-3",
+        "sprint-p1-09-1",
+        "sprint-p1-09-2",
+        "sprint-p1-09-3",
+        "sprint-p1-10-1",
+        "sprint-p1-10-2",
+        "sprint-p1-10-3",
+        "sprint-p1-11-1",
+        "sprint-p1-11-2",
+        "sprint-p1-11-3",
+        "sprint-p1-12-1",
+        "sprint-p1-12-2",
+        "sprint-p1-12-3",
+        "sprint-p2-06",
+        "sprint-p2-07",
+        "sprint-p2-08",
+        "sprint-p2-09",
+        "sprint-p2-10",
+        "sprint-p2-11",
+        "sprint-p2-12",
+        "sprint-p2-13",
+        "sprint-p2-14",
+        "sprint-p2-15",
+        "sprint-p2-16",
+        "sprint-p2-17",
+        "sprint-p3-05",
+        "sprint-p3-06",
+        "sprint-p3-07",
+        "sprint-p3-08"
+      ]
+    },
+    {
+      "date": "2026-11-27",
+      "title": "全套陌生题模拟与复盘",
+      "minutes": "模拟11–14分钟＋复盘约30分钟",
+      "method": "本日围绕优先补充的Health & Fitness人物题模拟，Part3均延伸Body & Mind。Part1约4–5分钟，Part2准备1分钟、表达最多2分钟，Part3约4–5分钟。计时结束不自动跳题；先不看框架，结束后按四项标准自查。Part1和Part3优先未完成题抽取并固定题单。随机跨话题模拟仍可进入原模块。",
+      "ids": [],
+      "mode": "mock"
+    },
+    {
+      "date": "2026-11-28",
+      "title": "错题回收与轻量热身",
+      "minutes": "约40–60分钟",
+      "method": "自动加入标记待复习的题；下方基础回收题始终保留。薄弱Part2先说1分钟骨架，必要时再练2分钟；不增加大量新故事。",
+      "ids": [
+        "sprint-p1-01-1",
+        "sprint-p1-01-2",
+        "sprint-p1-01-3",
+        "sprint-p1-02-1",
+        "sprint-p1-02-2",
+        "sprint-p1-02-3",
+        "sprint-p1-03-1",
+        "sprint-p1-03-2",
+        "sprint-p1-03-3",
+        "sprint-p1-04-1",
+        "sprint-p1-04-2",
+        "sprint-p1-04-3",
+        "sprint-p2-01",
+        "sprint-p3-01",
+        "sprint-p3-02",
+        "sprint-p3-03",
+        "sprint-p3-04",
+        "sprint-p3-05",
+        "sprint-p3-06",
+        "sprint-p3-07",
+        "sprint-p3-08"
+      ],
+      "mode": "review"
+    }
+  ],
+  "familiar_ids": [
+    "p1-01-1",
+    "pdf-p1-02-02",
+    "pdf-p1-02-03",
+    "pdf-p1-02-04",
+    "pdf-p1-02-05",
+    "pdf-p1-02-06",
+    "pdf-p1-02-07",
+    "p1-02-1",
+    "pdf-p1-03-02"
+  ],
+  "source_topics": [
+    "Sleeping",
+    "Tidiness",
+    "Paper",
+    "Singing",
+    "Websites",
+    "Travelling",
+    "Snacks",
+    "Shoes",
+    "Recycling",
+    "Housework",
+    "Politeness",
+    "Remembering names"
+  ],
+  "reflection": "四项自查：是否连贯且回应题眼；搭配是否准确自然；句型是否多样且正确；发音、重音和停顿是否清楚。此处不自动评分。"
+}

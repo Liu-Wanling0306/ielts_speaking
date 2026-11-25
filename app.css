@@ -19,3 +19,5 @@
 
 /* Whole-Part mock view: questions stay visible while one is read and timed. */
 .mock-exam-row{padding:20px 16px;border:1px solid var(--line);border-radius:12px;margin:16px 0;background:#fff;min-width:0}.mock-exam-row.is-current{border-color:var(--accent);background:#f6fafb}.mock-exam-row .mock-question{font-size:21px;margin:12px 0}.mock-row-controls{margin:12px 0}.mock-part-footer{padding-top:18px;border-top:1px solid var(--line);margin-top:22px}.mock-part-clock{color:var(--deep);font-weight:650}.mock-part-clock output{font-variant-numeric:tabular-nums}.mock-exam-row .mock-clock{margin:14px 0}.mock-part-questions{min-width:0}@media(max-width:520px){.mock-exam-row{padding:15px 12px}.mock-exam-row .mock-question{font-size:19px}.mock-row-controls button{font-size:13px;padding:8px 10px}}
+
+.sprint-question{min-width:0;overflow-wrap:anywhere}.sprint-question h4{font-size:18px;line-height:1.5}.sprint-question details{margin:12px 0}
